@@ -1,0 +1,3 @@
+[submodule "themes/hugo-theme-copper"]
+	path = themes/hugo-theme-copper
+	url = https://github.com/tvonment/hugo-theme-copper.git
