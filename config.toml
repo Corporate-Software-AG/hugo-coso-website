@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "http://preview.corporatesoftware.ch"
+baseURL = "https://coso.azureedge.net"
 title = "CoSo - Preview Homepage"
 theme = "hugo-theme-copper"
 # post pagination
