@@ -97,7 +97,6 @@ body {
 
 .section-title {
   font-weight: 500;
-  text-transform: capitalize;
   margin-bottom: 20px; }
 
 .badge {
@@ -3004,3 +3003,5 @@ footer {
   @media (max-width: 575px) {
     .scroll-to-top-btn.show {
       bottom: 15px; } }
+.header-nav img {
+  max-width: 12rem; }

@@ -63,22 +63,32 @@ contact_form_action = "#" # contact form works with https://formspree.io
 [params.preloader]
 enable = false
 preloader = "images/logo_cc.png" # use jpg, png, svg or gif format.
-  
+
+[params.footer.partner]
+image = "images/coso/MSGold_2019-12-19.jpeg"
+link = "https://partnercenter.microsoft.com/de-de/pcv/solution-providers/corporate-software-ag_2bbd7e41-02c9-4b4e-8168-339f900c4319/03808051-21e7-4f9a-b24c-52f17fa5d0f7"
+
+
 ############################# social site ########################
 [[params.social]]
-name = "facebook"
-icon = "ti-facebook" # themify icon : https://themify.me/themify-icons
-link = "#"
+name = "Microsoft Solution Provider"
+icon = "ti-microsoft" # themify icon : https://themify.me/themify-icons
+link = "https://partnercenter.microsoft.com/de-de/pcv/solution-providers/corporate-software-ag_2bbd7e41-02c9-4b4e-8168-339f900c4319/03808051-21e7-4f9a-b24c-52f17fa5d0f7"
 
 [[params.social]]
-name = "github"
-icon = "ti-github" # themify icon : https://themify.me/themify-icons
-link = "#"
-
-[[params.social]]
-name = "linkedin"
+name = "LinkedIn"
 icon = "ti-linkedin" # themify icon : https://themify.me/themify-icons
-link = "#"
+link = "https://www.linkedin.com/company/corporate-software/"
+
+[[params.social]]
+name = "MeetUp"
+icon = "ti-meetup" # themify icon : https://themify.me/themify-icons
+link = "https://www.meetup.com/de-DE/AI-and-Intelligent-Cloud"
+
+[[params.social]]
+name = "Kununu"
+icon = "ti-kununu" # themify icon : https://themify.me/themify-icons
+link = "https://www.kununu.com/ch/corporate-software1"
 
 
 
