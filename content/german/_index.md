@@ -65,7 +65,7 @@ call_to_action:
 ################## Vision ###############
 vision:
   enable : true
-  title : "Our mission is to <strong>empower businesses With Tools</strong>"
+  title : "WHY AND SO..."
   image : "images/coso/seilschaft-2.png"
   content : "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat sed. At vero eos et accusam et justo duo dolores"
   bulletpoints:
@@ -73,7 +73,38 @@ vision:
   - "Get an overview of Habit Calendars admiral general."
   - "Start building habit with Habitify on platform to new"
 
-  ############################# Footer ############################
+################## References ###############
+testimonial:
+  enable : true
+  title : "What Our **Client says**"
+  content : "Lorem ipsum sadip dolor sit amet, consetetur sadip scing elitr, diam nonumy eirmod tempor invi duntut labore et dolore magna aliquyam erat, sed diam"
+  button:
+    enable : true
+    label : "View All Testimonials"
+    link : "testimonial"
+
+  testimonial_item:
+  - name : "Alain Bertolotti"
+    image : "images/customer/logo_TPH.gif"
+    designation : "Leiter Informatik"
+    content : "Durch die herausragenden PowerShell Kompetenzen der Corporate Software AG war es uns möglich den IT-Servicekatalog in kurzer Zeit weitreichend zu automatisieren."
+    
+  - name : "Angela Markel"
+    image : "images/users/02.jpg"
+    designation : "CEO, Angular Corporation"
+    content : "Lorem ipsum dolor sit amet, kasd gubergren, seatakimata dolores et rebum stetclita"
+    
+  - name : "Angela Markel"
+    image : "images/users/03.jpg"
+    designation : "CEO, Angular Corporation"
+    content : "Lorem ipsum dolor sit amet, kasd gubergren, seatakimata dolores et rebum stetclita"
+    
+  - name : "Angela Markel"
+    image : "images/users/02.jpg"
+    designation : "CEO, Angular Corporation"
+    content : "Lorem ipsum dolor sit amet, kasd gubergren, seatakimata dolores et rebum stetclita"
+
+############################# Footer ############################
 footer:
   content: "Wir sind ein cloudbasiertes Unternehmen, das Sie basierend auf
 Microsoft-Produkten in den Bereichen Collaboration, Data Science und AI sowie Automation
