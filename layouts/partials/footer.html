@@ -1,11 +1,9 @@
-{{ $data := index .Site.Data .Site.Language.Lang }}
-
 <!-- start footer -->
 <footer class="bg-light-gray has-shapes has-bg-brash bg-brash-top "
   style="background-image: url('{{`images/brushes/footer.svg` | absURL}}')">
   <div class="container">
-    {{ if $data.homepage.call_to_action.enable }}
-    {{ with $data.homepage.call_to_action }}
+    {{ if .Params.call_to_action.enable }}
+    {{ with .Params.call_to_action }}
     <div class="row justify-content-center">
       <div class="col-lg-7 col-md-12">
         <div class="text-center pb-60">
@@ -38,14 +36,14 @@
             <img class="img-fluid p-3" src="{{ . | absURL }}" alt="{{ site.Title }}">
             {{ else }}{{ site.Title }}{{ end }}
           </a>
-          <p>{{ $data.homepage.footer.content | markdownify }}</p>
+          <p>{{ .Params.footer.content | markdownify }}</p>
         </div>
       </div>
       <div class="col-lg-3 col-md col-sm-6">
         <div class="pl-0 pl-md-3 mt-5 mt-md-0">
           <h5 class="font-weight-600 mb-20">{{ i18n "contact"}}</h5>
           <ul class="list-unstyled footer-links">
-            {{ with $data.homepage.footer.contact }}
+            {{ with .Params.footer.contact }}
             <li><a target="_blank" href="tel:{{ .phone.value | safeURL }}">{{ .phone.title }}:<br />{{ .phone.value }}</a></li>
             <li><a target="_blank" href="mailto:{{ .email.value | safeURL }}">{{ .email.title }}:<br />{{ .email.value }}</a></li>
             <li>{{ .office_times.title }}:<br />{{ .office_times.value }}</a></li>

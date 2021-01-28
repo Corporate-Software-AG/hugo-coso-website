@@ -1,7 +1,7 @@
-<!-- start of products tab -->
-{{ $data := index .Site.Data .Site.Language.Lang }}
-{{ if $data.homepage.products.enable }}
-{{ with $data.homepage.products }}
+
+<!-- start of how-it-works tab -->
+{{ if .Params.homepage_tab.enable }}
+{{ with .Params.homepage_tab }}
 <section class="section-padding how-it-works-tab pt-0 overflow-hidden">
   <div class="container">
     <div class="row justify-content-center">
@@ -56,4 +56,4 @@
 </section>
 {{ end }}
 {{ end }}
-<!-- end of products tab -->
+<!-- end of how-it-works tab -->
