@@ -1,0 +1,75 @@
+{{ "<!-- navigation -->" | safeHTML }}
+<header class="header-nav position-relative bg-light-gray">
+  <div class="container">
+    <nav class="navbar navbar-expand-xl navbar-light px-0">
+      <a class="navbar-brand p-0" href="{{ site.BaseURL }}">
+        {{ with site.Params.logo }}
+        <img class="img-fluid" src="{{ . | absURL }}" alt="{{ site.Title }}">
+        {{ else }}{{ site.Title }}{{ end }}
+      </a>
+
+      <button class="navbar-toggler bg-white rounded-0 p-0" type="button" data-toggle="collapse" data-target="#navlinks"
+        aria-controls="navlinks" aria-expanded="false" aria-label="Toggle navigation">
+        <svg class="nav-toggle-icon" viewBox="0 0 100 100" width="40" onclick="this.classList.toggle('active')">
+          <path class="line top"
+            d="m 70,33 h -40 c 0,0 -8.5,-0.149796 -8.5,8.5 0,8.649796 8.5,8.5 8.5,8.5 h 20 v -20" />
+          <path class="line middle" d="m 70,50 h -40" />
+          <path class="line bottom"
+            d="m 30,67 h 40 c 0,0 8.5,0.149796 8.5,-8.5 0,-8.649796 -8.5,-8.5 -8.5,-8.5 h -20 v 20" /></svg>
+      </button>
+      <!-- mobile-nav control button -->
+
+      <div class="collapse navbar-collapse" id="navlinks">
+        <ul class="navbar-nav mx-auto">
+          {{ range .Site.Menus.main }}
+          {{ if .HasChildren }}
+
+          <li class="nav-item dropdown">
+            <a class="nav-link dropdown-toggle d-flex justify-content-between align-items-center" href="#"
+              id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+              <span class="mr-1">{{ .Name }}</span>
+              <svg width="9" height="6" viewBox="0 0 9 6" fill="none" xmlns="http://www.w3.org/2000/svg">
+                <path d="M9 1.06L7.94 0L4.5 3.44L1.06 0L0 1.06L4.5 5.56L9 1.06Z" fill="currentColor" /></svg>
+            </a>
+            <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
+              {{ range .Children }}
+              <li><a class="dropdown-item" href="{{ .URL | absURL }}">{{ .Name }}</a></li>
+              {{ end }}
+            </ul>
+          </li>
+          {{ else }}
+          <li class="nav-item">
+            <a class="nav-link" href="{{ .URL | absURL }}">{{ .Name }}</a>
+          </li>
+          {{ end }}
+          {{ end }}
+          <li class="nav-link">
+            <!-- Language List -->
+            {{ if .IsTranslated }}
+            <select class="border-0" id="select-language" onchange="location = this.value;">
+              {{ $siteLanguages := .Site.Languages}}
+              {{ $pageLang := .Page.Lang}}
+              {{ range .Page.AllTranslations }}
+              {{ $translation := .}}
+              {{ range $siteLanguages }}
+              {{ if eq $translation.Lang .Lang }}
+              {{ $selected := false }}
+              {{ if eq $pageLang .Lang}}
+              <option id="{{ $translation.Language }}" value="{{ $translation.Permalink }}" selected>{{ .LanguageName }}
+              </option>
+              {{ else }}
+              <option id="{{ $translation.Language }}" value="{{ $translation.Permalink }}">{{ .LanguageName }}</option>
+              {{ end }}
+              {{ end }}
+              {{ end }}
+              {{ end }}
+            </select>
+            {{ end }}
+          </li>
+        </ul>
+      </div>
+      <!-- nav links -->
+    </nav>
+  </div>
+</header>
+{{ "<!-- /navigation -->" | safeHTML }}

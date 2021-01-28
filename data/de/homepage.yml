@@ -1,0 +1,11 @@
+############################ Banner ##################################
+banner:
+  enable : true
+  title : "Wir gehen voran, um den nächsten Schritt zu ermöglichen."
+  content : ""
+  image : "images/coso/seilschaft-2.png"
+  button:
+    enable : true
+    label : "CTA"
+    link : "#"
+    content : ""

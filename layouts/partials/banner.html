@@ -1,0 +1,45 @@
+{{ $data := index .Site.Data .Site.Language.Lang }}
+{{ if $data.homepage.banner.enable }}
+{{ with $data.homepage.banner }}
+<!-- start of banner -->
+<section class="banner bg-cover-bottom has-shapes bg-light-gray has-bg-brash bg-brash-bottom"
+  style="background-image: url('{{`images/brushes/banner.svg` | absURL }}')" data-aos="fade-in" data-aos-delay="150">
+  <div class="container h-100">
+    <div class="d-block d-lg-flex no-gutters align-items-center h-100">
+      <div class="col-12 col-xl-8 col-lg-8 order-lg-1">
+        <div class="banner-image has-video-popup has-shapes mb-4 mb-md-5 mb-lg-0">
+          <img class="img-fluid" src="{{ .image | absURL }}" alt="">
+
+          <div class="shape-lg bg-cyan rounded-circle"></div>
+          <div class="shape-md bg-orange rounded-circle"></div>
+          <div class="shape-sm bg-yellow rounded-circle"></div>
+        </div>
+      </div>
+      <div class="col-xl-5 col-lg-6 order-lg-0">
+        <h2 class="h1 mb-20">{{ .title | markdownify }}</h2>
+        <p>{{ .content | markdownify }}</p>
+
+        {{ if .button.enable }}
+        {{ with .button }}
+        <a href="{{.link | absLangURL}}"
+          class="btn btn-outline-secondary d-flex align-items-center justify-content-center">
+          {{with .icon}} <img class="mr-2" src="{{ . }}">{{end}} {{.label}}</a>
+
+        <p class="content has-underdot-link text-black-700 mt-15">{{ .content | markdownify }}</p>
+        {{ end }}
+        {{ end }}
+      </div>
+    </div>
+  </div>
+
+  <div class="shape-1 shape-sm bg-yellow rounded-circle"></div>
+  <div class="shape-3 shape-sm-2 bg-orange rounded-circle"></div>
+  <div class="shape-4 shape-sm-2 bg-orange rounded-circle"></div>
+  <div class="shape-5 shape-xs bg-yellow rounded-circle"></div>
+  <div class="shape-6 shape-xs bg-cyan rounded-circle"></div>
+  <div class="shape-7 shape-xs-2 bg-cyan rounded-circle"></div>
+  <div class="shape-8 shape-xs-2 bg-orange rounded-circle"></div>
+</section>
+<!-- end of banner -->
+{{ end }}
+{{ end }}
