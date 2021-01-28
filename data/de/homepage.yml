@@ -38,3 +38,39 @@ berät, Ihre Projekte begleitet und umsetzt und Ihre Mitarbeitenden in den neuen
       title: "Impressum und Datenschutz"
       link: "#"
 
+########################## Products #########################
+products:
+  enable : true
+  title : "Produkte"
+  content : "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat sed."
+  tablist:
+  # tab item
+  - name : "Kollaboration"
+    title : "Task **Management**"
+    image : "images/coso/seilschaft-2.png"
+    content : "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat sed. At vero eos et accusam et justo duo dolores et ea rebum satet"
+    button:
+      enable : true
+      label : "View More"
+      link : "how-it-works"
+      
+  # tab item
+  - name : "Data & KI"
+    title : "**Data** & **KI**"
+    image : "images/coso/seilschaft-2.png"
+    content : "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat sed. At vero eos et accusam et justo duo dolores et ea rebum satet"
+    button:
+      enable : true
+      label : "View More"
+      link : "how-it-works"
+      
+  # tab item
+  - name : "Automation"
+    title : "Project **Analytics**"
+    image : "images/coso/seilschaft-2.png"
+    content : "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat sed. At vero eos et accusam et justo duo dolores et ea rebum satet"
+    button:
+      enable : true
+      label : "View More"
+      link : "how-it-works"
+    
