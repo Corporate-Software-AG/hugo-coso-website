@@ -1,5 +1,66 @@
 {{ define "main" }}
 
+<!-- start of services-section -->
+<section class="section-padding" data-aos="fade-in" data-aos-delay="150">
+  <div class="container">
+    <div class="row justify-content-center">
+      <div class="col-lg-6 col-md-9 text-center mb-40">
+        <div class="content">{{ .Content }}</div>
+      </div>
+    </div>
+    <div class="row no-gutters">
+      {{ range .Params.services }}
+      <div class="col-lg-4 col-md-6 service-box">
+        <div class="block p-4 p-xl-5 text-center">
+          <div class="service-icon text-center mx-auto rounded-circle">
+            <i class="{{.icon}}"></i>
+          </div>
+          <h3 class="font-weight-600 mt-20 mb-20">{{ .name | markdownify }}</h3>
+          <p>{{ .content | markdownify }}</p>
+        </div>
+      </div>
+      {{ end }}
+      <div class="col-12">
+        <div class="border-bottom border-md-0"></div>
+      </div>
+    </div>
+  </div>
+</section>
+<!-- end of services-section -->
+
+<!-- start section -->
+{{if .Params.vision.enable }}
+{{with .Params.vision }}
+<section class="pt-120 pb-120 image-info-section has-shapes bg-light-gray has-bg-brash bg-brash-y overflow-hidden"
+  style="background-image: url('{{`images/brushes/section-top.svg` | absURL}}'), url('{{`images/brushes/section-bottom.svg` | absURL}}');">
+  <div class="container">
+    <div class="row align-items-center justify-content-around">
+      <div class="col-lg-5 col-md-8 col-sm-10">
+        <div class="d-inline-block has-shadow shadow-left has-shapes">
+          <img class="img-fluid rounded-sm" src="{{ .image | absURL }}">
+
+          <div class="shape-1 shape-md bg-secondary rounded-circle"></div>
+          <div class="shape-2 shape-xl bg-tertiary rounded-circle"></div>
+          <div class="shape-3 shape-lg bg-primary rounded-circle"></div>
+        </div>
+      </div>
+      <div class="col-lg-5 col-md-8 col-sm-10 mt-5 mt-lg-0">
+        <h2 class="section-title">{{ .title | markdownify }}</h2>
+        <p class="pb-20">{{ .content | markdownify }}</p>
+      </div>
+    </div>
+  </div>
+
+  <div class="shape-3 shape-xs-2 bg-secondary rounded-circle"></div>
+  <div class="shape-4 shape-sm-2 bg-tertiary rounded-circle"></div>
+  <div class="shape-5 shape-sm bg-primary rounded-circle"></div>
+  <div class="shape-6 shape-xs bg-secondary rounded-circle"></div>
+  <div class="shape-7 shape-xs-2 bg-tertiary rounded-circle"></div>
+</section>
+{{ end }}
+{{ end }}
+<!-- end section -->
+
 <!-- start section -->
 {{if .Params.mission.enable }}
 {{with .Params.mission }}
@@ -58,118 +119,5 @@
 {{ end }}
 {{ end }}
 <!-- end section -->
-
-<!-- start section -->
-{{if .Params.vision.enable }}
-{{with .Params.vision }}
-<section class="pt-120 pb-120 image-info-section has-shapes bg-light-gray has-bg-brash bg-brash-y overflow-hidden"
-  style="background-image: url('{{`images/brushes/section-top.svg` | absURL}}'), url('{{`images/brushes/section-bottom.svg` | absURL}}');">
-  <div class="container">
-    <div class="row align-items-center justify-content-around">
-      <div class="col-lg-5 col-md-8 col-sm-10">
-        <div class="d-inline-block has-shadow shadow-left has-shapes">
-          <img class="img-fluid rounded-sm" src="{{ .image | absURL }}">
-
-          <div class="shape-1 shape-md bg-secondary rounded-circle"></div>
-          <div class="shape-2 shape-xl bg-tertiary rounded-circle"></div>
-          <div class="shape-3 shape-lg bg-primary rounded-circle"></div>
-        </div>
-      </div>
-      <div class="col-lg-5 col-md-8 col-sm-10 mt-5 mt-lg-0">
-        <h2 class="section-title">{{ .title | markdownify }}</h2>
-        <p class="pb-20">{{ .content | markdownify }}</p>
-      </div>
-    </div>
-  </div>
-
-  <div class="shape-3 shape-xs-2 bg-secondary rounded-circle"></div>
-  <div class="shape-4 shape-sm-2 bg-tertiary rounded-circle"></div>
-  <div class="shape-5 shape-sm bg-primary rounded-circle"></div>
-  <div class="shape-6 shape-xs bg-secondary rounded-circle"></div>
-  <div class="shape-7 shape-xs-2 bg-tertiary rounded-circle"></div>
-</section>
-{{ end }}
-{{ end }}
-<!-- end section -->
-
-<!-- start of growth-rate -->
-{{if .Params.achivement.enable }}
-{{with .Params.achivement }}
-<section class="section-padding pb-50">
-  <div class="container">
-    <div class="row justify-content-center">
-      <div class="col-xl-10">
-        <div class="row align-items-center">
-          <div class="col-lg-6">
-            <h2 class="section-title">{{ .title | markdownify }}</h2>
-            <p class="border-bottom pb-30 mr-0 mr-lg-5">{{ .content | markdownify }}</p>
-            <div class="has-colored-text growth-rate-counter">
-              {{ range .funfacts }}
-              <div class="d-inline-block block-sm mr-30 mt-30">
-                <h2 class="has-text-color font-weight-bold">
-                  <span class="jsCounter" data-count="{{.count}}">0</span>{{.extension}}</h2>
-                <p class="mt-10">{{ .name | markdownify }}</p>
-              </div>
-              {{ end }}
-            </div>
-          </div>
-          <div class="col-lg-6 mt-5 mt-lg-0">
-            <div class="row colored-icon-box">
-              {{ range $i, $e:= .services }}
-              <div class="col-sm-6" data-aos="fade-up" data-aos-delay="{{mul $i 100}}">
-                <div class="icon-box text-center shadow px-3 px-md-5 px-lg-2 py-5 mb-30">
-                  <i class="{{ .icon }} icon"></i>
-                  <h4 class="font-weight-bold text-black-200">{{ .name | markdownify }}</h4>
-                </div>
-              </div>
-              {{ end }}
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
-</section>
-{{ end }}
-{{ end }}
-<!-- end of growth-rate -->
-
-<!-- start of video-testimonials -->
-{{if .Params.featured_testimonial.enable }}
-{{with .Params.featured_testimonial }}
-<section class="pt-100 has-shapes bg-light-gray has-bg-brash bg-brash-top"
-  style="background-image: url('{{`images/brushes/section-top.svg`| absURL}}')">
-  <div class="container">
-    <div class="row align-items-center">
-      <div class="col-lg-6">
-        <div class="has-video-popup">
-          {{ if .video.enable }}
-          {{ with .video }}
-          <button type="button" class="video-play-btn" data-toggle="modal"
-            data-src="{{ .video_embed_link | safeURL }}" data-target="#videoModal"><svg width="1.8em"
-              height="1.8em" viewBox="0 0 16 16" fill="currentColor" xmlns="http://www.w3.org/2000/svg">
-              <path
-                d="M11.596 8.697l-6.363 3.692c-.54.313-1.233-.066-1.233-.697V4.308c0-.63.692-1.01 1.233-.696l6.363 3.692a.802.802 0 0 1 0 1.393z" />
-              </svg></button>
-            {{ end }}
-            {{ end }}
-          <img class="rounded img-fluid" src="{{ .image | absURL }}">
-        </div>
-      </div>
-      <div class="col-lg-6 mt-5 mt-lg-0">
-        <div class="pl-0 pl-lg-4">
-          <h2 class="border-bottom pb-20 mb-20">{{ .quote | markdownify }}</h2>
-          <p class="text-black-900">
-            <span class="border-right pr-2 mr-2">{{ .name }}</span>
-            <span>{{ .designation | markdownify }}</span>
-          </p>
-        </div>
-      </div>
-    </div>
-  </div>
-</section>
-{{ end }}
-{{ end }}
-<!-- end of video-testimonials -->
 
 {{ end }}
