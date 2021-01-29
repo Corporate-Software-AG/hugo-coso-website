@@ -3,4 +3,16 @@
   
 - id: social_links
   translation: Sociale Medien
+
+- id: phone
+  translation: Telefon
+
+- id: email
+  translation: E-Mail
+
+- id: privacy
+  translation: Datenschutz und Impressum
+
+- id: office_times
+  translation: Montag - Freitag
   

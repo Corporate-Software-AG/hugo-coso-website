@@ -104,23 +104,5 @@ testimonial:
     designation : "CEO, Angular Corporation"
     content : "Lorem ipsum dolor sit amet, kasd gubergren, seatakimata dolores et rebum stetclita"
 
-############################# Footer ############################
-footer:
-  content: "Wir sind ein cloudbasiertes Unternehmen, das Sie basierend auf
-Microsoft-Produkten in den Bereichen Collaboration, Data Science und AI sowie Automation
-berät, Ihre Projekte begleitet und umsetzt und Ihre Mitarbeitenden in den neuen Technologien schult."
-  contact:
-    phone:
-      title: "Telefon"
-      value: "+41 32 322 67 05"
-    email:
-      title: "E-Mail"
-      value: "info@corporatesoftware.ch"
-    office_times:
-      title: "Montag – Freitag"
-      value: "8 bis 17 Uhr"
-    privacy:
-      title: "Impressum und Datenschutz"
-      link: "#"
 
 ---

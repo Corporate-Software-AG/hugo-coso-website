@@ -36,18 +36,18 @@
             <img class="img-fluid p-3" src="{{ . | absURL }}" alt="{{ site.Title }}">
             {{ else }}{{ site.Title }}{{ end }}
           </a>
-          <p>{{ .Params.footer.content | markdownify }}</p>
+          <p>{{ site.Params.footer.content | markdownify }}</p>
         </div>
       </div>
       <div class="col-lg-3 col-md col-sm-6">
         <div class="pl-0 pl-md-3 mt-5 mt-md-0">
           <h5 class="font-weight-600 mb-20">{{ i18n "contact"}}</h5>
           <ul class="list-unstyled footer-links">
-            {{ with .Params.footer.contact }}
-            <li><a target="_blank" href="tel:{{ .phone.value | safeURL }}">{{ .phone.title }}:<br />{{ .phone.value }}</a></li>
-            <li><a target="_blank" href="mailto:{{ .email.value | safeURL }}">{{ .email.title }}:<br />{{ .email.value }}</a></li>
-            <li>{{ .office_times.title }}:<br />{{ .office_times.value }}</a></li>
-            <li><a href="{{ .privacy.link | safeURL }}">{{ .privacy.title }}</a></li>
+            {{ with site.Params.footer.contact }}
+            <li><a target="_blank" href="tel:{{ .phone | safeURL }}">{{ i18n "phone"}}:<br />{{ .phone }}</a></li>
+            <li><a target="_blank" href="mailto:{{ .email | safeURL }}">{{ i18n "email"}}:<br />{{ .email }}</a></li>
+            <li>{{ i18n "office_times" }}:<br />{{ .office_times }}</a></li>
+            <li><a href="{{ .privacy | safeURL }}">{{ i18n "privacy" }}</a></li>
             {{end }}
           </ul>
         </div>

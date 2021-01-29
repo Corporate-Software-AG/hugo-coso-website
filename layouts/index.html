@@ -2,8 +2,50 @@
 
 {{ $data := index .Site.Data .Site.Language.Lang }}
 
-{{ partial "banner.html" . }}
+{{ if .Params.banner.enable }}
+{{ with .Params.banner }}
+<!-- start of banner -->
+<section class="banner bg-cover-bottom has-shapes bg-light-gray has-bg-brash bg-brash-bottom"
+  style="background-image: url('{{`images/brushes/banner.svg` | absURL }}')" data-aos="fade-in" data-aos-delay="150">
+  <div class="container h-100">
+    <div class="d-block d-lg-flex no-gutters align-items-center h-100">
+      <div class="col-12 col-xl-8 col-lg-8 order-lg-1">
+        <div class="banner-image has-video-popup has-shapes mb-4 mb-md-5 mb-lg-0">
+          <img class="img-fluid" src="{{ .image | absURL }}" alt="">
 
+          <div class="shape-lg bg-cyan rounded-circle"></div>
+          <div class="shape-md bg-orange rounded-circle"></div>
+          <div class="shape-sm bg-yellow rounded-circle"></div>
+        </div>
+      </div>
+      <div class="col-xl-5 col-lg-6 order-lg-0">
+        <h2 class="h1 mb-20">{{ .title | markdownify }}</h2>
+        <p>{{ .content | markdownify }}</p>
+
+        {{ if .button.enable }}
+        {{ with .button }}
+        <a href="{{.link | absLangURL}}"
+          class="btn btn-outline-secondary d-flex align-items-center justify-content-center">
+          {{with .icon}} <img class="mr-2" src="{{ . }}">{{end}} {{.label}}</a>
+
+        <p class="content has-underdot-link text-black-700 mt-15">{{ .content | markdownify }}</p>
+        {{ end }}
+        {{ end }}
+      </div>
+    </div>
+  </div>
+
+  <div class="shape-1 shape-sm bg-yellow rounded-circle"></div>
+  <div class="shape-3 shape-sm-2 bg-orange rounded-circle"></div>
+  <div class="shape-4 shape-sm-2 bg-orange rounded-circle"></div>
+  <div class="shape-5 shape-xs bg-yellow rounded-circle"></div>
+  <div class="shape-6 shape-xs bg-cyan rounded-circle"></div>
+  <div class="shape-7 shape-xs-2 bg-cyan rounded-circle"></div>
+  <div class="shape-8 shape-xs-2 bg-orange rounded-circle"></div>
+</section>
+<!-- end of banner -->
+{{ end }}
+{{ end }}
 <!-- start of brand-carousel -->
 {{ if $data.homepage.clients_logo_slider.enable }}
 {{ with $data.homepage.clients_logo_slider }}
@@ -25,9 +67,101 @@
 {{ end }}
 <!-- end of brand-carousel -->
 
-{{ partial "products.html" . }}
-{{ partial "vision.html" . }}
+<!-- start of how-it-works tab -->
+{{ if .Params.homepage_tab.enable }}
+{{ with .Params.homepage_tab }}
+<section class="section-padding how-it-works-tab pt-0 overflow-hidden">
+  <div class="container">
+    <div class="row justify-content-center">
+      <div class="col-lg-6 col-md-9 text-center mb-40">
+        <h2 class="section-title">{{ .title | markdownify }}</h2>
+        <p>{{ .content | markdownify }}</p>
+      </div>
+      <div class="col-lg-11">
+        <ul class="nav nav-pills justify-content-center mb-20" id="pills-tab" role="tablist">
+          {{ range $i, $e:= .tablist }}
+          <li class="nav-item mb-20" role="presentation">
+            <a class="nav-link {{if eq $i 0}}active{{end}}" id="pill-{{.title| urlize}}" data-toggle="pill"
+              href="#{{.title| urlize}}" role="tab" aria-controls="{{.title| urlize}}" aria-selected="true">
+              <i class="circle-shape"></i>{{.name}}
+            </a>
+          </li>
+          {{ end }}
+        </ul>
 
+        <div class="tab-content" id="pills-tabContent" data-aos="fade-in">
+          {{ range $i, $e:= .tablist }}
+          <div class="tab-pane fade {{if eq $i 0}}show active{{end}}" id="{{.name | urlize}}" role="tabpanel"
+            aria-labelledby="pill-{{.name | urlize}}">
+            <div class="row align-items-center">
+              <div class="col-lg-8 anim-to-top">
+                <img class="img-fluid rounded-lg shadow" src="{{ .image | absURL }}" alt="">
+              </div>
+              <div class="col-lg-4 mt-4 mt-lg-0 anim-to-bottom">
+                <h2 class="section-title">{{ .title | markdownify }}</h2>
+                <p class="mb-30">{{ .content | markdownify }}</p>
+                {{ if .button.enable }}
+                {{ with .button }}
+                <a href="{{ .link | absLangURL }}" class="btn btn-primary has-icon">{{ .label }}
+                  <span class="icon">
+                    <svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+                      <path
+                        d="M12.5522 6.66669L20.5522 14.6667C21.0329 15.1473 21.0699 15.9036 20.6632 16.4267L20.5522 16.5523L12.5522 24.5523L10.6666 22.6667L17.7228 15.6095L10.6666 8.55231L12.5522 6.66669Z"
+                        fill="currentColor" />
+                    </svg>
+                  </span>
+                </a>
+                {{ end }}
+                {{ end }}
+              </div>
+            </div>
+          </div>
+          {{ end }}
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+{{ end }}
+{{ end }}
+<!-- end of how-it-works tab -->
+
+<!-- start section -->
+{{ if .Params.vision.enable }}
+{{ with .Params.vision }}
+<section class="section-padding" data-aos="fade-in" data-aos-delay="150">
+  <div class="container">
+    <div class="row align-items-center justify-content-around">
+      <div class="col-lg-5 col-md-8 col-sm-10 mb-5">
+        <h2 class="section-title">{{ .title | markdownify }}</h2>
+        <p class="pb-20 border-bottom mb-20">{{ .content | markdownify }}</p>
+        <ul class="check-list list-unstyled">
+          {{ range .bulletpoints }}
+          <li class="mb-15">
+            <svg width="16" height="11" viewBox="0 0 18 13" class="text-primary mr-2" fill="none"
+              xmlns="http://www.w3.org/2000/svg">
+              <path d="M2 6.125L6.91892 11L16 2" stroke="currentColor" stroke-width="3" stroke-linecap="round"
+                stroke-linejoin="round" /></svg>
+            {{. | markdownify}}
+          </li>
+          {{ end }}
+        </ul>
+      </div>
+      <div class="col-lg-5 col-md-8 col-sm-10">
+        <div class="d-inline-block has-shadow shadow-right has-shapes">
+          <img class="img-fluid rounded-sm" src="{{ .image | absURL}}">
+
+          <div class="shape-1 shape-md bg-secondary rounded-circle"></div>
+          <div class="shape-2 shape-xl bg-tertiary rounded-circle"></div>
+          <div class="shape-3 shape-lg bg-primary rounded-circle"></div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+{{ end }}
+{{ end }}
+<!-- end section -->
 
 <!-- start of tools-use -->
 {{ if $data.homepage.tools.enable }}
@@ -174,6 +308,71 @@
 {{ end }}
 <!-- end section -->
 
-{{partial "testimonial.html" . }}
+{{ $data := index .Site.Data .Site.Language.Lang }}
+
+<!-- start of testimonials-carousel -->
+{{ if .Params.testimonial.enable }}
+{{ with .Params.testimonial }}
+<section class="section-padding pt-0 testimonials-section has-shapes">
+  <div class="container">
+    <div class="row justify-content-center">
+      <div class="col-lg-6 col-md-9 text-center mb-30">
+        <h2 class="section-title">{{ .title | markdownify }}</h2>
+        <p>{{ .content | markdownify }}</p>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-md-12">
+        <div class="testimonials-carousel">
+          {{ range .testimonial_item }}
+          <div class="testimonials-item bg-white">
+            <div class="block border rounded bg-white">
+              <svg class="icon mb-15" width="25" height="20" viewBox="0 0 40 35" fill="none"
+                xmlns="http://www.w3.org/2000/svg">
+                <path
+                  d="M3.75001 35L13.75 35C15.8203 35 17.5 33.3203 17.5 31.25L17.5 21.25C17.5 19.1797 15.8203 17.5 13.75 17.5L7.50001 17.5L7.50001 12.5C7.50001 9.74219 9.74219 7.5 12.5 7.5L13.125 7.5C14.1641 7.5 15 6.66406 15 5.625L15 1.875C15 0.83594 14.1641 2.25865e-06 13.125 2.34949e-06L12.5 2.40413e-06C5.59375 3.00789e-06 5.05862e-06 5.59375 5.66238e-06 12.5L7.30156e-06 31.25C7.48255e-06 33.3203 1.6797 35 3.75001 35ZM26.25 35L36.25 35C38.3203 35 40 33.3203 40 31.25L40 21.25C40 19.1797 38.3203 17.5 36.25 17.5L30 17.5L30 12.5C30 9.74219 32.2422 7.5 35 7.5L35.625 7.5C36.6641 7.5 37.5 6.66406 37.5 5.625L37.5 1.875C37.5 0.835938 36.6641 2.91637e-07 35.625 3.82475e-07L35 4.37114e-07C28.0937 1.04088e-06 22.5 5.59375 22.5 12.5L22.5 31.25C22.5 33.3203 24.1797 35 26.25 35Z"
+                  fill="currentColor" /></svg>
+              <p class="h4 text-black-300 font-weight-light">{{ .content | markdownify }}</p>
+              <img src="{{`images/testimonials/arrow.png` | absURL }}" alt="">
+            </div>
+            <div class="user-info d-flex align-items-center mt-30">
+              <img class="d-inline rounded-circle mr-3" src="{{ .image | absURL }}" alt="">
+              <div class="pt-1">
+                <h5 class="font-weight-bold">{{ .name }}</h5>
+                <p>{{ .designation | markdownify }}</p>
+              </div>
+            </div>
+          </div>
+          {{ end }}
+        </div>
+      </div>
+      {{ if .button.enable }}
+      {{ with .button }}
+      <div class="col-md-12">
+        <div class="mt-50 text-center">
+          <a href="{{ .link | absLangURL }}" class="btn btn-primary has-icon">{{ .label }}
+            <span class="icon"><svg width="32" height="32" viewBox="0 0 32 32" fill="none"
+                xmlns="http://www.w3.org/2000/svg">
+                <path
+                  d="M12.5522 6.66669L20.5522 14.6667C21.0329 15.1473 21.0699 15.9036 20.6632 16.4267L20.5522 16.5523L12.5522 24.5523L10.6666 22.6667L17.7228 15.6095L10.6666 8.55231L12.5522 6.66669Z"
+                  fill="currentColor" /></svg></span>
+          </a>
+        </div>
+      </div>
+      {{ end }}
+      {{ end }}
+    </div>
+  </div>
+
+  <div class="shape-1 shape-sm bg-secondary rounded-circle d-none d-sm-block"></div>
+  <div class="shape-2 shape-sm bg-primary rounded-circle d-none d-sm-block"></div>
+  <div class="shape-3 shape-sm bg-tertiary rounded-circle d-none d-sm-block"></div>
+  <div class="shape-4 shape-sm bg-secondary rounded-circle d-none d-sm-block"></div>
+  <div class="shape-5 shape-xs bg-primary rounded-circle d-none d-sm-block"></div>
+  <div class="shape-6 shape-xs-2 bg-tertiary rounded-circle d-none d-sm-block"></div>
+</section>
+{{ end }}
+{{ end }}
+<!-- end of testimonials-carousel -->
 
 {{ end }}
