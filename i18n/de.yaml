@@ -15,4 +15,7 @@
 
 - id: office_times
   translation: Montag - Freitag
+
+- id: all_toghether
+  translation: Alle
   

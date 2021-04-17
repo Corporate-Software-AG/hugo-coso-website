@@ -8,8 +8,6 @@ paginate = "6"
 summaryLength = "10"
 # google analytics
 googleAnalytics = "" # example : UA-123-45
-# disqus short name
-disqusShortname = "#" # get your shortname form here : https://disqus.com
 
 defaultContentLanguage = "de"
 
