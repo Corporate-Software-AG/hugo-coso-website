@@ -15,7 +15,6 @@ sections:
 - type: document
   path: i18n/de.yaml
   label: Sprachelemente
-  match: "**/*"
 upload_dir: static/uploads
 public_path: "/uploads"
 front_matter_path: ''
