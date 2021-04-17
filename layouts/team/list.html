@@ -5,7 +5,10 @@
 <section class="section-padding pb-40" data-aos="fade-in" data-aos-delay="150">
   <div class="container">
     <div class="row justify-content-center">
-      <div class="col-lg-6 col-md-9 text-center mb-40">
+      <div class="offset-lg-3 col-lg-6 offset-md-2 col-md-8 text-center mb-40">
+        <img src=" {{ .Params.teamimage }}" />
+      </div>
+      <div class="offset-lg-3 col-lg-6 col-md-9 text-center mb-40">
         <div class="content">{{ .Content }}</div>
       </div>
     </div>
@@ -38,7 +41,6 @@
           <a href="{{ .File.TranslationBaseName  }}">
             <div class="team-image has-shapes d-inline-block mb-25">
                 <img class="img-fluid rounded-circle" src="{{ .Params.image | absURL}}" alt="">
-
                 <div class="team-shapes">
                 <div class="shape-1 shape-xs bg-secondary rounded-circle"></div>
                 <div class="shape-2 shape-sm bg-primary rounded-circle"></div>
