@@ -5,18 +5,16 @@ admin_path:
 webhook_url: 
 sections:
 - type: directory
-  path: content/german
-  label: All
-  create: all
-  match: "**/*"
-- type: directory
   path: content/german/team
   label: Team
   create: all
   match: "**/*"
 - type: document
   path: config.toml
-  label: Config
+  label: Hauptkonfiguration
+- type: document
+  path: i18n/de.yaml
+  label: Sprachelemente
   match: "**/*"
 upload_dir: static/uploads
 public_path: "/uploads"
