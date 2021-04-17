@@ -1,0 +1,13 @@
+############################ Kontakt ##################################
+contact:
+  title: Kontaktdaten
+  phone: "+41 32 322 67 05"
+  email: "info@corporatesoftware.ch"
+  office_times: "8 bis 17 Uhr"
+  address_list:
+    - "Schöneggstrasse 5, 2503 Biel"
+
+############################ Footer Info ##################################
+footer:
+  content: "Wir sind ein cloudbasiertes Unternehmen, das Sie basierend auf Microsoft-Produkten in den Bereichen Collaboration, Data Science und AI sowie Automation berät, Ihre Projekte begleitet und umsetzt und Ihre Mitarbeitenden in den neuen Technologien schult."
+  privacy: "#"

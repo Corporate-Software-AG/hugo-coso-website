@@ -1,4 +1,6 @@
 <!-- start footer -->
+{{ $data := index .Site.Data .Site.Language.Lang }}
+
 <footer class="bg-light-gray has-shapes has-bg-brash bg-brash-top "
   style="background-image: url('{{`images/brushes/footer.svg` | absURL}}')">
   <div class="container">
@@ -36,18 +38,18 @@
             <img class="img-fluid p-3" src="{{ . | absURL }}" alt="{{ site.Title }}">
             {{ else }}{{ site.Title }}{{ end }}
           </a>
-          <p>{{ site.Params.footer.content | markdownify }}</p>
+          <p>{{ $data.homepage.footer.content | markdownify }}</p>
         </div>
       </div>
       <div class="col-lg-3 col-md col-sm-6">
         <div class="pl-0 pl-md-3 mt-5 mt-md-0">
           <h5 class="font-weight-600 mb-20">{{ i18n "contact"}}</h5>
           <ul class="list-unstyled footer-links">
-            {{ with site.Params.footer.contact }}
-            <li><a target="_blank" href="tel:{{ .phone | safeURL }}">{{ i18n "phone"}}:<br />{{ .phone }}</a></li>
-            <li><a target="_blank" href="mailto:{{ .email | safeURL }}">{{ i18n "email"}}:<br />{{ .email }}</a></li>
-            <li>{{ i18n "office_times" }}:<br />{{ .office_times }}</a></li>
-            <li><a href="{{ .privacy | safeURL }}">{{ i18n "privacy" }}</a></li>
+            {{ with $data.homepage }}
+            <li><a target="_blank" href="tel:{{ .contact.phone | safeURL }}">{{ i18n "phone"}}:<br />{{ .contact.phone }}</a></li>
+            <li><a target="_blank" href="mailto:{{ .contact.email | safeURL }}">{{ i18n "email"}}:<br />{{ .contact.email }}</a></li>
+            <li>{{ i18n "office_times" }}:<br />{{ .contact.office_times }}</a></li>
+            <li><a href="{{ .footer.privacy | safeURL }}">{{ i18n "privacy" }}</a></li>
             {{end }}
           </ul>
         </div>
