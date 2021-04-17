@@ -5,6 +5,7 @@ date: 2019-08-01T00:00:00+00:00
 description : "Beschreibung ..."
 categories: ["Azure", "SharePoint", "Teams"]
 job_title : "Cloud Consultant"
+team: "Seal Team"
 social:
   - icon : "ti-linkedin"
     link : "#"

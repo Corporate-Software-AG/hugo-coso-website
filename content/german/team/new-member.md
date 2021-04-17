@@ -6,6 +6,7 @@ image = "/uploads/b424ed4d-0b0b-431b-85be-600d9fa62658.JPG"
 job_title = "Senior Test Object"
 social = []
 title = "New Member"
+team = "S.H.I.E.L.D."
 
 +++
-Lorem ipsum dolor sit amet
+Lorem ipsum dolor sit amettt

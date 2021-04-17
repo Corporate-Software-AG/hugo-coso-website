@@ -6,7 +6,7 @@
   <div class="container">
     <div class="row justify-content-center">
       <div class="col-lg-6 col-md-9 text-center mb-40">
-        <div class="content">{{.Content}}</div>
+        <div class="content">{{ .Content }}</div>
       </div>
     </div>
     <div class="row justify-content-center">
@@ -18,8 +18,8 @@
           </label>
           
 					{{ $group := slice }}
-					{{ range .Params.team_member }}
-					{{ $group = $group | append .group }}
+					{{ range .Pages }}
+					{{ $group = $group | append .Params.team }}
           {{ end }}
           
 					{{ range ( $group | uniq ) }}
@@ -32,12 +32,12 @@
       </div>
     </div>
     <div id="masonry" class="row team-members">
-      {{ range .Params.team_member}}
-      <div class="masonry-item team-item col-lg-3 col-sm-6 col-md-4 mt-4" data-groups="[&quot;{{.group | urlize}}&quot;]">
+      {{ range .Pages }}
+      <div class="masonry-item team-item col-lg-3 col-sm-6 col-md-4 mt-4" data-groups="&quot;{{ .Params.team | urlize}}&quot;">
         <div class="text-center mb-30">
-          <a href="{{ .link }}">
+          <a href="{{ .File.TranslationBaseName  }}">
             <div class="team-image has-shapes d-inline-block mb-25">
-                <img class="img-fluid rounded-circle" src="{{.image | absURL}}" alt="">
+                <img class="img-fluid rounded-circle" src="{{ .Params.image | absURL}}" alt="">
 
                 <div class="team-shapes">
                 <div class="shape-1 shape-xs bg-secondary rounded-circle"></div>
@@ -46,19 +46,19 @@
                 </div>
             </div>
           </a>
-          <h4 class="font-weight-bold mb-10">{{.name}}</h4>
-          <p>{{ .designation }}</p>
+          <h4 class="font-weight-bold mb-10">{{.Params.name}}</h4>
+          <p>{{ .Params.designation }}</p>
           <ul class="list-unstyled list-inline mt-2">
-            {{ range .social }}
+            {{ range .Params.social }}
             <li class="list-inline-item">
-              <a href="{{ .link | safeURL }}" class="text-black-200 p-2 d-inline-block">
-                <span class="{{ .icon }}"></span></a>
+              <a href="{{ .Params.link | safeURL }}" class="text-black-200 p-2 d-inline-block">
+                <span class="{{ .Params.icon }}"></span></a>
             </li>
             {{ end }}
           </ul>
         </div>
-        <!-- team item -->
       </div>
+      <!-- team item -->
       {{ end }}
     </div>
   </div>
