@@ -4,21 +4,24 @@ auto_deploy: false
 admin_path: 
 webhook_url: 
 sections:
+- type: document
+  path: config.toml
+  label: Hauptkonfiguration
+- type: document
+  path: data/de/homepage.yml
+  label: Seitenkonfiguration
+- type: document
+  path: content/german/about/_index.md
+  label: Über uns
+  match: "**/*"
 - type: directory
   path: content/german/team
   label: Team
   create: all
   match: "**/*"
 - type: document
-  path: data/de/homepage.yml
-  label: Seitenkonfiguration
-  match: "**/*"
-- type: document
   path: i18n/de.yaml
   label: Sprachelemente
-- type: document
-  path: config.toml
-  label: Hauptkonfiguration
 upload_dir: static/uploads
 public_path: "/uploads"
 front_matter_path: ''
