@@ -5,19 +5,16 @@ admin_path:
 webhook_url: 
 sections:
 - type: directory
-  path: content
-  label: Pages
-  create: all
-  match: "*"
-- type: directory
-  path: content/french
-  label: French
+  path: content/german/team
+  label: Team
   create: all
   match: "**/*"
-- type: directory
-  path: content/english
-  label: English
-  create: all
+- type: document
+  path: config.toml
+  label: Hauptkonfiguration
+- type: document
+  path: i18n/de.yaml
+  label: Sprachelemente
   match: "**/*"
 upload_dir: static/uploads
 public_path: "/uploads"
@@ -27,10 +24,10 @@ file_template: ":filename:"
 build:
   preview_env:
   - HUGO_ENV=staging
-  - HUGO_VERSION=0.79.0
+  - HUGO_VERSION=0.81.0
   preview_output_directory: public
   preview_docker_image: forestryio/hugo:latest
   mount_path: "/srv"
   working_dir: "/srv"
   instant_preview_command: hugo server -D -E -F --renderToDisk -d public
-version: 0.79.0
+version: 0.81.0
