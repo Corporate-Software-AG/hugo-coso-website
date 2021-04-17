@@ -4,10 +4,6 @@ auto_deploy: false
 admin_path: 
 webhook_url: 
 sections:
-- type: document
-  path: config.toml
-  label: Config
-  match: "**/*"
 - type: directory
   path: content/german
   label: All
@@ -17,6 +13,10 @@ sections:
   path: content/german/team
   label: Team
   create: all
+  match: "**/*"
+- type: document
+  path: config.toml
+  label: Config
   match: "**/*"
 upload_dir: static/uploads
 public_path: "/uploads"
