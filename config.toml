@@ -114,8 +114,8 @@ URL = "team"
 weight = 3
 
 [[Languages.de.menu.main]]
-name = "Service"
-URL = "service"
+name = "Services"
+URL = "services"
 weight = 4
 
 [[Languages.de.menu.main]]
