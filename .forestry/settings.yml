@@ -19,6 +19,10 @@ sections:
   create: all
   match: "**/*"
 - type: document
+  path: content/german/services/_index.md
+  label: Services
+  match: "**/*"
+- type: document
   path: i18n/de.yaml
   label: Sprachelemente
 upload_dir: static/uploads
