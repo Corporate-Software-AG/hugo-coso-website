@@ -5,13 +5,13 @@ admin_path:
 webhook_url: 
 sections:
 - type: directory
-  path: content/german/team
-  label: Team
+  path: content/german
+  label: All
   create: all
   match: "**/*"
 - type: directory
-  path: content/german
-  label: German
+  path: content/german/team
+  label: Team
   create: all
   match: "**/*"
 upload_dir: static/uploads
