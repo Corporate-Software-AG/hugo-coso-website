@@ -33,7 +33,7 @@
     </div>
     <div id="masonry" class="row team-members">
       {{ range .Params.team_member}}
-      <div class="masonry-item team-item col-lg-4 col-sm-6 mt-4" data-groups="[&quot;{{.group | urlize}}&quot;]">
+      <div class="masonry-item team-item col-lg-3 col-sm-6 col-md-4 mt-4" data-groups="[&quot;{{.group | urlize}}&quot;]">
         <div class="text-center mb-30">
           <a href="{{ .link }}">
             <div class="team-image has-shapes d-inline-block mb-25">

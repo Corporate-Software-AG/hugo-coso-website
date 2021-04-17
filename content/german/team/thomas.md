@@ -1,14 +1,19 @@
 ---
 title : "Thomas von Mentlen"
 image : "images/team/thomas.jpg"
-date: 2020-03-14T15:40:24+06:00
-author: "Ausie Makquis"
-author_profile: "https://linkedin.com/in/#"
-description : "this is meta description"
-categories: ["Azure"]
+date: 2019-08-01T00:00:00+00:00
+description : "Beschreibung ..."
+categories: ["Azure", "SharePoint", "Teams"]
+job_title : "Cloud Consultant"
+social:
+  - icon : "ti-linkedin"
+    link : "#"
+  - icon : "ti-twitter-alt"
+    link : "#"
+  - icon : "ti-github"
+    link : "#"
 draft : false
 ---
-
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nec et ipsum ullamcorper venenatis fringilla.
 Pretium, purus eu nec vulputate vel habitant egestas. Congue ornare at ipsum, viverra. Vitae magna faucibus
