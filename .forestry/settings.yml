@@ -10,11 +10,15 @@ sections:
   create: all
   match: "**/*"
 - type: document
-  path: config.toml
-  label: Hauptkonfiguration
+  path: data/de/homepage.yml
+  label: Seitenkonfiguration
+  match: "**/*"
 - type: document
   path: i18n/de.yaml
   label: Sprachelemente
+- type: document
+  path: config.toml
+  label: Hauptkonfiguration
 upload_dir: static/uploads
 public_path: "/uploads"
 front_matter_path: ''
