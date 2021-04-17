@@ -1,8 +1,7 @@
 ---
-title : "Team"
-teamimage: ""
-draft : false
----
+title: Team
+teamimage: "/uploads/coso_team.png"
 
+---
 ## Our **Team members**
 Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat sed.
