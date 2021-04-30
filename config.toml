@@ -63,7 +63,7 @@ link = "https://partnercenter.microsoft.com/de-de/pcv/solution-providers/corpora
 
 # Preloader
 [params.preloader]
-enable = false
+enable = true
 preloader = "images/logo_cc.png" # use jpg, png, svg or gif format.
 
 
@@ -127,23 +127,3 @@ weight = 5
 name = "Kontakt"
 URL = "contact"
 weight = 6
-
-[[Languages.de.menu.main]]
-name = "Sonstiges"
-weight = 7
-hasChildren = true
-
-  [[Languages.de.menu.main]]
-  parent = "Sonstiges"
-  name = "Career"
-  URL = "career"
-
-  [[Languages.de.menu.main]]
-  parent = "Sonstiges"
-  name = "Pricing"
-  URL = "pricing"
-  
-  [[Languages.de.menu.main]]
-  parent = "Sonstiges"
-  name = "Pricing 2"
-  URL = "pricing-2"
