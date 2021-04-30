@@ -119,13 +119,18 @@ URL = "services"
 weight = 4
 
 [[Languages.de.menu.main]]
-name = "Kontakt"
-URL = "contact"
+name = "Erfolge"
+URL = "success"
 weight = 5
 
 [[Languages.de.menu.main]]
-name = "Sonstiges"
+name = "Kontakt"
+URL = "contact"
 weight = 6
+
+[[Languages.de.menu.main]]
+name = "Sonstiges"
+weight = 7
 hasChildren = true
 
   [[Languages.de.menu.main]]
@@ -142,19 +147,3 @@ hasChildren = true
   parent = "Sonstiges"
   name = "Pricing 2"
   URL = "pricing-2"
-
-# Footer menu
-[[Languages.de.menu.footer]]
-name = "Faq"
-URL = "faq"
-weight = 1
-
-[[Languages.de.menu.footer]]
-name = "Terms & Conditions"
-URL = "terms-conditions"
-weight = 2
-
-[[Languages.de.menu.footer]]
-name = "Privacy Policy"
-URL = "privacy-policy"
-weight = 3

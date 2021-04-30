@@ -27,6 +27,7 @@ services:
     invidunt ut labore et dolore magna aliquyam erat.
 
 ---
+
 {{< section-1 image="images/coso/seilschaft-2.png">}}
 ## Task **Management**
 Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat sed. At vero eos et accusam et justo duo dolores etea
