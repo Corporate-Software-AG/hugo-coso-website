@@ -18,11 +18,15 @@ sections:
   label: Erfolge
   create: documents
   match: "**/*"
+  templates:
+  - success-story
 - type: directory
   path: content/german/team
   label: Team
-  create: all
+  create: documents
   match: "**/*"
+  templates:
+  - teammitglied
 - type: document
   path: content/german/services/_index.md
   label: Services
