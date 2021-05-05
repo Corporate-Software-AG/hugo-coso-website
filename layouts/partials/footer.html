@@ -30,7 +30,9 @@
     </div>
     {{ end }}
     {{ end }}
+
     <div class="row pt-60 pb-60">
+
       <div class="col-lg-4 col-md-12 p-3 text-center">
         <div class="pr-0 pr-lg-4">
           <a class="mb-25" href="{{ site.BaseURL }}">
@@ -41,35 +43,40 @@
           <p>{{ $data.homepage.footer.content | markdownify }}</p>
         </div>
       </div>
-      <div class="col-lg-3 col-md col-sm-6">
-        <div class="pl-0 pl-md-3 mt-5 mt-md-0">
-          <h5 class="font-weight-600 mb-20">{{ i18n "contact"}}</h5>
-          <ul class="list-unstyled footer-links">
-            {{ with $data.homepage }}
-            <li><a target="_blank" href="tel:{{ .contact.phone | safeURL }}">{{ i18n "phone"}}:<br />{{ .contact.phone }}</a></li>
-            <li><a target="_blank" href="mailto:{{ .contact.email | safeURL }}">{{ i18n "email"}}:<br />{{ .contact.email }}</a></li>
-            <li>{{ i18n "office_times" }}:<br />{{ .contact.office_times }}</a></li>
-            <li><a href="{{ .footer.privacy | safeURL }}">{{ i18n "privacy" }}</a></li>
-            {{end }}
-          </ul>
+
+      <div class="col-lg-8 col-md-12 col-sm-6 p-3">
+        <div class="row p-3">
+          <div class="col-lg-6 col-md-6 col-sm-12">
+            <div class="pl-0 pl-md-3 mt-5 mt-md-0">
+              <h5 class="font-weight-600 mb-20">{{ i18n "contact"}}</h5>
+              <ul class="list-unstyled footer-links">
+                {{ with $data.homepage }}
+                <li><a target="_blank" href="tel:{{ .contact.phone | safeURL }}">{{ i18n "phone"}}: {{ .contact.phone }}</a></li>
+                <li><a target="_blank" href="mailto:{{ .contact.email | safeURL }}">{{ i18n "email"}}: {{ .contact.email }}</a></li>
+                <li>{{ i18n "office_times" }}: {{ .contact.office_times }}</a></li>
+                <li><a href="{{ .footer.privacy | safeURL }}">{{ i18n "privacy" }}</a></li>
+                {{end }}
+              </ul>
+            </div>
+          </div>
+          <div class="col-lg-6 col-md-6 col-sm-12">
+            <div class="pl-0 pl-md-3 mt-5 mt-md-0">
+              <h5 class="font-weight-600 mb-20">{{i18n "social_links"}}</h5>
+              <ul class="list-unstyled footer-links">
+                {{ range site.Params.social }}
+                <li><a target="_blank" href="{{ .link | safeURL }}">{{ .name }}</a></li>
+                {{end }}
+              </ul>
+            </div>
+          </div>
+          <div class="col-12 p-5 justify-content-center align-self-center text-center">
+            {{ with site.Params.mspartner }}
+            <a target="_blank" href="{{ .link }}">
+              <img class="img-fluid" src="{{ .image | absURL }}" alt="partner_status">
+            </a>
+            {{ end }}
+          </div>
         </div>
-      </div>
-      <div class="col-lg-2 col-md col-sm-6">
-        <div class="pl-0 pl-md-3 mt-5 mt-md-0">
-          <h5 class="font-weight-600 mb-20">{{i18n "social_links"}}</h5>
-          <ul class="list-unstyled footer-links">
-            {{ range site.Params.social }}
-            <li><a target="_blank" href="{{ .link | safeURL }}">{{ .name }}</a></li>
-            {{end }}
-          </ul>
-        </div>
-      </div>
-      <div class="col-lg-3 col-md-12 p-3 justify-content-center align-self-center text-center">
-        {{ with site.Params.mspartner }}
-        <a target="_blank" href="{{ .link }}">
-          <img class="img-fluid" src="{{ .image | absURL }}" alt="partner_status">
-        </a>
-        {{ end }}
       </div>
     </div>
   </div>
