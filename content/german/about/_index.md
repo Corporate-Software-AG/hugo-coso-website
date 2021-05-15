@@ -30,7 +30,7 @@ funfacts:
 vision:
   enable: true
   title: What Are The Main <strong>Vision Of Company?</strong>
-  image: images/about/03.jpg
+  image: "/images/about/03.jpg"
   content: Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy
     eirmod tempor invidunt ut labore et dolore magna aliquyam erat sed. At vero eos
     et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea
@@ -60,16 +60,6 @@ achivement:
     icon: ti-video-clapper
   - name: Fully Prepared with Safe Condition
     icon: ti-shield
-featured_testimonial:
-  enable: true
-  name: Marsh Angela Costa
-  designation: CEO, Trello
-  quote: "“Copper gives us the ease to have people hop in where they need to, to get
-    to a customer resolution really quickly.”"
-  image: images/testimonials/01.jpg
-  video:
-    enable: true
-    video_embed_link: https://www.youtube.com/embed/dyZcRRWiuuw
 services:
 - name: Attached coache
   icon: ti-clip
