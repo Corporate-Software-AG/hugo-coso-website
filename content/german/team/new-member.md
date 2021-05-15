@@ -5,7 +5,7 @@ description = "Test"
 image = "/uploads/237-536x354.jpeg"
 job_title = "Senior Test Object"
 team = "S.H.I.E.L.D."
-title = "New Member"
+title = "Cute Dog"
 [[social]]
 icon = "ti-linkedin"
 link = "#"
