@@ -4,7 +4,7 @@ description: this is meta description
 mission:
   enable: true
   title: Our mission is to <strong>empower businesses With Tools</strong>
-  image: "/uploads/b424ed4d-0b0b-431b-85be-600d9fa62658.JPG"
+  image: "/uploads/866-536x354.jpeg"
   content: Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy
     eirmod tempor invidunt ut labore et dolore magna aliquyam erat sed. At vero eos
     et accusam et justo duo dolores
