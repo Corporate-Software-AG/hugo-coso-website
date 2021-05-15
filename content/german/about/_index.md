@@ -2,7 +2,6 @@
 title: Über uns
 description: this is meta description
 mission:
-  enable: true
   title: Our mission is to <strong>empower businesses With Tools</strong>
   image: "/uploads/866-536x354.jpeg"
   content: Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy
@@ -13,7 +12,6 @@ mission:
   - Get an overview of Habit Calendars admiral general.
   - Start building habit with Habitify on platform to new
 funfacts:
-  enable: true
   funfacts_item:
   - name: Launched in April of
     count: "2015"
@@ -28,7 +26,6 @@ funfacts:
     count: "250"
     extension: "+"
 vision:
-  enable: true
   title: What Are The Main <strong>Vision Of Company?</strong>
   image: "/uploads/866-536x354.jpeg"
   content: Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy
@@ -36,7 +33,6 @@ vision:
     et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea
     takimata sanctus est Lorem ipsum dolor sit amet orem ipsum dolor sit amet
 achivement:
-  enable: true
   title: Average yearly growth rate **across our clients We able to achive**
   content: Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy
     eirmod tempor invidunt ut labore et dolore magna aliquyam erat sed. At vero eos

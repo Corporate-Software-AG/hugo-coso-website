@@ -29,7 +29,6 @@
 <!-- end of services-section -->
 
 <!-- start section -->
-{{if .Params.vision.enable }}
 {{with .Params.vision }}
 <section class="pt-120 pb-120 image-info-section has-shapes bg-light-gray has-bg-brash bg-brash-y overflow-hidden"
   style="background-image: url('{{`images/brushes/section-top.svg` | absURL}}'), url('{{`images/brushes/section-bottom.svg` | absURL}}');">
@@ -58,11 +57,9 @@
   <div class="shape-7 shape-xs-2 bg-tertiary rounded-circle"></div>
 </section>
 {{ end }}
-{{ end }}
 <!-- end section -->
 
 <!-- start section -->
-{{if .Params.mission.enable }}
 {{with .Params.mission }}
 <section class="section-padding" data-aos="fade-in" data-aos-delay="150">
   <div class="container">
@@ -95,11 +92,9 @@
   </div>
 </section>
 {{ end }}
-{{ end }}
 <!-- end section -->
 
 <!-- start section -->
-{{if .Params.funfacts.enable }}
 {{with .Params.funfacts }}
 <section class="section-padding pt-0">
   <div class="container">
@@ -116,7 +111,6 @@
     </div>
   </div>
 </section>
-{{ end }}
 {{ end }}
 <!-- end section -->
 
