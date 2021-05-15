@@ -1,67 +1,64 @@
 ---
-title : "Erfolge"
-description : "this is meta description"
-draft : false
-
-################ Testimonial ###############
+title: Erfolge
+description: this is meta description
 testimonial_item:
-- name : "Angela Markel"
-  image : "images/team/thomas.jpg"
-  designation : "CEO, Angular Corporation"
-  content : "Lorem ipsum dolor sit amet, kasd gubergren, seatakimata dolores et rebum stetclita"
-  
-- name : "Angela Markel"
-  image : "images/team/thomas.jpg"
-  designation : "CEO, Angular Corporation"
-  content : "Lorem ipsum dolor sit amet, kasd gubergren, seatakimata dolores et rebum stetclita"
-  
-- name : "Angela Markel"
-  image : "images/team/thomas.jpg"
-  designation : "CEO, Angular Corporation"
-  content : "Lorem ipsum dolor sit amet, kasd gubergren, seatakimata dolores et rebum stetclita"
-  
-- name : "Angela Markel"
-  image : "images/team/thomas.jpg"
-  designation : "CEO, Angular Corporation"
-  content : "Lorem ipsum dolor sit amet, kasd gubergren, seatakimata dolores et rebum stetclita"
-  
-- name : "Angela Markel"
-  image : "images/team/thomas.jpg"
-  designation : "CEO, Angular Corporation"
-  content : "Lorem ipsum dolor sit amet, kasd gubergren, seatakimata dolores et rebum stetclita"
-  
-- name : "Angela Markel"
-  image : "images/team/thomas.jpg"
-  designation : "CEO, Angular Corporation"
-  content : "Lorem ipsum dolor sit amet, kasd gubergren, seatakimata dolores et rebum stetclita"
-  
-- name : "Angela Markel"
-  image : "images/team/thomas.jpg"
-  designation : "CEO, Angular Corporation"
-  content : "Lorem ipsum dolor sit amet, kasd gubergren, seatakimata dolores et rebum stetclita"
-  
-- name : "Angela Markel"
-  image : "images/team/thomas.jpg"
-  designation : "CEO, Angular Corporation"
-  content : "Lorem ipsum dolor sit amet, kasd gubergren, seatakimata dolores et rebum stetclita"
-  
-- name : "Angela Markel"
-  image : "images/team/thomas.jpg"
-  designation : "CEO, Angular Corporation"
-  content : "Lorem ipsum dolor sit amet, kasd gubergren, seatakimata dolores et rebum stetclita"
-
-
-##################### Featured Testimonial ################
+- name: Angela Markel
+  image: images/team/thomas.jpg
+  designation: CEO, Angular Corporation
+  content: Lorem ipsum dolor sit amet, kasd gubergren, seatakimata dolores et rebum
+    stetclita
+- name: Angela Markel
+  image: images/team/thomas.jpg
+  designation: CEO, Angular Corporation
+  content: Lorem ipsum dolor sit amet, kasd gubergren, seatakimata dolores et rebum
+    stetclita
+- name: Angela Markel
+  image: images/team/thomas.jpg
+  designation: CEO, Angular Corporation
+  content: Lorem ipsum dolor sit amet, kasd gubergren, seatakimata dolores et rebum
+    stetclita
+- name: Angela Markel
+  image: images/team/thomas.jpg
+  designation: CEO, Angular Corporation
+  content: Lorem ipsum dolor sit amet, kasd gubergren, seatakimata dolores et rebum
+    stetclita
+- name: Angela Markel
+  image: images/team/thomas.jpg
+  designation: CEO, Angular Corporation
+  content: Lorem ipsum dolor sit amet, kasd gubergren, seatakimata dolores et rebum
+    stetclita
+- name: Angela Markel
+  image: images/team/thomas.jpg
+  designation: CEO, Angular Corporation
+  content: Lorem ipsum dolor sit amet, kasd gubergren, seatakimata dolores et rebum
+    stetclita
+- name: Angela Markel
+  image: images/team/thomas.jpg
+  designation: CEO, Angular Corporation
+  content: Lorem ipsum dolor sit amet, kasd gubergren, seatakimata dolores et rebum
+    stetclita
+- name: Angela Markel
+  image: images/team/thomas.jpg
+  designation: CEO, Angular Corporation
+  content: Lorem ipsum dolor sit amet, kasd gubergren, seatakimata dolores et rebum
+    stetclita
+- name: Angela Markel
+  image: images/team/thomas.jpg
+  designation: CEO, Angular Corporation
+  content: Lorem ipsum dolor sit amet, kasd gubergren, seatakimata dolores et rebum
+    stetclita
 featured_testimonial:
-  enable : false
-  name : "Marsh Angela Costa"
-  designation : "CEO, Trello"
-  quote : "“Copper gives us the ease to have people hop in where they need to, to get to a customer resolution really quickly.”"
-  image : "images/team/thomas.jpg"
+  enable: false
+  name: Marsh Angela Costa
+  designation: CEO, Trello
+  quote: "“Copper gives us the ease to have people hop in where they need to, to get
+    to a customer resolution really quickly.”"
+  image: images/team/thomas.jpg
   video:
-    enable : true
-    video_embed_link : "https://www.youtube.com/embed/dyZcRRWiuuw"
----
+    enable: true
+    video_embed_link: https://www.youtube.com/embed/dyZcRRWiuuw
+image: "/uploads/883-536x354.jpeg"
 
+---
 ## What Our **Client says**
 Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat sed.
