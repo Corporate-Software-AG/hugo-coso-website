@@ -63,7 +63,7 @@ link = "https://partnercenter.microsoft.com/de-de/pcv/solution-providers/corpora
 
 # Preloader
 [params.preloader]
-enable = true
+enable = false
 preloader = "images/logo_cc.png" # use jpg, png, svg or gif format.
 
 
