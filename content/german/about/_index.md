@@ -30,7 +30,7 @@ funfacts:
 vision:
   enable: true
   title: What Are The Main <strong>Vision Of Company?</strong>
-  image: "/images/about/03.jpg"
+  image: "/uploads/866-536x354.jpeg"
   content: Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy
     eirmod tempor invidunt ut labore et dolore magna aliquyam erat sed. At vero eos
     et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea
