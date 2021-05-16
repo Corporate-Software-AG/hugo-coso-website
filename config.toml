@@ -56,6 +56,7 @@ description = "This is meta description"
 author = "Thomas"
 # contact form action
 contact_form_action = "#" # contact form works with https://formspree.io
+main_image = "images/coso/seilschaft-2.png"
 
 [params.mspartner]
 image = "images/coso/MSGold_2019-12-19.jpeg"

@@ -4,8 +4,7 @@
 <footer class="bg-light-gray has-shapes has-bg-brash bg-brash-top "
   style="background-image: url('{{`images/brushes/footer.svg` | absURL}}')">
   <div class="container">
-    {{ if .Params.call_to_action.enable }}
-    {{ with .Params.call_to_action }}
+    {{ with $data.homepage.call_to_action }}
     <div class="row justify-content-center">
       <div class="col-lg-7 col-md-12">
         <div class="text-center pb-60">
@@ -20,7 +19,6 @@
                   d="M12.5522 6.66669L20.5522 14.6667C21.0329 15.1473 21.0699 15.9036 20.6632 16.4267L20.5522 16.5523L12.5522 24.5523L10.6666 22.6667L17.7228 15.6095L10.6666 8.55231L12.5522 6.66669Z"
                   fill="currentColor" /></svg></span>
           </a>
-          {{ end }}
           {{ end }}
         </div>
       </div>
