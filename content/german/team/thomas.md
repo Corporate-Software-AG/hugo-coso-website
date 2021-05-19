@@ -1,8 +1,8 @@
 ---
 title: Thomas von Mentlen
 image: "/uploads/thomas-vm_portrait.png"
-date: 2019-08-01T00:00:00.000+00:00
-description: Thomas von Mentlen – Unser Bots-Mentor
+date: 
+description: Thomas von Mentlen
 categories:
 - Bots
 - Azure
@@ -17,11 +17,11 @@ social:
   link: mailto:thomas.vonmentlen@corporatesoftware.ch
 
 ---
-Thomas war Leiter bei der Jungwacht und konnte dort viele Trainer Skills erlernen. Er weiss, was es braucht, damit etwas interessant bleibt. Und er weiss, wie Zusammenarbeit funktioniert, wie man Konflikte löst und kreative Lösungen findet.  
+Thomas war Leiter bei der Jungwacht und konnte dort viele Trainer Skills erlernen. Er weiss, was es braucht, damit etwas interessant bleibt. Und er weiss, wie Zusammenarbeit funktioniert, wie man Konflikte löst und kreative Lösungen findet.
 
 Er ist Spezialist im Bereich Webentwicklung & Integration von AI. NET-Core-Applikationen kombiniert er gerne mit Azure Services und Power Platform. Neben der Betreuung von Kundenprojekten schult er als Microsoft Certified Trainer IT Developer und Power User.
 
-> #### _A man's got to do what a man's got to do._
+> A man's got to do what a man's got to do.
 
 * Spezialgebiet: AI, DevOps, Webentwicklung mit Wordpress
 * Andere Gebiete : SharePoint, Dev, Azure Dev (SharePoint, Azure)
