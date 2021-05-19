@@ -1,21 +1,24 @@
 +++
-categories = ["Azure", "Microsoft 365", "Automation"]
+categories = ["Business Intelligence", "Training & Education", "IT-Infrastruktur", "Collaboration"]
 date = ""
-description = "Hekuran Mulaki"
-draft = true
-image = "/uploads/hekruan.png"
-job_title = "Junior DevOps Consultant"
-title = "Noah ZAni"
+description = "Noah Zani"
+image = "/uploads/noah.png"
+job_title = "Consultant, Trainer (MCT)"
+title = "Noah Zani"
 [[social]]
 icon = "ti-linkedin"
-link = "https://www.linkedin.com/in/hekuran-mulaki-4391a9195/"
+link = "https://www.linkedin.com/in/noahzani/"
 [[social]]
 icon = "ti-email"
-link = "mailto:hekuran.mulaki@corporatesoftware.ch"
+link = "mailto:noah.zani@corporatesoftware.ch"
 
 +++
-Hekuran ist  mit 2 Jahren in die Schweiz gezogen. Der Fussball und seine offene Kultur haben ihm geholfen, sich schnell zu integrieren. Deswegen ist es ihm wichtig, dass sich alle in der Gruppe schnell wohlfühlen. 2019 hat Hekuran im DevOps bei CoSo angefangen und ist hauptsächlich im Bereich Automation tätig. Dort beschäftigt er sich vor allem mit PowerShell.
+Noahs Mott zeigt: Selbstbestimmung ist ihm wichtig. Er bringt als Platform Engineer und -Berater mit seiner Besonnenheit die richtigen Plattformen für die optimale Zusammenarbeit des Kunden zusammen.  
 
-* Spezialgebiet: Automation mit PowerShell
-* Andere Gebiete: Microsoft 365 und Azure
-* Aktivitäten: Know-how Aufbau in den Bereichen PowerShell und DevOps
+Noah ist Co-Owner und Teamlead des Platform Teams. Er hat sich im Bereich Collaboration spezialisiert und betreut als Berater verschiedene Projekte rund um Microsoft 365 mit Fokus auf Teams und SharePoint. Als Microsoft Certified Trainer unterrichtet er SharePoint, Power BI und Office 365.
+
+> The best way to predict the future is to create IT. (Peter Drucker)
+
+* Spezialgebiet: Collaboration (SharePoint)
+* Andere Gebiete: Collaboration (Office 365, Power BI, K2)
+* Aktivitäten: SharePoint Platform Engineer, Consulting & Custominzing in den Bereichen SharePoint, K2 & Windows Server, Aufbau & Design von Kollaboration-Plattformen, Branding, Business Process Management, Business Intelligence, Trainer bei Digicomp
