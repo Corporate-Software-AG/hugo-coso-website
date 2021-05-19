@@ -85,3 +85,24 @@ services:
     invidunt ut labore et dolore magna aliquyam erat.
 
 ---
+**Was die Corporate Software ausmacht sind zwei Gründer, die daran glauben, dass Erfolg aus dem «innen» kommt. Matthias Gessenay, mit einem theologischen und pädagogischen Background und Patrick Sommer, der aus einer alteingesessen selbstständigen Handwerker Familie kommt.**   
+**Deswegen versuchen wir uns mit unseren Werten und Gewohnheiten immer wieder selbst zu reflektieren. Wir üben uns in Fehlerkultur und trainieren uns täglich darin eine vollumfängliche New Work Kultur zu Leben.**
+
+Was wir beide gemeinsam haben ist das Interesse an IT und die Erfahrung eines stetigen beruflichen Wandels und als Mensch. Beide haben wir bis zu unserer Selbstständigkeit alle 2-3 Jahre den Job gewechselt.
+
+Wir sind selbst durch die Cloud-Transformation gegangen und haben heute keine Angst mehr vor gravierenden Veränderungen. Wir haben ein Gewisses Urvertrauen, dass alles gut kommt. Und dieses Vertrauen müssen wir auch haben, denn in der Selbstständigkeit und in der Cloud kommt es darauf an die Kontrolle abzugeben der Technik und anderen Menschen zu Vertrauen.
+
+Und wir hatten immer die Motivation dieses Vertrauen in anderen zu stärken.
+
+Neben dem IT Business verstehen für uns heute als Mentoren von Menschen und Firmen, die wir in eine neue Welt der Arbeit begleiten. Denn wir verkaufen das, was wir selbst erlebt haben.
+
+Genau diese Kultur ist einerseits die Basis unseres Erfolgs, andererseits auch der Grund für die Zufriedenheit unserer Mitarbeiter/innen. Wir halten unsere Kommunikationswege kurz und die Hierarchie ist flach. Da wir uns alle auf Augenhöhe begegnen, kann sich jede/r mit neuen Ideen gleichermassen einbringen.
+
+Diese Werte liegen als Kern in unserer Firma verankert und wird durch die Mitarbeiter gelebt. Denn wir stellen gezielt intrinsisch motivierter Menschen ein, die wie wir selbst mit Unsicherheit und neuem flexiblen und schnellen Arbeiten umgehen können. Genau das bemerken unsere Kunden.   
+Eine Sicherheit und Erfahrung mit der technischen Umsetzung, die echt ist, weil wir selbst durch die Hürden der Digitalisierung durchgegangen sind und Vertrauen in die Technik haben. 
+
+Wir konnten zahlreiche Kunden begeistern und haben unter anderem Projekte namhafter Unternehmen realisiert und umgesetzt. Deswegen ist ein Teil unserer Arbeit heute die Rolle als Mentor, da wir die Disruption persönlich und als Firma erlebt haben.
+
+Für uns stehen die Bedürfnisse des Kunden im Mittelpunkt. Bevor wir Kunden eine Lösung anbieten und unsere Tätigkeiten aufnehmen, setzen wir uns genau mit der Problemstellung sowie dem Unternehmen auseinander. Die langjährige Pflege von nachhaltigen Kundenbeziehungen hat für uns einen hohen Stellenwert und ist für beide Seiten gewinnbringend. Wir sind erst dann zufrieden, wenn wir uns unsere Kunden begeistern können.
+
+Wir sind jung, flexibel und dynamisch im Geist und leben eine agile und moderne Arbeitskultur mit kurzen Entscheidungswegen und einer flachen Hierarchie. Wir kennen die Schwächen des virtuellen Zusammenarbeitens und wissen was notwendig ist, damit es nicht nur technisch funktioniert. Wir üben uns in Fehlerkultur und trainieren uns täglich darin New Work Kultur basierend auf Nachhaltigkeit, Vertrauen, Transparenz, Ehrlichkeit und Zuverlässigkeit zu Leben.
