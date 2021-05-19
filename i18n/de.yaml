@@ -1,24 +1,17 @@
+---
 - id: contact
-  translation:  Kontakt
-  
+  translation: Kontakt
 - id: social_links
-  translation: Sociale Medien
-
+  translation: Soziale Medien
 - id: phone
   translation: Telefon
-
 - id: email
   translation: E-Mail
-
 - id: privacy
   translation: Datenschutz und Impressum
-
 - id: office_times
   translation: Montag - Freitag
-
 - id: all_together
   translation: Alle
-
 - id: submit
   translation: Senden
-  
