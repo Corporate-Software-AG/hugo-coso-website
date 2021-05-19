@@ -15,17 +15,17 @@ mission:
   - Der Mensch im Zentrum
 funfacts:
   funfacts_item:
-  - name: Launched in April of
-    count: "2015"
+  - name: Uns gibt es seit
+    count: "2011"
     extension: ''
-  - name: Our product powers
-    count: "1000"
+  - name: Unsere Mitarbeitenden
+    count: "25"
     extension: "+"
-  - name: served customers
-    count: "15"
-    extension: M+
-  - name: Made by hand in
-    count: "250"
+  - name: Unsere Kundinnen & Kunden
+    count: "100"
+    extension: ''
+  - name: Unsere Projekte
+    count: "500"
     extension: "+"
 vision:
   title: What Are The Main <strong>Vision Of Company?</strong>
