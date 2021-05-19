@@ -1,8 +1,10 @@
 ---
 title: Über uns
-description: Corporate Software entwirft intelligente Cloud-IT-Lösungen für Unternehmen.
+description: "Corporate Software entwirft intelligente Cloud-IT-Lösungen für Unternehmen.
   Sie profitieren langfristig und erhalten individuelle Lösungen in den Bereichen
-  Collaboration, Data & Artificial Intelligence und Automation.
+  Collaboration, Data & Artificial Intelligence und Automation.\n\nWas wir gemeinsam
+  haben, ist das Interesse an der stetigen Verbesserung von Technik, Wirtschaft und
+  uns selbst. Wir gehen voran, um den nächsten Schritt zu ermöglichen.   "
 mission:
   title: Wir unterstützen Unternehmen, den <strong>nächsten Schritt</strong> zu tun
   image: "/uploads/866-536x354.jpeg"
