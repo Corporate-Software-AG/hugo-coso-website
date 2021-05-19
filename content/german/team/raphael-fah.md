@@ -2,7 +2,6 @@
 categories = ["Training & Education", "Collaboration", "Automation", "Azure & Office 365"]
 date = ""
 description = "Raphael Fäh – unser Automation Mentor"
-draft = true
 image = "/uploads/raphael-neu-fertig.png"
 job_title = "Senior-Consultant, MCSE Cloud Plattform und Infrastructure, Trainer (MCT)"
 title = "Raphael Fäh"
