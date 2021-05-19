@@ -1,20 +1,19 @@
 +++
 categories = []
 date = ""
-description = "Waltraud Ossig"
+description = "Johanna Ackermann"
 draft = true
 image = ""
-job_title = "Buchhaltung & Controlling, Gute Seele"
+job_title = ""
 title = "Johanna Ackermann"
 [[social]]
 icon = "ti-linkedin"
-link = "https://www.linkedin.com/in/waltraud-ossig-b3a171134/"
+link = "https://www.linkedin.com/in/johanna-ackermann-3b362618b/"
 [[social]]
 icon = "ti-email"
-link = "mailto:waltraud.ossig@corporatesoftware.ch"
+link = "mailto:johanna.ackermann@corporatesoftware.ch"
 
 +++
-
 * Spezialgebiet: 
 * Andere Gebiete: 
-* Aktivitäten: 
+* Aktivitäten:
