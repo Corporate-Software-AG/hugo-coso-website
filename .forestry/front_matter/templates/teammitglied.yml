@@ -31,6 +31,7 @@ fields:
     name: link
     label: link
 pages:
+- content/german/team/hekuran-mulaki.md
 - content/german/team/matthias-gessenay.md
 - content/german/team/new-member.md
 - content/german/team/raphael-fah-copy.md
