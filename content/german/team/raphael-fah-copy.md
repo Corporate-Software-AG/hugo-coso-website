@@ -1,5 +1,5 @@
 +++
-categories = ["Development", "Azure DevOps", "Training & Education", "Automation"]
+categories = ["Development", "Azure", "Training & Education", "Automation"]
 date = ""
 description = "Michael Zuberbühler – unser Vernetzungskünstler"
 image = "/uploads/michael.png"
