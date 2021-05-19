@@ -50,14 +50,12 @@ achivement:
     count: "3000"
     extension: "+"
   services:
-  - name: Fully Secure And Hacking Free
-    icon: ti-thumb-up
-  - name: Always Having A Great Supports
-    icon: ti-comments-smiley
-  - name: Build with Time Balanceing
+  - name: Collaboration
     icon: ti-video-clapper
-  - name: Fully Prepared with Safe Condition
-    icon: ti-shield
+  - name: Data + AI
+    icon: ti-thumb-up
+  - name: Automation
+    icon: ti-comments-smiley
 services:
 - name: Attached coache
   icon: ti-clip
