@@ -28,12 +28,12 @@ funfacts:
     count: "500"
     extension: "+"
 vision:
-  title: What Are The Main <strong>Vision Of Company?</strong>
+  title: Wir gehen voran, um den <strong>nächsten Schritt</strong> zu ermöglichen
   image: "/uploads/866-536x354.jpeg"
-  content: Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy
-    eirmod tempor invidunt ut labore et dolore magna aliquyam erat sed. At vero eos
-    et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea
-    takimata sanctus est Lorem ipsum dolor sit amet orem ipsum dolor sit amet
+  content: Mit einer Firmenkultur, die geprägt ist von hoher Agilität und Geschwindigkeit,
+    und dem exzellenten Know-how sowie stetiger Förderung der Mitarbeitenden entwickeln
+    wir gemeinsam mit unseren Kunden neue Lösungen für die sich ständig verändernde,
+    komplexe Technologie-Welt.
 achivement:
   title: Average yearly growth rate **across our clients We able to achive**
   content: Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy
