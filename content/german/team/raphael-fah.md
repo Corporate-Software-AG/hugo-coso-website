@@ -15,7 +15,7 @@ link = "https://www.linkedin.com/in/raphaelfaeh/"
 +++
 Raphael liest gerne Fantasy- und Science-Fiction-Romane und in der IT hat er den Ort gefunden, an dem er seine eigne Welt entwickeln kann. Seine Mission ist es, anderen Menschen den Spass an der IT so schmackhaft zu machen, dass sie Lust bekommen, Neues auszuprobieren. Raphael ist Co-Owner und Spezialist für Automation, Azure und Cloud Computing. Die Teilbereiche PowerShell, Serverless Computing und SharePoint gehören zu seinen Fachgebieten. Neben der Betreuung verschiedener Kundenprojekte schult er als Microsoft Certified Trainer IT Professionals und Architects.
 
-**"Lernen ist wie Rudern gegen den Strom. Hört man damit auf, treibt man zurück. (Laozi)"**
+> **Lernen ist wie Rudern gegen den Strom. Hört man damit auf, treibt man zurück. (Laozi)**
 
 * Spezialgebiet: IT-Automation (PowerShell)
 * Andere Gebiete : Azure Cloud Computing, Collaboration (SharePoint, Office 365), System Center
