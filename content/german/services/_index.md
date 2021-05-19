@@ -7,13 +7,12 @@ description: |-
 
   Unsere Services decken vier Bereiche ab, in welchen wir zusätzlich Schulungen anbieten:
 services:
-- name: Attached coache
+- name: Co-Working
   icon: ti-clip
-  content: Blabla
-- name: Instant Notification
+  content: Wir setzen auf agiles Arbeiten ...
+- name: Training & Coaching
   icon: ti-bell
-  content: Lorem ipsum dolor , consetetur sadipscing gfed diam nonumy eirmod tempor
-    invidunt ut labore et dolore magna aliquyam erat.
+  content: Damit Ihre Mitarbeitenden von Anfang mit dabei sind.
 - name: Live Attachment
   icon: ti-blackboard
   content: Lorem ipsum dolor , consetetur sadipscing gfed diam nonumy eirmod tempor
