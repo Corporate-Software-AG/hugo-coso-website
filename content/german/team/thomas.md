@@ -1,6 +1,6 @@
 ---
 title: Thomas von Mentlen
-image: images/team/thomas.jpg
+image: "/uploads/thomas-vm_portrait.png"
 date: 2019-08-01T00:00:00.000+00:00
 description: Thomas von Mentlen – Unser Bots-Mentor
 categories:
@@ -12,11 +12,9 @@ job_title: Cloud Consultant, Trainer (MCT)
 team: Seal Team
 social:
 - icon: ti-linkedin
-  link: "#"
-- icon: ti-twitter-alt
-  link: "#"
-- icon: ti-github
-  link: "#"
+  link: https://www.linkedin.com/in/thomas-von-mentlen/
+- icon: ti-email
+  link: mailto:thomas.vonmentlen@corporatesoftware.ch
 
 ---
 Thomas war Leiter bei der Jungwacht und konnte dort viele Trainer Skills erlernen. Er weiss, was es braucht, damit etwas interessant bleibt. Und er weiss, wie Zusammenarbeit funktioniert, wie man Konflikte löst und kreative Lösungen findet.  
