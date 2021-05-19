@@ -1,26 +1,25 @@
 +++
-categories = ["Training & Education", "Management", "Servicemanagement", "Projektmanagement"]
+categories = ["Power Automate", "PowerApps", "Training & Education", "Microsoft 365"]
 date = ""
-description = "Patrick Sommer"
-draft = true
-image = "/uploads/patrick.png"
-job_title = "CEO und CO-Gründer, Senior-Consultant, Hermes Advanced, ITIL-Trainer, Trainer (MCT), MPP Data Science und Cloud Admin"
+description = "Sebastian Steer"
+image = ""
+job_title = "Junior Consultant, Trainer (MCT)"
 team = "Seal Team"
 title = "Sebastian Steer"
 [[social]]
 icon = "ti-email"
-link = "mailto:patrick.sommer@corporatesoftware.ch"
+link = "mailto:sebastian.steer@corporatesoftware.ch"
 [[social]]
 icon = "ti-linkedin"
-link = "https://www.linkedin.com/in/patrick-d-sommer/"
+link = "https://www.linkedin.com/in/sebastian-steer/"
 
 +++
-Als Weinliebhaber sind für Patrick Sinnhaftigkeit, Erfüllung sowie das Leben der eigenen Werte wichtig. Neben dem Interesse am IT-Business motiviert es ihn, voranzugehen, um Menschen und Organisationen zu befähigen, den nächsten Schritt zu ermöglichen. 
+Als Bergsteiger weiss Sebastian, dass es darauf ankommt, sich selbst und dem Team zu vertrauen, um sich ganz auf die Aktion fokussieren zu können. Diese Kultur lebt er auch in seinen Projekten und Trainings.  
 
-Patrick, Gründer & Co-Owner von CoSo, hat seine Rolle als Guide, Impulsgeber und Umsetzer für die Weiterentwicklung unserer Mitarbeitenden und Menschen in anderen Organisationen. Seine Fachgebiete liegen im agilen Projekt- und Servicemanagement sowie in der dafür effizienten Nutzung der optimalen technischen Lösung.
+Sebastians Fachgebiete sind Business Automation und Collaboration. Er betreut Projekte rund um die Power Platform mit Power Apps, Power Automate und Power BI und hilft bei der Prozessoptimierung und Collaboration auf der Basis von Office 365 und Azure. Er ist Microsoft Certified Trainer.
 
-> #### An der Schnittstelle zwischen Business und IT bringe ich die Praxiserfahrung in die Theorie.
+> There is nothing permanent except change. Heraclitus
 
-* Spezialgebiet: Agiles Project- & Servicemanagement, Führung interdisziplinärer Teams
-* Andere Gebiete : Azure Cloud Computing, Collaboration
-* Aktivitäten: Geschäftsführung, Business & IT Consulting, Cloud Architect, Analyse & Anpassung von Prozessen, Coaching & Leitung von Kundenprojekten, Trainer für ITIL, Microsoft, EuroCloud & Resilia
+* Spezialgebiet: Business Applications & Business Process Management, Data Science
+* Andere Gebiete: Aufbau zum MPP (Microsoft Professional Program), Collaboration
+* Aktivitäten: Trainertätigkeit, Durchführung von Business Process Management- und Data Science Projekten
