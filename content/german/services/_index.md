@@ -7,28 +7,15 @@ description: |-
 
   Unsere Services decken vier Bereiche ab, in welchen wir zusätzlich Schulungen anbieten:
 services:
-- name: Co-Working
-  icon: ti-clip
-  content: Wir setzen auf agiles Arbeiten ...
+- name: Der Mensch im Zentrum
+  icon: ti-heart
+  content: Wir setzen auf agiles Arbeiten in Co-Creation mit unseren Kundinnen & Kunden.
 - name: Training & Coaching
-  icon: ti-bell
+  icon: ti-book
   content: Damit Ihre Mitarbeitenden von Anfang mit dabei sind.
-- name: Live Attachment
-  icon: ti-blackboard
-  content: Lorem ipsum dolor , consetetur sadipscing gfed diam nonumy eirmod tempor
-    invidunt ut labore et dolore magna aliquyam erat.
-- name: Instant Notification
-  icon: ti-bell
-  content: Lorem ipsum dolor , consetetur sadipscing gfed diam nonumy eirmod tempor
-    invidunt ut labore et dolore magna aliquyam erat.
-- name: Live Attachment
-  icon: ti-blackboard
-  content: Lorem ipsum dolor , consetetur sadipscing gfed diam nonumy eirmod tempor
-    invidunt ut labore et dolore magna aliquyam erat.
-- name: Attached coache
-  icon: ti-clip
-  content: Lorem ipsum dolor , consetetur sadipscing gfed diam nonumy eirmod tempor
-    invidunt ut labore et dolore magna aliquyam erat.
+- name: Zertifizierter Erfolg
+  icon: ti-cup
+  content: Wir sind Microsoft Partner seit 2014 mit 9 Gold-Partner-Zertifizierungen
 
 ---
 {{< section-1 image="images/coso/bereich_datascience.png">}}
