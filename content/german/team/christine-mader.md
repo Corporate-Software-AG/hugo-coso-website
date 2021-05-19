@@ -1,26 +1,26 @@
 +++
-categories = ["Bots", "Azure", "SharePoint", "Teams"]
+categories = []
 date = ""
-description = "Thomas von Mentlen"
+description = "Christine Mäder"
 draft = true
-image = "/uploads/thomas-vm_portrait.png"
-job_title = "Cloud Consultant, Trainer (MCT)"
+image = "/uploads/christine-fertig.png"
+job_title = "Senior Marketing Manager, Gute Seele"
 team = "Seal Team"
 title = "Christine Mäder"
 [[social]]
 icon = "ti-linkedin"
-link = "https://www.linkedin.com/in/thomas-von-mentlen/"
+link = "https://www.linkedin.com/in/christine-m%C3%A4der-81393259/"
 [[social]]
 icon = "ti-email"
-link = "mailto:thomas.vonmentlen@corporatesoftware.ch"
+link = "mailto:christine.maeder@corporatesoftware.ch"
 
 +++
-Thomas war Leiter bei der Jungwacht und konnte dort viele Trainer Skills erlernen. Er weiss, was es braucht, damit etwas interessant bleibt. Und er weiss, wie Zusammenarbeit funktioniert, wie man Konflikte löst und kreative Lösungen findet.
+Christine ist ursprünglich Buchhändlerin mit einem Faible für Sprachen. Dieses hat sie nach der Lehre auch zum Übersetzer-Studium gebracht. Die Themen Menschen, Veränderung, Organisation und Kommunikation haben sie auf all ihren Stationen beschäftigt. Sie hat selbst viele Changes miterlebt und erfahren, wie Veränderung beflügeln kann, wenn man sie ganzheitlich und menschlich gestaltet.
 
-Er ist Spezialist im Bereich Webentwicklung & Integration von AI. NET-Core-Applikationen kombiniert er gerne mit Azure Services und Power Platform. Neben der Betreuung von Kundenprojekten schult er als Microsoft Certified Trainer IT Developer und Power User.
+CoSo unterstützt sie in den Bereichen Marketing und Kommunikation und als zweifache Mama mit Drahtseilnerven mit einem Gespür für Zwischentöne als "Gute Seele".
 
-> A man's got to do what a man's got to do.
+> Wenn Veränderung beflügelt.
 
-* Spezialgebiet: AI, DevOps, Webentwicklung mit Wordpress
-* Andere Gebiete : SharePoint, Dev, Azure Dev (SharePoint, Azure)
-* Aktivitäten: Entwicklung interner Prozesse, Unterstützung bei Kundenprojekten, Betreuung Testing Center, Trainertätigkeit
+* Spezialgebiet: Branding, Content Marketing
+* Andere Gebiete: Digital Marketing, Customer Journey Building, Mitarbeiterbefähigung, Strategieentwicklung, Change Management
+* Aktivitäten: Marketing-Strategie, Branding, Kundenkommunikation, Social Media & Community Management, Digital Marketing
