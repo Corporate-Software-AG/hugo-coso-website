@@ -21,8 +21,10 @@
           </label>
           
 					{{ $group := slice }}
-					{{ range .Pages }}
-					{{ $group = $group | append .Params.team }}
+          {{ range .Pages }}
+          {{ if .Params.team }}
+            {{ $group = $group | append .Params.team }}
+          {{ end }}
           {{ end }}
           
 					{{ range ( $group | uniq ) }}
