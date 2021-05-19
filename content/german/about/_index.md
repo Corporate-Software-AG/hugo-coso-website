@@ -1,16 +1,18 @@
 ---
 title: Über uns
-description: this is meta description
+description: Corporate Software entwirft intelligente Cloud-IT-Lösungen für Unternehmen.
+  Sie profitieren langfristig und erhalten individuelle Lösungen in den Bereichen
+  Collaboration, Data & Artificial Intelligence und Automation.
 mission:
-  title: Our mission is to <strong>empower businesses With Tools</strong>
+  title: Wir unterstützen Unternehmen, den <strong>nächsten Schritt</strong> zu tun
   image: "/uploads/866-536x354.jpeg"
-  content: Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy
-    eirmod tempor invidunt ut labore et dolore magna aliquyam erat sed. At vero eos
-    et accusam et justo duo dolores
+  content: Wir begleiten unsere Kunden bei der Entdeckung von neuen Gebieten und treiben
+    innovative Projekte voran. Zudem sind wir selbst in ständiger Weiterentwicklung
+    und lassen unsere Mitarbeitenden und Kunden daran teilhaben.
   bulletpoints:
-  - Habit building in essential steps choose habit Good Things
-  - Get an overview of Habit Calendars admiral general.
-  - Start building habit with Habitify on platform to new
+  - Cloud, Artificial Intelligence, Data Science
+  - Ständige Weiterentwicklung
+  - Der Mensch im Zentrum
 funfacts:
   funfacts_item:
   - name: Launched in April of
