@@ -36,6 +36,10 @@ services:
 
 ## Data & Artificial Intelligence
 
+Wettbewerbsvorteile durch Data und Künstliche Intelligenz
+
+Holen Sie alles aus Ihren Daten. Wir helfen Ihnen dabei! Reporting und Analytics mit Tools der neuesten Generation. Wir zeigen Ihnen das volle Potenzial von Power BI und Azure Synapse. Zudem binden wir individuell gestaltete künstliche Intelligenz und Azure Cognitive Services in Ihre Applikationen ein.
+
 Damit Ihr Unternehmen seine gesamten Daten bestmöglich nutzen kann.
 
 Nutzen Sie die Vorteile:
@@ -70,6 +74,10 @@ Wir arbeiten mit:
 
 ## Automation
 
+Verbesserung und Unterstützung der Arbeitsprozesse
+
+Überlassen Sie die repetitiven Aufgaben den Maschinen. Wir entwickeln individuelle Automation-Lösungen für Ihre Bedürfnisse. Intelligente Workflows durch Robotic Process Automation (RPA) oder Sie unterstützen Ihre Kunden mit einem Chat-Bot auf Ihrer Webseite oder Applikation.
+
 Durch das automatisieren Ihrer Abläufe sparen Sie nicht nur Zeit sondern verbessern stetig die Qualität. Dank der Automation haben Sie mehr Zeit, sich um die wesentlichen Dinge zu kümmern.
 
 Nutzen Sie die Vorteile:
@@ -97,6 +105,10 @@ Wir arbeiten mit:
 {{< section-1 image="images/coso/collaboration.png">}}
 
 ## Collaboration
+
+Vernetzte und effiziente Zusammenarbeit
+
+Modern Workplace mit den neuesten Funktionen der Office 365 Produktpalette, Microsoft Teams und der Implementierung der Prozesse via Power Platform. Wir unterstützen Sie beim Schritt in die Cloud, so dass Dokumentenverwaltung und Ihre Kommunikation agil und einfach sind.
 
 Ohne Schwierigkeiten Agilität umsetzen und effektiv nutzen können.
 
