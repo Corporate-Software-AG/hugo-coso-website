@@ -57,7 +57,7 @@ featured_testimonial:
   video:
     enable: true
     video_embed_link: https://www.youtube.com/embed/dyZcRRWiuuw
-image: "/uploads/883-536x354.jpeg"
+image: "/uploads/bernina-express-auf-dem-kreisviadukt.jpg"
 
 ---
 Die Rhätische Bahn, in vielen Köpfen als Ferienbahn in romantischer Erinnerung, macht auf einer ganz anderen Ebene Dampf: im zukunftsgerichteten Umgang mit Daten. Wir haben mit Meinrad Hidber, Projektleiter für Data Science bei der RhB, und Julia Moser von Corporate Software gesprochen, die als Wegbegleiterin für Microsoft Power BI mit im Zug sitzt.
