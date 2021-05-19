@@ -1,17 +1,17 @@
 +++
 categories = []
 date = ""
-description = "Waltraud Ossig"
+description = "Maxime Lavoie"
 draft = true
 image = ""
-job_title = "Buchhaltung & Controlling, Gute Seele"
+job_title = "Junior Cloud Consultant"
 title = "Maxime Lavoie"
 [[social]]
 icon = "ti-linkedin"
-link = "https://www.linkedin.com/in/waltraud-ossig-b3a171134/"
+link = "https://www.linkedin.com/in/maxim-lavoie-8a73a211b/"
 [[social]]
 icon = "ti-email"
-link = "mailto:waltraud.ossig@corporatesoftware.ch"
+link = "mailto:maxim.lavoie@corporatesoftware.ch"
 
 +++
 
