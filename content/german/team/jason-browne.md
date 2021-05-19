@@ -1,26 +1,25 @@
 +++
-categories = ["Bots", "Azure", "SharePoint", "Teams"]
+categories = ["Training & Education", "Microsoft 365"]
 date = ""
-description = "Thomas von Mentlen"
-draft = true
-image = "/uploads/thomas-vm_portrait.png"
-job_title = "Cloud Consultant, Trainer (MCT)"
+description = "Jason Browne"
+image = "/uploads/jason-fertig.png"
+job_title = "Junior Consultant"
 team = "Seal Team"
 title = "Jason Browne"
 [[social]]
 icon = "ti-linkedin"
-link = "https://www.linkedin.com/in/thomas-von-mentlen/"
+link = "https://www.linkedin.com/in/jason-browne-35b93a192/"
 [[social]]
 icon = "ti-email"
-link = "mailto:thomas.vonmentlen@corporatesoftware.ch"
+link = "mailto:jason.browne@corporatesoftware.ch"
 
 +++
-Thomas war Leiter bei der Jungwacht und konnte dort viele Trainer Skills erlernen. Er weiss, was es braucht, damit etwas interessant bleibt. Und er weiss, wie Zusammenarbeit funktioniert, wie man Konflikte löst und kreative Lösungen findet.
+In seiner ersten Karriere war Jason Captain der U21 des FC Aarau. Dort hat er gelernt, die Balance zwischen Wettbewerb und geschlossener Einheit zu leben. Er interessiert sich sehr für das Zusammenspiel zwischen Technik und Mensch.  
 
-Er ist Spezialist im Bereich Webentwicklung & Integration von AI. NET-Core-Applikationen kombiniert er gerne mit Azure Services und Power Platform. Neben der Betreuung von Kundenprojekten schult er als Microsoft Certified Trainer IT Developer und Power User.
+Jason ist bei CoSo im Bereich Collaboration mit Fokus auf Teams und SharePoint tätig. Bei der Konzeption und Umsetzung von Lösungen nutzt er seine Kenntnisse von Microsoft Azure. Zurzeit macht er seine Ausbildung zum Microsoft Certified Trainer.
 
-> A man's got to do what a man's got to do.
+> Einfach machen! Im schlimmsten Fall wird es eine Erfahrung.
 
-* Spezialgebiet: AI, DevOps, Webentwicklung mit Wordpress
-* Andere Gebiete : SharePoint, Dev, Azure Dev (SharePoint, Azure)
-* Aktivitäten: Entwicklung interner Prozesse, Unterstützung bei Kundenprojekten, Betreuung Testing Center, Trainertätigkeit
+* Spezialgebiet: Collaboration (Teams & Office 365 Tools)
+* Andere Gebiete: Azure und MS Fundamentals, Data + AI
+* Aktivitäten: Know-How-Aufbau, Erstellung von Kursunterlagen, Unterstützung bei Projekten, Aufbau zum Trainer (MCT)
