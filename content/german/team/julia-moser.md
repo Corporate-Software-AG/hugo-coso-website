@@ -1,26 +1,25 @@
 +++
-categories = ["Office 365", "PowerApps", "SharePoint"]
+categories = ["Power BI", "Machine Learning", "Data Science", "Training & Education"]
 date = ""
-description = "Julia Witschi"
-draft = true
-image = "/uploads/julia-1-fertig.png"
-job_title = "Junior Consultant"
+description = "Julia Moser"
+image = "/uploads/cs-julia-moser-fertig-mit-weiss.png"
+job_title = "Consultant, Trainerin (MCT), Microsoft Professional Programm (MPP) \"Data Science\""
 team = "Seal Team"
 title = "Julia Moser"
 [[social]]
 icon = "ti-email"
-link = "mailto:julia.witschi@corporatesoftware.ch"
+link = "mailto:julia.moser@corporatesoftware.ch"
 [[social]]
 icon = "ti-linkedin"
-link = "https://www.linkedin.com/in/julia-witschi-b9927b156/"
+link = "https://www.linkedin.com/in/julmoser"
 
 +++
-Julia wollte immer Astronautin werden, doch da die Chance, auf den Mond zu fliegen, sehr gering ist, hat sie sich für das Abenteuer Wirtschaftsinformatik entschieden. Auch hier sind Unsicherheit und das Vertrauen in sich selbst und die Technik entscheidend.  
+Julia hat Psychologie studiert und die Auswertung grosser Datenmengen und Didaktik erlernt. Heute hilft ihr das psychologische Studium aber auch im Bereich der Künstlichen Intelligenz. Denn da kommt die Frage auf, was uns als Mensch ausmacht.
 
-Julia ist Spezialistin in der Vereinfachung und Automatisierung von Business-Prozessen durch PowerApps und Flow. Dieses Spezialgebiet verbindet sie mit ihrem Know-how für Collaboration, um kundengerechte Lösungen zu entwickeln. Derzeit macht sie eine Ausbildung als Microsoft Certified Trainerin.
+Julia ist Spezialistin im Bereich Data Science mit Fokus auf Azure Machine Learning & Power BI. Sie unterstützt Kunden bei der Einführung von Advanced Analytics Solutions und gibt Trainings im Bereich Data Science. Sie ist Microsoft Certified Azure Data Engineer Associate und Azure Data Science Associate.
 
-> Wohin du auch gehst, geh mit deinem ganzen Herzen. - Konfuzius
+> With data as the new soil we'll grow the gardens of Versailles.
 
-* Spezialgebiet: PowerApps und Flow (Data + AI)
-* Andere Gebiete Collaboration und Business Automation, angehende Trainerin
-* Aktivitäten: Unterstützung bei Kundenprojekten, Wissensaufbau, Vorbereitung zum MCT und weitere Zertifizierungen, Erstellung von Kursunterlagen mit dem Fokus auf User/PowerUser-Kurse für O365 (MS Teams, SharePoint Online, Flow, PowerApps, etc.)
+* Spezialgebiet: Data Science (Power BI, Python, R)
+* Andere Gebiete: Artificial Intelligence (Bots)
+* Aktivitäten: Trainerin bei Digicomp, Lehrgangsplanung, Betreuung der MPP-Lehrgänge, Betreuung von Kundenprojekten, Produktentwicklung (Power BI Custom Visuals)
