@@ -6,15 +6,11 @@ description: "Corporate Software entwirft intelligente Cloud-IT-Lösungen für U
   haben, ist das Interesse an der stetigen Verbesserung von Technik, Wirtschaft und
   uns selbst. Wir gehen voran, um den nächsten Schritt zu ermöglichen.   "
 mission:
-  title: Wir unterstützen Unternehmen, den <strong>nächsten Schritt</strong> zu tun
+  title: Wie wir uns <strong>verhalten</strong>
   image: "/uploads/cs-bewerbungsmappe-karriere-fertig.png"
-  content: Wir begleiten unsere Kunden bei der Entdeckung von neuen Gebieten und treiben
-    innovative Projekte voran. Zudem sind wir selbst in ständiger Weiterentwicklung
-    und lassen unsere Mitarbeitenden und Kunden daran teilhaben.
-  bulletpoints:
-  - Cloud, Artificial Intelligence, Data Science
-  - Ständige Weiterentwicklung
-  - Der Mensch im Zentrum
+  content: 'Für uns steht der Mensch im Zentrum: Wir pflegen Beziehungen und sind
+    sichtbar für einander. Unsere Umwelt gestalten wir mit und tun das Richtige.'
+  bulletpoints: []
 funfacts:
   funfacts_item:
   - name: Uns gibt es seit
@@ -30,12 +26,11 @@ funfacts:
     count: "500"
     extension: "+"
 vision:
-  title: Wir gehen voran, um den <strong>nächsten Schritt</strong> zu ermöglichen
+  title: Woran wir <strong>glauben</strong>
   image: "/uploads/seilschaft-2.png"
-  content: Mit einer Firmenkultur, die geprägt ist von hoher Agilität und Geschwindigkeit,
-    und dem exzellenten Know-how sowie stetiger Förderung der Mitarbeitenden entwickeln
-    wir gemeinsam mit unseren Kunden neue Lösungen für die sich ständig verändernde,
-    komplexe Technologie-Welt.
+  content: CoSo begleitet seine Kunden bei der Entdeckung von neuen Gebieten und befähigt
+    sie, mit Technologie neue Prozesse, neues Zusammenarbeiten, neue Produkte für
+    sich zu entdecken. Wir gehen voran, um den nächsten Schritt zu ermöglichen.
 achivement:
   title: Average yearly growth rate **across our clients We able to achive**
   content: Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy
