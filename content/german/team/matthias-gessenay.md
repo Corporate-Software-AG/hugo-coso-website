@@ -3,7 +3,7 @@ categories = ["Projektmanagement", "Service Management", "Training & Education",
 date = ""
 description = "Matthias Gesseny – unser Azure-Alchimist"
 draft = true
-image = ""
+image = "/uploads/matthias.png"
 job_title = "CTO und CO-Gründer, Senior-Consultant, Microsoft Azure MVP, Fachbereichsleiter Private Cloud Digicomp, ITIL-Trainer, Trainer (MCT)"
 title = "Matthias Gessenay"
 [[social]]
