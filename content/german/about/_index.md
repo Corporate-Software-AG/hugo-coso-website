@@ -7,7 +7,7 @@ description: "Corporate Software entwirft intelligente Cloud-IT-Lösungen für U
   uns selbst. Wir gehen voran, um den nächsten Schritt zu ermöglichen.   "
 mission:
   title: Wir unterstützen Unternehmen, den <strong>nächsten Schritt</strong> zu tun
-  image: "/uploads/866-536x354.jpeg"
+  image: "/uploads/cs-bewerbungsmappe-karriere-fertig.png"
   content: Wir begleiten unsere Kunden bei der Entdeckung von neuen Gebieten und treiben
     innovative Projekte voran. Zudem sind wir selbst in ständiger Weiterentwicklung
     und lassen unsere Mitarbeitenden und Kunden daran teilhaben.
@@ -31,7 +31,7 @@ funfacts:
     extension: "+"
 vision:
   title: Wir gehen voran, um den <strong>nächsten Schritt</strong> zu ermöglichen
-  image: "/uploads/866-536x354.jpeg"
+  image: "/uploads/seilschaft-2.png"
   content: Mit einer Firmenkultur, die geprägt ist von hoher Agilität und Geschwindigkeit,
     und dem exzellenten Know-how sowie stetiger Förderung der Mitarbeitenden entwickeln
     wir gemeinsam mit unseren Kunden neue Lösungen für die sich ständig verändernde,
@@ -58,31 +58,7 @@ achivement:
     icon: ti-thumb-up
   - name: Automation
     icon: ti-comments-smiley
-services:
-- name: Attached coache
-  icon: ti-clip
-  content: Lorem ipsum dolor , consetetur sadipscing gfed diam nonumy eirmod tempor
-    invidunt ut labore et dolore magna aliquyam erat.
-- name: Instant Notification
-  icon: ti-bell
-  content: Lorem ipsum dolor , consetetur sadipscing gfed diam nonumy eirmod tempor
-    invidunt ut labore et dolore magna aliquyam erat.
-- name: Live Attachment
-  icon: ti-blackboard
-  content: Lorem ipsum dolor , consetetur sadipscing gfed diam nonumy eirmod tempor
-    invidunt ut labore et dolore magna aliquyam erat.
-- name: Instant Notification
-  icon: ti-bell
-  content: Lorem ipsum dolor , consetetur sadipscing gfed diam nonumy eirmod tempor
-    invidunt ut labore et dolore magna aliquyam erat.
-- name: Live Attachment
-  icon: ti-blackboard
-  content: Lorem ipsum dolor , consetetur sadipscing gfed diam nonumy eirmod tempor
-    invidunt ut labore et dolore magna aliquyam erat.
-- name: Attached coache
-  icon: ti-clip
-  content: Lorem ipsum dolor , consetetur sadipscing gfed diam nonumy eirmod tempor
-    invidunt ut labore et dolore magna aliquyam erat.
+services: []
 
 ---
 **Was die Corporate Software ausmacht sind zwei Gründer, die daran glauben, dass Erfolg aus dem «innen» kommt. Matthias Gessenay, mit einem theologischen und pädagogischen Background und Patrick Sommer, der aus einer alteingesessen selbstständigen Handwerker Familie kommt.**   
