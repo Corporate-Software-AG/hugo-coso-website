@@ -1,8 +1,6 @@
 ---
 title: Team
 teamimage: "/uploads/coso_team.png"
-image: "/uploads/coso_team.png"
-
 ---
 ## Unser **Team**
 
