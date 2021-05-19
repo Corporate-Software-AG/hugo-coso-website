@@ -1,26 +1,25 @@
 +++
-categories = ["Power Automate", "PowerApps", "Training & Education", "Microsoft 365"]
+categories = ["Azure Development", "Microsoft 365", "Teams", "SharePoint", "Training & Education"]
 date = ""
-description = "Sebastian Steer"
-draft = true
-image = ""
-job_title = "Junior Consultant, Trainer (MCT)"
+description = "Markus Hintner"
+image = "/uploads/markus.png"
+job_title = "Senior-Consultant, Microsoft Certified Master (MSCM), Trainer (MCT)"
 team = "Seal Team"
 title = "Markus Hintner"
 [[social]]
 icon = "ti-email"
-link = "mailto:sebastian.steer@corporatesoftware.ch"
+link = "mailto:markus.hintner@corporatesoftware.ch"
 [[social]]
 icon = "ti-linkedin"
-link = "https://www.linkedin.com/in/sebastian-steer/"
+link = "https://www.linkedin.com/in/markushintner/?originalSubdomain=de"
 
 +++
-Als Bergsteiger weiss Sebastian, dass es darauf ankommt, sich selbst und dem Team zu vertrauen, um sich ganz auf die Aktion fokussieren zu können. Diese Kultur lebt er auch in seinen Projekten und Trainings.  
+Es gibt kaum eine Frage im Bereich Collaboration, die Markus nicht beantworten kann. Dank seiner Forscher- und Tüftlerseele hat er schon als Kind sein Fahrrad ganz nach seinen eigenen Bedürfnissen aus Teilen vom Schrottplatz zusammengebaut.  
 
-Sebastians Fachgebiete sind Business Automation und Collaboration. Er betreut Projekte rund um die Power Platform mit Power Apps, Power Automate und Power BI und hilft bei der Prozessoptimierung und Collaboration auf der Basis von Office 365 und Azure. Er ist Microsoft Certified Trainer.
+Markus hat sich im Bereich Microsoft 365 als Berater und Entwickler sowie als Troubleshooter einen Namen gemacht. Er ist Microsoft Certified Solutions Master und Trainer und gibt seinen Kunden die Details von Microsoft 365, Azure und SQL Server in Trainings und Projekten weiter.
 
-> There is nothing permanent except change. Heraclitus
+> _Amat Victoria curam? Victory loves preparation._
 
-* Spezialgebiet: Business Applications & Business Process Management, Data Science
-* Andere Gebiete: Aufbau zum MPP (Microsoft Professional Program), Collaboration
-* Aktivitäten: Trainertätigkeit, Durchführung von Business Process Management- und Data Science Projekten
+* Spezialgebiet: Collaboration (SharePoint on-premises and online), Azure Cloud Computing (Azure im Bereich Programmierung)
+* Andere Gebiete: Collaboration (Office 365), SQL Server
+* Aktivitäten: Consulting, Entwickler & Troubleshooter in SharePoint, Business Process Management, SQL Server Database Engine und Business Intelligence, Coach & Trainer in Österreich, der Schweiz und Deutschland
