@@ -1,51 +1,30 @@
 ---
-title : "Thomas von Mentlen"
-image : "images/team/thomas.jpg"
-date: 2019-08-01T00:00:00+00:00
-description : "Beschreibung ..."
-categories: ["Azure", "SharePoint", "Teams"]
-job_title : "Cloud Consultant"
-team: "Seal Team"
+title: Thomas von Mentlen
+image: images/team/thomas.jpg
+date: 2019-08-01T00:00:00.000+00:00
+description: Thomas von Mentlen – Unser Bots-Mentor
+categories:
+- Bots
+- Azure
+- SharePoint
+- Teams
+job_title: Cloud Consultant, Trainer (MCT)
+team: Seal Team
 social:
-  - icon : "ti-linkedin"
-    link : "#"
-  - icon : "ti-twitter-alt"
-    link : "#"
-  - icon : "ti-github"
-    link : "#"
-draft : false
+- icon: ti-linkedin
+  link: "#"
+- icon: ti-twitter-alt
+  link: "#"
+- icon: ti-github
+  link: "#"
+
 ---
+Thomas war Leiter bei der Jungwacht und konnte dort viele Trainer Skills erlernen. Er weiss, was es braucht, damit etwas interessant bleibt. Und er weiss, wie Zusammenarbeit funktioniert, wie man Konflikte löst und kreative Lösungen findet.  
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nec et ipsum ullamcorper venenatis fringilla.
-Pretium, purus eu nec vulputate vel habitant egestas. Congue ornare at ipsum, viverra. Vitae magna faucibus
-eros, lectus sociis. Etiam nunc amet id dignissim. Feugiat id tempor vel sit in ornare turpis posuere. Eu
-quisque integer non rhoncus elementum vel. Quis nec viverra lectus augue nec praesent
+Er ist Spezialist im Bereich Webentwicklung & Integration von AI. NET-Core-Applikationen kombiniert er gerne mit Azure Services und Power Platform. Neben der Betreuung von Kundenprojekten schult er als Microsoft Certified Trainer IT Developer und Power User.
 
-Laoreet mauris odio ut nec. Nisl, sed adipiscing dignissim arcu placerat ornare pharetra nec
-in. Ultrices in nisl potenti vitae tempus. Auctor consectetur luctus eu in amet sagittis. Dis urna, vel
-hendrerit convallis Senectus feugiat faucibus commodo egestas leo vitae in morbi. Enim arcu dignissim
-mauris,
-eu, eget
+> #### _A man's got to do what a man's got to do._
 
-pharetra odio amet pellentesque. Egestas nisi adipiscing sed in lectus. Vitae ultrices malesuada aliquet
-Faucibus consectetur tempus adipiscing vitae. Nec blandit tincidunt nibh nisi, quam volutpat. In lacus
-laoreet
-diam risus. Mauris, risus faucibus sagittis sagittis tincidunt id justo. Diam massa pretium consequat mauris
-viverra. Sagittis eu libero
-
-> #### A wise girls her limit to touch sky. Repellat neque praesentium adipisci. This is an idea, this is as quickly.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nec et ipsum ullamcorper venenatis fringilla.
-Pretium, purus eu nec vulputate vel habitant egestas. Congue ornare at ipsum, viverra. Vitae magna faucibus
-eros, lectus sociis. Etiam nunc amet id dignissim. Feugiat id tempor vel sit in ornare turpis posuere. Eu
-quisque integer non rhoncus elementum vel. Quis nec viverra lectus augue nec praesent volutpat tortor. Ipsum
-eget sed tempus luctus nisl. Ut etiam molestie mattis at faucibus mi at pellentesque. Pellentesque morbi
-nunc, curabitur arcu euismod suscipit. Duis mi sapien, donec non dictum 
-
-Laoreet mauris odio ut nec. Nisl, sed adipiscing dignissim arcu placerat ornare pharetra nec
-in. Ultrices in nisl potenti vitae tempus. Auctor consectetur luctus eu in amet sagittis. Dis urna, vel
-hendrerit convallis cursus id.
-
-Senectus feugiat faucibus commodo egestas leo vitae in morbi. Enim arcu dignissim mauris, eu, eget pharetra
-odio amet pellentesque. Egestas nisi adipiscing sed in lectus. Vitae ultrices malesuada aliquet dignissim.
-Faucibus non tristique eu.
+* Spezialgebiet: AI, DevOps, Webentwicklung mit Wordpress
+* Andere Gebiete : SharePoint, Dev, Azure Dev (SharePoint, Azure)
+* Aktivitäten: Entwicklung interner Prozesse, Unterstützung bei Kundenprojekten, Betreuung Testing Center, Trainertätigkeit
