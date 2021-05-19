@@ -2,6 +2,7 @@
 categories = []
 date = ""
 description = "Waltraud Ossig"
+draft = true
 image = ""
 job_title = "Buchhaltung & Controlling, Gute Seele"
 title = "Waltraud Ossig"
