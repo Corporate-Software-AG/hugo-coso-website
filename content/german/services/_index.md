@@ -44,11 +44,14 @@ Damit Ihr Unternehmen seine gesamten Daten bestmöglich nutzen kann.
 
 Nutzen Sie die Vorteile:
 
+* Trenderkennung in Echtzeit
 * Bessere Entscheidungsmöglichkeiten
-* Self-BI 3.0 Lösungen zur selbstständigen Weiterentwicklung
-* Wir bringen unser technischen & statistischen Know-How mit ein
-* Profitieren Sie aus Ihren bereits vorhandenen Daten und nutzen Sie diese
-* Lernen Sie künstliche Intelligenz kennen und setzen diese in Ihrem Unternehmen um
+* Self-BI-3.0-Lösungen zur selbstständigen Weiterentwicklung
+* Ihre bereits vorhandenen Daten
+* Automatische Suche in Datasets nach neuen Erkenntnissen
+* Benutzerdefinierte Visualisierungen
+* Die einfache Verwendung mit anderen Microsoft-Produkten und -Diensten
+* Unser technisches und statistisches Know-how
 
 Wir unterstützen Sie bei:
 
@@ -57,7 +60,7 @@ Wir unterstützen Sie bei:
 * Automatisierung der Prozesse im Controlling
 * Statistisches Forecasting der nützlichen Kennzahlen
 * Design und Implementation der passenden Umgebung
-* Erstellung, Verteilung & Überwachung von Auto. Reports
+* Erstellung, Verteilung & Überwachung von auto. Reports
 
 Wir arbeiten mit:
 
@@ -65,7 +68,7 @@ Wir arbeiten mit:
 * R (Open Source)
 * Microsoft Power BI
 * Hadoop Ökosystem
-* Python (Open Source) 
+* Python (Open Source)
 
 {{</ section-1 >}}
 
@@ -78,21 +81,25 @@ Verbesserung und Unterstützung der Arbeitsprozesse
 
 Überlassen Sie die repetitiven Aufgaben den Maschinen. Wir entwickeln individuelle Automation-Lösungen für Ihre Bedürfnisse. Intelligente Workflows durch Robotic Process Automation (RPA) oder Sie unterstützen Ihre Kunden mit einem Chat-Bot auf Ihrer Webseite oder Applikation.
 
-Durch das automatisieren Ihrer Abläufe sparen Sie nicht nur Zeit sondern verbessern stetig die Qualität. Dank der Automation haben Sie mehr Zeit, sich um die wesentlichen Dinge zu kümmern.
+Durch das Automatisieren Ihrer Abläufe sparen Sie nicht nur Zeit sondern verbessern stetig die Qualität. Dank der Automation haben Sie mehr Zeit, sich um die wesentlichen Dinge zu kümmern.
 
 Nutzen Sie die Vorteile:
 
+* Infrastruktur- und Applikationsautomatisierung
+* Einfache und komplexe Automatisierungen
+* Einfach managbare Lösungen, sie Sie selbstständig anpassen können
+* Neuste Automatisierungsmöglichkeiten
+* Einfache Verwendung mit anderen Microsoft-Produkten und -Diensten
 * Effizienteres Arbeiten
-* Erhöhung von Produktivität
+* Gesteigerte Produktivität
 * Automatisierte Routineabläufen
 * Verbesserung der Konfigurationsqualität
 
 Wir unterstützen Sie bei:
 
-* Einfachen und komplexen Automatisierungen
-* Infrastruktur- und Applikationsautomatisierung
-* Anforderungsanalyse, Planung, Umsetzung und Wartung
-* Darin, selbständig einfache Anpassungen vornehmen zu können
+* Anforderungs- und Potenzialanalyse
+* Design und Implementation der passenden Umgebung
+* Integration und Migration
 
 Wir arbeiten mit:
 
@@ -118,16 +125,20 @@ Nutzen Sie die Vorteile:
 
 * Individuelles Design Ihrer Plattform
 * Einfache und verständliche Handhabung
-* Flexible und effiziente Zusammenarbeit im Sinne von Agilität
+* Flexible und effiziente Zusammenarbeit mit mehr Agilität
 * Zusammenarbeit und ihren Wert gemeinsam auf ein nächstes Level bringen
-* Profitieren Sie langfristig von unserem internen Training/Coaching-Angebot
 
 Wir unterstützen Sie bei:
 
-* Branding für CI/CD
+* Design und Implementation Ihrer Collaboration-Plattform
+* Organisationsentwicklung und kultureller Change für modernes Arbeiten
+* Governance
+* Security
+* Customizing (Branding für CI/CD)
 * Business Intelligence (PowerBI)
-* Aufbau und Design Ihrer Kollaboration Plattformen
+* Erweiterung / Embrace AI
 * Business Process Management mit Formularen und Workflows
+* Einarbeitung Ihrer Mitarbeitenden mit Hilfe von Schulungen und Coachings
 
 Wir arbeiten mit:
 
