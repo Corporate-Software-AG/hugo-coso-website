@@ -7,6 +7,9 @@ job_title = "Senior Marketing Manager, Gute Seele"
 team = "Seal Team"
 title = "Christine Mäder"
 [[social]]
+icon = "ti-microsoft-alt"
+link = "https://teams.microsoft.com/l/chat/0/0?users=christine.maeder@corporatesoftware.ch"
+[[social]]
 icon = "ti-linkedin"
 link = "https://www.linkedin.com/in/christine-m%C3%A4der-81393259/"
 [[social]]
