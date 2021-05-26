@@ -16,6 +16,6 @@ link = "mailto:johanna.ackermann@corporatesoftware.ch"
 +++
 > Zusammenkommen ist ein Beginn, Zusammenbleiben ein Fortschritt, Zusammenarbeiten ein Erfolg. (Von Henry Ford)
 
-* Spezialgebiet:
-* Andere Gebiete:
-* Aktivitäten:
+* Spezialgebiet: 
+* Andere Gebiete: 
+* Aktivitäten: 
