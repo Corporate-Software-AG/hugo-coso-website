@@ -58,8 +58,7 @@ Wir arbeiten mit:
 
 {{</ section-1 >}}
 
-{{< section-2 image="images/coso/bereich_it_automation.png  
-">}}
+{{< section-2 image="images/coso/bereich_it_automation.png">}}
 
 ## Automation
 
