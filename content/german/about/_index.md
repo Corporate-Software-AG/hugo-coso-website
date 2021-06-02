@@ -6,7 +6,7 @@ description: "Corporate Software entwirft intelligente Cloud-IT-Lösungen für U
   haben, ist das Interesse an der stetigen Verbesserung von Technik, Wirtschaft und
   uns selbst. Wir gehen voran, um den nächsten Schritt zu ermöglichen.   "
 mission:
-  title: Was uns <strong>wichtig</strong> ist
+  title: Wie wir uns <strong>verhalten</strong>
   image: "/uploads/cs-bewerbungsmappe-karriere-fertig.png"
   content: 'Für uns steht der Mensch im Zentrum: Wir sind verlässlich, für andere
     da und pflegen unsere Beziehungen. Wir erhöhen unsere Sichtbarkeit und übernehmen
