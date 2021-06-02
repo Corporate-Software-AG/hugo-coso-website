@@ -8,8 +8,9 @@ description: "Corporate Software entwirft intelligente Cloud-IT-Lösungen für U
 mission:
   title: Wie wir uns <strong>verhalten</strong>
   image: "/uploads/cs-bewerbungsmappe-karriere-fertig.png"
-  content: 'Für uns steht der Mensch im Zentrum: Wir pflegen Beziehungen und sind
-    sichtbar für einander. Unsere Umwelt gestalten wir mit und tun das Richtige.'
+  content: 'Für uns steht der Mensch im Zentrum: Wir sind verlässlich, für andere
+    da und pflegen unsere Beziehungen. Wir erhöhen unsere Sichtbarkeit und übernehmen
+    proaktiv Verantwortung. '
   bulletpoints: []
 funfacts:
   funfacts_item:
