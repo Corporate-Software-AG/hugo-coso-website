@@ -30,7 +30,7 @@ vision:
   title: Woran wir <strong>glauben</strong>
   image: "/uploads/seilschaft-2.png"
   content: CoSo begleitet seine Kunden bei der Entdeckung von neuen Gebieten und befähigt
-    sie, mit Technologie neue Prozesse, neues Zusammenarbeiten, neue Produkte für
+    sie, mit Technologie neue Prozesse, neues Zusammenarbeiten und neue Produkte für
     sich zu entdecken. Wir gehen voran, um den nächsten Schritt zu ermöglichen.
 achivement:
   title: Average yearly growth rate **across our clients We able to achive**
