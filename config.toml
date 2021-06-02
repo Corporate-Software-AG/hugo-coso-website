@@ -1,30 +1,53 @@
-######################## default configuration ####################
 baseURL = "https://coso.azureedge.net"
-title = "CoSo - Preview Homepage"
-theme = "hugo-theme-copper"
-# post pagination
-paginate = "6"
-# post excerpt
-summaryLength = "10"
-# google analytics
-googleAnalytics = "" # example : UA-123-45
-
 defaultContentLanguage = "de"
-
-# disable language
-disableLanguages = ["fr", "en"] # desable language from here
-
-
-############################# Outputs ##############################
+disableLanguages = ["fr", "en"]
+googleAnalytics = ""
+paginate = "6"
+summaryLength = "10"
+theme = "hugo-theme-copper"
+title = "CoSo - Preview Homepage"
+[Languages.de]
+contentDir = "content/german"
+languageCode = "de-ch"
+languageName = "De"
+weight = 1
+[[Languages.de.menu.main]]
+URL = "/"
+name = "Home"
+weight = 1
+[[Languages.de.menu.main]]
+URL = "about"
+name = "Über uns"
+weight = 2
+[[Languages.de.menu.main]]
+URL = "team"
+name = "Team"
+weight = 3
+[[Languages.de.menu.main]]
+URL = "services"
+name = "Services"
+weight = 4
+[[Languages.de.menu.main]]
+URL = "success"
+name = "Erfolge"
+weight = 5
+[[Languages.de.menu.main]]
+URL = "contact"
+name = "Kontakt"
+weight = 6
+[markup.goldmark.renderer]
+unsafe = true
 [outputs]
 home = ["HTML", "RSS"]
-
-[markup.goldmark.renderer]
-unsafe= true
-
-############################# Plugins ##############################
-
-# CSS Plugins
+[params]
+author = "Thomas"
+contact_form_action = "#"
+description = "This is meta description"
+logo = "images/logo.png"
+main_image = "images/coso/seilschaft-2.png"
+[params.mspartner]
+image = "images/coso/MSGold_2019-12-19.jpeg"
+link = "https://partnercenter.microsoft.com/de-de/pcv/solution-providers/corporate-software-ag_2bbd7e41-02c9-4b4e-8168-339f900c4319/03808051-21e7-4f9a-b24c-52f17fa5d0f7"
 [[params.plugins.css]]
 link = "plugins/bootstrap/bootstrap.min.css"
 [[params.plugins.css]]
@@ -35,8 +58,6 @@ link = "plugins/slick/slick.css"
 link = "plugins/slick/slick-theme.css"
 [[params.plugins.css]]
 link = "plugins/aos/aos.css"
-
-# JS Plugins
 [[params.plugins.js]]
 link = "plugins/jQuery/jquery.min.js"
 [[params.plugins.js]]
@@ -47,84 +68,22 @@ link = "plugins/slick/slick.min.js"
 link = "plugins/shuffle/shuffle.min.js"
 [[params.plugins.js]]
 link = "plugins/aos/aos.js"
-
-#################### default parameters ################################
-[params]
-logo = "images/logo.png"
-# Meta data
-description = "This is meta description"
-author = "Thomas"
-# contact form action
-contact_form_action = "#" # contact form works with https://formspree.io
-main_image = "images/coso/seilschaft-2.png"
-
-[params.mspartner]
-image = "images/coso/MSGold_2019-12-19.jpeg"
-link = "https://partnercenter.microsoft.com/de-de/pcv/solution-providers/corporate-software-ag_2bbd7e41-02c9-4b4e-8168-339f900c4319/03808051-21e7-4f9a-b24c-52f17fa5d0f7"
-
-# Preloader
 [params.preloader]
 enable = false
-preloader = "images/logo_cc.png" # use jpg, png, svg or gif format.
-
-
-############################# social site ########################
+preloader = "images/logo_cc.png"
 [[params.social]]
-name = "Microsoft Solution Provider"
-icon = "ti-microsoft" # themify icon : https://themify.me/themify-icons
+icon = "ti-microsoft"
 link = "https://partnercenter.microsoft.com/de-de/pcv/solution-providers/corporate-software-ag_2bbd7e41-02c9-4b4e-8168-339f900c4319/03808051-21e7-4f9a-b24c-52f17fa5d0f7"
-
+name = "Microsoft Solution Provider"
 [[params.social]]
-name = "LinkedIn"
-icon = "ti-linkedin" # themify icon : https://themify.me/themify-icons
+icon = "ti-linkedin"
 link = "https://www.linkedin.com/company/corporate-software/"
-
+name = "LinkedIn"
 [[params.social]]
-name = "MeetUp"
-icon = "ti-meetup" # themify icon : https://themify.me/themify-icons
+icon = "ti-meetup"
 link = "https://www.meetup.com/de-DE/AI-and-Intelligent-Cloud"
-
+name = "MeetUp"
 [[params.social]]
-name = "Kununu"
-icon = "ti-kununu" # themify icon : https://themify.me/themify-icons
+icon = "ti-kununu"
 link = "https://www.kununu.com/ch/corporate-software1"
-
-
-################################### German language #####################################
-[Languages.de]
-languageName = "De"
-languageCode = "de-ch"
-contentDir = "content/german"
-weight = 1
-
-############### German navigation ################
-# main menu
-[[Languages.de.menu.main]]
-name = "Home"
-URL = "/"
-weight = 1
-
-[[Languages.de.menu.main]]
-name = "Über uns"
-URL = "about"
-weight = 2
-
-[[Languages.de.menu.main]]
-name = "Team"
-URL = "team"
-weight = 3
-
-[[Languages.de.menu.main]]
-name = "Services"
-URL = "services"
-weight = 4
-
-[[Languages.de.menu.main]]
-name = "Erfolge"
-URL = "success"
-weight = 5
-
-[[Languages.de.menu.main]]
-name = "Kontakt"
-URL = "contact"
-weight = 6
+name = "Kununu"
