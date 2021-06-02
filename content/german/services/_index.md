@@ -28,7 +28,7 @@ Holen Sie alles aus Ihren Daten. Wir helfen Ihnen bei Reporting und Analytics mi
 
 Ihr Unternehmen soll seine gesamten Daten bestmöglich nutzen können.
 
-Nutzen Sie die Vorteile:
+Ihre Vorteile:
 
 * Trenderkennung in Echtzeit
 * Bessere Entscheidungsmöglichkeiten
@@ -51,7 +51,7 @@ Verbesserung und Unterstützung der Arbeitsprozesse
 
 Durch das Automatisieren Ihrer Abläufe sparen Sie nicht nur Zeit, sondern verbessern stetig die Qualität.
 
-Nutzen Sie die Vorteile:
+Ihre Vorteile:
 
 * Infrastruktur- und Applikationsautomatisierung
 * Einfache und komplexe Automatisierungen
@@ -73,11 +73,9 @@ Vernetzte und effiziente Zusammenarbeit
 
 Modern Workplace mit den neuesten Funktionen der Office-365-Produktpalette, mit Microsoft Teams und der Prozess-Implementierung via Power Platform. Wir unterstützen Sie beim Schritt in die Cloud, sodass Dokumentenverwaltung und Ihre Kommunikation agil und einfach sind.
 
-Ohne Schwierigkeiten Agilität umsetzen und effektiv nutzen können.
+Setzen Sie ohne Schwierigkeiten moderne Formen der Zusammenarbeit um und nutzen Sie die Vorteile des agilen Arbeitens effektiv.
 
-SharePoint nutzen und besser zusammen arbeiten.
-
-Nutzen Sie die Vorteile:
+Ihre Vorteile:
 
 * Individuelles Design Ihrer Plattform
 * Einfache und verständliche Handhabung
