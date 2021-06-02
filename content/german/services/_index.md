@@ -18,7 +18,7 @@ services:
   content: Wir sind Microsoft Partner seit 2014 mit 9 Gold-Partner-Zertifizierungen
 
 ---
-{{< section-1 image="images/coso/bereich_datascience.png">}}
+{{<section-1 image="images/coso/bereich_datascience.png">}}
 
 ## Data & Artificial Intelligence
 
@@ -56,7 +56,7 @@ Wir arbeiten mit:
 * Hadoop Ökosystem
 * Python (Open Source)
 
-{{</ section-1 >}}
+{{</section-1>}}
 
 {{< section-2 image="images/coso/bereich_it_automation.png">}}
 

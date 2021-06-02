@@ -19,7 +19,13 @@ fields:
   label: categories
 - type: text
   name: job_title
-  label: job_title
+  label: Job Titel
+- name: team
+  type: text
+  config:
+    required: false
+  label: Team
+  description: Name des Teams
 - type: field_group_list
   name: social
   label: social
