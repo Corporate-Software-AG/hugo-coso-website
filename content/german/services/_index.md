@@ -24,9 +24,9 @@ services:
 
 Wettbewerbsvorteile durch Data und Künstliche Intelligenz
 
-Holen Sie alles aus Ihren Daten. Wir helfen Ihnen dabei! Reporting und Analytics mit Tools der neuesten Generation. Wir zeigen Ihnen das volle Potenzial von Power BI und Azure Synapse. Zudem binden wir individuell gestaltete künstliche Intelligenz und Azure Cognitive Services in Ihre Applikationen ein.
+Holen Sie alles aus Ihren Daten. Wir helfen Ihnen bei Reporting und Analytics mit Tools der neusten Generation. Wir zeigen Ihnen das volle Potenzial von Power BI und Azure Synapse. Zudem binden wir individuell gestaltete künstliche Intelligenz und Azure Cognitive Services in Ihre Applikationen ein.
 
-Damit Ihr Unternehmen seine gesamten Daten bestmöglich nutzen kann.
+Ihr Unternehmen soll seine gesamten Daten bestmöglich nutzen können.
 
 Nutzen Sie die Vorteile:
 
@@ -39,23 +39,6 @@ Nutzen Sie die Vorteile:
 * Die einfache Verwendung mit anderen Microsoft-Produkten und -Diensten
 * Unser technisches und statistisches Know-how
 
-Wir unterstützen Sie bei:
-
-* Erstellung interner Bots
-* Big Data Solutions mit Hadoop Clustern
-* Automatisierung der Prozesse im Controlling
-* Statistisches Forecasting der nützlichen Kennzahlen
-* Design und Implementation der passenden Umgebung
-* Erstellung, Verteilung & Überwachung von auto. Reports
-
-Wir arbeiten mit:
-
-* Azure Analytics
-* R (Open Source)
-* Microsoft Power BI
-* Hadoop Ökosystem
-* Python (Open Source)
-
 {{</section-1>}}
 
 {{< section-2 image="images/coso/bereich_it_automation.png">}}
@@ -64,9 +47,9 @@ Wir arbeiten mit:
 
 Verbesserung und Unterstützung der Arbeitsprozesse
 
-Überlassen Sie die repetitiven Aufgaben den Maschinen. Wir entwickeln individuelle Automation-Lösungen für Ihre Bedürfnisse. Intelligente Workflows durch Robotic Process Automation (RPA) oder Sie unterstützen Ihre Kunden mit einem Chat-Bot auf Ihrer Webseite oder Applikation.
+Überlassen Sie die repetitiven Aufgaben der Maschine. Wir entwickeln individuelle Automation-Lösungen für Ihre Bedürfnisse. Intelligente Workflows durch Robotic Process Automation (RPA) oder Sie unterstützen Ihre Kunden mit einem Chat-Bot auf Ihrer Webseite oder Applikation.
 
-Durch das Automatisieren Ihrer Abläufe sparen Sie nicht nur Zeit sondern verbessern stetig die Qualität. Dank der Automation haben Sie mehr Zeit, sich um die wesentlichen Dinge zu kümmern.
+Durch das Automatisieren Ihrer Abläufe sparen Sie nicht nur Zeit, sondern verbessern stetig die Qualität.
 
 Nutzen Sie die Vorteile:
 
@@ -80,27 +63,15 @@ Nutzen Sie die Vorteile:
 * Automatisierte Routineabläufen
 * Verbesserung der Konfigurationsqualität
 
-Wir unterstützen Sie bei:
+{{</ section-2 >}}
 
-* Anforderungs- und Potenzialanalyse
-* Design und Implementation der passenden Umgebung
-* Integration und Migration
-
-Wir arbeiten mit:
-
-* K2 BPM
-* PowerShell
-* PowerApps & Flow
-* System Center Orchestrator
-* Service Management Automation {{</ section-1 >}}
-
-{{< section-1 image="images/coso/collaboration.png">}}
+{{< section-3 image="images/coso/collaboration.png">}}
 
 ## Collaboration
 
 Vernetzte und effiziente Zusammenarbeit
 
-Modern Workplace mit den neuesten Funktionen der Office 365 Produktpalette, Microsoft Teams und der Implementierung der Prozesse via Power Platform. Wir unterstützen Sie beim Schritt in die Cloud, so dass Dokumentenverwaltung und Ihre Kommunikation agil und einfach sind.
+Modern Workplace mit den neuesten Funktionen der Office-365-Produktpalette, mit Microsoft Teams und der Prozess-Implementierung via Power Platform. Wir unterstützen Sie beim Schritt in die Cloud, sodass Dokumentenverwaltung und Ihre Kommunikation agil und einfach sind.
 
 Ohne Schwierigkeiten Agilität umsetzen und effektiv nutzen können.
 
@@ -113,24 +84,4 @@ Nutzen Sie die Vorteile:
 * Flexible und effiziente Zusammenarbeit mit mehr Agilität
 * Zusammenarbeit und ihren Wert gemeinsam auf ein nächstes Level bringen
 
-Wir unterstützen Sie bei:
-
-* Design und Implementation Ihrer Collaboration-Plattform
-* Organisationsentwicklung und kultureller Change für modernes Arbeiten
-* Governance
-* Security
-* Customizing (Branding für CI/CD)
-* Business Intelligence (PowerBI)
-* Erweiterung / Embrace AI
-* Business Process Management mit Formularen und Workflows
-* Einarbeitung Ihrer Mitarbeitenden mit Hilfe von Schulungen und Coachings
-
-Wir arbeiten mit:
-
-* K2
-* Microsoft® Delve
-* Microsoft® PowerBI
-* Microsoft® Office 365
-* Microsoft® SharePoint & SharePoint Online
-
-{{</ section-1 >}}
+{{</ section-3 >}}
