@@ -27,11 +27,10 @@ sections:
 - type: document
   path: content/german/blog/_index.md
   label: Blog Seite
-  match: "**/*"
 - type: directory
   path: content/german/blog
   label: Blogbeiträge
-  create: all
+  create: documents
   match: "**/*"
   exclude: _index.md
 - type: directory
