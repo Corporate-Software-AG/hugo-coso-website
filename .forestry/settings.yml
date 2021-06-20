@@ -33,6 +33,8 @@ sections:
   create: documents
   match: "**/*"
   exclude: _index.md
+  templates:
+  - blogbeitrag
 - type: directory
   path: content/german/team
   label: Team
