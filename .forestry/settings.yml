@@ -46,6 +46,10 @@ sections:
   path: content/german/services/_index.md
   label: Services
 - type: document
+  path: data/de/partner.yml
+  label: Partner
+  match: "**/*"
+- type: document
   path: i18n/de.yaml
   label: Sprachelemente
 upload_dir: static/uploads
