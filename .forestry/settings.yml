@@ -13,9 +13,13 @@ sections:
 - type: document
   path: content/german/about/_index.md
   label: Über uns
+- type: document
+  path: content/german/success/_index.md
+  label: Erfolge Seite
+  match: "**/*"
 - type: directory
   path: content/german/success
-  label: Erfolge
+  label: Erfolgsgeschichten
   create: documents
   match: "**/*"
   exclude: _index.md
