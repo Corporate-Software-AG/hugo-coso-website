@@ -16,7 +16,6 @@ sections:
 - type: document
   path: content/german/success/_index.md
   label: Erfolge Seite
-  match: "**/*"
 - type: directory
   path: content/german/success
   label: Erfolgsgeschichten
@@ -25,6 +24,16 @@ sections:
   exclude: _index.md
   templates:
   - success-story
+- type: document
+  path: content/german/blog/_index.md
+  label: Blog Seite
+  match: "**/*"
+- type: directory
+  path: content/german/blog
+  label: Blogbeiträge
+  create: all
+  match: "**/*"
+  exclude: _index.md
 - type: directory
   path: content/german/team
   label: Team
