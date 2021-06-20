@@ -22,8 +22,6 @@
           <h2 class="font-weight-bold mb-30">{{.Title}}</h2>
 
           <div class="post-meta font-weight-600 text-primary mb-15">
-            <a target="_blank" class="text-primary" href="{{ .Params.author_profile | safeURL}}">{{ .Params.author }}</a>
-            <span class="mx-2">|</span>
             <span>{{ .PublishDate.Format "02 Jan, 2006"}}</span>
             <span class="mx-2">|</span>
             <span>{{ .Page.ReadingTime }} {{ i18n "minute_read" }}</span>
