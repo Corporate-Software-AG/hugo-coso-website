@@ -1,0 +1,30 @@
+########################## Partner #########################
+partner:
+  - name: "Microsoft"
+    logo: "images/logo.png"
+    link: "https://www.google.ch"
+  - name: "Microsoft"
+    logo: "images/logo.png"
+    link: "https://www.google.ch"
+  - name: "Microsoft"
+    logo: "images/logo.png"
+    link: "https://www.google.ch"
+  - name: "Microsoft"
+    logo: "images/logo.png"
+    link: "https://www.google.ch"
+  - name: "Microsoft"
+    logo: "images/logo.png"
+    link: "https://www.google.ch"
+  - name: "Microsoft"
+    logo: "images/logo.png"
+    link: "https://www.google.ch"
+
+############################## Partner in Slider ########################
+partner_slider:
+  enable : true
+
+############################## Partner in Circle ########################
+partner_circle:
+  enable : true
+  title : "See our **Partners**"
+  content : "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat sed."
