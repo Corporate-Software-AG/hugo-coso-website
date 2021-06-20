@@ -6,6 +6,7 @@ contact:
   office_times: "8 bis 17 Uhr"
   address_list:
     - "Schöneggstrasse 5, 2503 Biel"
+  servicedesk: "https://accounts.spiceworks.com/sign_in?policy=hosted_help_desk&success=https://corporatesoftware.on.spiceworks.com/auth/spiceworks/callback"
 
 ############################ Footer Info ##################################
 call_to_action:

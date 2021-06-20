@@ -15,3 +15,8 @@
   translation: Alle
 - id: submit
   translation: Senden
+- id: minute_read
+  translation: Minute(n)
+- id: servicedesk
+  translation: Service Desk
+

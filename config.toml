@@ -10,31 +10,34 @@ title = "CoSo - Preview Homepage"
 contentDir = "content/german"
 languageCode = "de-ch"
 languageName = "De"
-weight = 1
-[[Languages.de.menu.main]]
-URL = "/"
-name = "Home"
-weight = 1
 [[Languages.de.menu.main]]
 URL = "about"
 name = "Über uns"
-weight = 2
+weight = 1
 [[Languages.de.menu.main]]
 URL = "team"
 name = "Team"
-weight = 3
+weight = 2
 [[Languages.de.menu.main]]
 URL = "services"
 name = "Services"
-weight = 4
+weight = 3
 [[Languages.de.menu.main]]
 URL = "success"
 name = "Erfolge"
+weight = 4
+[[Languages.de.menu.main]]
+URL = "blog"
+name = "Blog"
 weight = 5
+[[Languages.de.menu.main]]
+URL = "jobs"
+name = "Jobs"
+weight = 6
 [[Languages.de.menu.main]]
 URL = "contact"
 name = "Kontakt"
-weight = 6
+weight = 7
 [markup.goldmark.renderer]
 unsafe = true
 [outputs]

@@ -16,8 +16,8 @@
         </ul>
       </div>
       <div class="col-lg-9 col-md-12 mb-60" data-aos="fade-in" data-aos-delay="50">
-        <div class="post-category position-relative mb-15">{{ range $i,$p:= .Params.Categories }}{{if ne $i 0}},{{end}}<a
-          href="{{ `categories/` | relLangURL }}{{ . | urlize | lower }}" class="text-black-200 font-weight-600 ml-1">{{ . }} </a>
+        <div class="post-category position-relative mb-15">{{ range $i,$p:= .Params.Categories }}{{if ne $i 0}}-{{end}}<a
+          href="{{ `categories/` | relLangURL }}{{ . | urlize | lower }}" class="text-black-200 font-weight-600 ml-1">{{ . }}</a>
           {{ end }}
         </div>
 
@@ -25,8 +25,6 @@
 
         <div class="post-meta font-weight-600 text-primary mb-15">
           <span>{{ .Params.job_title }}</a>
-          <span class="mx-2">|</span>
-          <span>{{ .PublishDate.Format "02 Jan, 2006"}}</span>
           <span class="mx-2">|</span>
           <span>{{ .Page.ReadingTime }} {{ i18n "minute_read" }}</span>
         </div>

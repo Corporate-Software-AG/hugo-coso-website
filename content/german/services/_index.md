@@ -65,7 +65,7 @@ Ihre Vorteile:
 
 {{</ section-2 >}}
 
-{{< section-3 image="images/coso/collaboration.png">}}
+{{< section-1 image="images/coso/collaboration.png">}}
 
 ## Collaboration
 
@@ -82,4 +82,4 @@ Ihre Vorteile:
 * Flexible und effiziente Zusammenarbeit mit mehr Agilität
 * Zusammenarbeit und ihren Wert gemeinsam auf ein nächstes Level bringen
 
-{{</ section-3 >}}
+{{</ section-1 >}}

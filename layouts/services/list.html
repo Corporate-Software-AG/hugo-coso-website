@@ -3,6 +3,11 @@
 <!-- start of services-section -->
 <section class="section-padding" data-aos="fade-in" data-aos-delay="150">
   <div class="container">
+    <div class="row justify-content-center">
+      <div class="col-lg-6 col-md-9 text-center mb-40">
+        <div class="content">{{ .Params.description }}</div>
+      </div> 
+    </div>
     <div class="row no-gutters">
       {{ range .Params.services }}
       <div class="col-lg-4 col-md-6 service-box">
