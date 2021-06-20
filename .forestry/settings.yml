@@ -18,6 +18,7 @@ sections:
   label: Erfolge
   create: documents
   match: "**/*"
+  exclude: _index.md
   templates:
   - success-story
 - type: directory
