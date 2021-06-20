@@ -12,12 +12,6 @@ fields:
   name: date
   label: date
 - type: text
-  name: author
-  label: author
-- type: text
-  name: author_profile
-  label: author_profile
-- type: text
   name: description
   label: description
 - type: list
