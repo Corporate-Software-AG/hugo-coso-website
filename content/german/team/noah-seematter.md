@@ -3,8 +3,9 @@ categories = []
 date = ""
 description = "Noah Seematter"
 draft = true
-image = ""
+image = "/uploads/noahseematter.png"
 job_title = "Junior Consultant"
+team = ""
 title = "Noah Seematter"
 [[social]]
 icon = "ti-linkedin"
@@ -14,7 +15,6 @@ icon = "ti-email"
 link = "mailto:noah.seematter@corporatesoftware.ch"
 
 +++
-
 * Spezialgebiet: 
 * Andere Gebiete: 
-* Aktivitäten: 
+* Aktivitäten:

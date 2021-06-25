@@ -48,7 +48,6 @@ sections:
 - type: document
   path: data/de/partner.yml
   label: Partner
-  match: "**/*"
 - type: document
   path: i18n/de.yaml
   label: Sprachelemente
