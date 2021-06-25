@@ -7,7 +7,7 @@ partner:
   logo: "/uploads/digicomp_logo_rgb_750x420ai.png"
   link: https://www.digicomp.ch
 - name: K2
-  logo: images/k2.png
+  logo: "/uploads/k2.png"
   link: https://www.k2europe.net/
 - name: Wizdom
   logo: images/wizdom.png
