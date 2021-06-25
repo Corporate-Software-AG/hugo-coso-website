@@ -70,11 +70,11 @@ testimonial_item:
   content: Dank Corporate Software war die Migration in die Cloud ein voller Erfolg!
     Das Gesamtpaket mit Beratung, Umsetzung und Betrieb hat uns überzeugt und dank
     Office 365 und SharePoint Online arbeiten wir heute effizienter und kostengünstiger.
-- name: Angela Markel
-  image: images/team/thomas.jpg
-  designation: CEO, Angular Corporation
-  content: Lorem ipsum dolor sit amet, kasd gubergren, seatakimata dolores et rebum
-    stetclita
+- name: Mario Pfund
+  image: "/uploads/post-logo.png"
+  designation: Senorio Coach Informatik Die Post
+  content: Dank der raschen und unkomplizierten Hilfe im Bereich MDT läuft unsere
+    IT-Infrastruktur einwandfrei. Vielen Dank!
 featured_testimonial:
   enable: false
   name: Marsh Angela Costa
