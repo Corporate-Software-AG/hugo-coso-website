@@ -64,11 +64,12 @@ testimonial_item:
   designation: Stv. Geschäftsführer & Leiter Informatik Berufsbildungscenter
   content: Die kompetenten und praxiserfahrenen Mitarbeiter der Corporate Software
     AG als Fachreferenten einzusetzen macht Freude und die Lernenden sind begeistert.
-- name: Angela Markel
-  image: images/team/thomas.jpg
-  designation: CEO, Angular Corporation
-  content: Lorem ipsum dolor sit amet, kasd gubergren, seatakimata dolores et rebum
-    stetclita
+- name: Georg Dubach
+  image: "/uploads/logorevor.gif"
+  designation: Geschäftsführer Revor Sammelstiftung
+  content: Dank Corporate Software war die Migration in die Cloud ein voller Erfolg!
+    Das Gesamtpaket mit Beratung, Umsetzung und Betrieb hat uns überzeugt und dank
+    Office 365 und SharePoint Online arbeiten wir heute effizienter und kostengünstiger.
 - name: Angela Markel
   image: images/team/thomas.jpg
   designation: CEO, Angular Corporation
