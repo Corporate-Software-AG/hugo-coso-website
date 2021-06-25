@@ -2,7 +2,6 @@
 categories = ["Projektmanagement", "Power BI"]
 date = ""
 description = "Johanna Ackermann"
-draft = true
 image = "/uploads/johannaackermann.png"
 job_title = "Junior Cloud Consultant"
 team = ""

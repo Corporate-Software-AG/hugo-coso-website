@@ -2,7 +2,6 @@
 categories = ["Power Apps", "Power Automate", "Power BI"]
 date = ""
 description = "Maxime Lavoie"
-draft = true
 image = "/uploads/maximlavoie.png"
 job_title = "Junior Cloud Consultant"
 team = ""
