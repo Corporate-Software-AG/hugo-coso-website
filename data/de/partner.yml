@@ -39,9 +39,9 @@ partner:
 - name: bamboo solutions
   logo: "/uploads/bam.png"
   link: http://store.bamboosolutions.com/
-- name: ''
-  logo: ''
-  link: ''
+- name: TechData
+  logo: "/uploads/techdata.png"
+  link: https://ch.techdata.com/Intouch/MVC/Microsite/Public?corpregionid=11&categorypageid=978&msmenuid=3070
 - name: ''
   logo: ''
   link: ''
