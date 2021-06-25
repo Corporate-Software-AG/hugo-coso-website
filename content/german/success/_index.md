@@ -23,31 +23,6 @@ testimonial_item:
     zugeschnittene Powershell-Consulting und den Support von der Corporate Software
     konnten wir die Anpassungen erfolgreich vornehmen und in den laufenden Betrieb
     übernehmen. «Würden Sie uns weiterempfehlen?» JA
-- name: Pius Jäger
-  image: "/uploads/rhaetische_bahn.jpeg"
-  designation: IT System Engineer – Projekt Fahrzeugdatenbank
-  content: Für die zentrale Ablage verschiedenster Fahrzeugdaten richteten wir eine
-    Dokumentenbibliothek auf SharePoint Online ein. In der Testphase wurde schnell
-    sichtbar, dass die Such- und Filterfunktionen vor allem auf Mobilgeräten nicht
-    anwenderfreundlich und zu langsam war. Durch die Programmierung der optimalen
-    Lösungsvorschläge des Corporate Software Teams wurde einerseits die Erstellung
-    einer Mobile-App für unsere Fahrzeugdatenbank – kompatibel für alle Betriebssysteme,
-    sowie andererseits ein passender Search Web-Part für die Anwendung im Browser
-    realisiert. «Können Sie von dem Ergebnis profitieren?» Durch die neue Lösung wird
-    die Arbeit insbesondere für die mobilen Mitarbeiter vereinfacht. Sie haben nun
-    auch unterwegs Zugriff auf alle wichtigen Dokumente und finden diese durch die
-    ausgeklügelten Such- und Filterfunktionen auch sehr schnell.
-- name: Pius Jäger
-  image: "/uploads/rhaetische_bahn.jpeg"
-  designation: IT System Engineer – Projekt Office 365 Workplace
-  content: Für die Einführung von Office 365 benötigten wir eine schnelle und zuverlässige
-    Unterstützung. Insbesondere legten wir den Fokus auf eine Einführung und Konzeption
-    für Microsoft Teams, und die Architektur von Azure und Office 365 sowie die Verwaltung
-    und Auswertung der entsprechenden Lizenzen. Dank der sehr angenehmen Zusammenarbeit
-    mit Corporate Software erhielten unsere Mitarbeitenden in individuellen und ganzheitlichen
-    Trainings einen umfassenden Überblick sowie eine auf uns zugeschnittene Einführung
-    in die Office 365 Plattform. «Wie bewerten Sie die Zusammenarbeit mit uns?» Wir
-    schätzen insbesondere die hohe Fachkompetenz und Flexibilität.
 - name: Alain Bertolotti
   image: "/uploads/logo_tph.gif"
   designation: Leiter Informatik Swiss TPH
@@ -64,6 +39,20 @@ testimonial_item:
   designation: Stv. Geschäftsführer & Leiter Informatik Berufsbildungscenter
   content: Die kompetenten und praxiserfahrenen Mitarbeiter der Corporate Software
     AG als Fachreferenten einzusetzen macht Freude und die Lernenden sind begeistert.
+- name: Pius Jäger
+  image: "/uploads/rhaetische_bahn.jpeg"
+  designation: IT System Engineer – Projekt Fahrzeugdatenbank
+  content: Für die zentrale Ablage verschiedenster Fahrzeugdaten richteten wir eine
+    Dokumentenbibliothek auf SharePoint Online ein. In der Testphase wurde schnell
+    sichtbar, dass die Such- und Filterfunktionen vor allem auf Mobilgeräten nicht
+    anwenderfreundlich und zu langsam war. Durch die Programmierung der optimalen
+    Lösungsvorschläge des Corporate Software Teams wurde einerseits die Erstellung
+    einer Mobile-App für unsere Fahrzeugdatenbank – kompatibel für alle Betriebssysteme,
+    sowie andererseits ein passender Search Web-Part für die Anwendung im Browser
+    realisiert. «Können Sie von dem Ergebnis profitieren?» Durch die neue Lösung wird
+    die Arbeit insbesondere für die mobilen Mitarbeiter vereinfacht. Sie haben nun
+    auch unterwegs Zugriff auf alle wichtigen Dokumente und finden diese durch die
+    ausgeklügelten Such- und Filterfunktionen auch sehr schnell.
 - name: Georg Dubach
   image: "/uploads/logorevor.gif"
   designation: Geschäftsführer Revor Sammelstiftung
@@ -75,6 +64,17 @@ testimonial_item:
   designation: Senorio Coach Informatik Die Post
   content: Dank der raschen und unkomplizierten Hilfe im Bereich MDT läuft unsere
     IT-Infrastruktur einwandfrei. Vielen Dank!
+- name: Pius Jäger
+  image: "/uploads/rhaetische_bahn.jpeg"
+  designation: IT System Engineer – Projekt Office 365 Workplace
+  content: Für die Einführung von Office 365 benötigten wir eine schnelle und zuverlässige
+    Unterstützung. Insbesondere legten wir den Fokus auf eine Einführung und Konzeption
+    für Microsoft Teams, und die Architektur von Azure und Office 365 sowie die Verwaltung
+    und Auswertung der entsprechenden Lizenzen. Dank der sehr angenehmen Zusammenarbeit
+    mit Corporate Software erhielten unsere Mitarbeitenden in individuellen und ganzheitlichen
+    Trainings einen umfassenden Überblick sowie eine auf uns zugeschnittene Einführung
+    in die Office 365 Plattform. «Wie bewerten Sie die Zusammenarbeit mit uns?» Wir
+    schätzen insbesondere die hohe Fachkompetenz und Flexibilität.
 - name: Philipp
   content: Das SQL-Consulting war ein voller Erfolg. Die vielen Inputs konnten erfolgreich
     umgesetzt werden.
