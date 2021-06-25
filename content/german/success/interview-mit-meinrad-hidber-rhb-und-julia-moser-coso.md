@@ -87,3 +87,11 @@ In der Zusammenarbeit empfehle ich in Vertrauen zu investieren und Geduld für T
 Zudem würde ich immer die Geschäftsleitung und die verschiedenen Anspruchsgruppen in die Kommunikation einbinden. Unsere Stakeholder sollten immer Antwort darauf geben können, wo das Projekt gerade steht. Bei uns sind alle für Planning und Review eingeladen, können sich einfach einklinken. Unser Anspruch lautet: Wir haben eine so coole Sache gemacht, dass unsere Anspruchsgruppen unbedingt dabei sein wollen.
 
 Das Agile hat sich absolut bewährt. Auch mein erweitertes Team wird nun agil umgestellt. Berater sind gerne bei RhB, wir bieten eine gute Kultur wie eine Familie, das fördert den Eigenantrieb. Ein solches Vertrauensverhältnis herzustellen, das ist meine letzte Empfehlung.
+
+**Meinrad Hidber** hat Betriebswirtschaft studiert und ist über sein erstes Praktikum in die IT-Welt eingestiegen. Nach mehr als 15 Jahren in der strategischen IT-Beratung arbeitet Meinrad seit 2018 bei der Rhätischen Bahn und begleitet diese in der digitalen Transformation. Seit jeher interessiert ihn die Integration von Technik, Business und Mensch. An dieser Schnittstelle für Innovation ist er für die immer wichtiger werdenden Bereiche Data Science, Business Process Automation und HR verantwortlich. Aktuell steht Meinrad kurz vor dem erfolgreichen Abschluss seines Executive Master in Digitaler Transformation.
+
+![](/uploads/foto_meinrad_hidber-neu.jpg)
+
+**Julia Moser** hat Psychologie studiert und die Auswertung grosser Datenmengen und Didaktik erlernt. Heute hilft ihr das psychologische Studium aber auch im Bereich der Künstlichen Intelligenz. Denn es kommt die Frage auf, was uns als Mensch ausmacht. Julia ist bei Corporate Software Spezialistin im Bereich Data Science mit Fokus auf Azure Machine Learning und Power BI. Sie unterstützt Kunden bei der Einführung von Advanced Analytics Solutions und leitet Trainings im Bereich Data Science. Sie ist Microsoft Certified Azure Data Engineer Associate und Azure Data Science Associate.
+
+![](/uploads/cs-julia-moser-fertig-mit-weiss.png)
