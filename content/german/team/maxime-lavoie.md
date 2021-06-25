@@ -15,6 +15,8 @@ icon = "ti-email"
 link = "mailto:maxim.lavoie@corporatesoftware.ch"
 
 +++
+Wenn Maxim nicht gerade mit seinem Motorrad die Welt erkundet – die Gitarre an den Rücken geschnallt, sitzt er am Computer und tüftelt an neuen Apps und Dashboards. Der offene und lernbereite Informatikstudent ist bei CoSo als Junior Cloud Consultant unterwegs und unterstützt unsere Kunden in den Bereichen Power Automate, Power Apps und Power BI.
+
 * Spezialgebiet: Power Automate, Power Apps, Power BI
 * Andere Gebiete:
 * Aktivitäten:
