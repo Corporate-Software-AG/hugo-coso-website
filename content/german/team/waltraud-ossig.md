@@ -2,7 +2,6 @@
 categories = []
 date = ""
 description = "Waltraud Ossig"
-draft = true
 image = "/uploads/waltraudossig.png"
 job_title = "Buchhaltung & Controlling, Gute Seele"
 team = ""
