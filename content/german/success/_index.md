@@ -59,11 +59,11 @@ testimonial_item:
   content: Dank der hervorragenden Zusammenarbeit und den kompetenten Mitarbeiter
     der Corporate Software, konnte das Projekt „Migration SharePoint 2016“ reibungslos
     und ohne Betriebsunterbruch umgesetzt werden.
-- name: Angela Markel
-  image: images/team/thomas.jpg
-  designation: CEO, Angular Corporation
-  content: Lorem ipsum dolor sit amet, kasd gubergren, seatakimata dolores et rebum
-    stetclita
+- name: Patrick Aebi
+  image: "/uploads/bbc_logo.png"
+  designation: Stv. Geschäftsführer & Leiter Informatik Berufsbildungscenter
+  content: Die kompetenten und praxiserfahrenen Mitarbeiter der Corporate Software
+    AG als Fachreferenten einzusetzen macht Freude und die Lernenden sind begeistert.
 - name: Angela Markel
   image: images/team/thomas.jpg
   designation: CEO, Angular Corporation
