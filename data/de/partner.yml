@@ -1,10 +1,10 @@
 ---
 partner:
 - name: Microsoft
-  logo: images/microsoft.png
+  logo: "/uploads/microsoft.png"
   link: https://www.microsoft.com/de-ch/
 - name: Digicomp
-  logo: images/digicomp_logo_rgb_750x420ai.png
+  logo: "/uploads/digicomp_logo_rgb_750x420ai.png"
   link: https://www.digicomp.ch
 - name: K2
   logo: images/k2.png
