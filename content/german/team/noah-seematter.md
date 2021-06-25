@@ -1,10 +1,10 @@
 +++
-categories = []
+categories = ["Power BI", "Power Platform", "Microsoft 365"]
 date = ""
 description = "Noah Seematter"
 draft = true
 image = "/uploads/noahseematter.png"
-job_title = "Junior Consultant"
+job_title = "Junior Cloud Consultant"
 team = ""
 title = "Noah Seematter"
 [[social]]
@@ -15,6 +15,6 @@ icon = "ti-email"
 link = "mailto:noah.seematter@corporatesoftware.ch"
 
 +++
-* Spezialgebiet: 
-* Andere Gebiete: 
+* Spezialgebiet: Microsoft 365, Power Platform, Power BI
+* Andere Gebiete:
 * Aktivitäten:
