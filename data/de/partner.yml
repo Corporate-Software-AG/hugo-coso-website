@@ -18,6 +18,36 @@ partner:
 - name: SAP
   logo: images/sap_ag_logo.gif
   link: https://www.sap.com/index.html
+- name: ShareGate
+  link: https://en.share-gate.com/
+  logo: images/sharegate.png
+- name: ''
+  logo: ''
+  link: ''
+- name: ''
+  logo: ''
+  link: ''
+- name: ''
+  logo: ''
+  link: ''
+- name: ''
+  logo: ''
+  link: ''
+- name: ''
+  logo: ''
+  link: ''
+- name: ''
+  logo: ''
+  link: ''
+- name: ''
+  logo: ''
+  link: ''
+- name: ''
+  logo: ''
+  link: ''
+- name: ''
+  logo: ''
+  link: ''
 partner_slider:
   enable: true
 partner_circle:
