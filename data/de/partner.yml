@@ -30,9 +30,9 @@ partner:
 - name: Pentalogic
   logo: "/uploads/pentalogic_small.png"
   link: http://www.pentalogic.net/
-- name: ''
-  logo: ''
-  link: ''
+- name: SysKit
+  logo: "/uploads/syskit.png"
+  link: https://www.syskit.com/
 - name: ''
   logo: ''
   link: ''
