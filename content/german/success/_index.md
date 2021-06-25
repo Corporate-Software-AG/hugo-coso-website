@@ -24,7 +24,7 @@ testimonial_item:
     konnten wir die Anpassungen erfolgreich vornehmen und in den laufenden Betrieb
     übernehmen. «Würden Sie uns weiterempfehlen?» JA
 - name: Pius Jäger
-  image: images/team/thomas.jpg
+  image: "/uploads/rhaetische_bahn.jpeg"
   designation: IT System Engineer – Projekt Fahrzeugdatenbank
   content: Für die zentrale Ablage verschiedenster Fahrzeugdaten richteten wir eine
     Dokumentenbibliothek auf SharePoint Online ein. In der Testphase wurde schnell
