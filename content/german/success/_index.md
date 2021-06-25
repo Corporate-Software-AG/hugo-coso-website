@@ -53,11 +53,12 @@ testimonial_item:
   designation: Leiter Informatik Swiss TPH
   content: Durch die herausragenden PowerShell Kompetenzen der Corporate Software
     AG war es uns möglich den IT-Servicekatalog in kurzer Zeit weitreichend zu automatisieren.
-- name: Angela Markel
-  image: images/team/thomas.jpg
-  designation: CEO, Angular Corporation
-  content: Lorem ipsum dolor sit amet, kasd gubergren, seatakimata dolores et rebum
-    stetclita
+- name: Cilli Rinaldo
+  image: "/uploads/pkpost.png"
+  designation: Leiter Informatik Pensionskasse Post
+  content: Dank der hervorragenden Zusammenarbeit und den kompetenten Mitarbeiter
+    der Corporate Software, konnte das Projekt „Migration SharePoint 2016“ reibungslos
+    und ohne Betriebsunterbruch umgesetzt werden.
 - name: Angela Markel
   image: images/team/thomas.jpg
   designation: CEO, Angular Corporation
