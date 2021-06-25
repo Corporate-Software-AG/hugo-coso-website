@@ -22,7 +22,7 @@ partner:
   link: https://en.share-gate.com/
   logo: "/uploads/sharegate.png"
 - name: Collabion
-  logo: images/collabion-logo.png
+  logo: "/uploads/collabion-logo.png"
   link: http://www.collabion.com/
 - name: Audiocodes
   logo: "/uploads/audiocodes.png"
