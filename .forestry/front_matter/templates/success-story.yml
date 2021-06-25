@@ -13,4 +13,5 @@ fields:
     maxSize: 64
   label: Image
 pages:
+- content/german/success/interview-mit-meinrad-hidber-rhb-und-julia-moser-coso.md
 - content/german/success/success-story-001.md
