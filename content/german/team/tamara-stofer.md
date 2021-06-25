@@ -2,7 +2,7 @@
 categories = ["IT Automation", "Training & Education", "Microsoft 365 Services"]
 date = ""
 description = "Tamara Stofer"
-image = ""
+image = "/uploads/tamarastofer.png"
 job_title = "Consultant und Trainerin"
 team = "Seal Team"
 title = "Tamara Stofer"
