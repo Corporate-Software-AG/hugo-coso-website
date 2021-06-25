@@ -2,7 +2,6 @@
 categories = ["Power BI", "Power Platform", "Microsoft 365"]
 date = ""
 description = "Noah Seematter"
-draft = true
 image = "/uploads/noahseematter.png"
 job_title = "Junior Cloud Consultant"
 team = ""
