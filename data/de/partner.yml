@@ -1,7 +1,7 @@
 ---
 partner:
 - name: Microsoft
-  logo: "/uploads/microsoft.png"
+  logo: "/images/microsoft.png"
   link: https://www.microsoft.com/de-ch/
 - name: Digicomp
   logo: "/uploads/digicomp_logo_rgb_750x420ai.png"
