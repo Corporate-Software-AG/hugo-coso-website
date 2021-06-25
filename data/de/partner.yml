@@ -55,7 +55,8 @@ partner_slider:
   enable: true
 partner_circle:
   enable: true
-  title: See our **Partners**
-  content: Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy
-    eirmod tempor invidunt ut labore et dolore magna aliquyam erat sed.
+  title: Unsere **Partners**
+  content: Wir setzen auf ein internationales Netzwerk an langfristigen Partnerschaften
+    um eine direkte Kommunikation und rasche Lösungsfindung für unsere Kund*innen
+    zu ermöglichen.
 [https://www.sap.com/index.html](https://www.sap.com/index.html "https://www.sap.com/index.html")
