@@ -2,11 +2,19 @@
 title: Erfolge
 description: this is meta description
 testimonial_item:
-- name: Angela Markel
-  image: images/team/thomas.jpg
-  designation: CEO, Angular Corporation
-  content: Lorem ipsum dolor sit amet, kasd gubergren, seatakimata dolores et rebum
-    stetclita
+- name: Robert Bokan
+  image: "/uploads/hochbauamtzh.png"
+  designation: Ressortleiter Controlling Kanton Zürich Baudirektion Hochbauamt
+  content: Um unser Reporting inhaltlich zu verbessern und den Prozess zu automatisieren,
+    setzen wir Power BI für unterschiedliche Szenarien ein. Hierbei hat uns Roman
+    Kahr von Corporate Software konzeptionell als auch bei der Implementierung unserer
+    Reportingumgebung professionell unterstützt. Im Rahmen des laufenden Auftrags
+    «Consulting für Reporting und Power BI» erstellt Corporate Software Reports und
+    entwickelt die Reportingumgebung gemeinsam mit uns weiter. «Waren Sie zu Beginn
+    skeptisch, ob Sie mit uns den richtigen Ansprechpartner haben werden?» Nein, wir
+    hatten von Beginn an den Eindruck mit Corporate Software und Roman Kahr einen
+    Spezialisten in Power BI als Partner zu gewinnen, was sich im Laufe der Zusammenarbeit
+    absolut bestätigt hat.
 - name: Angela Markel
   image: images/team/thomas.jpg
   designation: CEO, Angular Corporation
