@@ -10,7 +10,7 @@ partner:
   logo: "/uploads/k2.png"
   link: https://www.k2europe.net/
 - name: Wizdom
-  logo: images/wizdom.png
+  logo: "/uploads/wizdom.png"
   link: https://www.wizdom-intranet.com/
 - name: Swisscom
   logo: images/swisscom.png
