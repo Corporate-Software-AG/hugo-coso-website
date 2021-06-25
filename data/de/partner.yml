@@ -24,9 +24,9 @@ partner:
 - name: Collabion
   logo: images/collabion-logo.png
   link: http://www.collabion.com/
-- name: ''
-  logo: ''
-  link: ''
+- name: Audiocodes
+  logo: "/uploads/audiocodes.png"
+  link: https://www.audiocodes.com/
 - name: ''
   logo: ''
   link: ''
