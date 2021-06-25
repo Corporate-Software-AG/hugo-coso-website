@@ -16,7 +16,7 @@ testimonial_item:
     Spezialisten in Power BI als Partner zu gewinnen, was sich im Laufe der Zusammenarbeit
     absolut bestätigt hat.
 - name: Pius Jäger
-  image: images/team/thomas.jpg
+  image: "/uploads/rhaetische_bahn.jpeg"
   designation: IT System Engineer – Projekt MVA Ausführungsprojekt
   content: Durch die Umstellung der Schnittstellen unseres ERP von SQL auf REST benötigten
     wir Unterstützung für die neuen Powershell-Abfragen. Durch das auf unsere Bedürfnisse
