@@ -15,9 +15,9 @@ partner:
 - name: Swisscom
   logo: images/swisscom.png
   link: https://www.swisscom.ch/
-- name: Microsoft
-  logo: images/logo.png
-  link: https://www.google.ch
+- name: SAP
+  logo: images/sap_ag_logo.gif
+  link: https://www.sap.com/index.html
 partner_slider:
   enable: true
 partner_circle:
@@ -25,3 +25,4 @@ partner_circle:
   title: See our **Partners**
   content: Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy
     eirmod tempor invidunt ut labore et dolore magna aliquyam erat sed.
+[https://www.sap.com/index.html](https://www.sap.com/index.html "https://www.sap.com/index.html")
