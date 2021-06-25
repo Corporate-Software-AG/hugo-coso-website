@@ -9,9 +9,9 @@ partner:
 - name: K2
   logo: images/k2.png
   link: https://www.k2europe.net/
-- name: Microsoft
-  logo: images/logo.png
-  link: https://www.google.ch
+- name: Wizdom
+  logo: images/wizdom.png
+  link: https://www.wizdom-intranet.com/
 - name: Microsoft
   logo: images/logo.png
   link: https://www.google.ch
