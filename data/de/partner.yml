@@ -27,9 +27,9 @@ partner:
 - name: Audiocodes
   logo: "/uploads/audiocodes.png"
   link: https://www.audiocodes.com/
-- name: ''
-  logo: ''
-  link: ''
+- name: Pentalogic
+  logo: "/uploads/pentalogic_small.png"
+  link: http://www.pentalogic.net/
 - name: ''
   logo: ''
   link: ''
