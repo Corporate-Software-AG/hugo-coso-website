@@ -48,11 +48,11 @@ testimonial_item:
     Trainings einen umfassenden Überblick sowie eine auf uns zugeschnittene Einführung
     in die Office 365 Plattform. «Wie bewerten Sie die Zusammenarbeit mit uns?» Wir
     schätzen insbesondere die hohe Fachkompetenz und Flexibilität.
-- name: Angela Markel
+- name: Alain Bertolotti
   image: images/team/thomas.jpg
-  designation: CEO, Angular Corporation
-  content: Lorem ipsum dolor sit amet, kasd gubergren, seatakimata dolores et rebum
-    stetclita
+  designation: Leiter Informatik
+  content: Durch die herausragenden PowerShell Kompetenzen der Corporate Software
+    AG war es uns möglich den IT-Servicekatalog in kurzer Zeit weitreichend zu automatisieren.
 - name: Angela Markel
   image: images/team/thomas.jpg
   designation: CEO, Angular Corporation
