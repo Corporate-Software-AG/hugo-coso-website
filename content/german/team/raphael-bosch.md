@@ -2,9 +2,9 @@
 categories = []
 date = ""
 description = "Raphael Bösch"
-draft = true
 image = ""
 job_title = "Consultant"
+team = ""
 title = "Raphael Bösch"
 [[social]]
 icon = "ti-linkedin"
@@ -14,7 +14,6 @@ icon = "ti-email"
 link = "mailto:raphael.boesch@corporatesoftware.ch"
 
 +++
-
 * Spezialgebiet: 
 * Andere Gebiete: 
-* Aktivitäten: 
+* Aktivitäten:
