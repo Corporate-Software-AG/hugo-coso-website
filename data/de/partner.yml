@@ -6,9 +6,9 @@ partner:
 - name: Digicomp
   logo: images/digicomp_logo_rgb_750x420ai.png
   link: https://www.digicomp.ch
-- name: Microsoft
-  logo: images/logo.png
-  link: https://www.google.ch
+- name: K2
+  logo: images/k2.png
+  link: https://www.k2europe.net/
 - name: Microsoft
   logo: images/logo.png
   link: https://www.google.ch
