@@ -75,6 +75,11 @@ testimonial_item:
   designation: Senorio Coach Informatik Die Post
   content: Dank der raschen und unkomplizierten Hilfe im Bereich MDT läuft unsere
     IT-Infrastruktur einwandfrei. Vielen Dank!
+- name: Philipp
+  content: Das SQL-Consulting war ein voller Erfolg. Die vielen Inputs konnten erfolgreich
+    umgesetzt werden.
+  designation: Manager Data Center
+  image: "/uploads/ypsomed.png"
 featured_testimonial:
   enable: false
   name: Marsh Angela Costa
