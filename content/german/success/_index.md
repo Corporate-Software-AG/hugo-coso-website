@@ -23,11 +23,20 @@ testimonial_item:
     zugeschnittene Powershell-Consulting und den Support von der Corporate Software
     konnten wir die Anpassungen erfolgreich vornehmen und in den laufenden Betrieb
     übernehmen. «Würden Sie uns weiterempfehlen?» JA
-- name: Angela Markel
+- name: Pius Jäger
   image: images/team/thomas.jpg
-  designation: CEO, Angular Corporation
-  content: Lorem ipsum dolor sit amet, kasd gubergren, seatakimata dolores et rebum
-    stetclita
+  designation: IT System Engineer – Projekt Fahrzeugdatenbank
+  content: Für die zentrale Ablage verschiedenster Fahrzeugdaten richteten wir eine
+    Dokumentenbibliothek auf SharePoint Online ein. In der Testphase wurde schnell
+    sichtbar, dass die Such- und Filterfunktionen vor allem auf Mobilgeräten nicht
+    anwenderfreundlich und zu langsam war. Durch die Programmierung der optimalen
+    Lösungsvorschläge des Corporate Software Teams wurde einerseits die Erstellung
+    einer Mobile-App für unsere Fahrzeugdatenbank – kompatibel für alle Betriebssysteme,
+    sowie andererseits ein passender Search Web-Part für die Anwendung im Browser
+    realisiert. «Können Sie von dem Ergebnis profitieren?» Durch die neue Lösung wird
+    die Arbeit insbesondere für die mobilen Mitarbeiter vereinfacht. Sie haben nun
+    auch unterwegs Zugriff auf alle wichtigen Dokumente und finden diese durch die
+    ausgeklügelten Such- und Filterfunktionen auch sehr schnell.
 - name: Angela Markel
   image: images/team/thomas.jpg
   designation: CEO, Angular Corporation
