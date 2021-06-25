@@ -48,6 +48,9 @@ partner:
 - name: Ingram
   logo: "/uploads/ingram.png"
   link: https://ch.ingrammicro.com/
+- link: https://www.clockodo.com/de/
+  name: clockodo
+  logo: "/uploads/logo-clockodo.jpeg"
 partner_slider:
   enable: true
 partner_circle:
