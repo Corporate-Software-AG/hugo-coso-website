@@ -12,9 +12,9 @@ partner:
 - name: Wizdom
   logo: images/wizdom.png
   link: https://www.wizdom-intranet.com/
-- name: Microsoft
-  logo: images/logo.png
-  link: https://www.google.ch
+- name: Swisscom
+  logo: images/swisscom.png
+  link: https://www.swisscom.ch/
 - name: Microsoft
   logo: images/logo.png
   link: https://www.google.ch
