@@ -33,9 +33,9 @@ partner:
 - name: SysKit
   logo: "/uploads/syskit.png"
   link: https://www.syskit.com/
-- name: ''
-  logo: ''
-  link: ''
+- name: cloudm
+  logo: "/uploads/cloudm.png"
+  link: https://cloudm.co/
 - name: ''
   logo: ''
   link: ''
