@@ -1,5 +1,4 @@
 +++
-draft = true
 image = "/uploads/interregio-auf-dem-landwasserviadukt_sommer.jpg"
 title = "Interview mit Meinrad Hidber (RhB) und Julia Moser (CoSo)"
 
