@@ -15,11 +15,14 @@ testimonial_item:
     hatten von Beginn an den Eindruck mit Corporate Software und Roman Kahr einen
     Spezialisten in Power BI als Partner zu gewinnen, was sich im Laufe der Zusammenarbeit
     absolut bestätigt hat.
-- name: Angela Markel
+- name: Pius Jäger
   image: images/team/thomas.jpg
-  designation: CEO, Angular Corporation
-  content: Lorem ipsum dolor sit amet, kasd gubergren, seatakimata dolores et rebum
-    stetclita
+  designation: IT System Engineer – Projekt MVA Ausführungsprojekt
+  content: Durch die Umstellung der Schnittstellen unseres ERP von SQL auf REST benötigten
+    wir Unterstützung für die neuen Powershell-Abfragen. Durch das auf unsere Bedürfnisse
+    zugeschnittene Powershell-Consulting und den Support von der Corporate Software
+    konnten wir die Anpassungen erfolgreich vornehmen und in den laufenden Betrieb
+    übernehmen. «Würden Sie uns weiterempfehlen?» JA
 - name: Angela Markel
   image: images/team/thomas.jpg
   designation: CEO, Angular Corporation
