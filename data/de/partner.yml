@@ -3,9 +3,9 @@ partner:
 - name: Microsoft
   logo: images/microsoft.png
   link: https://www.microsoft.com/de-ch/
-- name: Microsoft
-  logo: images/logo.png
-  link: https://www.google.ch
+- name: Digicomp
+  logo: images/digicomp_logo_rgb_750x420ai.png
+  link: https://www.digicomp.ch
 - name: Microsoft
   logo: images/logo.png
   link: https://www.google.ch
