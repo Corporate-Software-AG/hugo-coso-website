@@ -45,9 +45,9 @@ partner:
 - name: Diventis
   logo: "/uploads/diventis.png"
   link: http://www.diventis.ch/
-- name: ''
-  logo: ''
-  link: ''
+- name: Ingram
+  logo: "/uploads/ingram.png"
+  link: https://ch.ingrammicro.com/
 partner_slider:
   enable: true
 partner_circle:
