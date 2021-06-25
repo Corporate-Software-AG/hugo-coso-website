@@ -52,7 +52,7 @@ partner:
   name: clockodo
   logo: "/uploads/logo-clockodo.jpeg"
 partner_slider:
-  enable: true
+  enable: false
 partner_circle:
   enable: true
   title: Unsere **Partners**
