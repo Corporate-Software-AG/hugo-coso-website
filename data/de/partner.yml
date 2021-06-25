@@ -36,9 +36,9 @@ partner:
 - name: cloudm
   logo: "/uploads/cloudm.png"
   link: https://cloudm.co/
-- name: ''
-  logo: ''
-  link: ''
+- name: bamboo solutions
+  logo: "/uploads/bam.png"
+  link: http://store.bamboosolutions.com/
 - name: ''
   logo: ''
   link: ''
