@@ -37,11 +37,17 @@ testimonial_item:
     die Arbeit insbesondere für die mobilen Mitarbeiter vereinfacht. Sie haben nun
     auch unterwegs Zugriff auf alle wichtigen Dokumente und finden diese durch die
     ausgeklügelten Such- und Filterfunktionen auch sehr schnell.
-- name: Angela Markel
-  image: images/team/thomas.jpg
-  designation: CEO, Angular Corporation
-  content: Lorem ipsum dolor sit amet, kasd gubergren, seatakimata dolores et rebum
-    stetclita
+- name: Pius Jäger
+  image: "/uploads/rhaetische_bahn.jpeg"
+  designation: IT System Engineer – Projekt Office 365 Workplace
+  content: Für die Einführung von Office 365 benötigten wir eine schnelle und zuverlässige
+    Unterstützung. Insbesondere legten wir den Fokus auf eine Einführung und Konzeption
+    für Microsoft Teams, und die Architektur von Azure und Office 365 sowie die Verwaltung
+    und Auswertung der entsprechenden Lizenzen. Dank der sehr angenehmen Zusammenarbeit
+    mit Corporate Software erhielten unsere Mitarbeitenden in individuellen und ganzheitlichen
+    Trainings einen umfassenden Überblick sowie eine auf uns zugeschnittene Einführung
+    in die Office 365 Plattform. «Wie bewerten Sie die Zusammenarbeit mit uns?» Wir
+    schätzen insbesondere die hohe Fachkompetenz und Flexibilität.
 - name: Angela Markel
   image: images/team/thomas.jpg
   designation: CEO, Angular Corporation
