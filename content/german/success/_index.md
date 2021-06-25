@@ -49,8 +49,8 @@ testimonial_item:
     in die Office 365 Plattform. «Wie bewerten Sie die Zusammenarbeit mit uns?» Wir
     schätzen insbesondere die hohe Fachkompetenz und Flexibilität.
 - name: Alain Bertolotti
-  image: images/team/thomas.jpg
-  designation: Leiter Informatik
+  image: "/uploads/logo_tph.gif"
+  designation: Leiter Informatik Swiss TPH
   content: Durch die herausragenden PowerShell Kompetenzen der Corporate Software
     AG war es uns möglich den IT-Servicekatalog in kurzer Zeit weitreichend zu automatisieren.
 - name: Angela Markel
