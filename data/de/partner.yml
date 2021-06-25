@@ -21,9 +21,9 @@ partner:
 - name: ShareGate
   link: https://en.share-gate.com/
   logo: images/sharegate.png
-- name: ''
-  logo: ''
-  link: ''
+- name: Collabion
+  logo: images/collabion-logo.png
+  link: http://www.collabion.com/
 - name: ''
   logo: ''
   link: ''
