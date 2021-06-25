@@ -13,14 +13,14 @@ partner:
   logo: "/uploads/wizdom.png"
   link: https://www.wizdom-intranet.com/
 - name: Swisscom
-  logo: images/swisscom.png
+  logo: "/uploads/swisscom.png"
   link: https://www.swisscom.ch/
 - name: SAP
-  logo: images/sap_ag_logo.gif
+  logo: "/uploads/sap_ag_logo.gif"
   link: https://www.sap.com/index.html
 - name: ShareGate
   link: https://en.share-gate.com/
-  logo: images/sharegate.png
+  logo: "/uploads/sharegate.png"
 - name: Collabion
   logo: images/collabion-logo.png
   link: http://www.collabion.com/
