@@ -1,9 +1,9 @@
 +++
-categories = []
+categories = ["Power Apps", "Power Automate", "Power BI"]
 date = ""
 description = "Maxime Lavoie"
 draft = true
-image = ""
+image = "/uploads/maximlavoie.png"
 job_title = "Junior Cloud Consultant"
 team = ""
 title = "Maxim Lavoie"
@@ -15,6 +15,6 @@ icon = "ti-email"
 link = "mailto:maxim.lavoie@corporatesoftware.ch"
 
 +++
-* Spezialgebiet: 
-* Andere Gebiete: 
+* Spezialgebiet: Power Automate, Power Apps, Power BI
+* Andere Gebiete:
 * Aktivitäten:
