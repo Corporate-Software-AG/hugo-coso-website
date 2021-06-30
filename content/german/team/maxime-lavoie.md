@@ -18,4 +18,4 @@ Wenn Maxim nicht gerade mit seinem Motorrad die Welt erkundet, sitzt er am Compu
 
 * Spezialgebiet: Power Automate, Power Apps, Power BI
 * Andere Gebiete:
-* Aktivitäten: Know-How-Aufbau, Erstellung von Kursunterlagen, Unterstützung bei Projekten
+* Aktivitäten: Know-How-Aufbau, Unterstützung bei Projekten
