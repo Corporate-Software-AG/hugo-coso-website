@@ -19,4 +19,5 @@
   translation: Minute(n)
 - id: servicedesk
   translation: Service Desk
-
+- id: view_job
+  translation: Mehr erfahren

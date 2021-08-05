@@ -1,0 +1,74 @@
+{{ define "main" }}
+
+<!-- start of join-team section -->
+<section id="join-team" class="section-padding pb-50 join-team-section has-shapes">
+    <div class="container">
+      <div class="row justify-content-center">
+        <div class="col-lg-6 col-md-9 text-center mb-40" data-aos="fade-in">
+          <div class="content">{{ .Content }}</div>
+        </div>
+      </div>
+      <div class="row justify-content-center mt-30">
+        <div class="col-lg-9">
+          <div class="row">
+            {{ range .Data.Pages }}
+            <div class="col-md-6" data-aos="fade-up">
+              <div class="bg-white text-center shadow rounded p-30 mb-30">
+                <h3 class="mb-2 font-weight-bold">{{ .Title | markdownify }}</h3>
+                <h6 class="text-black-800 mb-15">{{ .Params.description }}</h6>
+                <a href="{{ .Permalink }}" class="btn btn-link text-primary p-0 font-weight-bold">{{ i18n "view_job"}}<svg
+                    width="1.5em" height="1.5em" viewBox="0 0 16 16" class="bi bi-arrow-right-short" fill="currentColor"
+                    xmlns="http://www.w3.org/2000/svg" style="vertical-align: middle;">
+                    <path fill-rule="evenodd" d="M4 8a.5.5 0 0 1 .5-.5h5.793L8.146 5.354a.5.5 0 1 1 .708-.708l3 3a.5.5 0 0 1 0 .708l-3 3a.5.5 0 0 1-.708-.708L10.293 8.5H4.5A.5.5 0 0 1 4 8z" />
+                  </svg></a>
+              </div>
+            </div>
+            {{ end }}
+          </div>
+        </div>
+      </div>
+    </div>
+  
+    <div class="shape-1 shape-xs bg-secondary rounded-circle d-none d-sm-block"></div>
+    <div class="shape-2 shape-xs-2 bg-primary rounded-circle d-none d-sm-block"></div>
+    <div class="shape-3 shape-sm bg-tertiary rounded-circle d-none d-sm-block"></div>
+    <div class="shape-4 shape-xs bg-secondary rounded-circle d-none d-sm-block"></div>
+    <div class="shape-5 shape-xs bg-tertiary rounded-circle d-none d-sm-block"></div>
+    <div class="shape-6 shape-sm bg-primary rounded-circle d-none d-sm-block"></div>
+    <div class="shape-7 shape-xs-2 bg-secondary rounded-circle d-none d-sm-block"></div>
+    <div class="shape-8 shape-xs-2 bg-primary rounded-circle d-none d-sm-block"></div>
+  </section>
+  <!-- end of join-team section -->
+
+
+<!-- start of benifits section -->
+{{ if .Params.benifits.enable }}
+{{ with .Params.benifits }}
+<section class="section-padding pb-50">
+  <div class="container">
+    <div class="row justify-content-center">
+      <div class="col-lg-6 col-md-9 text-center mb-40" data-aos="fade-in">
+        <h2 class="section-title">{{ .title | markdownify }}</h2>
+        <p>{{ .content | markdownify}}</p>
+      </div>
+    </div>
+    <div class="has-colored-text row">
+      {{ range .item }}
+      <div class="col-lg-4 col-md-6">
+        <div class="text-center p-0 p-md-2 mb-30" data-aos="fade-up">
+          <div class="has-text-color h2">
+            <i class="{{ .icon }}"></i>
+          </div>
+          <h5 class="font-weight-600 mt-20 mb-15 text-capitalize">{{ .name | markdownify }}</h5>
+          <p>{{ .content | markdownify }}</p>
+        </div>
+      </div>
+      {{ end }}
+    </div>
+  </div>
+</section>
+{{ end }}
+{{ end }}
+<!-- end of benifits section -->
+
+{{ end }}
