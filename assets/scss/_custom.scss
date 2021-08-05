@@ -3,3 +3,13 @@
         max-width: 12rem;
     }
 }
+
+.sticky {
+    position: fixed !important;
+    top: 0;
+    width: 100%
+}
+
+.sticky + .postheader {
+    padding-top: 144px;
+}

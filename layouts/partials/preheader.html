@@ -1,0 +1,34 @@
+{{ $data := index .Site.Data .Site.Language.Lang }}
+
+{{ if $data.homepage.banner.enable }}
+{{ with $data.homepage.banner }}
+
+<section class="preheader" style="height: calc(100vh - 144px); background-size: cover; background-position: top center; background-image: url( {{ site.Params.main_image }} );" >
+    <!--<img style="width: 100%; height: inherit; object-fit: cover; object-position: top;" src="{{ site.Params.main_image }}" alt="main image">-->
+    <div class="container h-100" data-aos="fade-in" data-aos-delay="150">
+        <div class="d-block d-lg-flex no-gutters align-items-center h-100">
+            <div class="col-12 col-xl-8 col-lg-8 order-lg-1">
+                <div class="banner-image has-video-popup has-shapes mb-4 mb-md-5 mb-lg-0">
+                    <div class="shape-lg bg-cyan rounded-circle"></div>
+                    <div class="shape-md bg-orange rounded-circle"></div>
+                    <div class="shape-sm bg-yellow rounded-circle"></div>
+                </div>
+            </div>
+            <div class="col-xl-5 col-lg-6 order-lg-0">
+                <h2 class="h1 mb-20">{{ .title | markdownify }}</h2>
+                <p>{{ .content | markdownify }}</p>
+                <br>
+                {{ if .button.enable }}
+                {{ with .button }}
+                <a href="{{.link | absLangURL}}"
+                    class="btn btn-primary d-flex align-items-center justify-content-center">
+                    {{with .icon}} <img class="mr-2" src="{{ . }}">{{end}} {{.label}}</a>
+                {{ end }}
+                {{ end }}
+            </div>
+        </div>
+    </div>
+</section>
+
+{{ end }}
+{{ end }}

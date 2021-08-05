@@ -1,3 +1,13 @@
+############################ Banner ##################################
+banner:
+  enable: true
+  title: Wilkommen
+  content: Wir gehen voran um den nächsten Schritt zu ermöglichen.
+  button:
+    enable : true
+    label : "Machen Sie den ersten Schritt"
+    link : "contact"
+
 ############################ Kontakt ##################################
 contact:
   title: Kontaktdaten
