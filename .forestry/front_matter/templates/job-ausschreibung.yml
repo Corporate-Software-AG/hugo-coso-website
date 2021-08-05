@@ -16,3 +16,5 @@ fields:
     schema:
       format: markdown
   label: Beschreibung
+pages:
+- content/german/jobs/nachster-job-test.md
