@@ -2,9 +2,9 @@
 categories = []
 date = ""
 description = "Waltraud Ossig"
-draft = true
-image = ""
+image = "/uploads/waltraudossig.png"
 job_title = "Buchhaltung & Controlling, Gute Seele"
+team = ""
 title = "Waltraud Ossig"
 [[social]]
 icon = "ti-linkedin"
@@ -14,7 +14,6 @@ icon = "ti-email"
 link = "mailto:waltraud.ossig@corporatesoftware.ch"
 
 +++
-
-* Spezialgebiet: 
-* Andere Gebiete: 
-* Aktivitäten: 
+* Spezialgebiet: Buchhaltung, Controlling & gute Seele
+* Andere Gebiete:
+* Aktivitäten:

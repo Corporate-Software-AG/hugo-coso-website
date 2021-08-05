@@ -1,9 +1,6 @@
 ---
-title : "Blog"
-description : "this is meta description"
-draft : false
+title: Blog
+description: Aktuelles und Neuigkeiten gibts im Blog von Corporate Software.
+
 ---
-
-## Aktuelles von **Corporate Software**
-
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat sed.
+Im Blogs gibts News und Wissenswertes rund um den CoSo-Alltag. Viel Spass beim Lesen!

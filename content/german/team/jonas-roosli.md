@@ -2,7 +2,7 @@
 categories = ["Training & Education", "Office 365", "SharePoint"]
 date = ""
 description = "Jonas Röösli"
-image = ""
+image = "/uploads/jonasroosli.png"
 job_title = "Consultant, Trainer (MCT)"
 team = "Seal Team"
 title = "Jonas Röösli"

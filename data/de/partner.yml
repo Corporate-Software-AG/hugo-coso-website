@@ -1,30 +1,62 @@
-########################## Partner #########################
+---
 partner:
-  - name: "Microsoft"
-    logo: "images/logo.png"
-    link: "https://www.google.ch"
-  - name: "Microsoft"
-    logo: "images/logo.png"
-    link: "https://www.google.ch"
-  - name: "Microsoft"
-    logo: "images/logo.png"
-    link: "https://www.google.ch"
-  - name: "Microsoft"
-    logo: "images/logo.png"
-    link: "https://www.google.ch"
-  - name: "Microsoft"
-    logo: "images/logo.png"
-    link: "https://www.google.ch"
-  - name: "Microsoft"
-    logo: "images/logo.png"
-    link: "https://www.google.ch"
-
-############################## Partner in Slider ########################
+- name: Microsoft
+  logo: "/images/microsoft.png"
+  link: https://www.microsoft.com/de-ch/
+- name: Digicomp
+  logo: "/uploads/digicomp_logo_rgb_750x420ai.png"
+  link: https://www.digicomp.ch
+- name: K2
+  logo: "/uploads/k2.png"
+  link: https://www.k2europe.net/
+- name: Wizdom
+  logo: "/uploads/wizdom.png"
+  link: https://www.wizdom-intranet.com/
+- name: Swisscom
+  logo: "/uploads/swisscom.png"
+  link: https://www.swisscom.ch/
+- name: SAP
+  logo: "/uploads/sap_ag_logo.gif"
+  link: https://www.sap.com/index.html
+- name: ShareGate
+  link: https://en.share-gate.com/
+  logo: "/uploads/sharegate.png"
+- name: Collabion
+  logo: "/uploads/collabion-logo.png"
+  link: http://www.collabion.com/
+- name: Audiocodes
+  logo: "/uploads/audiocodes.png"
+  link: https://www.audiocodes.com/
+- name: Pentalogic
+  logo: "/uploads/pentalogic_small.png"
+  link: http://www.pentalogic.net/
+- name: SysKit
+  logo: "/uploads/syskit.png"
+  link: https://www.syskit.com/
+- name: cloudm
+  logo: "/uploads/cloudm.png"
+  link: https://cloudm.co/
+- name: bamboo solutions
+  logo: "/uploads/bam.png"
+  link: http://store.bamboosolutions.com/
+- name: TechData
+  logo: "/uploads/techdata.png"
+  link: https://ch.techdata.com/Intouch/MVC/Microsite/Public?corpregionid=11&categorypageid=978&msmenuid=3070
+- name: Diventis
+  logo: "/uploads/diventis.png"
+  link: http://www.diventis.ch/
+- name: Ingram
+  logo: "/uploads/ingram.png"
+  link: https://ch.ingrammicro.com/
+- link: https://www.clockodo.com/de/
+  name: clockodo
+  logo: "/uploads/logo-clockodo.jpeg"
 partner_slider:
-  enable : true
-
-############################## Partner in Circle ########################
+  enable: false
 partner_circle:
-  enable : true
-  title : "See our **Partners**"
-  content : "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat sed."
+  enable: true
+  title: Unsere **Partners**
+  content: Wir setzen auf ein internationales Netzwerk an langfristigen Partnerschaften
+    um eine direkte Kommunikation und rasche Lösungsfindung für unsere Kund*innen
+    zu ermöglichen.
+[https://www.sap.com/index.html](https://www.sap.com/index.html "https://www.sap.com/index.html")

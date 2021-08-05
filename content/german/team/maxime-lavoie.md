@@ -1,9 +1,8 @@
 +++
-categories = []
+categories = ["Power Apps", "Power Automate", "Power BI"]
 date = ""
 description = "Maxime Lavoie"
-draft = true
-image = ""
+image = "/uploads/maximlavoie.png"
 job_title = "Junior Cloud Consultant"
 team = ""
 title = "Maxim Lavoie"
@@ -15,6 +14,8 @@ icon = "ti-email"
 link = "mailto:maxim.lavoie@corporatesoftware.ch"
 
 +++
-* Spezialgebiet: 
-* Andere Gebiete: 
-* Aktivitäten:
+Wenn Maxim nicht gerade mit seinem Motorrad die Welt erkundet, sitzt er am Computer und tüftelt an neuen Apps und Dashboards. Der offene und lernbereite Informatikstudent ist bei CoSo als Junior Cloud Consultant unterwegs und unterstützt unsere Kunden in den Bereichen Power Automate, Power Apps und Power BI.
+
+* Spezialgebiet: Power Automate, Power Apps, Power BI
+* Andere Gebiete:
+* Aktivitäten: Know-How-Aufbau, Unterstützung bei Projekten

@@ -1,8 +1,8 @@
 +++
-categories = ["IT Automation", "Training & Education", "Microsoft 365 Services"]
+categories = ["IT Automation", "Training & Education", "Microsoft 365"]
 date = ""
 description = "Tamara Stofer"
-image = ""
+image = "/uploads/tamarastofer.png"
 job_title = "Consultant und Trainerin"
 team = "Seal Team"
 title = "Tamara Stofer"

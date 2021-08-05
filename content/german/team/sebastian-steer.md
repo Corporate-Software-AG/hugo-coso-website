@@ -2,7 +2,7 @@
 categories = ["Power Automate", "PowerApps", "Training & Education", "Microsoft 365"]
 date = ""
 description = "Sebastian Steer"
-image = ""
+image = "/uploads/sebastiansteer.png"
 job_title = "Junior Consultant, Trainer (MCT)"
 team = "Seal Team"
 title = "Sebastian Steer"
