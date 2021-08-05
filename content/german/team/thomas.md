@@ -1,6 +1,6 @@
 ---
 title: Thomas von Mentlen
-image: "/uploads/thomas-vm_portrait.png"
+image: "/uploads/portrait.png"
 date: 
 description: Thomas von Mentlen
 categories:
