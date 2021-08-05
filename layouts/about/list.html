@@ -126,11 +126,12 @@
     </div>
     <div id="masonry" class="row team-members">
       {{ range $i, $e:= where .Site.Pages "Section" "team" }}
+      {{ if .Params.title }}
       <div class="masonry-item team-item col-lg-3 col-sm-6 col-md-4 mt-4" data-groups="&quot;{{ .Params.team | urlize}}&quot;">
         <div class="text-center mb-30">
           <a href="/team{{ .File.TranslationBaseName | relURL }}">
             <div class="team-image has-shapes d-inline-block mb-25">
-                <img class="img-fluid" src="{{ .Params.image | absURL}}" alt="" style="width: 300px; height: 337px; object-fit: cover; object-position: 50% 0;">
+                <img class="img-fluid rounded-circle" src="{{ .Params.image | absURL}}" alt="" style="width: 200px; height: 200px; object-fit: cover; object-position: 50% 10px;">
                 <div class="team-shapes">
                 <div class="shape-1 shape-xs bg-secondary rounded-circle"></div>
                 <div class="shape-2 shape-sm bg-primary rounded-circle"></div>
@@ -151,6 +152,7 @@
         </div>
       </div>
       <!-- team item -->
+      {{ end }}
       {{ end }}
     </div>
   </div>
