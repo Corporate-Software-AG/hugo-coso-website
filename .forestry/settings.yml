@@ -4,17 +4,19 @@ auto_deploy: false
 admin_path: 
 webhook_url: 
 sections:
-- type: directory
-  path: content/german/services
-  label: Services
-  create: documents
-  match: "**/*"
 - type: document
   path: config.toml
   label: Hauptkonfiguration
 - type: document
   path: data/de/homepage.yml
   label: Seitenkonfiguration
+- type: directory
+  path: content/german/services
+  label: Services
+  create: documents
+  match: "**/*"
+  templates:
+  - service
 - type: document
   path: content/german/about/_index.md
   label: Über uns
