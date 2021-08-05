@@ -7,12 +7,12 @@
   <div class="container">
     <div class="row justify-content-center">
       <div class="col-lg-6 col-md-9 text-center mb-40">
-        <h2 class="section-title">{{ $data.Site.services.title | markdownify }}</h2>
-        <p>{{ $data.Site.services.content | markdownify }}</p>
+        <h2 class="section-title">{{ $data.homepage.services.title | markdownify }}</h2>
+        <p>{{ $data.homepage.services.content | markdownify }}</p>
       </div>
       <div class="col-lg-11">
         <ul class="nav nav-pills justify-content-center mb-20" id="pills-tab" role="tablist">
-          {{ range $i, $e:= where .Site.Pages "Section" "services" }}
+          {{ range $i, $e:= (where .Site.Pages "Section" "services") }}
 
           <li class="nav-item mb-20" role="presentation">
             <a class="nav-link {{if eq $i 0}}active{{end}}" id="pill-{{.Params.title| urlize}}" data-toggle="pill"
@@ -24,20 +24,17 @@
         </ul>
 
         <div class="tab-content" id="pills-tabContent" data-aos="fade-in">
-          {{ range $i, $e:= where .Site.Pages "Section" "services" }}
-          {{ with .Params }}
-          <div class="tab-pane fade {{if eq $i 0}}show active{{end}}" id="{{.title | urlize}}" role="tabpanel"
-            aria-labelledby="pill-{{.title | urlize}}">
+          {{ range $i, $e:= (where .Site.Pages "Section" "services") }}
+          <div class="tab-pane fade {{if eq $i 0}}show active{{end}}" id="{{.Params.title | urlize}}" role="tabpanel"
+            aria-labelledby="pill-{{.Params.title | urlize}}">
             <div class="row align-items-center">
               <div class="col-lg-8 anim-to-top">
-                <img class="img-fluid rounded-lg shadow" src="{{ .image | absURL }}" alt="">
+                <img class="img-fluid rounded-lg shadow" src="{{ .Params.image | absURL }}" alt="">
               </div>
               <div class="col-lg-4 mt-4 mt-lg-0 anim-to-bottom">
-                <h2 class="section-title">{{ .title | markdownify }}</h2>
-                <p class="mb-30">{{ .content | markdownify }}</p>
-                {{ if .button.enable }}
-                {{ with .button }}
-                <a href="{{ .link | absLangURL }}" class="btn btn-primary has-icon">{{ .label }}
+                <h2 class="section-title">{{ .Params.title | markdownify }}</h2>
+                <p class="mb-30">{{ .Params.description | markdownify }}</p>
+                <a href="{{ .Permalink | absLangURL }}" class="btn btn-primary has-icon">{{ .Params.title }}
                   <span class="icon">
                     <svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
                       <path
@@ -46,12 +43,9 @@
                     </svg>
                   </span>
                 </a>
-                {{ end }}
-                {{ end }}
               </div>
             </div>
           </div>
-          {{ end }}
           {{ end }}
         </div>
       </div>

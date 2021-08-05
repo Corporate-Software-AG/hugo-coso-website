@@ -31,14 +31,14 @@
 
     <div class="row pt-60 pb-60">
 
-      <div class="col-lg-4 col-md-12 p-3 text-center">
-        <div class="pr-0 pr-lg-4">
-          <!--<a class="mb-25" href="{{ site.BaseURL }}">
-            {{ with site.Params.logo }}
-            <img class="img-fluid p-3" src="{{ . | absURL }}" alt="{{ site.Title }}">
-            {{ else }}{{ site.Title }}{{ end }}
-          </a>-->
-          <p>{{ $data.homepage.footer.content | markdownify }}</p>
+      <div class="col-lg-4 col-md-12 p-3">
+        <div class="row p-3">
+          <div class="col-sm-12">
+            <div class="pl-0 pl-md-3 mt-5 mt-md-0">
+              <h5 class="font-weight-600 mb-20">Corporate Software AG</h5>
+              <p>{{ $data.homepage.footer.content | markdownify }}</p>
+            </div>
+          </div>
         </div>
       </div>
 

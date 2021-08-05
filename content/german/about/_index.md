@@ -56,7 +56,9 @@ achivement:
     icon: ti-thumb-up
   - name: Automation
     icon: ti-comments-smiley
-services: []
+teamimage: /uploads/coso_team.png
+preteamtext: "
+Wir zusammen sind die CoSo. Jeder Einzelne von uns ist wichtig, damit wir zusammen gut sein können. Wir helfen uns gegenseitig und ergänzen unsere Talente. Wir sind Abenteurer, Klangbegeisterte, Legofanatiker, Bastler, Pfadfinder, auf der Suche nach neuen Formen von Leben & Arbeiten, die die IT nutzen, um uns als Menschen weiterzuentwickeln."
 
 ---
 Corporate Software entwirft intelligente Cloud-IT-Lösungen für Unternehmen. Als unsere Kundin oder unser Kunde profitieren Sie langfristig und erhalten individuelle Lösungen in den Bereichen Collaboration, Data & Artificial Intelligence und Automation.
