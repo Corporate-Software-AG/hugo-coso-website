@@ -10,34 +10,54 @@ title = "CoSo - Preview Homepage"
 contentDir = "content/german"
 languageCode = "de-ch"
 languageName = "De"
+
+
+
 [[Languages.de.menu.main]]
-URL = "about"
-name = "Über uns"
-weight = 1
-[[Languages.de.menu.main]]
-URL = "team"
-name = "Team"
-weight = 2
-[[Languages.de.menu.main]]
-URL = "services"
+hasChildren = true
 name = "Services"
-weight = 3
+weight = 1
+  [[Languages.de.menu.main]]
+  parent = "Services"
+  name = "Data & AI"
+  URL = "services/data_ai"
+
+  [[Languages.de.menu.main]]
+  parent = "Services"
+  name = "Automation"
+  URL = "services/automation"
+
+  [[Languages.de.menu.main]]
+  parent = "Services"
+  name = "Collaboration"
+  URL = "services/collaboration"
+
 [[Languages.de.menu.main]]
 URL = "success"
 name = "Erfolge"
+weight = 2
+
+[[Languages.de.menu.main]]
+URL = "about"
+name = "Über uns"
+weight = 3
+
+[[Languages.de.menu.main]]
+URL = "jobs"
+name = "Jobs"
 weight = 4
+
 [[Languages.de.menu.main]]
 URL = "blog"
 name = "Blog"
 weight = 5
-[[Languages.de.menu.main]]
-URL = "jobs"
-name = "Jobs"
-weight = 6
+
 [[Languages.de.menu.main]]
 URL = "contact"
 name = "Kontakt"
-weight = 7
+weight = 6
+
+
 [markup.goldmark.renderer]
 unsafe = true
 [outputs]
