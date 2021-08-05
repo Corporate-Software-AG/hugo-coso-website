@@ -4,13 +4,6 @@ auto_deploy: false
 admin_path: 
 webhook_url: 
 sections:
-- type: directory
-  path: content/german/jobs
-  label: Jobs
-  create: documents
-  match: "**/*"
-  templates:
-  - job-ausschreibung
 - type: document
   path: config.toml
   label: Hauptkonfiguration
@@ -27,6 +20,13 @@ sections:
 - type: document
   path: content/german/about/_index.md
   label: Über uns
+- type: directory
+  path: content/german/jobs
+  label: Jobs
+  create: documents
+  match: "**/*"
+  templates:
+  - job-ausschreibung
 - type: document
   path: content/german/success/_index.md
   label: Erfolge Seite
