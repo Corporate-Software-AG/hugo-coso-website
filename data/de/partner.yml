@@ -1,7 +1,7 @@
 ---
 partner:
 - name: Microsoft
-  logo: "/images/microsoft.png"
+  logo: "/uploads/microsoft.png"
   link: https://www.microsoft.com/de-ch/
 - name: Digicomp
   logo: "/uploads/digicomp_logo_rgb_750x420ai.png"
@@ -59,4 +59,3 @@ partner_circle:
   content: Wir setzen auf ein internationales Netzwerk an langfristigen Partnerschaften
     um eine direkte Kommunikation und rasche Lösungsfindung für unsere Kund*innen
     zu ermöglichen.
-    [https://www.sap.com/index.html](https://www.sap.com/index.html "https://www.sap.com/index.html")

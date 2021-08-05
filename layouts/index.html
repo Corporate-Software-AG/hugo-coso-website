@@ -91,7 +91,7 @@
           {{ range $i, $e:= .partner}}
           <li
             class="{{if modBool $i 2}} {{if eq $i 0}} has-centered lg {{else}}sm{{end}}{{else}}md{{end}} d-inline-flex align-items-center justify-content-center bg-white shadow rounded-circle">
-            <a target="_blank" href="{{ .link }}"><img src="{{ .logo | absURL}}"></a>
+            <a target="_blank" href="{{ .link }}"><img style="padding: 6px;" src="{{ .logo | absURL}}"></a>
           </li>
           {{ end }}
         </ul>

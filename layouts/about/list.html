@@ -8,22 +8,6 @@
         <div class="content">{{ .Content }}</div>
       </div>
     </div>
-    <div class="row no-gutters">
-      {{ range .Params.services }}
-      <div class="col-lg-4 col-md-6 service-box">
-        <div class="block p-4 p-xl-5 text-center">
-          <div class="service-icon text-center mx-auto rounded-circle">
-            <i class="{{.icon}}"></i>
-          </div>
-          <h3 class="font-weight-600 mt-20 mb-20">{{ .name | markdownify }}</h3>
-          <p>{{ .content | markdownify }}</p>
-        </div>
-      </div>
-      {{ end }}
-      <div class="col-12">
-        <div class="border-bottom border-md-0"></div>
-      </div>
-    </div>
   </div>
 </section>
 <!-- end of services-section -->
@@ -66,18 +50,7 @@
     <div class="row align-items-center justify-content-around">
       <div class="col-lg-5 col-md-8 col-sm-10 mb-5">
         <h2 class="section-title">{{ .title | markdownify }}</h2>
-        <p class="pb-20 border-bottom mb-20">{{ .content | markdownify }}</p>
-        <ul class="check-list list-unstyled">
-          {{ range .bulletpoints }}
-          <li class="mb-15">
-            <svg width="16" height="11" viewBox="0 0 18 13" class="text-primary mr-2" fill="none"
-              xmlns="http://www.w3.org/2000/svg">
-              <path d="M2 6.125L6.91892 11L16 2" stroke="currentColor" stroke-width="3" stroke-linecap="round"
-                stroke-linejoin="round" /></svg>
-            {{. | markdownify}}
-          </li>
-          {{ end }}
-        </ul>
+        <p class="pb-20 mb-20">{{ .content | markdownify }}</p>
       </div>
       <div class="col-lg-5 col-md-8 col-sm-10">
         <div class="d-inline-block has-shadow shadow-right has-shapes">
@@ -132,7 +105,7 @@
             <input class="d-none" type="radio" name="shuffle-filter" value="all" checked="checked">
             {{ i18n "all_together"}}
           </label>
-          
+
           {{ $data := index .Site.Data .Site.Language.Lang }}
 
 					{{ $group := slice }}

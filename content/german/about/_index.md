@@ -13,7 +13,6 @@ mission:
   content: 'Für uns steht der Mensch im Zentrum: Wir sind verlässlich, für andere
     da und pflegen unsere Beziehungen. Wir erhöhen unsere Sichtbarkeit und übernehmen
     proaktiv Verantwortung. '
-  bulletpoints: []
 funfacts:
   funfacts_item:
   - name: Uns gibt es seit
