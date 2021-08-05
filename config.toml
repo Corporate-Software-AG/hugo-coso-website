@@ -20,7 +20,7 @@ weight = 1
   [[Languages.de.menu.main]]
   parent = "Services"
   name = "Data & AI"
-  URL = "services/data_ai"
+  URL = "services/data-ai"
 
   [[Languages.de.menu.main]]
   parent = "Services"

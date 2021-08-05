@@ -3,31 +3,31 @@
 {{ $data := index .Site.Data .Site.Language.Lang }}
 
 <!-- start of how-it-works tab -->
-{{ if $data.homepage.homepage_tab.enable }}
-{{ with $data.homepage.homepage_tab }}
 <section class="section-padding how-it-works-tab pt-0 overflow-hidden">
   <div class="container">
     <div class="row justify-content-center">
       <div class="col-lg-6 col-md-9 text-center mb-40">
-        <h2 class="section-title">{{ .title | markdownify }}</h2>
-        <p>{{ .content | markdownify }}</p>
+        <h2 class="section-title">{{ $data.Site.services.title | markdownify }}</h2>
+        <p>{{ $data.Site.services.content | markdownify }}</p>
       </div>
       <div class="col-lg-11">
         <ul class="nav nav-pills justify-content-center mb-20" id="pills-tab" role="tablist">
-          {{ range $i, $e:= .tablist }}
+          {{ range $i, $e:= where .Site.Pages "Section" "services" }}
+
           <li class="nav-item mb-20" role="presentation">
-            <a class="nav-link {{if eq $i 0}}active{{end}}" id="pill-{{.title| urlize}}" data-toggle="pill"
-              href="#{{.title| urlize}}" role="tab" aria-controls="{{.title| urlize}}" aria-selected="true">
-              <i class="circle-shape"></i>{{.name}}
+            <a class="nav-link {{if eq $i 0}}active{{end}}" id="pill-{{.Params.title| urlize}}" data-toggle="pill"
+              href="#{{.Params.title| urlize}}" role="tab" aria-controls="{{.Params.title| urlize}}" aria-selected="true">
+              <i class="circle-shape"></i>{{.Params.title}}
             </a>
           </li>
           {{ end }}
         </ul>
 
         <div class="tab-content" id="pills-tabContent" data-aos="fade-in">
-          {{ range $i, $e:= .tablist }}
-          <div class="tab-pane fade {{if eq $i 0}}show active{{end}}" id="{{.name | urlize}}" role="tabpanel"
-            aria-labelledby="pill-{{.name | urlize}}">
+          {{ range $i, $e:= where .Site.Pages "Section" "services" }}
+          {{ with .Params }}
+          <div class="tab-pane fade {{if eq $i 0}}show active{{end}}" id="{{.title | urlize}}" role="tabpanel"
+            aria-labelledby="pill-{{.title | urlize}}">
             <div class="row align-items-center">
               <div class="col-lg-8 anim-to-top">
                 <img class="img-fluid rounded-lg shadow" src="{{ .image | absURL }}" alt="">
@@ -52,13 +52,12 @@
             </div>
           </div>
           {{ end }}
+          {{ end }}
         </div>
       </div>
     </div>
   </div>
 </section>
-{{ end }}
-{{ end }}
 <!-- end of how-it-works tab -->
 
 <!-- start of brand-carousel -->

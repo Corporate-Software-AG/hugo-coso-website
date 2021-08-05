@@ -8,6 +8,13 @@ banner:
     label : "Machen Sie den ersten Schritt"
     link : "contact"
 
+############################ Services ##################################
+services:
+  enable: true
+  title: Services
+  content: Unsere Services Blabla
+
+
 ############################ Kontakt ##################################
 contact:
   title: Kontaktdaten
