@@ -50,7 +50,6 @@ sections:
 - type: document
   path: content/german/contact/_index.md
   label: Kontakt
-  match: "**/*"
 - type: document
   path: data/de/partner.yml
   label: Partner
