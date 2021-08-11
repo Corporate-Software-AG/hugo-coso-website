@@ -28,13 +28,18 @@
             
                       {{ $group := slice }}
                       {{ range .Pages }}
-                      {{ $group = $group | append .Params.category }}
-            {{ end }}
+                      {{ if .Params.category }}
+                        {{ range .Params.category }}
+                          {{ $group = $group | append . }}
+                        {{ end }}
+                      {{ end }}
+                      
+                      {{ end }}
             
                       {{ range ( $group | uniq ) }}
             <label class="btn mb-3">
               <input class="d-none" type="radio" name="shuffle-filter" value="{{ . |urlize}}">
-              {{ . | humanize }}
+              {{ . }}
             </label>
             {{ end }}
           </div>
@@ -42,28 +47,18 @@
       </div>
       <div id="masonry" class="row team-members">
         {{ range .Pages }}
-        <div class="masonry-item team-item col-lg-3 col-sm-6 col-md-4 mt-4" data-groups="&quot;{{ .Params.category | urlize}}&quot;">
-          <div class="text-center mb-30">
-            <a href="{{ .File.TranslationBaseName  }}">
-              <div class="team-image has-shapes d-inline-block mb-25">
-                  <img class="img-fluid rounded-circle" src="{{ .Params.image | absURL}}" alt="">
-                  <div class="team-shapes">
-                  <div class="shape-1 shape-xs bg-secondary rounded-circle"></div>
-                  <div class="shape-2 shape-sm bg-primary rounded-circle"></div>
-                  <div class="shape-3 shape-sm-2 bg-tertiary rounded-circle"></div>
-                  </div>
+        <div class="masonry-item team-item col-lg-3 col-sm-6 col-md-4 mt-4" data-groups="[{{ $len := (len .Params.category) }}{{ range $i, $e := .Params.category }}&quot;{{ . | urlize }}&quot;{{ if ne (add $i 1) $len }},{{ end }}{{ end }}]">
+            <div class="bg-white text-center shadow rounded p-30 mb-30">
+              <p class="mb-2">{{ .Title | markdownify }}</p>
+              <div class="" style="width: 100%; line-height: 7em;">
+                <img class="img-fluid" style="vertical-align: middle;" src="{{ .Params.image | absURL}}" alt="">
               </div>
-            </a>
-            <h4 class="font-weight-bold mb-10">{{ .Params.title }}</h4>
-            <p>{{ .Params.designation }}</p>
-            <ul class="list-unstyled list-inline mt-2">
-              {{ range .Params.social }}
-              <li class="list-inline-item">
-                <a href="{{ .link | safeURL }}" class="text-black-200 p-2 d-inline-block">
-                  <span class="{{ .icon }}"></span></a>
-              </li>
-              {{ end }}
-            </ul>
+              <h6 class="text-black-800 mb-15">{{ .Params.description }}</h6>
+              <a href="{{ .File.TranslationBaseName  }}" class="btn btn-link text-primary p-0 font-weight-bold">{{ i18n "view_job"}}<svg
+                  width="1.5em" height="1.5em" viewBox="0 0 16 16" class="bi bi-arrow-right-short" fill="currentColor"
+                  xmlns="http://www.w3.org/2000/svg" style="vertical-align: middle;">
+                  <path fill-rule="evenodd" d="M4 8a.5.5 0 0 1 .5-.5h5.793L8.146 5.354a.5.5 0 1 1 .708-.708l3 3a.5.5 0 0 1 0 .708l-3 3a.5.5 0 0 1-.708-.708L10.293 8.5H4.5A.5.5 0 0 1 4 8z" />
+                </svg></a>
           </div>
         </div>
         <!-- story item -->
