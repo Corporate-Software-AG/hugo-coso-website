@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html lang="{{ with .Site.LanguageCode }}{{ . }}{{ else }}de-CH{{ end }}">
 {{- partial "head.html" . -}}
+{{ $data := index .Site.Data .Site.Language.Lang }}
 
 <body id="top" data-spy="scroll" data-target="#navbar-spy" class="position-relative">
   {{- partial "preloader.html" . -}}
@@ -19,18 +20,16 @@
           <h2 class="font-weight-bold mb-30">{{.Title}}</h2>
 
           <div class="post-meta font-weight-600 text-primary mb-15">
-            <span>{{ .PublishDate.Format "02 Jan, 2006"}}</span>
-            <span class="mx-2">|</span>
             <span>{{ .Page.ReadingTime }} {{ i18n "minute_read" }}</span>
           </div>
           <div class="content">{{.Content}}</div>
+          <div class="row justify-content-center">
+            <a href="mailto:{{ $data.homepage.jobs.mail }}" class="btn btn-primary has-icon" style="vertical-align: middle;">{{ $data.homepage.jobs.cta_button }}
+              <span class="icon ti-icon ti-email" style="padding-top: 17px;">
+              </span>
+            </a>          
+          </div>
         </div>
-          
-        {{ if .Site.DisqusShortname }}
-        <div class="col-lg-9 col-md-12" data-aos="fade-in">
-          {{ template "_internal/disqus.html" . }}
-        </div>
-        {{ end }}
       </div>
     </div>
   </section>
