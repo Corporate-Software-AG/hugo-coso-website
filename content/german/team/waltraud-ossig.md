@@ -18,6 +18,3 @@ icon = "ti-email"
 link = "mailto:waltraud.ossig@corporatesoftware.ch"
 
 +++
-* Spezialgebiet: Buchhaltung, Controlling & gute Seele
-* Andere Gebiete:
-* Aktivitäten:
