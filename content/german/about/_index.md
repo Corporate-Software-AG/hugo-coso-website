@@ -16,9 +16,9 @@ why:
 how:
   title: Woran wir <strong>glauben</strong>
   image: "/uploads/seilschaft-2.png"
-  content: CoSo begleitet seine Kunden bei der Entdeckung von neuen Gebieten und befähigt
-    sie, mit Technologie neue Prozesse, neues Zusammenarbeiten und neue Produkte für
-    sich zu entdecken. Wir gehen voran, um den nächsten Schritt zu ermöglichen.
+  content: 'Für uns steht der Mensch im Zentrum: Wir sind verlässlich, für andere
+    da und pflegen unsere Beziehungen. Wir erhöhen unsere Sichtbarkeit und übernehmen
+    proaktiv Verantwortung.'
 what:
   title: Woran wir <strong>glauben</strong>
   image: "/uploads/seilschaft-2.png"
