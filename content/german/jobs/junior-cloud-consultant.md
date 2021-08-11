@@ -15,10 +15,10 @@ Werde Teil des Teams als motivierter und engagierte*r Junior Cloud Consultant (2
 **Das erwartet dich**
 
 * Individueller Entwicklungspfad in die für dich passende Fachrichtung
-* Ganzheitlicher Einstieg in die ITUnternehmensberatung
+* Ganzheitlicher Einstieg in die IT-Unternehmensberatung
 * Spannende Kundenprojekte in den Bereichen Data und AI, Collaboration und Automation
 * Agile Arbeitskultur in einem jungen, dynamischen und motivierten Team mit kurzen Entscheidungswegen
-* Professioneller Einsatz von LeadingEdge-Technologien
+* Professioneller Einsatz von Leading-Edge-Technologien
 * Grosses Netzwerk namhafter, internationaler Partner und Kunden
 * Möglichkeit der selbstständigen Planung und Durchführung von schweizweiten/internationalen Projekten
 
