@@ -1,6 +1,6 @@
 +++
 category = "test"
-image = "/uploads/interregio-auf-dem-landwasserviadukt.jpg"
+image = "/uploads/bernina-express-auf-dem-kreisviadukt.jpg"
 title = "Wie die Rhätische Bahn ihre Daten demokratisiert"
 
 +++
@@ -24,7 +24,7 @@ Hidber führt weiter aus: “Auf der anderen Seite werden die Daten erst lebendi
 
 Die oben aufgezeigten Schritte im Data-Science-Vorhaben haben ein Ziel: die Demokratisierung der Daten. “Meine Aufgabe besteht darin, mit den Power Usern die Cases so zu definieren, dass den Anwendern der Mehrwert der neuen Lösung intuitiv klar wird. Ich konzipiere die Architektur der Berichterstellung und erstelle daraufhin Templates und Visualisierungen, die von den Anwendern selber weiter bearbeitet werden können,” fasst Julia Moser ihren Beitrag im Vorhaben zusammen.
 
-Die Architektur beruht auf Microsoft Power BI. Julia Moser hat bereits vor ihrem Einbezug ins Vorhaben die Mitarbeitenden der RhB in der Verwendung von Power BI geschult. Die Motivation der Mitarbeitenden ist gross, umso mehr als die ersten Berichte nun in den Live-Betrieb übergehen. “Der Pünktlichkeitsbericht visualisiert neu das gesamte Streckennetz der RhB in einer Kartenansicht und zeigt mit Farben an, wo Verspätungen auftreten. Die jeweiligen Verantwortlichen können live mit Kolleg*innen und Führung in die Visualisierung eintauchen und gemeinsam und interaktiv den Ursachen auf den Grund gehen. Das war vorher nicht möglich. Der Mehrwert ist offensichtlich,” freut sich Moser über die ersten Erfolge bei den Endanwender*innen.
+Die Architektur beruht auf Microsoft Power BI. Julia Moser hat bereits vor ihrem Einbezug ins Vorhaben die Mitarbeitenden der RhB in der Verwendung von Power BI geschult. Die Motivation der Mitarbeitenden ist gross, umso mehr als die ersten Berichte nun in den Live-Betrieb übergehen. “Der Pünktlichkeitsbericht visualisiert neu das gesamte Streckennetz der RhB in einer Kartenansicht und zeigt mit Farben an, wo Verspätungen auftreten. Die jeweiligen Verantwortlichen können live mit Kolleginnen und Führung in die Visualisierung eintauchen und gemeinsam und interaktiv den Ursachen auf den Grund gehen. Das war vorher nicht möglich. Der Mehrwert ist offensichtlich,” freut sich Moser über die ersten Erfolge bei den Endanwenderinnen.
 
 ### Befähigung zur Selbst-Wirksamkeit
 

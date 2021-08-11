@@ -1,10 +1,9 @@
 ---
-title : "Automation"
-description : "this is meta description"
-image : "/uploads/bereich_it_automation.png"
-draft : false
----
+title: Automation
+description: Sparen Sie Zeit und steigern Sie die Qualität.
+image: "/uploads/bereich_it_automation.png"
 
+---
 ## Automation
 
 Verbesserung und Unterstützung der Arbeitsprozesse

@@ -1,8 +1,9 @@
 ---
-title : "Collaboration"
-description : "this is meta description"
-image: "uploads/collaboration.png"
-draft : false
+title: Collaboration
+description: Nutzen Sie die heutigen Möglichkeiten in der modernen Zusammenarbeit
+  für sich.
+image: uploads/collaboration.png
+
 ---
 ## Collaboration
 
