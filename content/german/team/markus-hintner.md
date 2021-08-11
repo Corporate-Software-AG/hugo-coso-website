@@ -23,5 +23,4 @@ Markus hat sich im Bereich Microsoft 365 als Berater und Entwickler sowie als Tr
 
 > _Amat Victoria curam? Victory loves preparation._
 
-* 
-* Aktivitäten: Consulting, Entwickler & Troubleshooter in SharePoint, Business Process Management, SQL Server Database Engine und Business Intelligence, Coach & Trainer in Österreich, der Schweiz und Deutschland
+Aktivitäten: Consulting, Entwickler & Troubleshooter in SharePoint, Business Process Management, SQL Server Database Engine und Business Intelligence, Coach & Trainer in Österreich, der Schweiz und Deutschland
