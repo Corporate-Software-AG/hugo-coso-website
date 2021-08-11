@@ -1,5 +1,5 @@
 +++
-categories = ["Azure Development", "Microsoft 365", "Teams", "SharePoint", "Training & Education"]
+categories = ["Azure", "Microsoft 365", "Legacy SharePoint", "MCT", "Code Ninja"]
 date = ""
 description = "Markus Hintner"
 image = "/uploads/markus.png"

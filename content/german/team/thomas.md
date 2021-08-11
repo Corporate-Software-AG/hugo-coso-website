@@ -5,9 +5,10 @@ date:
 description: Thomas von Mentlen
 categories:
 - Bots
+- MCT
+- Microsoft 365
 - Azure
-- SharePoint
-- Teams
+- Code Ninja
 job_title: Cloud Consultant, Trainer (MCT)
 team: "Seal Team"
 social:

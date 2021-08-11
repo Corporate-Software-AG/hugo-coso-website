@@ -1,5 +1,5 @@
 +++
-categories = ["Office 365", "PowerApps", "SharePoint"]
+categories = ["Microsoft 365", "Power Platform", "MCT"]
 date = ""
 description = "Julia Witschi"
 image = "/uploads/julia-1-fertig.png"

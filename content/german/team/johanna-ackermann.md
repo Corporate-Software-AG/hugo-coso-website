@@ -1,5 +1,5 @@
 +++
-categories = ["Projektmanagement", "Power BI"]
+categories = ["Projektmanagement", "Power Platform"]
 date = ""
 description = "Johanna Ackermann"
 image = "/uploads/johannaackermann.png"

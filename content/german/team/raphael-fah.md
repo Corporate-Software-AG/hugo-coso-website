@@ -1,5 +1,5 @@
 +++
-categories = ["Office 365", "Training & Education", "Collaboration", "Automation", "Azure"]
+categories = ["Microsoft 365", "MCT", "Code Ninja", "Automation", "Azure"]
 date = ""
 description = "Raphael Fäh – unser Automation Mentor"
 image = "/uploads/raphael-neu-fertig.png"

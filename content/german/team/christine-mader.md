@@ -1,5 +1,5 @@
 +++
-categories = []
+categories = ["Administration", "Marketing", "CoSo Angel"]
 date = ""
 description = "Christine Mäder"
 image = "/uploads/christine-fertig.png"

@@ -1,5 +1,5 @@
 +++
-categories = ["Power Apps", "Power Automate", "Power BI"]
+categories = ["Power Platform"]
 date = ""
 description = "Maxime Lavoie"
 image = "/uploads/maximlavoie.png"

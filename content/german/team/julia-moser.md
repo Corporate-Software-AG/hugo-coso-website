@@ -1,5 +1,5 @@
 +++
-categories = ["Power BI", "Machine Learning", "Data Science", "Training & Education"]
+categories = ["Power Platform", "Data Science", "MCT"]
 date = ""
 description = "Julia Moser"
 image = "/uploads/cs-julia-moser-fertig-mit-weiss.png"

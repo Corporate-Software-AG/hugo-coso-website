@@ -1,5 +1,5 @@
 +++
-categories = ["Projektmanagement", "Service Management", "Training & Education", "Collaboration", "Business Intelligence"]
+categories = ["Projektmanagement", "MCT", "Business Intelligence", "Azure", "Power Platform"]
 date = ""
 description = "Matthias Gesseny – unser Azure-Alchimist"
 image = "/uploads/matthias.png"

@@ -1,5 +1,5 @@
 +++
-categories = ["Power Automate", "PowerApps", "Training & Education", "Microsoft 365"]
+categories = ["Power Platform", "MCT", "Microsoft 365"]
 date = ""
 description = "Sebastian Steer"
 image = "/uploads/sebastiansteer.png"
