@@ -1,11 +1,14 @@
 +++
-categories = ["MCT", "Administration", "Projektmanagement"]
+categories = ["Agiles Projekt- und Servicemanagement", "MCT", "Administration", "Projektmanagement"]
 date = ""
-name = "Patrick Sommer"
 image = "/uploads/patrick.png"
 job_title = "CEO und CO-Gründer, Senior-Consultant, Hermes Advanced, ITIL-Trainer, Trainer (MCT), MPP Data Science und Cloud Admin"
+name = "Patrick Sommer"
 team = "General Circle"
 title = "Patrick Sommer"
+[[social]]
+icon = "ti-microsoft-alt"
+link = "https://teams.microsoft.com/l/chat/0/0?users=patrick.sommer@corporatesoftware.ch"
 [[social]]
 icon = "ti-email"
 link = "mailto:patrick.sommer@corporatesoftware.ch"
