@@ -23,7 +23,6 @@ sections:
 - type: document
   path: content/german/jobs/_index.md
   label: Job Seite
-  match: "**/*"
 - type: directory
   path: content/german/jobs
   label: Jobs
