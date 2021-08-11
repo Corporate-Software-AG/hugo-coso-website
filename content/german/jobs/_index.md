@@ -1,6 +1,6 @@
 ---
 title: Jobs
-description: Werde Cosoianer!
+description: Werde COSOianer!
 benifits:
   enable: true
   title: Benifits Of <strong>Joining Our Team</strong>

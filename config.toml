@@ -1,17 +1,15 @@
 baseURL = "https://coso.azureedge.net"
 defaultContentLanguage = "de"
 disableLanguages = ["fr", "en"]
-googleAnalytics = ""
 paginate = "6"
 summaryLength = "10"
 theme = "hugo-theme-copper"
 title = "CoSo - Preview Homepage"
+
 [Languages.de]
 contentDir = "content/german"
 languageCode = "de-ch"
 languageName = "De"
-
-
 
 [[Languages.de.menu.main]]
 hasChildren = true
@@ -74,6 +72,7 @@ unsafe = true
 home = ["HTML", "RSS"]
 [params]
 author = "Thomas"
+appinsights_instrumentationkey = "f6f701e5-fd55-4628-9671-2d421f641d74"
 contact_form_action = "#"
 description = "This is meta description"
 logo = "images/logo.png"

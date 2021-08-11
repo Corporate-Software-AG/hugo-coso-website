@@ -1,59 +1,7 @@
 ---
 title: Erfolge
 description: this is meta description
-testimonial_item:
-- name: Pius Jäger
-  image: "/uploads/rhaetische_bahn.jpeg"
-  designation: IT System Engineer – Projekt MVA Ausführungsprojekt
-  content: Durch die Umstellung der Schnittstellen unseres ERP von SQL auf REST benötigten
-    wir Unterstützung für die neuen Powershell-Abfragen. Durch das auf unsere Bedürfnisse
-    zugeschnittene Powershell-Consulting und den Support von der Corporate Software
-    konnten wir die Anpassungen erfolgreich vornehmen und in den laufenden Betrieb
-    übernehmen. «Würden Sie uns weiterempfehlen?» JA
-- name: Alain Bertolotti
-  image: "/uploads/logo_tph.gif"
-  designation: Leiter Informatik Swiss TPH
-  content: Durch die herausragenden PowerShell Kompetenzen der Corporate Software
-    AG war es uns möglich den IT-Servicekatalog in kurzer Zeit weitreichend zu automatisieren.
-- name: Cilli Rinaldo
-  image: "/uploads/pkpost.png"
-  designation: Leiter Informatik Pensionskasse Post
-  content: Dank der hervorragenden Zusammenarbeit und den kompetenten Mitarbeiter
-    der Corporate Software, konnte das Projekt „Migration SharePoint 2016“ reibungslos
-    und ohne Betriebsunterbruch umgesetzt werden.
-- name: Patrick Aebi
-  image: "/uploads/bbc_logo.png"
-  designation: Stv. Geschäftsführer & Leiter Informatik Berufsbildungscenter
-  content: Die kompetenten und praxiserfahrenen Mitarbeiter der Corporate Software
-    AG als Fachreferenten einzusetzen macht Freude und die Lernenden sind begeistert.
-- name: Georg Dubach
-  image: "/uploads/logorevor.gif"
-  designation: Geschäftsführer Revor Sammelstiftung
-  content: Dank Corporate Software war die Migration in die Cloud ein voller Erfolg!
-    Das Gesamtpaket mit Beratung, Umsetzung und Betrieb hat uns überzeugt und dank
-    Office 365 und SharePoint Online arbeiten wir heute effizienter und kostengünstiger.
-- name: Mario Pfund
-  image: "/uploads/post-logo.png"
-  designation: Senorio Coach Informatik Die Post
-  content: Dank der raschen und unkomplizierten Hilfe im Bereich MDT läuft unsere
-    IT-Infrastruktur einwandfrei. Vielen Dank!
-- name: Philipp
-  content: Das SQL-Consulting war ein voller Erfolg. Die vielen Inputs konnten erfolgreich
-    umgesetzt werden.
-  designation: Manager Data Center
-  image: "/uploads/ypsomed.png"
-featured_testimonial:
-  enable: false
-  name: Marsh Angela Costa
-  designation: CEO, Trello
-  quote: "“Copper gives us the ease to have people hop in where they need to, to get
-    to a customer resolution really quickly.”"
-  image: images/team/thomas.jpg
-  video:
-    enable: true
-    video_embed_link: https://www.youtube.com/embed/dyZcRRWiuuw
 image: "/uploads/cs-kalender-cover-gross-fertig-ansicht-jpg.jpeg"
-
 ---
 Gemeinsam bergen wir Schätze. Wir begleiten unsere Kund*innen bei der Entdeckung von neuen Gebieten und treiben innovative Projekte voran.
 

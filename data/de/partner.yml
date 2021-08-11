@@ -51,8 +51,6 @@ partner:
 - link: https://www.clockodo.com/de/
   name: clockodo
   logo: "/uploads/logo-clockodo.jpeg"
-partner_slider:
-  enable: false
 partner_circle:
   enable: true
   title: Unsere **Partner**
