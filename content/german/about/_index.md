@@ -44,7 +44,7 @@ philo:
   content: Lorem ipsum sadip dolor sit amet, consetetur sadip scing elitr, diam nonumy
     eirmod tempor invi duntut labore et dolore magna aliquyam erat, sed diam
   item:
-  - name: Co-Creation mit unseren Kund*Innen
+  - name: Co-Creation mit<br>unseren Kund*Innen
     icon: ti-lock
     content: Wir präsentieren keine fertigen Lösungen; wir erarbeiten Sie gemeinsam
       mit Ihnen und passend für Sie.
