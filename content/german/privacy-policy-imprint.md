@@ -42,8 +42,8 @@ Die im Rahmen von Google Analytics von Ihrem Browser übermittelte IP-Adresse wi
 
 **Opt-Out für Google Analytics**
 
-* Google Analytics [Bedingungen](http://www.google.com/analytics/terms/de.html)
-* Installieren Sie das Plugin unter diesem [Link](http://tools.google.com/dlpage/gaoptout?hl=de)
+* Google Analytics <a target="_blank" href="http://www.google.com/analytics/terms/de.html">Bedingungen</a>)
+* Installieren Sie das Plugin unter diesem <a target="_blank" href="http://tools.google.com/dlpage/gaoptout?hl=de">Link</a>
 
 ### Verwendung von Cookies
 
