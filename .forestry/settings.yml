@@ -25,6 +25,7 @@ sections:
   label: Jobs
   create: documents
   match: "**/*"
+  exclude: _index.md
   templates:
   - job-ausschreibung
 - type: document
