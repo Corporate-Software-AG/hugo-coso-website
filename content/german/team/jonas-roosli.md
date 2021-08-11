@@ -1,11 +1,14 @@
 +++
-categories = ["MCT", "Microsoft 365", "Legacy SharePoint"]
+categories = ["Office 365", "MCT", "Microsoft 365", "Legacy SharePoint"]
 date = ""
-name = "Jonas Röösli"
 image = "/uploads/jonasroosli.png"
 job_title = "Consultant, Trainer (MCT)"
+name = "Jonas Röösli"
 team = "Seal Team"
 title = "Jonas Röösli"
+[[social]]
+icon = "ti-microsoft-alt"
+link = "https://teams.microsoft.com/l/chat/0/0?users=jonas.roeoesli@corporatesoftware.ch"
 [[social]]
 icon = "ti-linkedin"
 link = "https://www.linkedin.com/in/jonas-r%C3%B6%C3%B6sli/"
