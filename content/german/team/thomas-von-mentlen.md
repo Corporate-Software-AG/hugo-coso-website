@@ -4,6 +4,7 @@ image: "/uploads/portrait.png"
 date: 
 name: Thomas von Mentlen
 categories:
+- Training & Education
 - Bots
 - MCT
 - Microsoft 365
