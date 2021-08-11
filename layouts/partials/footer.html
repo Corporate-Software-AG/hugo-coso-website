@@ -71,7 +71,7 @@
           <div class="col-12 p-5 justify-content-center align-self-center text-center">
             {{ with site.Params.mspartner }}
             <a target="_blank" href="{{ .link }}">
-              <img class="img-fluid" src="{{ .image | absURL }}" alt="partner_status">
+              <img class="img-fluid" style="max-width: 24rem;" src="{{ .image | absURL }}" alt="partner_status">
             </a>
             {{ end }}
           </div>
