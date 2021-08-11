@@ -48,10 +48,10 @@ philo:
     icon: ti-lock
     content: Wir präsentieren keine fertigen Lösungen; wir erarbeiten Sie gemeinsam
       mit Ihnen und passend für Sie.
-  - name: Healthy food <br>and snacks
+  - name: Wir fördern<br>Talente
     icon: ti-magnet
-    content: 'Lorem ipsum dolor sit amet, consectetur adipisc Nullam sit vel egestas
-      in. Duis orci, suspendisse nec phasellus sapien natoque '
+    content: Junge Talente mitzunehmen und Ihnen schnell Verantwortung zu übertragen,
+      sodass Sie sich weiterentwickeln können, liegt uns am Herzen.
   - name: Comprehensive <br>health plans
     icon: ti-link
     content: 'Lorem ipsum dolor sit amet, consectetur adipisc Nullam sit vel egestas
