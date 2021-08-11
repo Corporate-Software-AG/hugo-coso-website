@@ -1,9 +1,10 @@
 +++
-categories = ["Projektmanagement", "Power Platform"]
+categories = ["Dynamics 365", "Projektmanagement", "Power Platform"]
 date = ""
-name = "Johanna Ackermann"
+description = ""
 image = "/uploads/johannaackermann.png"
 job_title = "Junior Cloud Consultant"
+name = "Johanna Ackermann"
 team = "Seal Team"
 title = "Johanna Ackermann"
 [[social]]
