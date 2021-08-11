@@ -48,10 +48,6 @@ philo:
     icon: ti-lock
     content: Wir präsentieren keine fertigen Lösungen; wir erarbeiten Sie gemeinsam
       mit Ihnen und passend für Sie.
-  - name: Wir fördern<br>Talente
-    icon: ti-magnet
-    content: Junge Talente mitzunehmen und Ihnen schnell Verantwortung zu übertragen,
-      sodass Sie sich weiterentwickeln können, liegt uns am Herzen.
   - name: Befähigen statt <br>implementieren
     icon: ti-link
     content: Es geht nicht darum, neue Technologie zu implementieren, sondern Sie
@@ -61,14 +57,6 @@ philo:
     icon: ti-magnet
     content: 'Dieser Technologie-übergreifende Ansatz, der auch Business-Know-how
       beinhalten kann, ist das Markenzeichen von CoSo. '
-  - name: Annual travel and <br>credit Too
-    icon: ti-link
-    content: 'Lorem ipsum dolor sit amet, consectetur adipisc Nullam sit vel egestas
-      in. Duis orci, suspendisse nec phasellus sapien natoque '
-  - name: Comprehensive <br>health plans
-    icon: ti-lock
-    content: 'Lorem ipsum dolor sit amet, consectetur adipisc Nullam sit vel egestas
-      in. Duis orci, suspendisse nec phasellus sapien natoque '
 
 ---
 Corporate Software entwirft intelligente Cloud-IT-Lösungen für Unternehmen. Als unsere Kundin oder unser Kunde profitieren Sie langfristig und erhalten individuelle Lösungen in den Bereichen Collaboration, Data & Artificial Intelligence und Automation.
