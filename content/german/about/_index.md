@@ -22,9 +22,8 @@ how:
 what:
   title: Woran wir <strong>glauben</strong>
   image: "/uploads/seilschaft-2.png"
-  content: CoSo begleitet seine Kunden bei der Entdeckung von neuen Gebieten und befähigt
-    sie, mit Technologie neue Prozesse, neues Zusammenarbeiten und neue Produkte für
-    sich zu entdecken. Wir gehen voran, um den nächsten Schritt zu ermöglichen.
+  content: 'Wir unterstützen unsere Kundinnen & Kunden mit Consulting, Customizing
+    & Training in den Bereichen Collaboration, Data & AI und Automation. '
 funfacts:
   funfacts_item:
   - name: Uns gibt es seit
@@ -69,6 +68,7 @@ philo:
     icon: ti-lock
     content: 'Lorem ipsum dolor sit amet, consectetur adipisc Nullam sit vel egestas
       in. Duis orci, suspendisse nec phasellus sapien natoque '
+
 ---
 Corporate Software entwirft intelligente Cloud-IT-Lösungen für Unternehmen. Als unsere Kundin oder unser Kunde profitieren Sie langfristig und erhalten individuelle Lösungen in den Bereichen Collaboration, Data & Artificial Intelligence und Automation.
 
