@@ -1,11 +1,12 @@
 +++
-categories = ["Administration", "Marketing", "CoSo Angel"]
+categories = ["Change Management", "Agiles Arbeiten", "Marketing", "Projektmanagement"]
 date = ""
-name = "Christine Mäder"
-title = "Christine Mäder"
+description = "Christine Mäder"
 image = "/uploads/christine-fertig.png"
 job_title = "Senior Marketing Manager, Gute Seele"
-team = "Seal Team"
+name = "Christine Mäder"
+team = "General Team"
+title = "Christine Mäder"
 [[social]]
 icon = "ti-microsoft-alt"
 link = "https://teams.microsoft.com/l/chat/0/0?users=christine.maeder@corporatesoftware.ch"
