@@ -3013,3 +3013,7 @@ footer {
 
 .sticky + .postheader {
   padding-top: 144px; }
+
+.cc-cp-foot-save,
+.cc-nb-okagree {
+  background-color: #003f5e !important; }
