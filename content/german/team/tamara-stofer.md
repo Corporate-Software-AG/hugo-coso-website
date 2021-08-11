@@ -1,11 +1,14 @@
 +++
-categories = ["Automation", "MCT", "Microsoft 365"]
+categories = ["K2", "Training & Education", "IT Automation", "Microsoft 365"]
 date = ""
-name = "Tamara Stofer"
 image = "/uploads/tamarastofer.png"
 job_title = "Consultant und Trainerin"
+name = "Tamara Stofer"
 team = "Seal Team"
 title = "Tamara Stofer"
+[[social]]
+icon = "ti-microsoft-alt"
+link = "https://teams.microsoft.com/l/chat/0/0?users=tamara.stofer@corporatesoftware.ch"
 [[social]]
 icon = "ti-linkedin"
 link = "https://www.linkedin.com/in/tamara-stofer-2329ba16b/"
@@ -18,6 +21,4 @@ Wissen aufnehmen und weitergeben, das ist es, was Tamara motiviert. Nicht umsons
 
 > Wer immer tut, was er schon kann, bleibt immer das, was er schon ist.
 
-* Spezialgebiet: Microsoft 365 Services, IT Automation
-* Andere Gebiete: Training
-* Aktivitäten: Consulting, Training mit Schwerpunkt auf SharePoint und Teams, Neugestaltung, Digitalisierung und Automatisierung von systemübergreifenden Geschäftsprozessen
+Aktivitäten: Consulting, Training mit Schwerpunkt auf SharePoint und Teams, Neugestaltung, Digitalisierung und Automatisierung von systemübergreifenden Geschäftsprozessen
