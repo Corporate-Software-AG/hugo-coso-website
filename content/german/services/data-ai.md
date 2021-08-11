@@ -1,12 +1,10 @@
 ---
 title: Data & AI
-description: Holen Sie alles aus Ihren Daten heraus. Wir unterstützen Sie dabei.
+description: Nutzen Sie Wettbewerbsvorteile durch Data und künstliche Intelligenz
 image: uploads/bereich_datascience.png
 
 ---
 ## Data & Artificial Intelligence
-
-Wettbewerbsvorteile durch Data und Künstliche Intelligenz
 
 Holen Sie alles aus Ihren Daten. Wir helfen Ihnen bei Reporting und Analytics mit Tools der neusten Generation. Wir zeigen Ihnen das volle Potenzial von Power BI und Azure Synapse. Zudem binden wir individuell gestaltete künstliche Intelligenz und Azure Cognitive Services in Ihre Applikationen ein.
 
