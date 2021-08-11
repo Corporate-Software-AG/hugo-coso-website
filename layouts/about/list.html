@@ -110,15 +110,17 @@
 
 					{{ $group := slice }}
           {{ range $i, $e:= where .Site.Pages "Section" "team" }}
-          {{ if .Params.team }}
-            {{ $group = $group | append .Params.team }}
+          {{ if .Params.categories }}
+            {{ range .Params.categories }}
+              {{ $group = $group | append . }}
+            {{ end }}
           {{ end }}
           {{ end }}
           
 					{{ range ( $group | uniq ) }}
           <label class="btn mb-3">
             <input class="d-none" type="radio" name="shuffle-filter" value="{{ . |urlize}}">
-            {{ . | humanize }}
+            {{ . }}
           </label>
           {{ end }}
         </div>
@@ -127,7 +129,7 @@
     <div id="masonry" class="row team-members">
       {{ range $i, $e:= where .Site.Pages "Section" "team" }}
       {{ if .Params.title }}
-      <div class="masonry-item team-item col-lg-3 col-sm-6 col-md-4 mt-4" data-groups="&quot;{{ .Params.team | urlize}}&quot;">
+      <div class="masonry-item team-item col-lg-3 col-sm-6 col-md-4 mt-4" data-groups="[{{ $len := (len .Params.categories) }}{{ range $i, $e := .Params.categories }}&quot;{{ . | urlize }}&quot;{{ if ne (add $i 1) $len }},{{ end }}{{ end }}]">
         <div class="text-center mb-30">
           <a href="/team{{ .File.TranslationBaseName | relURL }}">
             <div class="team-image has-shapes d-inline-block mb-25">
