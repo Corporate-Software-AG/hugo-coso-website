@@ -10,8 +10,10 @@ categories:
 - Azure
 - Code Ninja
 job_title: Cloud Consultant, Trainer (MCT)
-team: "Seal Team"
+team: Seal Team
 social:
+- icon: ti-microsoft-alt
+  link: https://teams.microsoft.com/l/chat/0/0?users=thomas.vonmentlen@corporatesoftware.ch
 - icon: ti-linkedin
   link: https://www.linkedin.com/in/thomas-von-mentlen/
 - icon: ti-email
