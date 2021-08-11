@@ -1,4 +1,5 @@
 +++
+category = ["PowerShell"]
 image = "/uploads/rhaetische_bahn.jpeg"
 title = "Auf uns zugeschnittenes Powershell-Consulting"
 
