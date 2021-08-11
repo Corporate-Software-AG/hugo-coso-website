@@ -4,11 +4,11 @@ description: Bei CoSo erwartet dich ein individueller Entwicklungspfad in die f�
   dich passende Richtung.
 
 ---
-## Cloud Consultant
+## Junior Cloud Consultant
 
 Du bist Student*in und suchst neben dem Studium den Praxisbezug? Bei uns teilst du dir deine Arbeitszeiten selbst ein, damit das Studium nicht zu kurz kommt.
 
-Zeichnest du dich aus durch Selbstständigkeit, Flexibilität, Wissbegierde, Motivation und Kontaktfreudigkeit und bist ein*e absolute*r Teamplayer*in?
+Zeichnest du dich aus durch Selbstständigkeit, Flexibilität, Wissbegierde, Motivation und Kontaktfreudigkeit und bist eine absoluter Teamplayer*in?
 
 Werde Teil des Teams als motivierter und engagierte*r Junior Cloud Consultant (20–60 %)!
 
@@ -20,7 +20,7 @@ Werde Teil des Teams als motivierter und engagierte*r Junior Cloud Consultant (2
 * Agile Arbeitskultur in einem jungen, dynamischen und motivierten Team mit kurzen Entscheidungswegen
 * Professioneller Einsatz von LeadingEdge-Technologien
 * Grosses Netzwerk namhafter, internationaler Partner und Kunden
-* Möglichkeit der selbstständigen Planung und Durchführung von schweizweiten/internationalen Projekten 
+* Möglichkeit der selbstständigen Planung und Durchführung von schweizweiten/internationalen Projekten
 
 **Wir bieten dir**
 
