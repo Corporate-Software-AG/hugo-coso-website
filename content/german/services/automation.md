@@ -1,12 +1,11 @@
 ---
 title: Automation
-description: Sparen Sie Zeit und steigern Sie die Qualität.
+description: Erleben Sie selbst, wie Ihre Arbeitsprozesse verbessert und unterstützet
+  werden können.
 image: "/uploads/bereich_it_automation.png"
 
 ---
 ## Automation
-
-Verbesserung und Unterstützung der Arbeitsprozesse
 
 Überlassen Sie die repetitiven Aufgaben der Maschine. Wir entwickeln individuelle Automation-Lösungen für Ihre Bedürfnisse. Intelligente Workflows durch Robotic Process Automation (RPA) oder Sie unterstützen Ihre Kunden mit einem Chat-Bot auf Ihrer Webseite oder Applikation.
 
