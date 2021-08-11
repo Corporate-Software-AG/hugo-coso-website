@@ -45,16 +45,16 @@ philo:
     eirmod tempor invi duntut labore et dolore magna aliquyam erat, sed diam
   item:
   - name: Co-Creation mit<br>unseren Kund*Innen
-    icon: ti-lock
+    icon: ti-comments-smiley
     content: Wir präsentieren keine fertigen Lösungen; wir erarbeiten Sie gemeinsam
       mit Ihnen und passend für Sie.
   - name: Befähigen statt <br>implementieren
-    icon: ti-link
+    icon: ti-plug
     content: Es geht nicht darum, neue Technologie zu implementieren, sondern Sie
       in die Lage zu versetzen, mit Technologie neue Prozesse, neues Zusammenarbeiten,
       neue Produkte für sich zu entdecken und nutzenstiftend einzuführen.
   - name: Interdisziplinäre und<br>umfangreiche Projekte
-    icon: ti-magnet
+    icon: ti-palette
     content: 'Dieser Technologie-übergreifende Ansatz, der auch Business-Know-how
       beinhalten kann, ist das Markenzeichen von CoSo. '
 
