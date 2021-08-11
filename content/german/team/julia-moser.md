@@ -23,6 +23,4 @@ Julia ist Spezialistin im Bereich Data Science mit Fokus auf Azure Machine Learn
 
 > With data as the new soil we'll grow the gardens of Versailles.
 
-* Spezialgebiet: Data Science (Power BI, Python, R)
-* Andere Gebiete: Artificial Intelligence (Bots)
-* Aktivitäten: Trainerin bei Digicomp, Lehrgangsplanung, Betreuung der MPP-Lehrgänge, Betreuung von Kundenprojekten, Produktentwicklung (Power BI Custom Visuals)
+Aktivitäten: Trainerin bei Digicomp, Lehrgangsplanung, Betreuung der MPP-Lehrgänge, Betreuung von Kundenprojekten, Produktentwicklung (Power BI Custom Visuals)
