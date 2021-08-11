@@ -40,14 +40,14 @@ funfacts:
     extension: "+"
 philo:
   enable: true
-  title: Our <strong>Philosophy</strong>
+  title: Unsere <strong>Philosophie</strong>
   content: Lorem ipsum sadip dolor sit amet, consetetur sadip scing elitr, diam nonumy
     eirmod tempor invi duntut labore et dolore magna aliquyam erat, sed diam
   item:
-  - name: Annual travel and <br>credit Too
+  - name: Co-Creation mit unseren Kund*Innen
     icon: ti-lock
-    content: 'Lorem ipsum dolor sit amet, consectetur adipisc Nullam sit vel egestas
-      in. Duis orci, suspendisse nec phasellus sapien natoque '
+    content: Wir präsentieren keine fertigen Lösungen; wir erarbeiten Sie gemeinsam
+      mit Ihnen und passend für Sie.
   - name: Healthy food <br>and snacks
     icon: ti-magnet
     content: 'Lorem ipsum dolor sit amet, consectetur adipisc Nullam sit vel egestas
