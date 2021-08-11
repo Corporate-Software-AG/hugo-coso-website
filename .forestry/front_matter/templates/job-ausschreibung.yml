@@ -17,4 +17,5 @@ fields:
       format: markdown
   label: Beschreibung
 pages:
+- content/german/jobs/junior-power-platform-architect-20-60.md
 - content/german/jobs/nachster-job-test.md
