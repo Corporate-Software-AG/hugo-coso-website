@@ -3017,3 +3017,6 @@ footer {
 .cc-cp-foot-save,
 .cc-nb-okagree {
   background-color: #003f5e !important; }
+
+.content img {
+  max-height: 28rem; }
