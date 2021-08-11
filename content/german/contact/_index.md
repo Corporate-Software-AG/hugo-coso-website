@@ -1,6 +1,6 @@
 ---
 title: Schön, dass Sie da sind
-description: this is meta description
+description: Wir freuen uns, gemeinsam mit Ihnen den nächsten Schritt zu gehen.
 
 ---
 ## Wie können wir **Sie** unterstützen?
