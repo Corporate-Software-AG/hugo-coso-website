@@ -38,14 +38,24 @@ name = "Erfolge"
 weight = 2
 
 [[Languages.de.menu.main]]
-URL = "about"
-name = "Über uns"
+name = "COSOverse"
 weight = 3
-
-[[Languages.de.menu.main]]
-URL = "jobs"
-name = "Jobs"
-weight = 4
+hasChildren = true
+  [[Languages.de.menu.main]]
+  URL = "team"
+  name = "Team"
+  parent = "COSOverse"
+  weight = 1
+  [[Languages.de.menu.main]]
+  URL = "jobs"
+  name = "Jobs"
+  parent = "COSOverse"
+  weight = 2
+  [[Languages.de.menu.main]]
+  URL = "about"
+  name = "Über uns"
+  parent = "COSOverse"
+  weight = 3
 
 [[Languages.de.menu.main]]
 URL = "blog"
