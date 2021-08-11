@@ -52,10 +52,11 @@ philo:
     icon: ti-magnet
     content: Junge Talente mitzunehmen und Ihnen schnell Verantwortung zu übertragen,
       sodass Sie sich weiterentwickeln können, liegt uns am Herzen.
-  - name: Comprehensive <br>health plans
+  - name: Befähigen statt <br>implementieren
     icon: ti-link
-    content: 'Lorem ipsum dolor sit amet, consectetur adipisc Nullam sit vel egestas
-      in. Duis orci, suspendisse nec phasellus sapien natoque '
+    content: Es geht nicht darum, neue Technologie zu implementieren, sondern Sie
+      in die Lage zu versetzen, mit Technologie neue Prozesse, neues Zusammenarbeiten,
+      neue Produkte für sich zu entdecken und nutzenstiftend einzuführen.
   - name: Healthy food <br>and snacks
     icon: ti-magnet
     content: 'Lorem ipsum dolor sit amet, consectetur adipisc Nullam sit vel egestas
