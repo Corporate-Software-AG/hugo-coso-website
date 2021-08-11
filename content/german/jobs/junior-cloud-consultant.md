@@ -1,16 +1,13 @@
 ---
-title: Junior Cloud Consultant 20–60%
-description: Bei CoSo erwartet dich ein individueller Entwicklungspfad in die für
-  dich passende Richtung.
+title: Junior Cloud Consultant
+description: Entwickle dich in die passende Richtung
 
 ---
-## Junior Cloud Consultant
-
 Du bist Student*in und suchst neben dem Studium den Praxisbezug? Bei uns teilst du dir deine Arbeitszeiten selbst ein, damit das Studium nicht zu kurz kommt.
 
 Zeichnest du dich aus durch Selbstständigkeit, Flexibilität, Wissbegierde, Motivation und Kontaktfreudigkeit und bist eine absoluter Teamplayer*in?
 
-Werde Teil des Teams als motivierter und engagierte*r Junior Cloud Consultant (20–60 %)!
+**Werde Teil des Teams als motivierter und engagierte*r Junior Cloud Consultant (20–60 %)!**
 
 **Das erwartet dich**
 
