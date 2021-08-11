@@ -10,9 +10,9 @@ description: "Corporate Software entwirft intelligente Cloud-IT-Lösungen für U
 why:
   title: Wie wir uns <strong>verhalten</strong>
   image: "/uploads/cs-bewerbungsmappe-karriere-fertig.png"
-  content: 'Für uns steht der Mensch im Zentrum: Wir sind verlässlich, für andere
-    da und pflegen unsere Beziehungen. Wir erhöhen unsere Sichtbarkeit und übernehmen
-    proaktiv Verantwortung. '
+  content: CoSo begleitet seine Kunden bei der Entdeckung von neuen Gebieten und befähigt
+    sie, mit Technologie neue Prozesse, neues Zusammenarbeiten und neue Produkte für
+    sich zu entdecken. Wir gehen voran, um den nächsten Schritt zu ermöglichen.
 how:
   title: Woran wir <strong>glauben</strong>
   image: "/uploads/seilschaft-2.png"
