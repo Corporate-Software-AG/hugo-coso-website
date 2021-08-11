@@ -7,6 +7,9 @@ name = "Tamara Stofer"
 team = "Seal Team"
 title = "Tamara Stofer"
 [[social]]
+icon = "ti-microsoft-alt"
+link = "https://teams.microsoft.com/l/chat/0/0?users=tamara.stofer@corporatesoftware.ch"
+[[social]]
 icon = "ti-linkedin"
 link = "https://www.linkedin.com/in/tamara-stofer-2329ba16b/"
 [[social]]
