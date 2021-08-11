@@ -34,7 +34,6 @@ sections:
 - type: document
   path: data/de/success_short.yml
   label: Short Success Stories (Testimonial)
-  match: "**/*"
 - type: document
   path: content/german/success/_index.md
   label: Erfolge Seite
@@ -60,7 +59,6 @@ sections:
 - type: document
   path: content/german/team/_index.md
   label: Team Seite
-  match: "**/*"
 - type: directory
   path: content/german/team
   label: Team
