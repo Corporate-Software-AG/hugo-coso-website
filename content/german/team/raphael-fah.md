@@ -1,11 +1,15 @@
 +++
-categories = ["Microsoft 365", "MCT", "Code Ninja", "Automation", "Azure"]
+categories = ["System Center", "Office 365", "SharePoint", "Microsoft 365", "MCT", "Code Ninja", "IT-Automation", "Azure"]
 date = ""
-name = "Raphael Fäh – unser Automation Mentor"
+description = ""
 image = "/uploads/raphael-neu-fertig.png"
 job_title = "Senior-Consultant, MCSE Cloud Plattform und Infrastructure, Trainer (MCT)"
+name = "Raphael Fäh – unser Automation Mentor"
 team = "S.H.I.E.L.D"
 title = "Raphael Fäh"
+[[social]]
+icon = "ti-microsoft-alt"
+link = "https://teams.microsoft.com/l/chat/0/0?users=raphael.faeh@corporatesoftware.ch"
 [[social]]
 icon = "ti-email"
 link = "mailto:raphael.faeh@corporatesoftware.ch"
@@ -18,6 +22,4 @@ Raphael liest gerne Fantasy- und Science-Fiction-Romane und in der IT hat er den
 
 > **Lernen ist wie Rudern gegen den Strom. Hört man damit auf, treibt man zurück. (Laozi)**
 
-* Spezialgebiet: IT-Automation (PowerShell)
-* Andere Gebiete : Azure Cloud Computing, Collaboration (SharePoint, Office 365), System Center
-* Aktivitäten: IT-Automation mit PowerShell, SharePoint Architecture & Operations, Azure & Office 365 Architecture & Implementation, System Center Operation Manager, Service Management, Orchestrator Architecture, Implementation, Automation & Troubleshooting, Trainer bei Digicomp
+Aktivitäten: IT-Automation mit PowerShell, SharePoint Architecture & Operations, Azure & Office 365 Architecture & Implementation, System Center Operation Manager, Service Management, Orchestrator Architecture, Implementation, Automation & Troubleshooting, Trainer bei Digicomp
