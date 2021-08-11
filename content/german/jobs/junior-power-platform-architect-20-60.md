@@ -3,8 +3,6 @@ description = "Mach dir die Kraft der Power Platform zu eigen"
 title = "Junior Power Platform Architect (20–60%)"
 
 +++
-## Junior Power Platform Architect
-
 Du bist Student*in und suchst neben dem Studium den Praxisbezug? Bei uns teilst du dir deine Arbeitszeiten selbst ein, damit das Studium nicht zu kurz kommt.
 
 Zeichnest du dich aus durch Selbstständigkeit, Flexibilität, Wissbegierde, Motivation und Kontaktfreudigkeit und bist eine absoluter Teamplayer*in?
