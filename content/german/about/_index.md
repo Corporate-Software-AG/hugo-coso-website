@@ -8,20 +8,20 @@ description: "Corporate Software entwirft intelligente Cloud-IT-Lösungen für U
   haben, ist das Interesse an der stetigen Verbesserung von Technik, Wirtschaft und
   uns selbst. Wir gehen voran, um den nächsten Schritt zu ermöglichen.   "
 why:
-  title: Wie wir uns <strong>verhalten</strong>
+  title: Woran wir <strong>glauben</strong>
   image: "/uploads/cs-bewerbungsmappe-karriere-fertig.png"
   content: CoSo begleitet seine Kunden bei der Entdeckung von neuen Gebieten und befähigt
     sie, mit Technologie neue Prozesse, neues Zusammenarbeiten und neue Produkte für
     sich zu entdecken. Wir gehen voran, um den nächsten Schritt zu ermöglichen.
 how:
-  title: Woran wir <strong>glauben</strong>
+  title: Wie wir uns <strong>verhalten</strong>
   image: "/uploads/seilschaft-2.png"
   content: 'Für uns steht der Mensch im Zentrum: Wir sind verlässlich, für andere
     da und pflegen unsere Beziehungen. Wir erhöhen unsere Sichtbarkeit und übernehmen
     proaktiv Verantwortung.'
 what:
-  title: Woran wir <strong>glauben</strong>
-  image: "/uploads/seilschaft-2.png"
+  title: Was wir <strong>tun</strong>
+  image: "/uploads/softeng.png"
   content: 'Wir unterstützen unsere Kundinnen & Kunden mit Consulting, Customizing
     & Training in den Bereichen Collaboration, Data & AI und Automation. '
 funfacts:
