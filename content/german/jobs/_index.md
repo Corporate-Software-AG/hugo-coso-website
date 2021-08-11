@@ -39,4 +39,8 @@ Die Corporate Software AG ist ein junges, dynamisches Start-Up, das an der Schni
 
 Wir sind Abenteurer, Klangbegeisterte, Legofanatiker, Bastler, Pfadfinder, auf der Suche nach neuen Formen von Leben und Arbeiten, die die IT nutzen, um uns als Menschen weiterzuentwickeln. Was wir gemeinsam haben, ist das Interesse an der stetigen Verbesserung von Technik, Wirtschaft und uns selbst.
 
+### Werde Teil unseres Teams: Wir freuen uns darauf, dich kennenzulernen!
+
+![](/uploads/kununu-score.svg)
+
 ![](/uploads/kununu-opencompany.png)
