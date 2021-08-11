@@ -1,5 +1,5 @@
 +++
-image = ""
+image = "/uploads/hochbauamtzh.png"
 title = "Reportings verbessern & Prozesse automatisieren"
 
 +++
