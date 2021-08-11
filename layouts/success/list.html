@@ -16,7 +16,8 @@
 
 
 <!-- start of success-story-section -->
-<section class="section-padding pb-40 bg-light-gray has-bg-brash bg-brash-y has-shapes" data-aos="fade-in" data-aos-delay="150">
+<section class="section-padding pb-40 bg-light-gray has-bg-brash bg-brash-y has-shapes"
+style="background-image: url('{{`images/brushes/section-top.svg` | absURL}}'), url('{{`images/brushes/section-bottom.svg` | absURL}}');" data-aos="fade-in" data-aos-delay="150">
     <div class="container">
       <div class="row justify-content-center">
         <div class="col-md-12 mb-25">
@@ -48,7 +49,7 @@
       <div id="masonry" class="row team-members">
         {{ range .Pages }}
         <div class="masonry-item team-item col-lg-3 col-sm-6 col-md-4 mt-4" data-groups="[{{ $len := (len .Params.category) }}{{ range $i, $e := .Params.category }}&quot;{{ . | urlize }}&quot;{{ if ne (add $i 1) $len }},{{ end }}{{ end }}]">
-            <div class="bg-white text-center shadow rounded p-30 mb-30">
+            <div class="bg-white text-center rounded p-30 mb-30">
               <p class="mb-2">{{ .Title | markdownify }}</p>
               <div class="" style="width: 100%; line-height: 7em;">
                 <img class="img-fluid" style="vertical-align: middle;" src="{{ .Params.image | absURL}}" alt="">
