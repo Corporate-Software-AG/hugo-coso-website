@@ -15,7 +15,7 @@ why:
     sich zu entdecken. Wir gehen voran, um den nächsten Schritt zu ermöglichen.
 how:
   title: Wie wir uns <strong>verhalten</strong>
-  image: "/uploads/seilschaft-2.png"
+  image: "/uploads/cs-bewerbungsmappe-philosophie-1.png"
   content: 'Für uns steht der Mensch im Zentrum: Wir sind verlässlich, für andere
     da und pflegen unsere Beziehungen. Wir erhöhen unsere Sichtbarkeit und übernehmen
     proaktiv Verantwortung.'
