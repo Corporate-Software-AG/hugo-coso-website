@@ -69,7 +69,6 @@ sections:
 - type: document
   path: content/german/privacy-policy-imprint.md
   label: Datenschutz und Impressum
-  match: "**/*"
 - type: document
   path: i18n/de.yaml
   label: Sprachelemente

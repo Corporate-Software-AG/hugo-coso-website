@@ -1,8 +1,8 @@
 ---
-title : "Kontaktiere uns"
-description : "this is meta description"
-draft : false
----
+title: Schön, dass Sie da sind
+description: this is meta description
 
-## Contact **Us**
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat sed.
+---
+## Wie können wir **Sie** unterstützen?
+
+Machen Sie den ersten Schritt und kontaktieren Sie uns. Wir freuen uns darauf, gemeinsam mit Ihnen voranzugehen.
