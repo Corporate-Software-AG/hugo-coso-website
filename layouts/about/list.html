@@ -127,7 +127,7 @@
       </div>
     </div>
     <div id="masonry" class="row team-members">
-      {{ range $i, $e:= where .Site.Pages "Section" "team" }}
+      {{ range shuffle (where .Site.Pages "Section" "team") }}
       {{ if .Params.title }}
       <div class="masonry-item team-item col-lg-3 col-sm-6 col-md-4 mt-4" data-groups="[{{ $len := (len .Params.categories) }}{{ range $i, $e := .Params.categories }}&quot;{{ . | urlize }}&quot;{{ if ne (add $i 1) $len }},{{ end }}{{ end }}]">
         <div class="text-center mb-30">
