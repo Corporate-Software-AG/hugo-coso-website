@@ -1,5 +1,5 @@
 ---
-title : "Data & Artificial Intelligence"
+title : "Data & AI"
 description : "this is meta description"
 image: "uploads/bereich_datascience.png"
 draft : false

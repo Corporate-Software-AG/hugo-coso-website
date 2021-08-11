@@ -13,13 +13,14 @@
       <div class="col-lg-11">
         <ul class="nav nav-pills justify-content-center mb-20" id="pills-tab" role="tablist">
           {{ range $i, $e:= (where .Site.Pages "Section" "services") }}
-
+          {{ if .Params.title }}
           <li class="nav-item mb-20" role="presentation">
             <a class="nav-link {{if eq $i 0}}active{{end}}" id="pill-{{.Params.title| urlize}}" data-toggle="pill"
               href="#{{.Params.title| urlize}}" role="tab" aria-controls="{{.Params.title| urlize}}" aria-selected="true">
-              <i class="circle-shape"></i>{{.Params.title}}
+              <i class="circle-shape"></i>{{ .Params.title }}
             </a>
           </li>
+          {{ end }}
           {{ end }}
         </ul>
 
@@ -29,7 +30,7 @@
             aria-labelledby="pill-{{.Params.title | urlize}}">
             <div class="row align-items-center">
               <div class="col-lg-8 anim-to-top">
-                <img class="img-fluid rounded-lg shadow" src="{{ .Params.image | absURL }}" alt="">
+                <img class="img-fluid rounded-lg" src="{{ .Params.image | absURL }}" alt="">
               </div>
               <div class="col-lg-4 mt-4 mt-lg-0 anim-to-bottom">
                 <h2 class="section-title">{{ .Params.title | markdownify }}</h2>
