@@ -7,12 +7,24 @@ description: "Corporate Software entwirft intelligente Cloud-IT-Lösungen für U
   Lösungskonzepten an der Schnittstelle zwischen Business und IT.\n\nWas wir gemeinsam
   haben, ist das Interesse an der stetigen Verbesserung von Technik, Wirtschaft und
   uns selbst. Wir gehen voran, um den nächsten Schritt zu ermöglichen.   "
-mission:
+why:
   title: Wie wir uns <strong>verhalten</strong>
   image: "/uploads/cs-bewerbungsmappe-karriere-fertig.png"
   content: 'Für uns steht der Mensch im Zentrum: Wir sind verlässlich, für andere
     da und pflegen unsere Beziehungen. Wir erhöhen unsere Sichtbarkeit und übernehmen
     proaktiv Verantwortung. '
+how:
+  title: Woran wir <strong>glauben</strong>
+  image: "/uploads/seilschaft-2.png"
+  content: CoSo begleitet seine Kunden bei der Entdeckung von neuen Gebieten und befähigt
+    sie, mit Technologie neue Prozesse, neues Zusammenarbeiten und neue Produkte für
+    sich zu entdecken. Wir gehen voran, um den nächsten Schritt zu ermöglichen.
+what:
+  title: Woran wir <strong>glauben</strong>
+  image: "/uploads/seilschaft-2.png"
+  content: CoSo begleitet seine Kunden bei der Entdeckung von neuen Gebieten und befähigt
+    sie, mit Technologie neue Prozesse, neues Zusammenarbeiten und neue Produkte für
+    sich zu entdecken. Wir gehen voran, um den nächsten Schritt zu ermöglichen.
 funfacts:
   funfacts_item:
   - name: Uns gibt es seit
@@ -27,12 +39,6 @@ funfacts:
   - name: Unsere Projekte
     count: "500"
     extension: "+"
-vision:
-  title: Woran wir <strong>glauben</strong>
-  image: "/uploads/seilschaft-2.png"
-  content: CoSo begleitet seine Kunden bei der Entdeckung von neuen Gebieten und befähigt
-    sie, mit Technologie neue Prozesse, neues Zusammenarbeiten und neue Produkte für
-    sich zu entdecken. Wir gehen voran, um den nächsten Schritt zu ermöglichen.
 achivement:
   title: Average yearly growth rate **across our clients We able to achive**
   content: Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy

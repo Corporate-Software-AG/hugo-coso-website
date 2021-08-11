@@ -13,7 +13,7 @@
 <!-- end of services-section -->
 
 <!-- start section -->
-{{with .Params.vision }}
+{{with .Params.why }}
 <section class="pt-120 pb-120 image-info-section has-shapes bg-light-gray has-bg-brash bg-brash-y overflow-hidden"
   style="background-image: url('{{`images/brushes/section-top.svg` | absURL}}'), url('{{`images/brushes/section-bottom.svg` | absURL}}');">
   <div class="container">
@@ -44,7 +44,7 @@
 <!-- end section -->
 
 <!-- start section -->
-{{with .Params.mission }}
+{{with .Params.how }}
 <section class="section-padding" data-aos="fade-in" data-aos-delay="150">
   <div class="container">
     <div class="row align-items-center justify-content-around">
@@ -63,6 +63,37 @@
       </div>
     </div>
   </div>
+</section>
+{{ end }}
+<!-- end section -->
+
+<!-- start section -->
+{{with .Params.what }}
+<section class="pt-120 pb-120 image-info-section has-shapes bg-light-gray has-bg-brash bg-brash-y overflow-hidden"
+  style="background-image: url('{{`images/brushes/section-top.svg` | absURL}}'), url('{{`images/brushes/section-bottom.svg` | absURL}}');">
+  <div class="container">
+    <div class="row align-items-center justify-content-around">
+      <div class="col-lg-5 col-md-8 col-sm-10">
+        <div class="d-inline-block has-shadow shadow-left has-shapes">
+          <img class="img-fluid rounded-sm" src="{{ .image | absURL }}">
+
+          <div class="shape-1 shape-md bg-secondary rounded-circle"></div>
+          <div class="shape-2 shape-xl bg-tertiary rounded-circle"></div>
+          <div class="shape-3 shape-lg bg-primary rounded-circle"></div>
+        </div>
+      </div>
+      <div class="col-lg-5 col-md-8 col-sm-10 mt-5 mt-lg-0">
+        <h2 class="section-title">{{ .title | markdownify }}</h2>
+        <p class="pb-20">{{ .content | markdownify }}</p>
+      </div>
+    </div>
+  </div>
+
+  <div class="shape-3 shape-xs-2 bg-secondary rounded-circle"></div>
+  <div class="shape-4 shape-sm-2 bg-tertiary rounded-circle"></div>
+  <div class="shape-5 shape-sm bg-primary rounded-circle"></div>
+  <div class="shape-6 shape-xs bg-secondary rounded-circle"></div>
+  <div class="shape-7 shape-xs-2 bg-tertiary rounded-circle"></div>
 </section>
 {{ end }}
 <!-- end section -->
