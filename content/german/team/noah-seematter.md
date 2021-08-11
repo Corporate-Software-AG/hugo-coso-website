@@ -1,7 +1,7 @@
 +++
 categories = ["Power Platform", "Microsoft 365"]
 date = ""
-description = "Noah Seematter"
+name = "Noah Seematter"
 image = "/uploads/noahseematter.png"
 job_title = "Junior Cloud Consultant"
 team = "Seal Team"

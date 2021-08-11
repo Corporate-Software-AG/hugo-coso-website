@@ -1,7 +1,7 @@
 +++
 categories = ["Microsoft 365", "Power Platform", "MCT"]
 date = ""
-description = "Julia Witschi"
+name = "Julia Witschi"
 image = "/uploads/julia-1-fertig.png"
 job_title = "Junior Consultant"
 team = "Seal Team"

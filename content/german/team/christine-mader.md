@@ -1,11 +1,11 @@
 +++
 categories = ["Administration", "Marketing", "CoSo Angel"]
 date = ""
-description = "Christine Mäder"
+name = "Christine Mäder"
+title = "Christine Mäder"
 image = "/uploads/christine-fertig.png"
 job_title = "Senior Marketing Manager, Gute Seele"
 team = "Seal Team"
-title = "Christine Mäder"
 [[social]]
 icon = "ti-microsoft-alt"
 link = "https://teams.microsoft.com/l/chat/0/0?users=christine.maeder@corporatesoftware.ch"

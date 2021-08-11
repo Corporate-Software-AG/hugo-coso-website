@@ -1,7 +1,7 @@
 +++
 categories = ["Azure", "Microsoft 365"]
 date = ""
-description = "Raphael Bösch"
+name = "Raphael Bösch"
 image = ""
 job_title = "Consultant"
 team = "Seal Team"

@@ -1,7 +1,7 @@
 +++
 categories = ["Administration", "Dynamics 365", "CoSo Angel"]
 date = ""
-description = "Waltraud Ossig"
+name = "Waltraud Ossig"
 image = "/uploads/waltraudossig.png"
 job_title = "Buchhaltung & Controlling, Gute Seele"
 team = "General Circle"

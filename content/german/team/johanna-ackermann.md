@@ -1,7 +1,7 @@
 +++
 categories = ["Projektmanagement", "Power Platform"]
 date = ""
-description = "Johanna Ackermann"
+name = "Johanna Ackermann"
 image = "/uploads/johannaackermann.png"
 job_title = "Junior Cloud Consultant"
 team = "Seal Team"

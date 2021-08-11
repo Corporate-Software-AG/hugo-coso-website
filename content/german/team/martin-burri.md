@@ -1,7 +1,7 @@
 +++
 categories = []
 date = ""
-description = ""
+name = ""
 draft = true
 image = ""
 job_title = ""

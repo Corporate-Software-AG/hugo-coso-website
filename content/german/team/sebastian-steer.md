@@ -1,7 +1,7 @@
 +++
 categories = ["Power Platform", "MCT", "Microsoft 365"]
 date = ""
-description = "Sebastian Steer"
+name = "Sebastian Steer"
 image = "/uploads/sebastiansteer.png"
 job_title = "Junior Consultant, Trainer (MCT)"
 team = "S.H.I.E.L.D"

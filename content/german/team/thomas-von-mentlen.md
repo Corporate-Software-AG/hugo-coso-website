@@ -2,7 +2,7 @@
 title: Thomas von Mentlen
 image: "/uploads/portrait.png"
 date: 
-description: Thomas von Mentlen
+name: Thomas von Mentlen
 categories:
 - Bots
 - MCT

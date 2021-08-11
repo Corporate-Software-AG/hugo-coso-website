@@ -1,7 +1,7 @@
 +++
 categories = ["Business Intelligence", "MCT", "Microsoft 365"]
 date = ""
-description = "Noah Zani"
+name = "Noah Zani"
 image = "/uploads/noah.png"
 job_title = "Consultant, Trainer (MCT)"
 team = "Seal Team"

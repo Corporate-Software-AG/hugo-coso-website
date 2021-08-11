@@ -1,7 +1,7 @@
 +++
 categories = ["Azure", "Microsoft 365", "Automation"]
 date = ""
-description = "Hekuran Mulaki"
+name = "Hekuran Mulaki"
 image = "/uploads/hekruan.png"
 team = "S.H.I.E.L.D"
 job_title = "Junior DevOps Consultant"

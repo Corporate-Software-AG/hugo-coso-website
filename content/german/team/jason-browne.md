@@ -1,7 +1,7 @@
 +++
 categories = ["MCT", "Microsoft 365"]
 date = ""
-description = "Jason Browne"
+name = "Jason Browne"
 image = "/uploads/jason-fertig.png"
 job_title = "Junior Consultant"
 team = "S.H.I.E.L.D"

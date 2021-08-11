@@ -1,7 +1,7 @@
 +++
 categories = ["Power Platform"]
 date = ""
-description = "Maxime Lavoie"
+name = "Maxime Lavoie"
 image = "/uploads/maximlavoie.png"
 job_title = "Junior Cloud Consultant"
 team = "S.H.I.E.L.D"

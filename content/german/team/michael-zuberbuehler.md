@@ -1,7 +1,7 @@
 +++
 categories = ["Code Ninja", "Azure", "MCT", "Automation"]
 date = ""
-description = "Michael Zuberbühler – unser Vernetzungskünstler"
+name = "Michael Zuberbühler – unser Vernetzungskünstler"
 image = "/uploads/michael.png"
 job_title = "DevOps Consultant"
 team = "S.H.I.E.L.D"

@@ -1,7 +1,7 @@
 +++
 categories = ["Power Platform", "Data Science", "MCT"]
 date = ""
-description = "Julia Moser"
+name = "Julia Moser"
 image = "/uploads/cs-julia-moser-fertig-mit-weiss.png"
 job_title = "Consultant, Trainerin (MCT), Microsoft Professional Programm (MPP) \"Data Science\""
 team = "S.H.I.E.L.D"

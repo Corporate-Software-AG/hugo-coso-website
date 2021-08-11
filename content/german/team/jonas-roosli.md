@@ -1,7 +1,7 @@
 +++
 categories = ["MCT", "Microsoft 365", "Legacy SharePoint"]
 date = ""
-description = "Jonas Röösli"
+name = "Jonas Röösli"
 image = "/uploads/jonasroosli.png"
 job_title = "Consultant, Trainer (MCT)"
 team = "Seal Team"

@@ -5,8 +5,70 @@
   <div class="container">
     <div class="row justify-content-center">
       <div class="col-lg-8 col-md-8 text-center mb-40">
-        <a href="/about"><button class="btn btn-primary">Find our team in the about us section...</button></a>
+        <img src="{{ .Params.teamimage }}" class="img-fluid"/>
       </div>
+      <div class="col-lg-6 col-md-9 text-center mb-40">
+        <div class="content">{{ .Params.preteamtext }}</div>
+      </div>
+    </div>
+    <div class="row justify-content-center">
+      <div class="col-md-12 mb-25">
+        <div class="team-filters text-uppercase text-center w-100" data-toggle="buttons">
+          <label class="btn active mb-3">
+            <input class="d-none" type="radio" name="shuffle-filter" value="all" checked="checked">
+            {{ i18n "all_together"}}
+          </label>
+
+          {{ $data := index .Site.Data .Site.Language.Lang }}
+
+					{{ $group := slice }}
+          {{ range $i, $e:= where .Site.Pages "Section" "team" }}
+          {{ if .Params.categories }}
+            {{ range .Params.categories }}
+              {{ $group = $group | append . }}
+            {{ end }}
+          {{ end }}
+          {{ end }}
+          
+					{{ range ( $group | uniq ) }}
+          <label class="btn mb-3">
+            <input class="d-none" type="radio" name="shuffle-filter" value="{{ . |urlize}}">
+            {{ . }}
+          </label>
+          {{ end }}
+        </div>
+      </div>
+    </div>
+    <div id="masonry" class="row team-members">
+      {{ range shuffle (where .Site.Pages "Section" "team") }}
+      {{ if .Params.name }}
+      <div class="masonry-item team-item col-lg-3 col-sm-6 col-md-4 mt-4" data-groups="[{{ $len := (len .Params.categories) }}{{ range $i, $e := .Params.categories }}&quot;{{ . | urlize }}&quot;{{ if ne (add $i 1) $len }},{{ end }}{{ end }}]">
+        <div class="text-center mb-30">
+          <a href="/team{{ .File.TranslationBaseName | relURL }}">
+            <div class="team-image has-shapes d-inline-block mb-25">
+                <img class="img-fluid rounded-circle" src="{{ .Params.image | absURL}}" alt="" style="width: 200px; height: 200px; object-fit: cover; object-position: 50% 10px;">
+                <div class="team-shapes">
+                <div class="shape-1 shape-xs bg-secondary rounded-circle"></div>
+                <div class="shape-2 shape-sm bg-primary rounded-circle"></div>
+                <div class="shape-3 shape-sm-2 bg-tertiary rounded-circle"></div>
+                </div>
+            </div>
+          </a>
+          <h4 class="font-weight-bold mb-10">{{ .Params.title }}</h4>
+          <p>{{ .Params.designation }}</p>
+          <ul class="list-unstyled list-inline mt-2">
+            {{ range .Params.social }}
+            <li class="list-inline-item">
+              <a href="{{ .link | safeURL }}" class="text-black-200 p-2 d-inline-block">
+                <span class="{{ .icon }}"></span></a>
+            </li>
+            {{ end }}
+          </ul>
+        </div>
+      </div>
+      <!-- team item -->
+      {{ end }}
+      {{ end }}
     </div>
   </div>
 </section>

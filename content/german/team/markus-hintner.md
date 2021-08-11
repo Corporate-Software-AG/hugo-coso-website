@@ -1,7 +1,7 @@
 +++
 categories = ["Azure", "Microsoft 365", "Legacy SharePoint", "MCT", "Code Ninja"]
 date = ""
-description = "Markus Hintner"
+name = "Markus Hintner"
 image = "/uploads/markus.png"
 job_title = "Senior-Consultant, Microsoft Certified Master (MSCM), Trainer (MCT)"
 team = "General Circle"

@@ -1,7 +1,7 @@
 +++
 categories = ["Projektmanagement", "MCT", "Business Intelligence", "Azure", "Power Platform"]
 date = ""
-description = "Matthias Gesseny – unser Azure-Alchimist"
+name = "Matthias Gesseny – unser Azure-Alchimist"
 image = "/uploads/matthias.png"
 job_title = "CTO und CO-Gründer, Senior-Consultant, Microsoft Azure MVP, Fachbereichsleiter Private Cloud Digicomp, ITIL-Trainer, Trainer (MCT)"
 team = "General Circle"

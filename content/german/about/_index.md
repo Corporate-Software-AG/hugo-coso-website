@@ -39,32 +39,36 @@ funfacts:
   - name: Unsere Projekte
     count: "500"
     extension: "+"
-achivement:
-  title: Average yearly growth rate **across our clients We able to achive**
-  content: Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy
-    eirmod tempor invidunt ut labore et dolore magna aliquyam erat sed. At vero eos
-    et
-  funfacts:
-  - name: Years Of <br> Experience
-    count: "24"
-    extension: "+"
-  - name: More Real <br> Active users
-    count: "10"
-    extension: M+
-  - name: Employees <br> Work Here
-    count: "3000"
-    extension: "+"
-  services:
-  - name: Collaboration
-    icon: ti-video-clapper
-  - name: Data + AI
-    icon: ti-thumb-up
-  - name: Automation
-    icon: ti-comments-smiley
-teamimage: /uploads/coso_team.png
-preteamtext: "
-Wir zusammen sind die CoSo. Jeder Einzelne von uns ist wichtig, damit wir zusammen gut sein können. Wir helfen uns gegenseitig und ergänzen unsere Talente. Wir sind Abenteurer, Klangbegeisterte, Legofanatiker, Bastler, Pfadfinder, auf der Suche nach neuen Formen von Leben & Arbeiten, die die IT nutzen, um uns als Menschen weiterzuentwickeln."
-
+philo:
+  enable: true
+  title: Our <strong>Philosophy</strong>
+  content: Lorem ipsum sadip dolor sit amet, consetetur sadip scing elitr, diam nonumy
+    eirmod tempor invi duntut labore et dolore magna aliquyam erat, sed diam
+  item:
+  - name: Annual travel and <br>credit Too
+    icon: ti-lock
+    content: 'Lorem ipsum dolor sit amet, consectetur adipisc Nullam sit vel egestas
+      in. Duis orci, suspendisse nec phasellus sapien natoque '
+  - name: Healthy food <br>and snacks
+    icon: ti-magnet
+    content: 'Lorem ipsum dolor sit amet, consectetur adipisc Nullam sit vel egestas
+      in. Duis orci, suspendisse nec phasellus sapien natoque '
+  - name: Comprehensive <br>health plans
+    icon: ti-link
+    content: 'Lorem ipsum dolor sit amet, consectetur adipisc Nullam sit vel egestas
+      in. Duis orci, suspendisse nec phasellus sapien natoque '
+  - name: Healthy food <br>and snacks
+    icon: ti-magnet
+    content: 'Lorem ipsum dolor sit amet, consectetur adipisc Nullam sit vel egestas
+      in. Duis orci, suspendisse nec phasellus sapien natoque '
+  - name: Annual travel and <br>credit Too
+    icon: ti-link
+    content: 'Lorem ipsum dolor sit amet, consectetur adipisc Nullam sit vel egestas
+      in. Duis orci, suspendisse nec phasellus sapien natoque '
+  - name: Comprehensive <br>health plans
+    icon: ti-lock
+    content: 'Lorem ipsum dolor sit amet, consectetur adipisc Nullam sit vel egestas
+      in. Duis orci, suspendisse nec phasellus sapien natoque '
 ---
 Corporate Software entwirft intelligente Cloud-IT-Lösungen für Unternehmen. Als unsere Kundin oder unser Kunde profitieren Sie langfristig und erhalten individuelle Lösungen in den Bereichen Collaboration, Data & Artificial Intelligence und Automation.
 
