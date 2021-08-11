@@ -1,5 +1,5 @@
 +++
-category = "test"
+category = ["PowerBI"]
 image = "/uploads/bernina-express-auf-dem-kreisviadukt.jpg"
 title = "Wie die Rhätische Bahn ihre Daten demokratisiert"
 
