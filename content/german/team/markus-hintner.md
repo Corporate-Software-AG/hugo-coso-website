@@ -4,7 +4,7 @@ date = ""
 description = "Markus Hintner"
 image = "/uploads/markus.png"
 job_title = "Senior-Consultant, Microsoft Certified Master (MSCM), Trainer (MCT)"
-team = "Seal Team"
+team = "General Circle"
 title = "Markus Hintner"
 [[social]]
 icon = "ti-email"

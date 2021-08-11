@@ -4,6 +4,7 @@ date = ""
 description = "Raphael Fäh – unser Automation Mentor"
 image = "/uploads/raphael-neu-fertig.png"
 job_title = "Senior-Consultant, MCSE Cloud Plattform und Infrastructure, Trainer (MCT)"
+team = "S.H.I.E.L.D"
 title = "Raphael Fäh"
 [[social]]
 icon = "ti-email"

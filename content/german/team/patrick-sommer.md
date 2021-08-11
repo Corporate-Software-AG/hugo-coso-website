@@ -4,7 +4,7 @@ date = ""
 description = "Patrick Sommer"
 image = "/uploads/patrick.png"
 job_title = "CEO und CO-Gründer, Senior-Consultant, Hermes Advanced, ITIL-Trainer, Trainer (MCT), MPP Data Science und Cloud Admin"
-team = "Seal Team"
+team = "General Circle"
 title = "Patrick Sommer"
 [[social]]
 icon = "ti-email"

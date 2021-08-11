@@ -4,7 +4,7 @@ date = ""
 description = "Julia Moser"
 image = "/uploads/cs-julia-moser-fertig-mit-weiss.png"
 job_title = "Consultant, Trainerin (MCT), Microsoft Professional Programm (MPP) \"Data Science\""
-team = "Seal Team"
+team = "S.H.I.E.L.D"
 title = "Julia Moser"
 [[social]]
 icon = "ti-email"

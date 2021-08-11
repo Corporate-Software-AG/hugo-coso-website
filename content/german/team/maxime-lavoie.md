@@ -4,7 +4,7 @@ date = ""
 description = "Maxime Lavoie"
 image = "/uploads/maximlavoie.png"
 job_title = "Junior Cloud Consultant"
-team = ""
+team = "S.H.I.E.L.D"
 title = "Maxim Lavoie"
 [[social]]
 icon = "ti-linkedin"

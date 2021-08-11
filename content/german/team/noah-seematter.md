@@ -4,7 +4,7 @@ date = ""
 description = "Noah Seematter"
 image = "/uploads/noahseematter.png"
 job_title = "Junior Cloud Consultant"
-team = ""
+team = "Seal Team"
 title = "Noah Seematter"
 [[social]]
 icon = "ti-linkedin"

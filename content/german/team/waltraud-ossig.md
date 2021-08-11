@@ -4,7 +4,7 @@ date = ""
 description = "Waltraud Ossig"
 image = "/uploads/waltraudossig.png"
 job_title = "Buchhaltung & Controlling, Gute Seele"
-team = ""
+team = "General Circle"
 title = "Waltraud Ossig"
 [[social]]
 icon = "ti-linkedin"

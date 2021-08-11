@@ -9,7 +9,7 @@ categories:
 - SharePoint
 - Teams
 job_title: Cloud Consultant, Trainer (MCT)
-team: Seal Team
+team: "Seal Team"
 social:
 - icon: ti-linkedin
   link: https://www.linkedin.com/in/thomas-von-mentlen/

@@ -4,6 +4,7 @@ date = ""
 description = "Michael Zuberbühler – unser Vernetzungskünstler"
 image = "/uploads/michael.png"
 job_title = "DevOps Consultant"
+team = "S.H.I.E.L.D"
 title = "Michael Zuberbühler"
 [[social]]
 icon = "ti-email"

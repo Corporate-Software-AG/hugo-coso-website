@@ -4,7 +4,7 @@ date = ""
 description = "Sebastian Steer"
 image = "/uploads/sebastiansteer.png"
 job_title = "Junior Consultant, Trainer (MCT)"
-team = "Seal Team"
+team = "S.H.I.E.L.D"
 title = "Sebastian Steer"
 [[social]]
 icon = "ti-email"

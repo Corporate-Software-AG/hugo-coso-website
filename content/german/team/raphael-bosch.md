@@ -4,7 +4,7 @@ date = ""
 description = "Raphael Bösch"
 image = ""
 job_title = "Consultant"
-team = ""
+team = "Seal Team"
 title = "Raphael Bösch"
 [[social]]
 icon = "ti-linkedin"

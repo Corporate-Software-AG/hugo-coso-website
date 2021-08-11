@@ -4,6 +4,7 @@ date = ""
 description = "Noah Zani"
 image = "/uploads/noah.png"
 job_title = "Consultant, Trainer (MCT)"
+team = "Seal Team"
 title = "Noah Zani"
 [[social]]
 icon = "ti-linkedin"

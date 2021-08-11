@@ -4,7 +4,7 @@ date = ""
 description = "Jason Browne"
 image = "/uploads/jason-fertig.png"
 job_title = "Junior Consultant"
-team = "Seal Team"
+team = "S.H.I.E.L.D"
 title = "Jason Browne"
 [[social]]
 icon = "ti-linkedin"

@@ -4,7 +4,7 @@ date = ""
 description = "Johanna Ackermann"
 image = "/uploads/johannaackermann.png"
 job_title = "Junior Cloud Consultant"
-team = ""
+team = "Seal Team"
 title = "Johanna Ackermann"
 [[social]]
 icon = "ti-linkedin"
