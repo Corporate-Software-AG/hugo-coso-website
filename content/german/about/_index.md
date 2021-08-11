@@ -57,10 +57,10 @@ philo:
     content: Es geht nicht darum, neue Technologie zu implementieren, sondern Sie
       in die Lage zu versetzen, mit Technologie neue Prozesse, neues Zusammenarbeiten,
       neue Produkte für sich zu entdecken und nutzenstiftend einzuführen.
-  - name: Healthy food <br>and snacks
+  - name: Interdisziplinäre und<br>umfangreiche Projekte
     icon: ti-magnet
-    content: 'Lorem ipsum dolor sit amet, consectetur adipisc Nullam sit vel egestas
-      in. Duis orci, suspendisse nec phasellus sapien natoque '
+    content: 'Dieser Technologie-übergreifende Ansatz, der auch Business-Know-how
+      beinhalten kann, ist das Markenzeichen von CoSo. '
   - name: Annual travel and <br>credit Too
     icon: ti-link
     content: 'Lorem ipsum dolor sit amet, consectetur adipisc Nullam sit vel egestas
