@@ -1,10 +1,9 @@
 ---
-title : "Data & AI"
-description : "this is meta description"
-image: "uploads/bereich_datascience.png"
-draft : false
----
+title: Data & AI
+description: Holen Sie alles aus Ihren Daten heraus. Wir unterstützen Sie dabei.
+image: uploads/bereich_datascience.png
 
+---
 ## Data & Artificial Intelligence
 
 Wettbewerbsvorteile durch Data und Künstliche Intelligenz
