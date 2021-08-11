@@ -1,6 +1,7 @@
 +++
 image = "/uploads/interregio-auf-dem-landwasserviadukt_sommer.jpg"
 title = "Interview mit Meinrad Hidber (RhB) und Julia Moser (CoSo)"
+category = "test"
 
 +++
 **Die Rhätische Bahn, in vielen Köpfen als Ferienbahn in romantischer Erinnerung, macht auf einer ganz anderen Ebene Dampf: im zukunftsgerichteten Umgang mit Daten. Wir haben mit Meinrad Hidber, Projektleiter für Data Science bei der RhB, und Julia Moser von Corporate Software gesprochen, die als Wegbegleiterin für Microsoft Power BI mit im Zug sitzt.**
