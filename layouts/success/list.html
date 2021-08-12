@@ -48,7 +48,7 @@ style="background-image: url('{{`images/brushes/section-top.svg` | absURL}}'), u
       </div>
       <div id="masonry" class="row team-members">
         {{ range .Pages }}
-        <div class="masonry-item team-item col-lg-3 col-sm-6 col-md-4 mt-4" data-groups="[{{ $len := (len .Params.category) }}{{ range $i, $e := .Params.category }}&quot;{{ . | urlize }}&quot;{{ if ne (add $i 1) $len }},{{ end }}{{ end }}]">
+        <div class="card masonry-item team-item col-lg-3 col-sm-6 col-md-4 mt-4" data-groups="[{{ $len := (len .Params.category) }}{{ range $i, $e := .Params.category }}&quot;{{ . | urlize }}&quot;{{ if ne (add $i 1) $len }},{{ end }}{{ end }}]">
             <div class="bg-white text-center rounded p-30 mb-30">
               <p class="mb-2">{{ .Title | markdownify }}</p>
               <div class="" style="width: 100%; line-height: 7em;">
