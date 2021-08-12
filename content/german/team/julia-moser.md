@@ -1,11 +1,14 @@
 +++
-categories = ["Power Platform", "Data Science", "MCT"]
+categories = ["Bots", "Power Platform", "Data Science", "MCT"]
 date = ""
-name = "Julia Moser"
 image = "/uploads/cs-julia-moser-fertig-mit-weiss.png"
 job_title = "Consultant, Trainerin (MCT), Microsoft Professional Programm (MPP) \"Data Science\""
+name = "Julia Moser"
 team = "S.H.I.E.L.D"
 title = "Julia Moser"
+[[social]]
+icon = "ti-microsoft-alt"
+link = "https://teams.microsoft.com/l/chat/0/0?users=julia.moser@corporatesoftware.ch"
 [[social]]
 icon = "ti-email"
 link = "mailto:julia.moser@corporatesoftware.ch"
@@ -20,6 +23,4 @@ Julia ist Spezialistin im Bereich Data Science mit Fokus auf Azure Machine Learn
 
 > With data as the new soil we'll grow the gardens of Versailles.
 
-* Spezialgebiet: Data Science (Power BI, Python, R)
-* Andere Gebiete: Artificial Intelligence (Bots)
-* Aktivitäten: Trainerin bei Digicomp, Lehrgangsplanung, Betreuung der MPP-Lehrgänge, Betreuung von Kundenprojekten, Produktentwicklung (Power BI Custom Visuals)
+Aktivitäten: Trainerin bei Digicomp, Lehrgangsplanung, Betreuung der MPP-Lehrgänge, Betreuung von Kundenprojekten, Produktentwicklung (Power BI Custom Visuals)

@@ -1,11 +1,14 @@
 +++
-categories = ["MCT", "Microsoft 365"]
+categories = ["Data Science", "MCT", "Microsoft 365"]
 date = ""
-name = "Jason Browne"
 image = "/uploads/jason-fertig.png"
 job_title = "Junior Consultant"
+name = "Jason Browne"
 team = "S.H.I.E.L.D"
 title = "Jason Browne"
+[[social]]
+icon = "ti-microsoft-alt"
+link = "https://teams.microsoft.com/l/chat/0/0?users=jason.browne@corporatesoftware.ch"
 [[social]]
 icon = "ti-linkedin"
 link = "https://www.linkedin.com/in/jason-browne-35b93a192/"

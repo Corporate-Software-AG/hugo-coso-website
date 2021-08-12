@@ -1,11 +1,14 @@
 +++
-categories = ["MCT", "Microsoft 365", "Legacy SharePoint"]
+categories = ["Office 365", "MCT", "Microsoft 365", "Legacy SharePoint"]
 date = ""
-name = "Jonas Röösli"
 image = "/uploads/jonasroosli.png"
 job_title = "Consultant, Trainer (MCT)"
+name = "Jonas Röösli"
 team = "Seal Team"
 title = "Jonas Röösli"
+[[social]]
+icon = "ti-microsoft-alt"
+link = "https://teams.microsoft.com/l/chat/0/0?users=jonas.roeoesli@corporatesoftware.ch"
 [[social]]
 icon = "ti-linkedin"
 link = "https://www.linkedin.com/in/jonas-r%C3%B6%C3%B6sli/"
@@ -14,12 +17,10 @@ icon = "ti-email"
 link = "mailto:jonas.roeoesli@corporatesoftware.ch"
 
 +++
-Über seine Matura-Arbeit im Bereich Hausautomationen ist Jonas zur IT gekommen und hat früh Einblicke in Führungsthemen erhalten. Dort hat er auch gelernt, wie man den Spagat schafft, um Managern als Bauarbeiter technisches Know-how zu vermitteln.  
+Über seine Matura-Arbeit im Bereich Hausautomationen ist Jonas zur IT gekommen und hat früh Einblicke in Führungsthemen erhalten. Dort hat er auch gelernt, wie man den Spagat schafft, um Managern als Bauarbeiter technisches Know-how zu vermitteln.
 
 Jonas arbeitet als Consultant mit Schwerpunkt auf Collaboration mit Office 365, Teams und SharePoint. Er ist unser Profi für alle Themen rund um die Migration in die Cloud. Sein Wissen und seine Erfahrungen gibt er zudem als Microsoft Certified Trainer weiter.
 
 > Stay hungry, stay foolish. (Steve Jobs)
 
-* Spezialgebiet: Know-how-Aufbau in Collaboration (SharePoint), Office 365
-* Andere Gebiete: Interesse an Azure
-* Aktivitäten: Trainertätigkeit, Unterstützung von Kundenprojekten
+Aktivitäten: Trainertätigkeit, Unterstützung von Kundenprojekten

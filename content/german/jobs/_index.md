@@ -1,9 +1,9 @@
 ---
-title: Jobs
+title: Jobs bei *Corporate Software*
 description: Werde COSOianer!
 benifits:
   enable: true
-  title: Benifits Of <strong>Joining Our Team</strong>
+  title: Deine Vorteile, wenn du<strong>COSOianer<-/strong> wirst
   content: Lorem ipsum sadip dolor sit amet, consetetur sadip scing elitr, diam nonumy
     eirmod tempor invi duntut labore et dolore magna aliquyam erat, sed diam
   item:
@@ -33,8 +33,6 @@ benifits:
       in. Duis orci, suspendisse nec phasellus sapien natoque '
 
 ---
-## Jobs bei **Corporate Software**
-
 Die Corporate Software AG ist ein junges, dynamisches Unternehmen, das an der Schnittstelle zwischen IT und Business tätig ist. Wir beraten unsere Kunden in den Bereichen Collaboration, Data und AI sowie Automation.
 
 Wir sind Abenteurer, Klangbegeisterte, Legofanatiker, Bastler, Pfadfinder, auf der Suche nach neuen Formen von Leben und Arbeiten, die die IT nutzen, um uns als Menschen weiterzuentwickeln. Was wir gemeinsam haben, ist das Interesse an der stetigen Verbesserung von Technik, Wirtschaft und uns selbst.

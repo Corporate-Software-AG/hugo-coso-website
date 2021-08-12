@@ -1,11 +1,14 @@
 +++
 categories = ["Microsoft 365", "Power Platform", "MCT"]
 date = ""
-name = "Julia Witschi"
 image = "/uploads/julia-1-fertig.png"
 job_title = "Junior Consultant"
+name = "Julia Witschi"
 team = "Seal Team"
 title = "Julia Witschi"
+[[social]]
+icon = "ti-microsoft-alt"
+link = "https://teams.microsoft.com/l/chat/0/0?users=julia.witschi@corporatesoftware.ch"
 [[social]]
 icon = "ti-email"
 link = "mailto:julia.witschi@corporatesoftware.ch"

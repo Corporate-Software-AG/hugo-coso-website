@@ -1,11 +1,15 @@
 +++
-categories = ["Projektmanagement", "MCT", "Business Intelligence", "Azure", "Power Platform"]
+categories = ["K2", "Power BI", "Office 365", "Cloud Architect", "SharePoint", "Projekt- und Servicemanagement", "MCT", "Business Intelligence", "Azure", "Power Platform"]
 date = ""
-name = "Matthias Gesseny – unser Azure-Alchimist"
+description = ""
 image = "/uploads/matthias.png"
 job_title = "CTO und CO-Gründer, Senior-Consultant, Microsoft Azure MVP, Fachbereichsleiter Private Cloud Digicomp, ITIL-Trainer, Trainer (MCT)"
-team = "General Circle"
+name = "Matthias Gesseny – unser Azure-Alchimist"
+team = "General Team"
 title = "Matthias Gessenay"
+[[social]]
+icon = "ti-microsoft-alt"
+link = "https://teams.microsoft.com/l/chat/0/0?users=matthias.gessenay@corporatesoftware.ch"
 [[social]]
 icon = "ti-linkedin"
 link = "https://www.linkedin.com/in/matthias-gessenay/"

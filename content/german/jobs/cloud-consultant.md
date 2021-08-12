@@ -1,15 +1,13 @@
 ---
-title: Junior Data Engineer 20–60%
-description: Starte bei CoSo deine Karriere als gefragter Data Engineer
+title: Junior Data Engineer
+description: Starte deine Karriere als gefragter Data Engineer
 
 ---
-## Junior Data Engineer
-
 Du bist Student*in und suchst neben dem Studium den Praxisbezug? Bei uns teilst du dir deine Arbeitszeiten selbst ein, damit das Studium nicht zu kurz kommt.
 
 Zeichnest du dich aus durch Selbstständigkeit, Flexibilität, Wissbegierde, Motivation und Kontaktfreudigkeit und bist eine absoluter Teamplayer*in?
 
-Werde Teil des Teams als motivierter und engagierte*r Junior Data Engineer (20–60 %)!
+**Werde Teil des Teams als motivierter und engagierte*r Junior Data Engineer (20–60 %)!**
 
 **Das erwartet dich**
 
@@ -39,4 +37,4 @@ Werde Teil des Teams als motivierter und engagierte*r Junior Data Engineer (20�
 * Freude an Sales und Begeisterung für nachhaltige IT-Lösungskonzepte
 * Muttersprache Deutsch
 
-[Wir suchen dich: Junior Data Engineer](junior-data-engineer-2.pdf)
+[Wir suchen dich: Junior Data Engineer (PDF)](junior-data-engineer-2.pdf)

@@ -1,13 +1,13 @@
 +++
 description = "Mach dir die Kraft der Power Platform zu eigen"
-title = "Junior Power Platform Architect (20–60%)"
+title = "Junior Power Platform Architect"
 
 +++
 Du bist Student*in und suchst neben dem Studium den Praxisbezug? Bei uns teilst du dir deine Arbeitszeiten selbst ein, damit das Studium nicht zu kurz kommt.
 
 Zeichnest du dich aus durch Selbstständigkeit, Flexibilität, Wissbegierde, Motivation und Kontaktfreudigkeit und bist eine absoluter Teamplayer*in?
 
-Werde Teil des Teams als motivierter und engagierte*r Junior Power Platform Architect (20–60 %)!
+**Werde Teil des Teams als motivierter und engagierte*r Junior Power Platform Architect (20–60 %)!**
 
 **Das erwartet dich**
 
@@ -37,4 +37,4 @@ Werde Teil des Teams als motivierter und engagierte*r Junior Power Platform Arch
 * Freude an Sales und Begeisterung für nachhaltige IT-Lösungskonzepte
 * Muttersprache Deutsch
 
-[Wir suchen dich: Junior Power Platform Architect](junior-power-platform-architect-1.pdf)
+[Wir suchen dich: Junior Power Platform Architect (PDF)](junior-power-platform-architect-1.pdf)
