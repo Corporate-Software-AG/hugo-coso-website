@@ -38,37 +38,6 @@
     </div>
   </section>
   <!-- end of blog-details -->
-
-  <!-- start of blog-section -->
-  <section class="pb-50">
-    <div class="container">
-      <div class="row justify-content-center" data-aos="fade-up">
-        <div class="col-lg-6 col-md-9 text-center mb-40">
-          <h2 class="section-title">{{ i18n "recent_post" }}</h2>
-        </div>
-      </div>
-      <div class="row">
-        {{ range first 3 (where .Site.RegularPages "Section" "blog")}}
-        <div class="col-lg-4 col-md-6 mb-40">
-          <div class="card border-0 h-100">
-            <a class="d-flex flex-fill align-items-center" href="{{.Permalink}}"><img class="card-img-top rounded" src="{{ .Params.Image | absURL }}" alt="blog-image"></a>
-            <div class="p-25 pb-0">
-              <div class="post-category position-relative mb-15">{{ range $i,$p:= .Params.Categories }}{{if ne $i 0}},{{end}}<a
-                href="{{ `categories/` | relLangURL }}{{ . | urlize | lower }}" class="text-black-200 font-weight-600 ml-1">{{ . | humanize }} </a>
-                {{ end }}
-              </div>
-              <a class="h4 font-weight-bold d-block mb-15" href="{{.Permalink}}">{{ .Title }}</a>
-              <div class="post-meta font-weight-600 mb-15">{{.PublishDate.Format "02 Jan, 2006"}}<span class="mx-2">|</span>{{ .Page.ReadingTime }} {{ i18n "minute_read" }}
-              </div>
-              <p>{{ .Summary }}</p>
-            </div>
-          </div>
-        </div>
-        {{ end }}
-      </div>
-    </div>
-  </section>
-  <!-- end of blog-section -->
   {{- partial "footer.html" . -}}
 </body>
 

@@ -1,4 +1,6 @@
 ---
+- id: home
+  translation: Start
 - id: contact
   translation: Kontakt
 - id: social_links
