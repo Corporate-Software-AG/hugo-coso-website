@@ -3027,3 +3027,7 @@ body {
 
 .content img {
   max-height: 28rem; }
+
+section {
+  background-color: white;
+  position: relative; }

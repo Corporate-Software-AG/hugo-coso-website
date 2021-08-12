@@ -3,8 +3,8 @@
 {{ if $data.homepage.banner.enable }}
 {{ with $data.homepage.banner }}
 
-<section class="preheader" style="height: calc(100vh - 144px); background-size: cover; background-position: top center; background-image: url( {{site.Params.main_image}} );" >
-    <!--<img style="width: 100%; height: inherit; object-fit: cover; object-position: top;" src="{{ site.Params.main_image }}" alt="main image">-->
+<section class="preheader" style="height: calc(100vh - 144px);" >
+    <img style="width: 100%; height: inherit; object-fit: cover; object-position: top; z-index: 0; position: fixed; opacity: 0.7;" src="{{ site.Params.main_image }}" alt="main image">
     <div class="container h-100" data-aos="fade-in" data-aos-delay="150">
         <div class="d-block d-lg-flex no-gutters align-items-center h-100">
             <div class="col-12 col-xl-8 col-lg-8 order-lg-1">
@@ -16,7 +16,7 @@
             </div>
             <div class="col-xl-5 col-lg-6 order-lg-0">
                 <h2 class="h1 mb-20">{{ .title | markdownify }}</h2>
-                <p>{{ .content | markdownify }}</p>
+                <h3>{{ .content | markdownify }}</h3>
                 <br>
                 {{ if .button.enable }}
                 {{ with .button }}
