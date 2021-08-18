@@ -1,9 +1,10 @@
 +++
-categories = ["Azure", "Microsoft 365"]
+categories = ["Training & Education", "Power BI", "Azure"]
 date = ""
-name = "Raphael Bösch"
-image = ""
+description = ""
+image = "/uploads/raphaelboesch.png"
 job_title = "Consultant"
+name = "Raphael Bösch"
 team = "Seal Team"
 title = "Raphael Bösch"
 [[social]]
@@ -14,6 +15,6 @@ icon = "ti-email"
 link = "mailto:raphael.boesch@corporatesoftware.ch"
 
 +++
-* Spezialgebiet: 
-* Andere Gebiete: 
-* Aktivitäten:
+Das Wichtigste im Leben ist nicht aufzuhören, Fragen zu stellen – Albert Einstein
+
+Wissen ist nutzlos, wenn man es nicht anwendet – Anton Chekhov
