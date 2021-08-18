@@ -41,21 +41,27 @@ funfacts:
 philo:
   enable: true
   title: Unsere <strong>Philosophie</strong>
-  content: Lorem ipsum sadip dolor sit amet, consetetur sadip scing elitr, diam nonumy
-    eirmod tempor invi duntut labore et dolore magna aliquyam erat, sed diam
+  content: Unsere Firmenkultur ist geprägt von hoher Agilität und Geschwindigkeit,
+    dem exzellenten Know-how sowie stetiger Förderung der Mitarbeitenden. Gemeinsam
+    mit unseren Kunden entwickeln wir neue Lösungen für die sich ständig verändernde,
+    komplexe Technologie-Welt.
   item:
+  - name: Innovative Leuchtturm-<br>Projekte
+    icon: ti-thought
+    content: Wir wollen uns nicht ausruhen auf Bekanntem, sondern spornen an, über
+      den Tellerrand zu blicken.
   - name: Co-Creation mit<br>unseren Kund*Innen
     icon: ti-comments-smiley
     content: Wir präsentieren keine fertigen Lösungen; wir erarbeiten Sie gemeinsam
       mit Ihnen und passend für Sie.
   - name: Befähigen statt <br>implementieren
     icon: ti-plug
-    content: Es geht nicht darum, neue Technologie zu implementieren, sondern Sie
-      in die Lage zu versetzen, mit Technologie neue Prozesse, neues Zusammenarbeiten,
+    content: Es geht nicht nur darum, neue Technologie zu implementieren. Wir möchten
+      Sie in die Lage versetzen, durch das neue Wissen neue Prozesse, neues Zusammenarbeiten,
       neue Produkte für sich zu entdecken und nutzenstiftend einzuführen.
-  - name: Interdisziplinäre und<br>umfangreiche Projekte
+  - name: Interdisziplinäre und<br>ganzheitliche Projekte
     icon: ti-palette
-    content: 'Dieser Technologie-übergreifende Ansatz, der auch Business-Know-how
+    content: 'Unser Technologie-übergreifender Ansatz, der auch Business-Know-how
       beinhalten kann, ist das Markenzeichen von CoSo. '
 
 ---
