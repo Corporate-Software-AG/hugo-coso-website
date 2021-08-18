@@ -8,6 +8,9 @@ name = "Raphael Bösch"
 team = "Seal Team"
 title = "Raphael Bösch"
 [[social]]
+icon = "ti-microsoft-alt"
+link = "https://teams.microsoft.com/l/chat/0/0?users=raphael.boesch@corporatesoftware.ch"
+[[social]]
 icon = "ti-linkedin"
 link = "https://www.linkedin.com/in/boeschr/"
 [[social]]
