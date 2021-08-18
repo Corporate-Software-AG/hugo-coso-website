@@ -1,9 +1,7 @@
 {{ define "main" }}
 
 <!-- checking blog -->
-<!--{{ if or (or (eq .Section "post") (eq .Section "blog")) (or (eq .Section "categories") (eq .Section "tags") )}}-->
-
-{{- partial "page-header.html" . -}}
+{{ if or (or (eq .Section "post") (eq .Section "blog")) (or (eq .Section "categories") (eq .Section "tags") )}}
 
 
 <section class="section-padding pb-40" data-aos="fade-in" data-aos-delay="150">
@@ -51,4 +49,4 @@
 </section>
 {{ end }}
 
-<!--{{ end }}-->
+{{ end }}
