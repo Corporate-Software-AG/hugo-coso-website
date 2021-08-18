@@ -4,33 +4,19 @@ description: Werde COSOianer!
 benifits:
   enable: true
   title: Deine Vorteile, wenn du <strong>COSOianer</strong> wirst
-  content: Lorem ipsum sadip dolor sit amet, consetetur sadip scing elitr, diam nonumy
-    eirmod tempor invi duntut labore et dolore magna aliquyam erat, sed diam
+  content: 'CoSo schafft einen Raum, in dem sich Mitarbeiter:innen wohlfühlen und
+    sich engagieren wollen. Deshalb lohnt es sich aus unserer Sicht, Teil des Teams
+    zu werden:'
   item:
-  - name: Annual travel and <br>credit Too
-    icon: ti-lock
-    content: 'Lorem ipsum dolor sit amet, consectetur adipisc Nullam sit vel egestas
-      in. Duis orci, suspendisse nec phasellus sapien natoque '
-  - name: Healthy food <br>and snacks
-    icon: ti-magnet
-    content: 'Lorem ipsum dolor sit amet, consectetur adipisc Nullam sit vel egestas
-      in. Duis orci, suspendisse nec phasellus sapien natoque '
-  - name: Comprehensive <br>health plans
-    icon: ti-link
-    content: 'Lorem ipsum dolor sit amet, consectetur adipisc Nullam sit vel egestas
-      in. Duis orci, suspendisse nec phasellus sapien natoque '
-  - name: Healthy food <br>and snacks
-    icon: ti-magnet
-    content: 'Lorem ipsum dolor sit amet, consectetur adipisc Nullam sit vel egestas
-      in. Duis orci, suspendisse nec phasellus sapien natoque '
-  - name: Annual travel and <br>credit Too
-    icon: ti-link
-    content: 'Lorem ipsum dolor sit amet, consectetur adipisc Nullam sit vel egestas
-      in. Duis orci, suspendisse nec phasellus sapien natoque '
-  - name: Comprehensive <br>health plans
-    icon: ti-lock
-    content: 'Lorem ipsum dolor sit amet, consectetur adipisc Nullam sit vel egestas
-      in. Duis orci, suspendisse nec phasellus sapien natoque '
+  - name: Work-Life-Integration <br>wird grossgeschrieben
+    icon: ti-world
+    content: hier kommt noch Text hin
+  - name: Persönliche <br>Weiterentwicklung
+    icon: ti-direction
+    content: hier kommt noch Text hin
+  - name: CoSo ist schnell und <br>agil unterwegs
+    icon: ti-move
+    content: hier kommt noch Text hin
 
 ---
 Die Corporate Software AG ist ein junges, dynamisches Unternehmen, das an der Schnittstelle zwischen IT und Business tätig ist. Wir beraten unsere Kunden in den Bereichen Collaboration, Data und AI sowie Automation.
