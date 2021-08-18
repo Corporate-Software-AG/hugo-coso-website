@@ -1,9 +1,9 @@
 ---
-title: Jobs bei *Corporate Software*
+title: Jobs bei Corporate Software
 description: Werde COSOianer!
 benifits:
   enable: true
-  title: Deine Vorteile, wenn du<strong>COSOianer<-/strong> wirst
+  title: Deine Vorteile, wenn du <strong>COSOianer</strong> wirst
   content: Lorem ipsum sadip dolor sit amet, consetetur sadip scing elitr, diam nonumy
     eirmod tempor invi duntut labore et dolore magna aliquyam erat, sed diam
   item:
