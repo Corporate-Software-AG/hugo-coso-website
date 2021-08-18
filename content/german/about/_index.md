@@ -8,22 +8,28 @@ description: "Corporate Software entwirft intelligente Cloud-IT-Lösungen für U
   haben, ist das Interesse an der stetigen Verbesserung von Technik, Wirtschaft und
   uns selbst. Wir gehen voran, um den nächsten Schritt zu ermöglichen.   "
 why:
-  title: Woran wir <strong>glauben</strong>
-  image: "/uploads/cs-bewerbungsmappe-philosophie.png"
+  title: Wofür wir <strong>arbeiten</strong>
+  image: "/uploads/cs-bewerbungsmappe-karriere-fertig.png"
   content: CoSo begleitet seine Kunden bei der Entdeckung von neuen Gebieten und befähigt
     sie, mit Technologie neue Prozesse, neues Zusammenarbeiten und neue Produkte für
-    sich zu entdecken. Wir gehen voran, um den nächsten Schritt zu ermöglichen.
+    sich zu entdecken. Bei bestehenden Lösungen möchten wir helfen, neue Wege aufzuzeigen,
+    wie Sie das Bestehende einfacher und optimaler nutzen können. Wir gehen voran,
+    um den nächsten Schritt zu ermöglichen.
 how:
   title: Wie wir uns <strong>verhalten</strong>
-  image: "/uploads/cs-bewerbungsmappe-philosophie-1.png"
+  image: "/uploads/cs-bewerbungsmappe-philosophie.png"
   content: 'Für uns steht der Mensch im Zentrum: Wir sind verlässlich, für andere
     da und pflegen unsere Beziehungen. Wir erhöhen unsere Sichtbarkeit und übernehmen
-    proaktiv Verantwortung.'
+    proaktiv Verantwortung. Wir möchten einen Raum bieten, in dem sich unsere Mitarbeiter:innen
+    wohl fühlen und sich engagieren wollen.'
 what:
   title: Was wir <strong>tun</strong>
   image: "/uploads/softeng.png"
-  content: 'Wir unterstützen unsere Kundinnen & Kunden mit Consulting, Customizing
-    & Training in den Bereichen Collaboration, Data & AI und Automation. '
+  content: Wir unterstützen unsere Kund:innen mit Consulting, Customizing und Training
+    in den Bereichen Collaboration, Data & AI und Automation. Unsere Projekte sind
+    langfristig und interdisziplinär angelegt. Durch den oft Technologie-übergreifenden
+    Ansatz profitieren Kund:innen von einem für sie zusammengestellten Team an Experten,
+    das massgeschneidert für ihre Herausforderungen zusammenarbeitet.
 funfacts:
   funfacts_item:
   - name: Uns gibt es seit
