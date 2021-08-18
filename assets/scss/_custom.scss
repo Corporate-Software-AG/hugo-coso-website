@@ -6,9 +6,27 @@ body {
     position: relative;
 }
 
+.preheader {
+    height: calc(100vh - 88px);
+    img {
+        width: 100%; 
+        height: inherit; 
+        object-fit: cover; 
+        object-position: top; 
+        position: fixed; 
+        opacity: 0.7;
+        height: calc(100vh - 88px); 
+        top:0; 
+    }
+}
+
 .header-nav {
     img {
-        max-width: 12rem;
+        max-width: 10rem;
+    }
+    .navbar {
+        padding-top: 5px;
+        padding-bottom: 5px;
     }
 }
 
@@ -19,7 +37,7 @@ body {
 }
 
 .sticky + .postheader {
-    padding-top: 144px;
+    padding-top: 88px;
 }
 
 .cc-cp-foot-save,

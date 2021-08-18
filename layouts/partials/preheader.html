@@ -3,8 +3,8 @@
 {{ if $data.homepage.banner.enable }}
 {{ with $data.homepage.banner }}
 
-<section class="preheader" style="height: calc(100vh - 144px);" >
-    <img style="width: 100%; height: inherit; object-fit: cover; object-position: top; position: fixed; opacity: 0.7;height: calc(100vh - 144px); top:0; " src="{{ site.Params.main_image }}" alt="main image">
+<section class="preheader" >
+    <img src="{{ site.Params.main_image }}" alt="main image">
     <div class="container h-100" data-aos="fade-in" data-aos-delay="150">
         <div class="d-block d-flex no-gutters align-items-center h-100">
             <div class="col-xl-5 col-lg-6 order-lg-0 col-md-8">

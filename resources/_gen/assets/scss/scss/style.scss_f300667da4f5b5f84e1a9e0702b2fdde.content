@@ -3010,8 +3010,24 @@ html, body {
 body {
   position: relative; }
 
+.preheader {
+  height: calc(100vh - 88px); }
+  .preheader img {
+    width: 100%;
+    height: inherit;
+    object-fit: cover;
+    object-position: top;
+    position: fixed;
+    opacity: 0.7;
+    height: calc(100vh - 88px);
+    top: 0; }
+
 .header-nav img {
-  max-width: 12rem; }
+  max-width: 10rem; }
+
+.header-nav .navbar {
+  padding-top: 5px;
+  padding-bottom: 5px; }
 
 .sticky {
   position: fixed !important;
@@ -3019,7 +3035,7 @@ body {
   width: 100%; }
 
 .sticky + .postheader {
-  padding-top: 144px; }
+  padding-top: 88px; }
 
 .cc-cp-foot-save,
 .cc-nb-okagree {
