@@ -15,6 +15,8 @@ icon = "ti-email"
 link = "mailto:raphael.boesch@corporatesoftware.ch"
 
 +++
-Das Wichtigste im Leben ist nicht aufzuhören, Fragen zu stellen – Albert Einstein
+Raphael ist ein richtiger Microsoft-ler. Bevor wir ihn uns schnappen konnten, war er über 10 Jahre für Microsoft Schweiz tätig. Unsere Kund:innen profitieren entsprechend von seinem äusserst breiten Know-how rund um Microsoft-Lösungen. Raphael ist ein Über-den-Tellerrand-Gucker. Ihm ist es wichtig, seinen Horizont laufend zu erweitern. Dies tut er auch gut und gerne, um die Bedürfnisse unserer Kund:innen zu verstehen und mit der richtigen Technologie umzusetzen.
 
-Wissen ist nutzlos, wenn man es nicht anwendet – Anton Chekhov
+> Das Wichtigste im Leben ist nicht aufzuhören, Fragen zu stellen – Albert Einstein
+>
+> Wissen ist nutzlos, wenn man es nicht anwendet – Anton Chekhov
