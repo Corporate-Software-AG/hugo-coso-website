@@ -42,7 +42,7 @@ philo:
   enable: true
   title: Unsere <strong>Philosophie</strong>
   content: Unsere Firmenkultur ist geprägt von hoher Agilität und Geschwindigkeit,
-    dem exzellenten Know-how sowie stetiger Förderung der Mitarbeitenden. Gemeinsam
+    dem exzellenten Know-how sowie stetiger Förderung der Mitarbeiter:innen. Gemeinsam
     mit unseren Kunden entwickeln wir neue Lösungen für die sich ständig verändernde,
     komplexe Technologie-Welt.
   item:
