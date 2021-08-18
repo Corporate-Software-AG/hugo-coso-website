@@ -1,5 +1,5 @@
 +++
-categories = ["Change Management", "Agiles Arbeiten", "Marketing", "Projektmanagement"]
+categories = ["CoSo Angel", "Change Management", "Agiles Arbeiten", "Marketing", "Projektmanagement"]
 date = ""
 description = "Christine Mäder"
 image = "/uploads/christine-fertig.png"
