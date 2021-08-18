@@ -26,8 +26,7 @@ what:
   title: Was wir <strong>tun</strong>
   image: "/uploads/softeng.png"
   content: Wir unterstützen unsere Kund:innen mit Consulting, Customizing und Training
-    in den Bereichen Collaboration, Data & AI und Automation. Unsere Projekte sind
-    langfristig und interdisziplinär angelegt. Durch den oft Technologie-übergreifenden
+    in den Bereichen Collaboration, Data & AI und Automation. Durch den oft Technologie-übergreifenden
     Ansatz profitieren Kund:innen von einem für sie zusammengestellten Team an Experten,
     das massgeschneidert für ihre Herausforderungen zusammenarbeitet.
 funfacts:
@@ -49,7 +48,7 @@ philo:
   title: Unsere <strong>Philosophie</strong>
   content: Unsere Firmenkultur ist geprägt von hoher Agilität und Geschwindigkeit,
     dem exzellenten Know-how sowie stetiger Förderung der Mitarbeiter:innen. Gemeinsam
-    mit unseren Kunden entwickeln wir neue Lösungen für die sich ständig verändernde,
+    mit unseren Kund:innen entwickeln wir neue Lösungen für die sich ständig verändernde,
     komplexe Technologie-Welt.
   item:
   - name: Co-Creation mit<br>unseren Kund:innen
