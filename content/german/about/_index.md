@@ -9,7 +9,7 @@ description: "Corporate Software entwirft intelligente Cloud-IT-Lösungen für U
   uns selbst. Wir gehen voran, um den nächsten Schritt zu ermöglichen.   "
 why:
   title: Woran wir <strong>glauben</strong>
-  image: "/uploads/cs-bewerbungsmappe-karriere-fertig.png"
+  image: "/uploads/cs-bewerbungsmappe-philosophie.png"
   content: CoSo begleitet seine Kunden bei der Entdeckung von neuen Gebieten und befähigt
     sie, mit Technologie neue Prozesse, neues Zusammenarbeiten und neue Produkte für
     sich zu entdecken. Wir gehen voran, um den nächsten Schritt zu ermöglichen.
