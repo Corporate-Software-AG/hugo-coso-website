@@ -1,10 +1,11 @@
 +++
 categories = []
 date = ""
-name = ""
+description = ""
 draft = true
-image = ""
+image = "/uploads/martinburri.png"
 job_title = ""
+name = ""
 social = []
 team = ""
 title = "Martin Burri"
