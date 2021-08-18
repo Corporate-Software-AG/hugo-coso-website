@@ -49,7 +49,8 @@ philo:
   - name: Innovative Leuchtturm-<br>Projekte
     icon: ti-thought
     content: Wir wollen uns nicht ausruhen auf Bekanntem, sondern spornen an, über
-      den Tellerrand zu blicken.
+      den Tellerrand zu blicken. Wir suchen nach Projekten, die auch unsere Kund*innen
+      in unbekannte Gefilde führen.
   - name: Co-Creation mit<br>unseren Kund*Innen
     icon: ti-comments-smiley
     content: Wir präsentieren keine fertigen Lösungen; wir erarbeiten Sie gemeinsam
@@ -59,10 +60,12 @@ philo:
     content: Es geht nicht nur darum, neue Technologie zu implementieren. Wir möchten
       Sie in die Lage versetzen, durch das neue Wissen neue Prozesse, neues Zusammenarbeiten,
       neue Produkte für sich zu entdecken und nutzenstiftend einzuführen.
-  - name: Interdisziplinäre und<br>ganzheitliche Projekte
+  - name: Interdisziplinäre und<br>Leuchtturm-Projekte
     icon: ti-palette
-    content: 'Unser Technologie-übergreifender Ansatz, der auch Business-Know-how
-      beinhalten kann, ist das Markenzeichen von CoSo. '
+    content: Unser Technologie-übergreifender Ansatz, der auch Business-Know-how beinhalten
+      kann, ist das Markenzeichen von CoSo. Wir wollen uns nicht ausruhen auf Bekanntem,
+      sondern spornen an, über den Tellerrand zu blicken. Wir suchen nach Projekten,
+      die auch unsere Kund*innen in unbekannte Gefilde führen.
 
 ---
 Corporate Software entwirft intelligente Cloud-IT-Lösungen für Unternehmen. Als unsere Kundin oder unser Kunde profitieren Sie langfristig und erhalten individuelle Lösungen in den Bereichen Collaboration, Data & Artificial Intelligence und Automation.
