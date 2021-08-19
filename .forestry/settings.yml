@@ -74,7 +74,7 @@ sections:
   path: data/de/partner.yml
   label: Partner
 - type: document
-  path: content/german/privacy-policy-imprint.md
+  path: content/german/privacy-policy-imprint/_index.md
   label: Datenschutz und Impressum
 - type: document
   path: i18n/de.yaml
