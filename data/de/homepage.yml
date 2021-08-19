@@ -41,4 +41,4 @@ call_to_action:
 ############################ Footer Info ##################################
 footer:
   content: "Wir sind ein cloudbasiertes Unternehmen, das Sie basierend auf Microsoft-Produkten in den Bereichen Collaboration, Data Science und AI sowie Automation berät, Ihre Projekte begleitet und umsetzt und Ihre Mitarbeitenden in den neuen Technologien schult."
-  privacy: "privacy-policy-imprint"
+  privacy: "/privacy-policy-imprint"
