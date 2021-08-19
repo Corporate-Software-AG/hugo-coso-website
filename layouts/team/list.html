@@ -57,7 +57,7 @@
           <h4 class="font-weight-bold mb-10">{{ .Params.title }}</h4>
           <p>{{ .Params.designation }}</p>
           <ul class="list-unstyled list-inline mt-2">
-            {{ range .Params.social }}
+            {{ range sort .Params.social "icon" "desc" }}
             <li class="list-inline-item">
               <a href="{{ .link | safeURL }}" class="text-black-200 p-2 d-inline-block">
                 <span class="{{ .icon }}"></span></a>
