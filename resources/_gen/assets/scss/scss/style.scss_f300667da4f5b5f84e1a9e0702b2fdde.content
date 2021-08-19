@@ -3018,9 +3018,14 @@ body {
     object-fit: cover;
     object-position: top;
     position: fixed;
-    opacity: 0.7;
+    opacity: .8;
     height: calc(100vh - 88px);
     top: 0; }
+  .preheader .welcome-text {
+    background-color: rgba(0, 63, 94, 0.7);
+    padding: 1rem; }
+    .preheader .welcome-text h2, .preheader .welcome-text h3 {
+      color: white !important; }
 
 .header-nav img {
   max-width: 10rem; }

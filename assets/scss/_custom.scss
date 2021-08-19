@@ -14,9 +14,16 @@ body {
         object-fit: cover; 
         object-position: top; 
         position: fixed; 
-        opacity: 0.7;
+        opacity: .8;
         height: calc(100vh - 88px); 
         top:0; 
+    }
+    .welcome-text {
+        h2, h3 {
+            color: white !important;
+        }
+        background-color: $color-primary-milky;
+        padding: 1rem;
     }
 }
 
@@ -61,3 +68,4 @@ section {
     width: 80px;
     object-fit: scale-down;
 }
+
