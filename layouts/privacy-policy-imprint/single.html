@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="{{ with .Site.LanguageCode }}{{ . }}{{ else }}de-CH{{ end }}">
+{{- partial "head.html" . -}}
+
+<body id="top" data-spy="scroll" data-target="#navbar-spy" class="position-relative">
+  {{- partial "preloader.html" . -}}
+	{{- partial "header.html" . -}}
+	{{- partial "page-header.html" . -}}
+
+  <!-- strat of blog-details -->
+  <section class="section-padding pt-50">
+    <div class="container">
+      <div class="row justify-content-center">
+
+        <div class="col-lg-9 col-md-12 mb-60" data-aos="fade-in" data-aos-delay="50">
+
+          <h2 class="font-weight-bold mb-30">{{.Title}}</h2>
+
+          <div class="content">{{.Content}}</div>
+        </div>
+          
+        {{ if .Site.DisqusShortname }}
+        <div class="col-lg-9 col-md-12" data-aos="fade-in">
+          {{ template "_internal/disqus.html" . }}
+        </div>
+        {{ end }}
+      </div>
+    </div>
+  </section>
+  <!-- end of blog-details -->
+  {{- partial "footer.html" . -}}
+</body>
+
+</html>
