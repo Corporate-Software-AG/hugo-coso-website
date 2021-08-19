@@ -1,12 +1,22 @@
 +++
 categories = []
 date = ""
-name = ""
+description = ""
 draft = true
-image = ""
-job_title = ""
+image = "/uploads/martinburri.png"
+job_title = "Junior Consultant"
+name = ""
 social = []
-team = ""
+team = "Seal"
 title = "Martin Burri"
 
 +++
+Noch in Ausbildung 
+
+Nach einigen Umwegen an der Universität in den Bereichen Humanmedizin und Physik bin ich zu der Informatik gelangt.
+
+Fussball als Ausgleich
+
+lese viel
+
+grosses Interesse in AI und den damit verbundenen Möglichkeiten

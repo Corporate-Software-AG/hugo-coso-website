@@ -1,5 +1,5 @@
 +++
-categories = ["Change Management", "Agiles Arbeiten", "Marketing", "Projektmanagement"]
+categories = ["CoSo Angel", "Change Management", "Agiles Arbeiten", "Marketing Kommunikation", "Projektmanagement"]
 date = ""
 description = "Christine Mäder"
 image = "/uploads/christine-fertig.png"
@@ -23,7 +23,3 @@ Christine ist ursprünglich Buchhändlerin mit einem Faible für Sprachen. Diese
 Christine unterstützt CoSo seit Ende 2020 in den Bereichen Marketing und Kommunikation und als zweifache Mama mit Drahtseilnerven und einem Gespür für Zwischentöne als "Gute Seele".
 
 > Wenn Veränderung beflügelt.
-
-* Spezialgebiet: Branding, Content Marketing
-* Andere Gebiete: Digital Marketing, Customer Journey Building, Mitarbeiterbefähigung, Strategieentwicklung, Change Management
-* Aktivitäten: Marketing-Strategie, Branding, Kundenkommunikation, Social Media & Community Management, Digital Marketing
