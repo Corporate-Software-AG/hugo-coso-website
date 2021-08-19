@@ -1,5 +1,5 @@
 +++
-categories = ["Azure", "Microsoft 365"]
+categories = ["Azure", "Microsoft 365", "MCT"]
 date = ""
 name = "Raphael Bösch"
 image = ""
