@@ -46,12 +46,12 @@ style="background-image: url('{{`images/brushes/section-top.svg` | absURL}}'), u
           </div>
         </div>
       </div>
-      <div id="masonry" class="row team-members">
+      <div id="masonry" class="row">
         {{ range .Pages }}
-        <div class="card masonry-item team-item col-lg-3 col-sm-6 col-md-4 mt-4" data-groups="[{{ $len := (len .Params.category) }}{{ range $i, $e := .Params.category }}&quot;{{ . | urlize }}&quot;{{ if ne (add $i 1) $len }},{{ end }}{{ end }}]">
-            <div class="bg-white text-center rounded p-30 mb-30">
+        <div class="masonry-item col-lg-3 col-sm-6 col-md-4 mt-4" data-groups="[{{ $len := (len .Params.category) }}{{ range $i, $e := .Params.category }}&quot;{{ . | urlize }}&quot;{{ if ne (add $i 1) $len }},{{ end }}{{ end }}]">
+            <div class="border bg-white text-center rounded p-30 mb-30">
               <p class="mb-2">{{ .Title | markdownify }}</p>
-              <div class="" style="width: 100%; line-height: 7em;">
+              <div >
                 <img class="img-fluid" style="vertical-align: middle;" src="{{ .Params.image | absURL}}" alt="">
               </div>
               <h6 class="text-black-800 mb-15">{{ .Params.description }}</h6>
