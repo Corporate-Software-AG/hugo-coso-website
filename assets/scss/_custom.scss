@@ -55,3 +55,9 @@ section {
 .img-fluid {
     width: 100%;
 }
+
+.testimonials-section .testimonials-item .user-info img {
+    height: 60px;
+    width: 80px;
+    object-fit: scale-down;
+}
