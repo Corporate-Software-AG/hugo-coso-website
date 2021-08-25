@@ -21,6 +21,4 @@ link = "https://www.linkedin.com/in/jonas-r%C3%B6%C3%B6sli/"
 
 Jonas arbeitet als Consultant mit Schwerpunkt auf Collaboration mit Office 365, Teams und SharePoint. Er ist unser Profi für alle Themen rund um die Migration in die Cloud. Sein Wissen und seine Erfahrungen gibt er zudem als Microsoft Certified Trainer weiter.
 
-> Stay hungry, stay foolish. (Steve Jobs)
-
-Aktivitäten: Trainertätigkeit, Unterstützung von Kundenprojekten
+> Stay hungry, stay foolish. – Steve Jobs
