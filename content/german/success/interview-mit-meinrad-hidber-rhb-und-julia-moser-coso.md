@@ -1,5 +1,6 @@
 +++
 category = ["PowerBI"]
+date = 2021-03-25T00:00:00Z
 image = "/uploads/interregio-auf-dem-landwasserviadukt_sommer.jpg"
 title = "Interview mit Meinrad Hidber (RhB) und Julia Moser (CoSo)"
 

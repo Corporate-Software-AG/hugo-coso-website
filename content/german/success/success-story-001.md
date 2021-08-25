@@ -1,5 +1,6 @@
 +++
 category = ["PowerBI"]
+date = 2021-02-21T00:00:00Z
 image = "/uploads/bernina-express-auf-dem-kreisviadukt.jpg"
 title = "Wie die Rhätische Bahn ihre Daten demokratisiert"
 
