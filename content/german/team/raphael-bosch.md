@@ -20,7 +20,7 @@ link = "mailto:raphael.boesch@corporatesoftware.ch"
 +++
 Raphael ist ein richtiger Microsoft-ler. Bevor wir ihn uns schnappen konnten, war er über 10 Jahre für Microsoft Schweiz tätig. Unsere Kund:innen profitieren entsprechend von seinem äusserst breiten Know-how rund um Microsoft-Lösungen. Raphael ist ein Über-den-Tellerrand-Gucker. Ihm ist es wichtig, seinen Horizont laufend zu erweitern. Dies tut er auch gut und gerne, um die Bedürfnisse unserer Kund:innen zu verstehen und mit der richtigen Technologie umzusetzen.
 
-Sein grösstes Hobby ist sein Junior und wenn er dann mal Zeit für sich hat, lautet sein Motto: Hauptsache frische Luft!
+Sein grösstes Hobby ist sein Junior und wenn er Zeit für sich hat, lautet sein Motto: Hauptsache frische Luft!
 
 > Das Wichtigste im Leben ist nicht aufzuhören, Fragen zu stellen – Albert Einstein
 >
