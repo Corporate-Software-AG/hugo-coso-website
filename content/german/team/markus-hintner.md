@@ -7,11 +7,11 @@ name = "Markus Hintner"
 team = "General Circle"
 title = "Markus Hintner"
 [[social]]
-icon = "ti-microsoft-alt"
-link = "https://teams.microsoft.com/l/chat/0/0?users=markus.hintner@corporatesoftware.ch"
-[[social]]
 icon = "ti-email"
 link = "mailto:markus.hintner@corporatesoftware.ch"
+[[social]]
+icon = "ti-microsoft-alt"
+link = "https://teams.microsoft.com/l/chat/0/0?users=markus.hintner@corporatesoftware.ch"
 [[social]]
 icon = "ti-linkedin"
 link = "https://www.linkedin.com/in/markushintner/?originalSubdomain=de"
