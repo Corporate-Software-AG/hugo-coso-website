@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="{{ with .Site.LanguageCode }}{{ . }}{{ else }}de-CH{{ end }}">
+{{- partial "head.html" . -}}
+
+<body id="top" data-spy="scroll" data-target="#navbar-spy" class="position-relative">
+  {{- partial "preloader.html" . -}}
+	{{- partial "header.html" . -}}
+	{{- partial "page-header.html" . -}}
+
+  <!-- strat of blog-details -->
+  <section class="section-padding pt-50">
+    <div class="container">
+      <div class="row justify-content-center">
+        <div class="col-lg-10 col-md-12 mb-30 text-center" data-aos="fade-in">
+          <img class="img-fluid rounded" src="{{.Params.Image | absURL }}" alt="{{.Title}}">
+        </div>
+        <div class="col-lg-9 col-md-12 mb-60" data-aos="fade-in" data-aos-delay="50">
+          <div class="post-category position-relative mb-15">{{ range $i,$p:= .Params.Categories }}{{if ne $i 0}},{{end}}<a
+            href="{{ `categories/` | relLangURL }}{{ . | urlize | lower }}" class="text-black-200 font-weight-600 ml-1">{{ . | humanize }} </a>
+            {{ end }}
+          </div>
+
+          <h2 class="font-weight-bold mb-30">{{.Title}}</h2>
+          {{ if .Params.Date }}
+          <div class="post-meta font-weight-600 text-primary mb-15">
+            <span>{{ .Params.Date.Format "02 Jan, 2006"}}</span>
+          </div>
+          {{ end }}
+          <div class="content">{{.Content}}</div>
+        </div>
+          
+        {{ if .Site.DisqusShortname }}
+        <div class="col-lg-9 col-md-12" data-aos="fade-in">
+          {{ template "_internal/disqus.html" . }}
+        </div>
+        {{ end }}
+      </div>
+    </div>
+  </section>
+  <!-- end of blog-details -->
+  {{- partial "footer.html" . -}}
+</body>
+
+</html>
