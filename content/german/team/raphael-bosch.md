@@ -22,6 +22,6 @@ Raphael ist ein richtiger Microsoft-ler. Bevor wir ihn uns schnappen konnten, wa
 
 Sein grösstes Hobby ist sein Junior und wenn er Zeit für sich hat, lautet sein Motto: Hauptsache frische Luft!
 
-> Das Wichtigste im Leben ist nicht aufzuhören, Fragen zu stellen – Albert Einstein
+> **Das Wichtigste im Leben ist nicht aufzuhören, Fragen zu stellen – Albert Einstein**
 >
-> Wissen ist nutzlos, wenn man es nicht anwendet – Anton Chekhov
+> **Wissen ist nutzlos, wenn man es nicht anwendet – Anton Chekhov**

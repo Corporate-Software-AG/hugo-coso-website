@@ -24,7 +24,7 @@ Thomas war Leiter bei der Jungwacht und konnte dort viele Trainer Skills erlerne
 
 Er ist Spezialist im Bereich Webentwicklung & Integration von AI. NET-Core-Applikationen kombiniert er gerne mit Azure Services und Power Platform. Neben der Betreuung von Kundenprojekten schult er als Microsoft Certified Trainer IT Developer und Power User.
 
-> A man's got to do what a man's got to do.
+> **A man's got to do what a man's got to do.**
 
 * Spezialgebiet: AI, DevOps, Webentwicklung mit Wordpress
 * Andere Gebiete : SharePoint, Dev, Azure Dev (SharePoint, Azure)
