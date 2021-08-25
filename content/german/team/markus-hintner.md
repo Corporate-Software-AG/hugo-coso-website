@@ -21,6 +21,6 @@ Es gibt kaum eine Frage im Bereich Collaboration, die Markus nicht beantworten k
 
 Markus hat sich im Bereich Microsoft 365 als Berater und Entwickler sowie als Troubleshooter einen Namen gemacht. Er ist Microsoft Certified Solutions Master und Trainer und gibt seinen Kunden die Details von Microsoft 365, Azure und SQL Server in Trainings und Projekten weiter.
 
-> _Amat Victoria curam? Victory loves preparation._
+> **_Amat Victoria curam? Victory loves preparation._**
 
 Aktivitäten: Consulting, Entwickler & Troubleshooter in SharePoint, Business Process Management, SQL Server Database Engine und Business Intelligence, Coach & Trainer in Österreich, der Schweiz und Deutschland
