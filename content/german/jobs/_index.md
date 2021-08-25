@@ -19,7 +19,7 @@ benifits:
     content: hier kommt noch Text hin
 
 ---
-![](/uploads/coso_team-1.png)
+![](/uploads/illustration-stellenanzeige-final.png)
 
 Die Corporate Software AG ist ein junges, dynamisches Unternehmen, das an der Schnittstelle zwischen IT und Business tätig ist. Wir beraten unsere Kunden in den Bereichen Collaboration, Data und AI sowie Automation.
 
