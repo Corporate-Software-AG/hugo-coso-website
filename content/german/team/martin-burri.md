@@ -2,7 +2,6 @@
 categories = ["Azure"]
 date = ""
 description = ""
-draft = true
 image = "/uploads/martinburri.png"
 job_title = "Junior Consultant"
 name = ""
