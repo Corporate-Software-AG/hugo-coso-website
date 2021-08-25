@@ -37,4 +37,4 @@ Zeichnest du dich aus durch Selbstständigkeit, Flexibilität, Wissbegierde, Mot
 * Freude an Sales und Begeisterung für nachhaltige IT-Lösungskonzepte
 * Muttersprache Deutsch
 
-[Wir suchen dich: Junior Data Engineer (PDF)](junior-data-engineer-2.pdf)
+[Wir suchen dich: Junior Data Engineer (PDF)](/uploads/junior-data-engineer-2.pdf)
