@@ -6,7 +6,8 @@ description: "Corporate Software entwirft intelligente Cloud-IT-Lösungen für U
   begeistert als Schweizer Start-up seit 2011 Kundinnen und Kunden mit nachhaltigen
   Lösungskonzepten an der Schnittstelle zwischen Business und IT.\n\nWas wir gemeinsam
   haben, ist das Interesse an der stetigen Verbesserung von Technik, Wirtschaft und
-  uns selbst. Wir gehen voran, um den nächsten Schritt zu ermöglichen.   "
+  uns selbst. Wir gehen voran, um den nächsten Schritt zu ermöglichen."
+image: "/images/logo.png"
 why:
   title: Wofür wir <strong>arbeiten</strong>
   image: "/uploads/cs-bewerbungsmappe-karriere-fertig.png"
