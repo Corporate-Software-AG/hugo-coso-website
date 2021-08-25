@@ -1,5 +1,5 @@
 +++
-categories = ["Bots", "Power Platform", "Data Science", "MCT"]
+categories = ["Power BI", "Bots", "Power Platform", "Data Science", "MCT"]
 date = ""
 image = "/uploads/cs-julia-moser-fertig-mit-weiss.png"
 job_title = "Consultant, Trainerin (MCT), Microsoft Professional Programm (MPP) \"Data Science\""
@@ -7,11 +7,11 @@ name = "Julia Moser"
 team = "S.H.I.E.L.D"
 title = "Julia Moser"
 [[social]]
-icon = "ti-microsoft-alt"
-link = "https://teams.microsoft.com/l/chat/0/0?users=julia.moser@corporatesoftware.ch"
-[[social]]
 icon = "ti-email"
 link = "mailto:julia.moser@corporatesoftware.ch"
+[[social]]
+icon = "ti-microsoft-alt"
+link = "https://teams.microsoft.com/l/chat/0/0?users=julia.moser@corporatesoftware.ch"
 [[social]]
 icon = "ti-linkedin"
 link = "https://www.linkedin.com/in/julmoser"
