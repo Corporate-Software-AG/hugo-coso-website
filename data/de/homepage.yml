@@ -5,7 +5,7 @@ banner:
   content: Wir gehen voran, um den nächsten Schritt zu ermöglichen.
   button:
     enable: true
-    label: Machen Sie den ersten Schritt
+    label: Machen Sie mit uns den nächsten Schritt
     link: contact
 services:
   enable: true
