@@ -1,5 +1,5 @@
 +++
-categories = ["K2", "Training & Education", "IT Automation", "Microsoft 365"]
+categories = ["MCT", "K2", "IT Automation", "Microsoft 365"]
 date = ""
 image = "/uploads/tamarastofer.png"
 job_title = "Consultant und Trainerin"
