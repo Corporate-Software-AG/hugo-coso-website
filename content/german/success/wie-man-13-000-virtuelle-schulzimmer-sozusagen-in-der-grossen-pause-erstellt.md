@@ -1,6 +1,6 @@
 +++
 category = ["Teams"]
-date = 2021-08-17T00:00:00Z
+date = 2021-03-16T00:00:00Z
 image = "/uploads/dom-fou-yrmwvcdyhmi-unsplash.jpg"
 title = "Wie man 13'000 virtuelle Schulzimmer sozusagen in der grossen Pause erstellt"
 
