@@ -18,9 +18,11 @@ benifits:
     content: Unsere Talentschmiede liegt uns am Herzen. Unsere TalenteUnsere Mitarbeiter:innen
       sind Menschen, die sich gemeinsam, offen und wissbegierig auf den Weg machen
       wollen. Persönliche Weiterentwicklung und CoSo-Wachstum gehen Hand in Hand.
-  - name: CoSo ist schnell und <br>agil unterwegs
+  - name: Schnell und agil <br>unterwegs
     icon: ti-move
-    content: hier kommt noch Text hin
+    content: Mit 10 Jahren sind wir zwar kein Startup mehr, fühlen uns in deren Kultur
+      aber noch sehr wohl. Wir sind unkompliziert, schnell und agil unterwegs und
+      wollen gemeinsam und mit Spass so arbeiten, wie es zu uns passt.
 
 ---
 ![](/uploads/illustration-stellenanzeige-final.png)
