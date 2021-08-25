@@ -22,7 +22,7 @@ Von der Bildzeitung zum Theologiestudium, zu den Wirtschaftswissenschaften, zur 
 
 Matthias ist leidenschaftlicher Unternehmer, internationaler Vortragsredner, Consultant und leitet drei Azure Usergroups in der Schweiz. Er ist Microsoft MVP für Azure, Azure Advisor und Azure Architect und als langjähriger Microsoft Certified Trainer aktiv.
 
-> Wer schwimmen lernen will, muss ins Wasser.
+> **Wer schwimmen lernen will, muss ins Wasser.**
 
 * Spezialgebiet: Cloud Architect, SharePoint Architect
 * Andere Gebiete : Projekt-& Servicemanagement (Project Online, Project Server), Collaboration (SharePoint, Office 365, Power BI, K2), Azure Cloud Computing (Serverless, Hybrid, Migration), Business Intelligence (Power BI, AI, ML)
