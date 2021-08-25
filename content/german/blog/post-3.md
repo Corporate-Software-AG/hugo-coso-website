@@ -1,45 +1,23 @@
 ---
-title : "Your ‘Surge Capacity’ Is Depleted It’s Why You Feel Awful to The Society"
-image : "uploads/softeng.png"
-date: 2020-03-14T15:40:24+06:00
-author: "Ausie Makquis"
-author_profile: "https://linkedin.com/in/#"
-description : "this is meta description"
-categories: ["Technology"]
-draft : false
+title: Die Schule brennt – wir helfen löschen
+image: "/uploads/dieschulebrennt-1.png"
+date: 2020-03-20T09:40:24+00:00
+author: Ausie Makquis
+author_profile: https://linkedin.com/in/#
+description: ''
+categories:
+- Services
+
 ---
+**Kostenloses Setup von Office 365 Education zum Express-Einrichten von Fernunterricht in Schulen.**
 
+In den letzten Tagen hat sich für unsere Arbeitssituation noch nicht viel geändert. Doch um uns herum hat sich alles gedreht. Wir möchten deswegen in dieser Notsituation unsere Hilfe anbieten.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nec et ipsum ullamcorper venenatis fringilla.
-Pretium, purus eu nec vulputate vel habitant egestas. Congue ornare at ipsum, viverra. Vitae magna faucibus
-eros, lectus sociis. Etiam nunc amet id dignissim. Feugiat id tempor vel sit in ornare turpis posuere. Eu
-quisque integer non rhoncus elementum vel. Quis nec viverra lectus augue nec praesent
+Matthias einer unser Gründer ist ausgebildeter Lehrer und weiss worauf es im Bereich Education ankommt. Deswegen möchten wir Schulen in dieser Notsituation Hilfestellung bei einer Expresseinrichtung von Office 365 (Education) mit Teams als Kollaborationsplattform um das virtuelle Klassenzimmer einzuführen – geben.   
+Mehr Information finden Sie unter: [Care-Paket](https://www.corporatesoftware.ch/wp-content/uploads/DieSchulebrenntV3.pdf)
 
-Laoreet mauris odio ut nec. Nisl, sed adipiscing dignissim arcu placerat ornare pharetra nec
-in. Ultrices in nisl potenti vitae tempus. Auctor consectetur luctus eu in amet sagittis. Dis urna, vel
-hendrerit convallis Senectus feugiat faucibus commodo egestas leo vitae in morbi. Enim arcu dignissim
-mauris,
-eu, eget
+Bewerben Sie sich unter: [info@corporatesoftware.ch](mailto:info@corporatesoftware.ch)
 
-pharetra odio amet pellentesque. Egestas nisi adipiscing sed in lectus. Vitae ultrices malesuada aliquet
-Faucibus consectetur tempus adipiscing vitae. Nec blandit tincidunt nibh nisi, quam volutpat. In lacus
-laoreet
-diam risus. Mauris, risus faucibus sagittis sagittis tincidunt id justo. Diam massa pretium consequat mauris
-viverra. Sagittis eu libero
-
-> #### A wise girls her limit to touch sky. Repellat neque praesentium adipisci. This is an idea, this is as quickly.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nec et ipsum ullamcorper venenatis fringilla.
-Pretium, purus eu nec vulputate vel habitant egestas. Congue ornare at ipsum, viverra. Vitae magna faucibus
-eros, lectus sociis. Etiam nunc amet id dignissim. Feugiat id tempor vel sit in ornare turpis posuere. Eu
-quisque integer non rhoncus elementum vel. Quis nec viverra lectus augue nec praesent volutpat tortor. Ipsum
-eget sed tempus luctus nisl. Ut etiam molestie mattis at faucibus mi at pellentesque. Pellentesque morbi
-nunc, curabitur arcu euismod suscipit. Duis mi sapien, donec non dictum 
-
-Laoreet mauris odio ut nec. Nisl, sed adipiscing dignissim arcu placerat ornare pharetra nec
-in. Ultrices in nisl potenti vitae tempus. Auctor consectetur luctus eu in amet sagittis. Dis urna, vel
-hendrerit convallis cursus id.
-
-Senectus feugiat faucibus commodo egestas leo vitae in morbi. Enim arcu dignissim mauris, eu, eget pharetra
-odio amet pellentesque. Egestas nisi adipiscing sed in lectus. Vitae ultrices malesuada aliquet dignissim.
-Faucibus non tristique eu.
+Corporate Software – wir gehen voran, um den nächsten Schritt zu ermöglichen.  
+  
+Weiterführende Informationen zur Unterstützung von Schulen finden Sie auch auf dem Innovative Schools Portal von Microsoft Education Schweiz: [https://bit.ly/MSHilfeSchulen](https://bit.ly/MSHilfeSchulen "https://bit.ly/MSHilfeSchulen")
