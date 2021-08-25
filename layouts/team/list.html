@@ -57,10 +57,15 @@
           <h4 class="font-weight-bold mb-10">{{ .Params.title }}</h4>
           <p>{{ .Params.designation }}</p>
           <ul class="list-unstyled list-inline mt-2">
-            {{ range sort .Params.social "icon" "desc" }}
+            {{ range sort .Params.social "icon" "asc" }}
             <li class="list-inline-item">
               <a href="{{ .link | safeURL }}" class="text-black-200 p-2 d-inline-block">
-                <span class="{{ .icon }}"></span></a>
+                {{ if eq .icon "teams-icon" }}
+                <span class="{{ .icon }}"><img style="width: 20px; margin-top: -3px;" src="/images/microsoft_teams_icon_137398.png" alt=""></span>
+                {{ else }}
+                <span class="{{ .icon }}"></span>
+                {{ end }}
+              </a>
             </li>
             {{ end }}
           </ul>
