@@ -8,14 +8,14 @@ name = "Noah Zani"
 team = "Seal Team"
 title = "Noah Zani"
 [[social]]
+icon = "ti-email"
+link = "mailto:noah.zani@corporatesoftware.ch"
+[[social]]
 icon = "ti-microsoft-alt"
 link = "https://teams.microsoft.com/l/chat/0/0?users=noah.zani@corporatesoftware.ch"
 [[social]]
 icon = "ti-linkedin"
 link = "https://www.linkedin.com/in/noahzani/"
-[[social]]
-icon = "ti-email"
-link = "mailto:noah.zani@corporatesoftware.ch"
 
 +++
 Noahs Mott zeigt: Selbstbestimmung ist ihm wichtig. Er bringt als Platform Engineer und -Berater mit seiner Besonnenheit die richtigen Plattformen für die optimale Zusammenarbeit des Kunden zusammen.
