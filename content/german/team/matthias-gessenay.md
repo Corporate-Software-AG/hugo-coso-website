@@ -8,14 +8,14 @@ name = "Matthias Gesseny – unser Azure-Alchimist"
 team = "General Team"
 title = "Matthias Gessenay"
 [[social]]
+icon = "ti-email"
+link = "mailto:matthias.gessenay@corporatesoftware.ch"
+[[social]]
 icon = "ti-microsoft-alt"
 link = "https://teams.microsoft.com/l/chat/0/0?users=matthias.gessenay@corporatesoftware.ch"
 [[social]]
 icon = "ti-linkedin"
 link = "https://www.linkedin.com/in/matthias-gessenay/"
-[[social]]
-icon = "ti-email"
-link = "mailto:matthias.gessenay@corporatesoftware.ch"
 
 +++
 Von der Bildzeitung zum Theologiestudium, zu den Wirtschaftswissenschaften, zur Pädagogik und von da aus zur Informatik. Die stetige Veränderung kommt Matthias heute als CEO und Co-Gründer zugute. Er lebt vor, was im Cloud-Zeitalter wichtig ist: Vertrauen und Loslassen.
