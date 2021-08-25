@@ -1,5 +1,5 @@
 +++
-categories = ["Data Science", "Business Process Management", "Business Applications", "Training & Education", "Power Platform", "MCT", "Microsoft 365"]
+categories = ["Data Science", "Business Process Management", "Business Applications", "Power Platform", "MCT", "Microsoft 365"]
 date = ""
 image = "/uploads/sebastiansteer.png"
 job_title = "Junior Consultant, Trainer (MCT)"
