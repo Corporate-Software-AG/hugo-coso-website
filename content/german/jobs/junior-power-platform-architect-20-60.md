@@ -37,4 +37,4 @@ Zeichnest du dich aus durch Selbstständigkeit, Flexibilität, Wissbegierde, Mot
 * Freude an Sales und Begeisterung für nachhaltige IT-Lösungskonzepte
 * Muttersprache Deutsch
 
-[Wir suchen dich: Junior Power Platform Architect (PDF)](junior-power-platform-architect-1.pdf)
+[Wir suchen dich: Junior Power Platform Architect (PDF)](/uploads/junior-power-platform-architect-1.pdf)

@@ -37,4 +37,4 @@ Zeichnest du dich aus durch Selbstständigkeit, Flexibilität, Wissbegierde, Mot
 * Freude an Sales und Begeisterung für nachhaltige IT-Lösungskonzepte
 * Muttersprache Deutsch
 
-[Wir suchen dich: Junior Cloud Consultant (PDF)](junior-cloud-consultant-1.pdf)
+[Wir suchen dich: Junior Cloud Consultant (PDF)](/uploads/junior-cloud-consultant-1.pdf)

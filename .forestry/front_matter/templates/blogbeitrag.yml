@@ -17,3 +17,5 @@ fields:
 - type: list
   name: categories
   label: categories
+pages:
+- content/german/blog/success-story-nr.2-mit-den-informatik-schulen-baselland-it.sbl-sind-13-000-virtuelle-schulzimmer-entstanden.md

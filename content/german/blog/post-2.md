@@ -1,45 +1,17 @@
 ---
-title : "Your ‘Surge Capacity’ Is Depleted It’s Why You Feel Awful to The Society"
-image : "uploads/softeng.png"
-date: 2020-03-14T15:40:24+06:00
-author: "Ausie Makquis"
-author_profile: "https://linkedin.com/in/#"
-description : "this is meta description"
-categories: ["science"]
-draft : false
+title: Beförderung zum Consultant
+image: "/uploads/beforderungen-1.png"
+date: 2020-05-27T08:40:24+00:00
+author: Ausie Makquis
+author_profile: https://linkedin.com/in/#
+description: ''
+categories:
+- Team
+
 ---
+Hekuran Mulaki: ist seit 2019 bei uns im DevOps Team und hauptsächlich im Bereich Automation und Scripting tätig. Dort beschäftigt er sich vor allem mit PowerShell. Er ist vor allem verantwortlich für Betriebs- und Wartungsarbeiten.
 
+Markus Fasnacht: ist unser Spezialist in Data Engineering, Data Science & Power BI. Er gibt sein Wissen gerne als Microsoft Certified Trainer (MCT) in Data Science und AI weiter.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nec et ipsum ullamcorper venenatis fringilla.
-Pretium, purus eu nec vulputate vel habitant egestas. Congue ornare at ipsum, viverra. Vitae magna faucibus
-eros, lectus sociis. Etiam nunc amet id dignissim. Feugiat id tempor vel sit in ornare turpis posuere. Eu
-quisque integer non rhoncus elementum vel. Quis nec viverra lectus augue nec praesent
-
-Laoreet mauris odio ut nec. Nisl, sed adipiscing dignissim arcu placerat ornare pharetra nec
-in. Ultrices in nisl potenti vitae tempus. Auctor consectetur luctus eu in amet sagittis. Dis urna, vel
-hendrerit convallis Senectus feugiat faucibus commodo egestas leo vitae in morbi. Enim arcu dignissim
-mauris,
-eu, eget
-
-pharetra odio amet pellentesque. Egestas nisi adipiscing sed in lectus. Vitae ultrices malesuada aliquet
-Faucibus consectetur tempus adipiscing vitae. Nec blandit tincidunt nibh nisi, quam volutpat. In lacus
-laoreet
-diam risus. Mauris, risus faucibus sagittis sagittis tincidunt id justo. Diam massa pretium consequat mauris
-viverra. Sagittis eu libero
-
-> #### A wise girls her limit to touch sky. Repellat neque praesentium adipisci. This is an idea, this is as quickly.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nec et ipsum ullamcorper venenatis fringilla.
-Pretium, purus eu nec vulputate vel habitant egestas. Congue ornare at ipsum, viverra. Vitae magna faucibus
-eros, lectus sociis. Etiam nunc amet id dignissim. Feugiat id tempor vel sit in ornare turpis posuere. Eu
-quisque integer non rhoncus elementum vel. Quis nec viverra lectus augue nec praesent volutpat tortor. Ipsum
-eget sed tempus luctus nisl. Ut etiam molestie mattis at faucibus mi at pellentesque. Pellentesque morbi
-nunc, curabitur arcu euismod suscipit. Duis mi sapien, donec non dictum 
-
-Laoreet mauris odio ut nec. Nisl, sed adipiscing dignissim arcu placerat ornare pharetra nec
-in. Ultrices in nisl potenti vitae tempus. Auctor consectetur luctus eu in amet sagittis. Dis urna, vel
-hendrerit convallis cursus id.
-
-Senectus feugiat faucibus commodo egestas leo vitae in morbi. Enim arcu dignissim mauris, eu, eget pharetra
-odio amet pellentesque. Egestas nisi adipiscing sed in lectus. Vitae ultrices malesuada aliquet dignissim.
-Faucibus non tristique eu.
+Sebastian Steer: Fachgebiete sind Business Automation und Collaboration. Er betreut Projekte rund um die Power Platform mit Power Apps, Power Automate und Power BI und hilft bei der Prozessoptimierung und Collaboration auf der Basis von Office 365 und Azure. Er ist Microsoft Certified Trainer (MCT).  
+Herzliche Gratulation zur Beförderung!
