@@ -13,12 +13,12 @@ categories:
 job_title: Cloud Consultant, Trainer (MCT)
 team: Seal Team
 social:
+- icon: ti-email
+  link: mailto:thomas.vonmentlen@corporatesoftware.ch
 - icon: ti-microsoft-alt
   link: https://teams.microsoft.com/l/chat/0/0?users=thomas.vonmentlen@corporatesoftware.ch
 - icon: ti-linkedin
   link: https://www.linkedin.com/in/thomas-von-mentlen/
-- icon: ti-email
-  link: mailto:thomas.vonmentlen@corporatesoftware.ch
 
 ---
 Thomas war Leiter bei der Jungwacht und konnte dort viele Trainer Skills erlernen. Er weiss, was es braucht, damit etwas interessant bleibt. Und er weiss, wie Zusammenarbeit funktioniert, wie man Konflikte löst und kreative Lösungen findet.
