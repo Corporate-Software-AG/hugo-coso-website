@@ -44,7 +44,7 @@
       {{ if .Params.name }}
       <div class="masonry-item team-item col-lg-3 col-sm-6 col-md-4 mt-4" data-groups="[{{ $len := (len .Params.categories) }}{{ range $i, $e := .Params.categories }}&quot;{{ . | urlize }}&quot;{{ if ne (add $i 1) $len }},{{ end }}{{ end }}]">
         <div class="text-center mb-30">
-          <a href="/team{{ .File.TranslationBaseName | relURL }}">
+          <a href="{{ .Permalink | relURL }}">
             <div class="team-image has-shapes d-inline-block mb-25">
                 <img class="img-fluid rounded-circle" src="{{ .Params.image | absURL}}" alt="" style="width: 200px; height: 200px; object-fit: cover; object-position: 50% 10px;">
                 <div class="team-shapes">
