@@ -1,44 +1,36 @@
-############################ Banner ##################################
+---
 banner:
   enable: true
-  title: Wilkommen
-  content: Wir gehen voran um den nächsten Schritt zu ermöglichen.
+  title: Willkommen
+  content: Wir gehen voran, um den nächsten Schritt zu ermöglichen.
   button:
-    enable : true
-    label : "Machen Sie den ersten Schritt"
-    link : "contact"
-
-############################ Services ##################################
+    enable: true
+    label: Machen Sie den ersten Schritt
+    link: contact
 services:
   enable: true
   title: Services
   content: Unsere Services Blabla
-
-############################ Services ##################################
-jobs:
-  mail: jobs@corporatesoftware.ch
-  cta_button: Sende uns jetzt deine Unterlagen!
-
-
-############################ Kontakt ##################################
 contact:
   title: Kontaktdaten
   phone: "+41 32 322 67 05"
-  email: "info@corporatesoftware.ch"
-  office_times: "8 bis 17 Uhr"
+  email: info@corporatesoftware.ch
+  office_times: 8 bis 17 Uhr
   address_list:
-    - "Schöneggstrasse 5, 2503 Biel"
-  servicedesk: "https://accounts.spiceworks.com/sign_in?policy=hosted_help_desk&success=https://corporatesoftware.on.spiceworks.com/auth/spiceworks/callback"
-
-############################ Footer Info ##################################
+  - Schöneggstrasse 5, 2503 Biel
+  servicedesk: https://accounts.spiceworks.com/sign_in?policy=hosted_help_desk&success=https://corporatesoftware.on.spiceworks.com/auth/spiceworks/callback
 call_to_action:
-  title : "Wir gehen voran, um den **nächsten Schritt** zu ermöglichen"
+  title: Wir gehen voran, um den **nächsten Schritt** zu ermöglichen
   button:
-    enable : true
-    label : "Machen Sie den ersten Schritt"
-    link : "contact"
-
-############################ Footer Info ##################################
+    enable: true
+    label: Machen Sie den ersten Schritt
+    link: contact
 footer:
-  content: "Wir sind ein cloudbasiertes Unternehmen, das Sie basierend auf Microsoft-Produkten in den Bereichen Collaboration, Data Science und AI sowie Automation berät, Ihre Projekte begleitet und umsetzt und Ihre Mitarbeitenden in den neuen Technologien schult."
-  privacy: "/privacy-policy-imprint"
+  content: Wir sind ein cloudbasiertes Unternehmen, das Sie basierend auf Microsoft-Produkten
+    in den Bereichen Collaboration, Data Science und AI sowie Automation berät, Ihre
+    Projekte begleitet und umsetzt und Ihre Mitarbeitenden in den neuen Technologien
+    schult.
+  privacy: "#"
+jobs:
+  mail: jobs@corporatesoftware.ch
+  cta_button: Sende uns jetzt deine Unterlagen!
