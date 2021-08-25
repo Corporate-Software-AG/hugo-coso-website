@@ -7,14 +7,14 @@ name = "Jonas Röösli"
 team = "Seal Team"
 title = "Jonas Röösli"
 [[social]]
+icon = "ti-email"
+link = "mailto:jonas.roeoesli@corporatesoftware.ch"
+[[social]]
 icon = "ti-microsoft-alt"
 link = "https://teams.microsoft.com/l/chat/0/0?users=jonas.roeoesli@corporatesoftware.ch"
 [[social]]
 icon = "ti-linkedin"
 link = "https://www.linkedin.com/in/jonas-r%C3%B6%C3%B6sli/"
-[[social]]
-icon = "ti-email"
-link = "mailto:jonas.roeoesli@corporatesoftware.ch"
 
 +++
 Über seine Matura-Arbeit im Bereich Hausautomationen ist Jonas zur IT gekommen und hat früh Einblicke in Führungsthemen erhalten. Dort hat er auch gelernt, wie man den Spagat schafft, um Managern als Bauarbeiter technisches Know-how zu vermitteln.
