@@ -2,7 +2,7 @@
 categories = ["Data Science", "MCT", "Microsoft 365"]
 date = ""
 image = "/uploads/jason-fertig.png"
-job_title = "Junior Consultant"
+job_title = "Consultant"
 name = "Jason Browne"
 team = "S.H.I.E.L.D"
 title = "Jason Browne"
