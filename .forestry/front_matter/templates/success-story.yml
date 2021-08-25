@@ -16,6 +16,15 @@ fields:
   type: tag_list
   default: []
   label: Kategorien
+- name: date
+  type: datetime
+  label: Datum
+  description: ''
+  config:
+    required: false
+    date_format: 
+    time_format: 
+    display_utc: false
 pages:
 - content/german/success/auf-uns-zugeschnittenes-powershell-consulting.md
 - content/german/success/die-neue-losung-vereinfacht-die-arbeit-unserer-mobilen-mitarbeiter.md
