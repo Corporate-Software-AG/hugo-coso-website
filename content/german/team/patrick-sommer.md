@@ -1,5 +1,5 @@
 +++
-categories = ["Agiles Projekt- und Servicemanagement", "MCT", "Administration", "Projektmanagement"]
+categories = ["Training & Education", "Agiles Projekt- und Servicemanagement", "Projektmanagement"]
 date = ""
 image = "/uploads/patrick.png"
 job_title = "CEO und CO-Gründer, Senior-Consultant, Hermes Advanced, ITIL-Trainer, Trainer (MCT), MPP Data Science und Cloud Admin"

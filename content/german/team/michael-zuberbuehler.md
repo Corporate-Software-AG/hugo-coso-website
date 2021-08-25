@@ -1,5 +1,5 @@
 +++
-categories = ["Data Science", "MCT", "DevOps", "Code Ninja", "Azure", "IT-Automation"]
+categories = ["Data Science", "MCT", "DevOps", "Code Ninja", "Azure", "IT Automation"]
 date = ""
 image = "/uploads/michael.png"
 job_title = "DevOps Consultant"
