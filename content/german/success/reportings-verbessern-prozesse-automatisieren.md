@@ -1,5 +1,6 @@
 +++
 category = ["PowerBI"]
+date = 2019-03-23T00:00:00Z
 image = "/uploads/hochbauamtzh.png"
 title = "Reportings verbessern & Prozesse automatisieren"
 
