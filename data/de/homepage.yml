@@ -26,7 +26,7 @@ call_to_action:
   title: Wir gehen voran, um den **nächsten Schritt** zu ermöglichen
   button:
     enable: true
-    label: Machen Sie den ersten Schritt
+    label: Machen Sie mit uns den nächsten Schritt
     link: contact
 footer:
   content: Wir sind ein cloudbasiertes Unternehmen, das Sie basierend auf Microsoft-Produkten
