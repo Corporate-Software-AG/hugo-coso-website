@@ -51,4 +51,4 @@ Teams Lifecycle Management Die Ursprungsidee für die Intelligent Teams res
 
 Die Services aus der Teams-Arbeitsumgebung unterstützen Schulen im Unterricht sowie in der effizienten Kollaboration. Das umfangreiche Angebot von Microsoft Teams mit seiner einfachen und intuitiven Oberfläche kommt bei Lehrpersonen, Schülerinnen und Schülern gut an. Dank Intelligent Teams ist die technische Verwaltung der Zugänge und Berechtigungen voll automatisiert.
 
-Success Story zu den Informatik Schulen
+[Success Story zu den Informatik Schulen Baselland IT.SBL (PDF)](/uploads/successstory-itsbl.pdf)
