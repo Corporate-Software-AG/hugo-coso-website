@@ -10,7 +10,10 @@ banner:
 services:
   enable: true
   title: Services
-  content: Unsere Services Blabla
+  content: Wir sind ein cloudbasiertes Unternehmen, das Sie basierend auf Microsoft-Produkten
+    in den Bereichen Collaboration, Data Science und AI sowie Automation berät, Ihre
+    Projekte begleitet und umsetzt und Ihre Mitarbeitenden in den neuen Technologien
+    schult.
 contact:
   title: Kontaktdaten
   phone: "+41 32 322 67 05"
