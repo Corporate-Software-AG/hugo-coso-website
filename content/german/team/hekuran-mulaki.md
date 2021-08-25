@@ -11,7 +11,7 @@ title = "Hekuran Mulaki"
 icon = "ti-email"
 link = "mailto:hekuran.mulaki@corporatesoftware.ch"
 [[social]]
-icon = "ti-microsoft-alt"
+icon = "teams-icon"
 link = "https://teams.microsoft.com/l/chat/0/0?users=hekuran.mulaki@corporatesoftware.ch"
 [[social]]
 icon = "ti-linkedin"

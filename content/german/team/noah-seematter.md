@@ -11,7 +11,7 @@ title = "Noah Seematter"
 icon = "ti-email"
 link = "mailto:noah.seematter@corporatesoftware.ch"
 [[social]]
-icon = "ti-microsoft-alt"
+icon = "teams-icon"
 link = "https://teams.microsoft.com/l/chat/0/0?users=noah.seematter@corporatesoftware.ch"
 [[social]]
 icon = "ti-linkedin"

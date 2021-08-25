@@ -10,7 +10,7 @@ title = "Sebastian Steer"
 icon = "ti-email"
 link = "mailto:sebastian.steer@corporatesoftware.ch"
 [[social]]
-icon = "ti-microsoft-alt"
+icon = "teams-icon"
 link = "https://teams.microsoft.com/l/chat/0/0?users=sebastian.steer@corporatesoftware.ch"
 [[social]]
 icon = "ti-linkedin"

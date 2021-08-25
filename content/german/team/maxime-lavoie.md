@@ -11,7 +11,7 @@ title = "Maxim Lavoie"
 icon = "ti-email"
 link = "mailto:maxim.lavoie@corporatesoftware.ch"
 [[social]]
-icon = "ti-microsoft-alt"
+icon = "teams-icon"
 link = "https://teams.microsoft.com/l/chat/0/0?users=maxim.lavoie@corporatesoftware.ch"
 [[social]]
 icon = "ti-linkedin"

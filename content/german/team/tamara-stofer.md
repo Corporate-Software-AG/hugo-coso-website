@@ -10,7 +10,7 @@ title = "Tamara Stofer"
 icon = "ti-email"
 link = "mailto:tamara.stofer@corporatesoftware.ch"
 [[social]]
-icon = "ti-microsoft-alt"
+icon = "teams-icon"
 link = "https://teams.microsoft.com/l/chat/0/0?users=tamara.stofer@corporatesoftware.ch"
 [[social]]
 icon = "ti-linkedin"

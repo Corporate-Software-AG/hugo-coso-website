@@ -11,7 +11,7 @@ title = "Johanna Ackermann"
 icon = "ti-email"
 link = "mailto:johanna.ackermann@corporatesoftware.ch"
 [[social]]
-icon = "ti-microsoft-alt"
+icon = "teams-icon"
 link = "https://teams.microsoft.com/l/chat/0/0?users=johanna.ackermann@corporatesoftware.ch"
 [[social]]
 icon = "ti-linkedin"

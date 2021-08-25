@@ -11,7 +11,7 @@ title = "Martin Burri"
 icon = "ti-email"
 link = "mailto:martin.burri@corporatesoftware.ch"
 [[social]]
-icon = "ti-microsoft-alt"
+icon = "teams-icon"
 link = ""
 [[social]]
 icon = "ti-linkedin"

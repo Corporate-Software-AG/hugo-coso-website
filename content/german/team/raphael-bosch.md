@@ -11,7 +11,7 @@ title = "Raphael Bösch"
 icon = "ti-email"
 link = "mailto:raphael.boesch@corporatesoftware.ch"
 [[social]]
-icon = "ti-microsoft-alt"
+icon = "teams-icon"
 link = "https://teams.microsoft.com/l/chat/0/0?users=raphael.boesch@corporatesoftware.ch"
 [[social]]
 icon = "ti-linkedin"

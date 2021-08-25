@@ -10,7 +10,7 @@ title = "Julia Witschi"
 icon = "ti-email"
 link = "mailto:julia.witschi@corporatesoftware.ch"
 [[social]]
-icon = "ti-microsoft-alt"
+icon = "teams-icon"
 link = "https://teams.microsoft.com/l/chat/0/0?users=julia.witschi@corporatesoftware.ch"
 [[social]]
 icon = "ti-linkedin"
