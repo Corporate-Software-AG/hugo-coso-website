@@ -22,9 +22,10 @@ fields:
   description: ''
   config:
     required: false
-    date_format: 
+    date_format: ''
     time_format: 
     display_utc: false
+    export_format: YYYY-MM-DD
 pages:
 - content/german/success/auf-uns-zugeschnittenes-powershell-consulting.md
 - content/german/success/die-neue-losung-vereinfacht-die-arbeit-unserer-mobilen-mitarbeiter.md
