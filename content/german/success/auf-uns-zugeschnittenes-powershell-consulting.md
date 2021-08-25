@@ -1,5 +1,6 @@
 +++
 category = ["PowerShell"]
+date = 2019-01-26T00:00:00Z
 image = "/uploads/rhaetische_bahn.jpeg"
 title = "Auf uns zugeschnittenes Powershell-Consulting"
 
