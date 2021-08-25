@@ -15,9 +15,9 @@ benifits:
       darum, Freizeit und Arbeit zu trennen, sondern beides effizient zusammenzuführen.
   - name: Persönliche <br>Weiterentwicklung
     icon: ti-direction
-    content: Unsere Talentschmiede liegt uns am Herzen. Unsere TalenteUnsere Mitarbeiter:innen
-      sind Menschen, die sich gemeinsam, offen und wissbegierig auf den Weg machen
-      wollen. Persönliche Weiterentwicklung und CoSo-Wachstum gehen Hand in Hand.
+    content: Unsere Talentschmiede liegt uns am Herzen. Unsere Mitarbeiter:innen sind
+      Menschen, die sich gemeinsam, offen und wissbegierig auf den Weg machen wollen.
+      Persönliche Weiterentwicklung und CoSo-Wachstum gehen Hand in Hand.
   - name: Schnell und agil <br>unterwegs
     icon: ti-move
     content: Mit 10 Jahren sind wir zwar kein Startup mehr, fühlen uns in deren Kultur
