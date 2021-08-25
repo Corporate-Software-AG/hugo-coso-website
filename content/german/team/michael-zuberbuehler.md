@@ -7,11 +7,11 @@ name = "Michael Zuberbühler – unser Vernetzungskünstler"
 team = "S.H.I.E.L.D"
 title = "Michael Zuberbühler"
 [[social]]
-icon = "ti-microsoft-alt"
-link = "https://teams.microsoft.com/l/chat/0/0?users=michael.zuberbuehler@corporatesoftware.ch"
-[[social]]
 icon = "ti-email"
 link = "mailto:michael.zuberbuehler@corporatesoftware.ch"
+[[social]]
+icon = "ti-microsoft-alt"
+link = "https://teams.microsoft.com/l/chat/0/0?users=michael.zuberbuehler@corporatesoftware.ch"
 [[social]]
 icon = "ti-linkedin"
 link = "https://www.linkedin.com/in/michael-zuberbühler"
