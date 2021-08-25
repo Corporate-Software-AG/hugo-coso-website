@@ -8,9 +8,11 @@ benifits:
     sich engagieren wollen. Deshalb lohnt es sich aus unserer Sicht, Teil des Teams
     zu werden:'
   item:
-  - name: Work-Life-Integration <br>wird grossgeschrieben
+  - name: Work-Life-<br>Integration
     icon: ti-world
-    content: hier kommt noch Text hin
+    content: Am Ende muss die Arbeit gemacht sein. Wie, wann und wo wir etwas tun,
+      möchten wir uns so oft wie möglich selbst einteilen können. Uns geht es nicht
+      darum, Freizeit und Arbeit zu trennen, sondern beides effizient zusammenzuführen.
   - name: Persönliche <br>Weiterentwicklung
     icon: ti-direction
     content: hier kommt noch Text hin
