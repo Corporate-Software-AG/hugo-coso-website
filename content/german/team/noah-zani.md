@@ -22,6 +22,6 @@ Noahs Mott zeigt: Selbstbestimmung ist ihm wichtig. Er bringt als Platform Engin
 
 Noah ist Co-Owner und Teamlead des Platform Teams. Er hat sich im Bereich Collaboration spezialisiert und betreut als Berater verschiedene Projekte rund um Microsoft 365 mit Fokus auf Teams und SharePoint. Als Microsoft Certified Trainer unterrichtet er SharePoint, Power BI und Office 365.
 
-> The best way to predict the future is to create IT. (Peter Drucker)
+> The best way to predict the future is to create IT. – Peter Drucker
 
 Aktivitäten: SharePoint Platform Engineer, Consulting & Custominzing in den Bereichen SharePoint, K2 & Windows Server, Aufbau & Design von Kollaboration-Plattformen, Branding, Business Process Management, Business Intelligence, Trainer bei Digicomp
