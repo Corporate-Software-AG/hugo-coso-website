@@ -7,11 +7,11 @@ name = "Sebastian Steer"
 team = "S.H.I.E.L.D"
 title = "Sebastian Steer"
 [[social]]
-icon = "ti-microsoft-alt"
-link = "https://teams.microsoft.com/l/chat/0/0?users=sebastian.steer@corporatesoftware.ch"
-[[social]]
 icon = "ti-email"
 link = "mailto:sebastian.steer@corporatesoftware.ch"
+[[social]]
+icon = "ti-microsoft-alt"
+link = "https://teams.microsoft.com/l/chat/0/0?users=sebastian.steer@corporatesoftware.ch"
 [[social]]
 icon = "ti-linkedin"
 link = "https://www.linkedin.com/in/sebastian-steer/"
