@@ -9,7 +9,7 @@
         <ul class="list-unstyled list-inline mt-2">
           {{ range sort .Params.social "icon" "asc" }}
           <li class="list-inline-item">
-            <a href="{{ .link | safeURL }}" class="text-black-200 p-2 d-inline-block">
+            <a target="_blank" href="{{ .link | safeURL }}" class="text-black-200 p-2 d-inline-block">
               {{ if eq .icon "teams-icon" }}
               <span class="{{ .icon }}"><img style="width: 20px; margin-top: -3px;" src="/images/microsoft_teams_icon_137398.png" alt=""></span>
               {{ else }}
