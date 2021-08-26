@@ -2,7 +2,6 @@
 categories = ["Erfolgsgeschichte"]
 date = 2019-10-20T22:00:00Z
 description = ""
-draft = true
 image = "/uploads/success_story_2_it-sbl_bannerfinal-1024x1024.png"
 title = "Success-Story Nr. 2: mit den Informatik Schulen Baselland IT.SBL sind 13’000 virtuelle Schulzimmer entstanden"
 

@@ -1,5 +1,6 @@
 +++
 category = ["SharePoint", "Mobile App"]
+date = 2019-01-20T00:00:00Z
 image = "/uploads/rhaetische_bahn.jpeg"
 title = "Die neue Lösung vereinfacht die Arbeit unserer mobilen Mitarbeiter"
 
