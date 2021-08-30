@@ -1,6 +1,7 @@
 
 {{ $image := .Image }}
 {{ $reallytiny := ($image.Resize "100x q70") }}
+{{ $mediumtiny := ($image.Resize "280x q70") }}
 {{ $tiny := ($image.Resize "480x q70") }}
 {{ $small := ($image.Resize "768x q70") }}
 {{ $medium := ($image.Resize "1024x q70") }}
@@ -8,11 +9,12 @@
 
 <img
 srcset="
-    {{- with $reallytiny.RelPermalink -}}{{.}} 100w{{- end -}}
-    {{- with $tiny.RelPermalink -}}{{.}} 480w{{- end -}}
-    {{- with $small.RelPermalink -}}, {{.}} 768w{{- end -}}
-    {{- with $medium.RelPermalink -}}, {{.}} 1024w{{- end -}}
-    {{- with $large.RelPermalink -}}, {{.}} 1366w{{- end -}}"
+    {{ if ge $image.Width 100 }}{{- with $reallytiny.RelPermalink -}}{{.}} 100w{{- end -}}{{ end }}
+    {{ if ge $image.Width 280 }}{{- with $mediumtiny.RelPermalink -}}{{.}} 280w{{- end -}}{{ end }}
+    {{ if ge $image.Width 480 }}{{- with $tiny.RelPermalink -}}{{.}} 480w{{- end -}}{{ end }}
+    {{ if ge $image.Width 768 }}{{- with $small.RelPermalink -}}, {{.}} 768w{{- end -}}{{ end }}
+    {{ if ge $image.Width 1024 }}{{- with $medium.RelPermalink -}}, {{.}} 1024w{{- end -}}{{ end }}
+    {{ if ge $image.Width 1366 }}{{- with $large.RelPermalink -}}, {{.}} 1366w{{- end -}}{{ end }}"
 src="{{ $image.RelPermalink }}"
 alt="{{ .Alt }}"
 class="{{ .Class }}">
