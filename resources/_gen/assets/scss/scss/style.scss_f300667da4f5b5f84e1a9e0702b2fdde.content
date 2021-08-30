@@ -3056,6 +3056,15 @@ section {
 .img-fluid {
   width: 100%; }
 
+.img-limitted {
+  max-width: 23em; }
+
+.team-img {
+  width: 200px;
+  height: 200px;
+  object-fit: cover;
+  object-position: 50% 10px; }
+
 .testimonials-section .testimonials-item .user-info img {
   height: 60px;
   width: 80px;

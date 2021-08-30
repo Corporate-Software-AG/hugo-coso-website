@@ -12,7 +12,8 @@
     <div class="container">
       <div class="row justify-content-center">
         <div class="col-lg-10 col-md-12 mb-30 text-center" data-aos="fade-in">
-          <img style="max-width: 30em" class="img-fluid rounded" src="{{.Params.Image | absURL }}" alt="{{.Title}}">
+          {{ $image := resources.GetMatch .Params.image }}
+          {{ partial "image.html" (dict "Image" $image "Alt" "blog Image" "Class" "img-fluid rounded img-limitted") }}      
         </div>
         <div class="col-lg-9 col-md-12 mb-60" data-aos="fade-in" data-aos-delay="50">
           <div class="post-category position-relative mb-15">{{ range $i,$p:= .Params.Categories }}{{if ne $i 0}},{{end}}<a

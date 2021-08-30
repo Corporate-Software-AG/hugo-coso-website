@@ -1,0 +1,15 @@
+{{ $image := .Image }}
+{{ $tiny := ($image.Resize "480x q90") }}
+{{ $small := ($image.Resize "768x q90") }}
+{{ $medium := ($image.Resize "1024x q90") }}
+{{ $large := ($image.Resize "1366x q90") }}
+
+<img
+srcset="
+    {{- with $tiny.RelPermalink -}}{{.}} 480w{{- end -}}
+    {{- with $small.RelPermalink -}}, {{.}} 768w{{- end -}}
+    {{- with $medium.RelPermalink -}}, {{.}} 1024w{{- end -}}
+    {{- with $large.RelPermalink -}}, {{.}} 1366w{{- end -}}"
+src="{{ $image.RelPermalink }}"
+alt="{{ .Alt }}"
+class="{{ .Class }}">
