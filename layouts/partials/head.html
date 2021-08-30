@@ -36,7 +36,8 @@ AUTHOR WEBSITE: https://thomas.vonmentlen.info
   {{ end }}
 
   {{ "<!-- Main Stylesheet -->" | safeHTML }}
-  {{ $styles := resources.Get "scss/style.scss" | toCSS }}
+  {{ $options := (dict "targetPath" "style.css" "outputStyle" "compressed" "enableSourceMap" true "includePaths" (slice "scss")) }}
+  {{ $styles := resources.Get "scss/style.scss" | toCSS $options }}
   <link rel="stylesheet" href="{{ $styles.Permalink }}" media="screen">
 
   {{ "<!--Favicon-->" | safeHTML }}

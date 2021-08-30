@@ -1,11 +1,14 @@
+
 {{ $image := .Image }}
-{{ $tiny := ($image.Resize "480x q90") }}
-{{ $small := ($image.Resize "768x q90") }}
-{{ $medium := ($image.Resize "1024x q90") }}
-{{ $large := ($image.Resize "1366x q90") }}
+{{ $reallytiny := ($image.Resize "100x q70") }}
+{{ $tiny := ($image.Resize "480x q70") }}
+{{ $small := ($image.Resize "768x q70") }}
+{{ $medium := ($image.Resize "1024x q70") }}
+{{ $large := ($image.Resize "1366x q70") }}
 
 <img
 srcset="
+    {{- with $reallytiny.RelPermalink -}}{{.}} 100w{{- end -}}
     {{- with $tiny.RelPermalink -}}{{.}} 480w{{- end -}}
     {{- with $small.RelPermalink -}}, {{.}} 768w{{- end -}}
     {{- with $medium.RelPermalink -}}, {{.}} 1024w{{- end -}}
