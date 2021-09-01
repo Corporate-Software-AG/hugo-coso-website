@@ -3,7 +3,7 @@ categories = ["CoSo"]
 date = 2021-08-31T22:00:00Z
 description = "CoSo feiert 2021 seinen 10-jährigen Geburtstag. Wo nahm die Erfolgsgeschichte seinen Anfang? Und wie sehen die nächsten 10 Jahre in der Cloud aus? Das sagen Patrick Sommer, Co-Gründer, und Matthias Gessenay, Co-Gründer und CEO, dazu."
 draft = true
-image = ""
+image = "/uploads/cs-kalender-cover-gross-fertig-mit-andreas.jpg"
 title = "10 Jahre CoSo – die Co-Gründer erzählen"
 
 +++
