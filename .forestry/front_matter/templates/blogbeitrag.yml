@@ -18,6 +18,7 @@ fields:
   name: categories
   label: categories
 pages:
+- content/german/blog/cosotainment-mit-netflix.md
 - content/german/blog/die-coso-und-microsoft-eroffnen.md
 - content/german/blog/innovate-switzerland-fur-den-nachsten-schritt-in-die-cloud.md
 - content/german/blog/jobscouting-september-2019-in-kooperation-mit-microsoft-schweiz.md
