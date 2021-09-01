@@ -18,6 +18,7 @@ fields:
   name: categories
   label: categories
 pages:
+- content/german/blog/corporate-software-ist-im-azure-early-adopter-programm.md
 - content/german/blog/cosotainment-mit-netflix.md
 - content/german/blog/die-coso-und-microsoft-eroffnen.md
 - content/german/blog/innovate-switzerland-fur-den-nachsten-schritt-in-die-cloud.md
