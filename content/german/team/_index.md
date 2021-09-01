@@ -1,6 +1,7 @@
 ---
 title: Team
-description: Usere Cosoianer
+description: 'Wir zusammen sind die CoSo. Jeder Einzelne von uns ist wichtig, damit
+  wir zusammen gut sein können. '
 teamimage: "/uploads/coso_team-1.png"
 
 ---
