@@ -7,6 +7,7 @@ categories:
 - MCT
 - Microsoft 365
 - Azure
+- DevOps
 job_title: Cloud Consultant, Trainer (MCT)
 team: Seal Team
 social:
