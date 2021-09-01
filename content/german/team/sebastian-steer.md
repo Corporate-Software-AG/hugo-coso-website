@@ -1,5 +1,5 @@
 +++
-categories = ["Data Science", "Business Process Management", "Business Applications", "Power Platform", "MCT", "Microsoft 365"]
+categories = ["Data Science", "Power Platform", "MCT", "Microsoft 365"]
 date = ""
 image = "/uploads/sebastiansteer.png"
 job_title = "Junior Consultant, Trainer (MCT)"
@@ -23,4 +23,6 @@ Sebastians Fachgebiete sind Business Automation und Collaboration. Er betreut Pr
 
 > **There is nothing permanent except change. – Heraclitus**
 
-Aktivitäten: Trainertätigkeit, Durchführung von Business Process Management- und Data Science Projekten
+* Spezialitäten: Data Science, Power Platform, Microsoft 365
+* Weitere Bereiche: Business Process Management, Business Applications
+* Aktivitäten: Trainertätigkeit, Durchführung von Business Process Management- und Data Science Projekten
