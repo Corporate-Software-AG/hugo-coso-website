@@ -2,7 +2,7 @@
 categories = ["Data Platform", "MCT", "Azure", "Power Platform"]
 date = ""
 description = ""
-image = "/uploads/matthias.png"
+image = "/uploads/matthias_2.png"
 job_title = "CTO und CO-Gründer, Senior-Consultant, Microsoft Azure MVP, Fachbereichsleiter Private Cloud Digicomp, ITIL-Trainer, Trainer (MCT)"
 name = "Matthias Gesseny – unser Azure-Alchimist"
 team = "General Team"
