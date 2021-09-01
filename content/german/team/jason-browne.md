@@ -1,5 +1,5 @@
 +++
-categories = ["Azure", "Data Science", "MCT", "Microsoft 365"]
+categories = ["Data Platform", "Azure", "MCT", "Microsoft 365"]
 date = ""
 image = "/uploads/jason-fertig.png"
 job_title = "Consultant"
