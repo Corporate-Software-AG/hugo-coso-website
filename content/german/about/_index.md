@@ -49,8 +49,10 @@ philo:
   item:
   - name: Co-Creation mit<br>unseren Kund:innen
     icon: ti-comments-smiley
-    content: Wir präsentieren keine fertigen Lösungen; wir erarbeiten Sie gemeinsam
-      mit Ihnen und passend für Sie.
+    content: 'Wir präsentieren keine fertigen Lösungen; wir erarbeiten Sie gemeinsam
+      mit Ihnen und passend für Sie. Unser agiler CoSo-Ansatz steht Ihnen in diesen
+      Teams zur Verfügung. Dadurch erfahren Sie nicht nur einen Technologie-, sondern
+      auch einen Projektmanagement- und einen Kulturtransfer. '
   - name: Befähigen statt <br>implementieren
     icon: ti-plug
     content: Es geht nicht nur darum, neue Technologie zu implementieren. Wir möchten
