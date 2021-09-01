@@ -1,5 +1,5 @@
 +++
-categories = ["SQL Server", "Office 365", "Azure", "Microsoft 365", "Legacy SharePoint", "MCT", "Code Ninja"]
+categories = ["Office 365", "Azure", "Microsoft 365", "Legacy SharePoint", "MCT"]
 date = ""
 image = "/uploads/markus.png"
 job_title = "Senior-Consultant, Microsoft Certified Master (MSCM), Trainer (MCT)"
@@ -23,4 +23,4 @@ Markus hat sich im Bereich Microsoft 365 als Berater und Entwickler sowie als Tr
 
 > **_Amat Victoria curam? Victory loves preparation._**
 
-Aktivitäten: Consulting, Entwickler & Troubleshooter in SharePoint, Business Process Management, SQL Server Database Engine und Business Intelligence, Coach & Trainer in Österreich, der Schweiz und Deutschland
+Aktivitäten: Consulting, Entwickler & Troubleshooter in SharePoint, Business Process Management, SQL Server Database Engine und Business Intelligence, Coach & Trainer in Österreich, der Schweiz und Deutschland, Code Ninja
