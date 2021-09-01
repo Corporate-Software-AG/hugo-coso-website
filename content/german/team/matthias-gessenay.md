@@ -1,5 +1,5 @@
 +++
-categories = ["Co-Owner", "K2", "Power BI", "Office 365", "Cloud Architect", "SharePoint", "Projekt- und Servicemanagement", "MCT", "Business Intelligence", "Azure", "Power Platform"]
+categories = ["Co-Owner", "Office 365", "SharePoint", "Projekt- und Servicemanagement", "MCT", "Business Intelligence", "Azure", "Power Platform"]
 date = ""
 description = ""
 image = "/uploads/matthias.png"
