@@ -1,0 +1,11 @@
++++
+categories = ["Events"]
+date = 2019-02-26T23:00:00Z
+description = "Auch dieses Jahr findet im Februar zum zweiten Mal die Jobscouting Initiative statt – ein Event der IT-Branche für die IT-Branche, die wir mit unserer Teilnahme unterstützen möchten! "
+image = "/uploads/cs-bewerbungsmappe-philosophie1-241x300.png"
+title = "Jobscouting Initiative - 28. Februar 2019"
+
++++
+Auch dieses Jahr findet im Februar zum zweiten Mal die Jobscouting Initiative statt – ein Event der IT-Branche für die IT-Branche, die wir mit unserer Teilnahme unterstützen möchten! Da einerseits absoluter Fachkräftemangel herrscht und gleichzeitig die Arbeitslosenzahlen der ICT-Spezialisten jedoch rasant zunehmen, sollen Lösungen gefunden werden, diesem Problem entgegenzuwirken. Bereits im Vorfeld hatten wir also die Gelegenheit einige Dossiers zu sichten und dabei 15 Bewerber und Bewerberinnen zum persönlichen Gespräch am 28. Februar einzuladen. Ziel der Kooperation zwischen Microsoft und dem RAV des Kantons Zürich ist es, Stellensuchende und mögliche Arbeitgebende des Microsoft Partner Ecosystems miteinander zu vernetzen.
+
+Qualifizierte Mitarbeitende und deren Wissen gelten als Basis für unternehmerischen Erfolg. Doch wo und vor allem wie lässt sich diese Zielgruppe überhaupt finden? Die Problematik ist der IT-Branche längst nicht mehr neu und auch wir stehen oft vor dieser Frage. Innerhalb der Räumlichkeiten von Microsoft wurde somit ein Ort geschaffen, an dem sich die Teilnehmenden persönlich kennenlernen und – anders als üblich – der Mensch im Fokus steht. So haben stellensuchende Informatiker und Informatikerinnen der Bereiche ICT- Planung, -Entwicklung, -Betrieb, Projektmanagement und Organisation die grosse Gelegenheit sich potentiellen neuen Arbeitgebenden direkt vorzustellen. Wenn die Chemie beiderseits passt und gute Kontakte geknüpft wurden, besteht sogar die Möglichkeit noch am selben Tag den Event mit einem neuen Job in der Tasche zu verlassen. Wir freuen uns auf diese neue Erfahrung und sind schon sehr gespannt, mögliche neue Teammitglieder kennenzulernen.
