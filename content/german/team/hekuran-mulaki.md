@@ -1,5 +1,5 @@
 +++
-categories = ["MCT", "DevOps", "Azure", "Microsoft 365", "IT Automation"]
+categories = ["MCT", "DevOps", "Azure", "Microsoft 365", "Automation"]
 date = ""
 description = ""
 image = "/uploads/hekruan.png"
