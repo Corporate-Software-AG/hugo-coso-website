@@ -33,12 +33,12 @@ funfacts:
   - name: Unsere Mitarbeitenden
     count: "25"
     extension: "+"
-  - name: Unsere Kundinnen & Kunden
-    count: "100"
+  - name: Microsoft Gold Partner
+    count: "10"
+    extension: "-fach"
+  - name: Unsere Microsoft Advanced Specializations
+    count: "1"
     extension: ''
-  - name: Unsere Projekte
-    count: "500"
-    extension: "+"
 philo:
   enable: true
   title: Unsere <strong>Philosophie</strong>
@@ -69,3 +69,5 @@ Corporate Software entwirft intelligente Cloud-IT-Lösungen für Unternehmen. Al
 CoSo begeistert als Schweizer Unternehmen seit 2011 Kund:innen mit nachhaltigen Lösungskonzepten an der Schnittstelle zwischen Business und IT.
 
 Was wir gemeinsam haben, ist das Interesse an der stetigen Verbesserung von Technik, Wirtschaft und uns selbst. Wir gehen voran, um den nächsten Schritt zu ermöglichen.
+
+Aktuell sind wir 10-facher Microsoft Gold Partner und haben die neue Microsoft Advanced Specialization "Calling for Microsoft Teams" erlangt.
