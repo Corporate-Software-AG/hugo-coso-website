@@ -1,5 +1,5 @@
 +++
-categories = ["Data Science", "Power Platform", "MCT", "Microsoft 365"]
+categories = ["Data Platform", "Power Platform", "MCT", "Microsoft 365"]
 date = ""
 image = "/uploads/sebastiansteer.png"
 job_title = "Junior Consultant, Trainer (MCT)"
@@ -21,7 +21,7 @@ Als Bergsteiger weiss Sebastian, dass es darauf ankommt, sich selbst und dem Tea
 
 Sebastians Fachgebiete sind Business Automation und Collaboration. Er betreut Projekte rund um die Power Platform mit Power Apps, Power Automate und Power BI und hilft bei der Prozessoptimierung und Collaboration auf der Basis von Office 365 und Azure. Er ist Microsoft Certified Trainer.
 
-> **There is nothing permanent except change. – Heraclitus**
+> There is nothing permanent except change. – Heraclitus
 
 * Spezialitäten: Data Science, Power Platform, Microsoft 365
 * Weitere Bereiche: Business Process Management, Business Applications
