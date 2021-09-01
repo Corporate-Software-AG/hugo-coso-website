@@ -4,11 +4,9 @@ image: "/uploads/portrait.png"
 date: 
 name: Thomas von Mentlen
 categories:
-- Bots
 - MCT
 - Microsoft 365
 - Azure
-- Code Ninja
 job_title: Cloud Consultant, Trainer (MCT)
 team: Seal Team
 social:
@@ -26,6 +24,6 @@ Er ist Spezialist im Bereich Webentwicklung & Integration von AI. NET-Core-Appli
 
 > **A man's got to do what a man's got to do.**
 
-* Spezialgebiet: AI, DevOps, Webentwicklung mit Wordpress
+* Spezialgebiet: AI, DevOps, Webentwicklung mit Wordpress, Bots, Code Ninja
 * Andere Gebiete : SharePoint, Dev, Azure Dev (SharePoint, Azure)
 * Aktivitäten: Entwicklung interner Prozesse, Unterstützung bei Kundenprojekten, Betreuung Testing Center, Trainertätigkeit

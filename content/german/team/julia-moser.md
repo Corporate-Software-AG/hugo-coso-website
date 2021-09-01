@@ -1,5 +1,5 @@
 +++
-categories = ["Power BI", "Bots", "Power Platform", "Data Science", "MCT"]
+categories = ["Power Platform", "Data Science", "MCT"]
 date = ""
 image = "/uploads/cs-julia-moser-fertig-mit-weiss.png"
 job_title = "Consultant, Trainerin (MCT), Microsoft Professional Programm (MPP) \"Data Science\""
@@ -23,4 +23,4 @@ Julia ist Spezialistin im Bereich Data Science mit Fokus auf Azure Machine Learn
 
 > With data as the new soil we'll grow the gardens of Versailles.
 
-Aktivitäten: Trainerin bei Digicomp, Lehrgangsplanung, Betreuung der MPP-Lehrgänge, Betreuung von Kundenprojekten, Produktentwicklung (Power BI Custom Visuals)
+Aktivitäten: Trainerin bei Digicomp, Lehrgangsplanung, Betreuung der MPP-Lehrgänge, Betreuung von Kundenprojekten, Produktentwicklung (Power BI Custom Visuals), Bots, 
