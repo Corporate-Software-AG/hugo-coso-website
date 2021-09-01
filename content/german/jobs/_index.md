@@ -10,10 +10,9 @@ benifits:
   item:
   - name: Work-Life-<br>Integration
     icon: ti-link
-    content: Am Ende muss die Arbeit gemacht und unsere Kund:innen zufrieden sein.
-      Wie, wann und wo wir etwas tun, möchten wir uns so oft wie möglich selbst einteilen
-      können. Uns geht es nicht darum, Freizeit und Arbeit zu trennen, sondern beides
-      effizient zusammenzuführen.
+    content: Wie, wann und wo wir etwas tun, möchten wir uns so oft wie möglich selbst
+      einteilen können. Uns geht es nicht darum, Freizeit und Arbeit zu trennen, sondern
+      beides effizient zusammenzuführen.
   - name: Persönliche <br>Weiterentwicklung
     icon: ti-direction
     content: Unsere Talentschmiede liegt uns am Herzen. Unsere Mitarbeiter:innen sind
