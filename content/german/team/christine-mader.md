@@ -1,5 +1,5 @@
 +++
-categories = ["Administration"]
+categories = ["Projektmanagement", "Administration"]
 date = ""
 description = "Christine Mäder"
 image = "/uploads/christine-fertig.png"
