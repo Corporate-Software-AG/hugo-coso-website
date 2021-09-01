@@ -1,5 +1,5 @@
 +++
-categories = ["SharePoint", "Office 365", "Azure", "Microsoft 365", "MCT"]
+categories = ["Azure", "Microsoft 365", "MCT"]
 date = ""
 image = "/uploads/markus.png"
 job_title = "Senior-Consultant, Microsoft Certified Master (MSCM), Trainer (MCT)"
