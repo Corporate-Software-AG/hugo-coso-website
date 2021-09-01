@@ -1,12 +1,7 @@
 ---
 title: Über uns
-description: "Corporate Software entwirft intelligente Cloud-IT-Lösungen für Unternehmen.
-  Als unsere Kundin oder unser Kunde profitieren Sie langfristig und erhalten individuelle
-  Lösungen in den Bereichen Collaboration, Data & Artificial Intelligence und Automation.\n\nCoSo
-  begeistert als Schweizer Start-up seit 2011 Kundinnen und Kunden mit nachhaltigen
-  Lösungskonzepten an der Schnittstelle zwischen Business und IT.\n\nWas wir gemeinsam
-  haben, ist das Interesse an der stetigen Verbesserung von Technik, Wirtschaft und
-  uns selbst. Wir gehen voran, um den nächsten Schritt zu ermöglichen."
+description: CoSo begeistert als Schweizer Unternehmen seit 2011 Kund:innen mit nachhaltigen
+  Lösungskonzepten an der Schnittstelle zwischen Business und IT.
 image: "/images/logo.png"
 why:
   title: Wofür wir <strong>arbeiten</strong>
@@ -71,6 +66,6 @@ philo:
 ---
 Corporate Software entwirft intelligente Cloud-IT-Lösungen für Unternehmen. Als unsere Kundin oder unser Kunde profitieren Sie langfristig und erhalten individuelle Lösungen in den Bereichen Collaboration, Data & Artificial Intelligence und Automation.
 
-CoSo begeistert als Schweizer Start-up seit 2011 Kundinnen und Kunden mit nachhaltigen Lösungskonzepten an der Schnittstelle zwischen Business und IT.
+CoSo begeistert als Schweizer Unternehmen seit 2011 Kund:innen mit nachhaltigen Lösungskonzepten an der Schnittstelle zwischen Business und IT.
 
 Was wir gemeinsam haben, ist das Interesse an der stetigen Verbesserung von Technik, Wirtschaft und uns selbst. Wir gehen voran, um den nächsten Schritt zu ermöglichen.
