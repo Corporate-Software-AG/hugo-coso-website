@@ -1,7 +1,7 @@
 +++
 category = ["SharePoint", "Mobile App"]
 date = 2019-01-20T00:00:00Z
-image = "/uploads/rhaetische_bahn.jpeg"
+image = "/uploads/linkedin-sales-solutions-o4ceee8w7fi-unsplash.jpg"
 title = "Die neue Lösung vereinfacht die Arbeit unserer mobilen Mitarbeiter"
 
 +++
