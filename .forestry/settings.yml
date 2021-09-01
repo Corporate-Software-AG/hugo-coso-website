@@ -79,7 +79,7 @@ sections:
 - type: document
   path: i18n/de.yaml
   label: Sprachelemente
-upload_dir: static/uploads
+upload_dir: assets/uploads
 public_path: "/uploads"
 front_matter_path: ''
 use_front_matter_path: false
