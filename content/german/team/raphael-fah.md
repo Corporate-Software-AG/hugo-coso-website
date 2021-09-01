@@ -1,5 +1,5 @@
 +++
-categories = ["Hero", "System Center", "Office 365", "SharePoint", "Microsoft 365", "MCT", "Code Ninja", "IT Automation", "Azure"]
+categories = ["Hero", "Office 365", "SharePoint", "Microsoft 365", "MCT", "IT Automation", "Azure"]
 date = ""
 description = ""
 image = "/uploads/raphael-neu-fertig.png"
@@ -22,4 +22,4 @@ Raphael liest gerne Fantasy- und Science-Fiction-Romane und in der IT hat er den
 
 > **Lernen ist wie Rudern gegen den Strom. Hört man damit auf, treibt man zurück. (Laozi)**
 
-Aktivitäten: IT-Automation mit PowerShell, SharePoint Architecture & Operations, Azure & Office 365 Architecture & Implementation, System Center Operation Manager, Service Management, Orchestrator Architecture, Implementation, Automation & Troubleshooting, Trainer bei Digicomp
+Aktivitäten: IT-Automation mit PowerShell, SharePoint Architecture & Operations, Azure & Office 365 Architecture & Implementation, System Center Operation Manager, Service Management, Orchestrator Architecture, Implementation, Automation & Troubleshooting, Trainer bei Digicomp, Code Ninja
