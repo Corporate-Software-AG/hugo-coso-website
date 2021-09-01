@@ -1,6 +1,6 @@
 +++
 categories = ["Events"]
-date = ""
+date = 2019-04-02T22:00:00Z
 description = "Jonas, Markus und Sebastian sind heue auf dem ersten Tag des Microsoft TechSummit der Schweiz im Kursaal in Bern gewesen."
 image = "/uploads/techsummit2-300x225.jpeg"
 title = "Microsoft TechSummit in Bern"
