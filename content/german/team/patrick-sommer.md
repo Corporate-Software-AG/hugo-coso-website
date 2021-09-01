@@ -1,5 +1,5 @@
 +++
-categories = ["Co-Owner", "MCT", "Projektmanagement"]
+categories = ["Co-Owner", "MCT"]
 date = ""
 image = "/uploads/patrick.png"
 job_title = "CEO und CO-Gründer, Senior-Consultant, Hermes Advanced, ITIL-Trainer, Trainer (MCT), MPP Data Science und Cloud Admin"
