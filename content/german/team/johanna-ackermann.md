@@ -1,5 +1,5 @@
 +++
-categories = ["Dynamics 365", "Projektmanagement", "Power Platform"]
+categories = ["Dynamics 365", "Power Platform"]
 date = ""
 description = ""
 image = "/uploads/johannaackermann.png"

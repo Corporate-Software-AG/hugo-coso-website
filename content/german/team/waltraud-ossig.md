@@ -1,5 +1,5 @@
 +++
-categories = ["Dynamics 365", "Administration"]
+categories = ["Dynamics 365"]
 date = ""
 description = ""
 image = "/uploads/waltraudossig.png"

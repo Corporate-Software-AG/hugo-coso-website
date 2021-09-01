@@ -1,5 +1,5 @@
 +++
-categories = ["Projektmanagement", "Co-Owner", "Office 365", "SharePoint", "MCT", "Azure", "Power Platform"]
+categories = ["Co-Owner", "Office 365", "SharePoint", "MCT", "Azure", "Power Platform"]
 date = ""
 description = ""
 image = "/uploads/matthias.png"
