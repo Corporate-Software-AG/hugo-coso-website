@@ -1,7 +1,7 @@
 +++
 category = ["PowerShell"]
 date = 2019-01-26T00:00:00Z
-image = "/uploads/rhaetische_bahn.jpeg"
+image = "/uploads/cs-bewerbungsmappe-philosophie1-241x300.png"
 title = "Auf uns zugeschnittenes Powershell-Consulting"
 
 +++
