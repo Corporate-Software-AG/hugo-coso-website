@@ -2,10 +2,9 @@
 categories = ["Azure"]
 date = ""
 description = ""
-draft = true
 image = "/uploads/martinburri.png"
 job_title = "Junior Consultant"
-name = ""
+name = "Martin Burri"
 team = "Seal"
 title = "Martin Burri"
 [[social]]
