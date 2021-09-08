@@ -4,13 +4,15 @@ hide_body: false
 fields:
 - type: text
   name: title
-  label: title
+  label: Seitentitel
+- name: name
+  type: text
+  config:
+    required: false
+  label: Name
 - type: file
   name: image
-  label: image
-- type: datetime
-  name: date
-  label: date
+  label: Bild
 - type: text
   name: description
   label: description
