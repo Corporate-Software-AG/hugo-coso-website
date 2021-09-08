@@ -53,6 +53,12 @@ Corporate Software bietet mit dem CoSo Voice Service die ideale Lösung, um Mita
 >
 > * Support-Service zu Bürozeiten für die Teams-Telefonie
 
+> **Zusatzservice**
+>
+> * Informationsplattform als PowerApp integriert 
+> * Microsoft 365 Consulting – Wir unterstützen Sie beim Schritt in die Cloud 
+> * Power Platform Consulting – Holen Sie alles aus Ihren Daten und überlassen Sie die repetitiven Aufgaben den Maschinen
+
 #### Moderne Kommunikations- und Kollaborationsfunktionen
 
 CoSo hat den Coso Voice Service entwickelt, um ihren Kund:innen zu helfen, das Beste aus Teams herauszuholen. CoSo Voice Service ist eine Sammlung von Cloud-Lösungen, die als Service bereitgestellt werden und das Standardangebot von Microsoft Teams erweitern. Es ermöglicht Unternehmen, basierend auf Microsoft-365-Cloud Microsoft Teams zu nutzen, um externe Anrufe zu tätigen und zu empfangen, ohne dass Microsoft-Calling-Plan-Lizenzen erforderlich sind. Die Anbindung des Service geschieht über die Sunrise/UPC Business Solutions. MS Teams wird mittels des Business Voice IP PBX Service von Sunrise/UPC an das öffentliche Telefonnetz angeschlossen.
