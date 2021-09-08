@@ -19,7 +19,7 @@ Bei uns übernimmst du extrem früh Verantwortung in eigenen Projekten.
 
 #### Erlebe die CoSo-Kultur
 
-Unsere erfahrenen Coaches nehmen dich mit und leben die CoSo-Kultur vor. Wir haben Heroes, keine Chefs, die vorangehen und dich mitziehen.
+Unsere erfahrenen Coaches nehmen dich mit und leben die CoSo-Kultur vor. Wir haben Heroes – keine Chefs –, die vorangehen und dich mitziehen.
 
 #### Nichts geht über Training
 
@@ -31,4 +31,4 @@ An unseren internen Challenges, Hackathons und Teamevents fördern wir das gemei
 
 #### Bewirb dich jetzt fürs unsere CoSo-Academy
 
-[Hier findest du offenen Junior-Stellen](/jobs "offene Stellen"). Ist aktuell keine Stelle ausgeschrieben? Wir freuen uns jederzeit auch auf deine Spontanbewerbung an [jobs@corporatesoftware.ch](mailto:jobs@corporatesoftware.ch "Spontanbewerbung")
+Interessiert? [Hier findest du offenen Junior-Stellen](/jobs "offene Stellen"). Ist aktuell keine Stelle ausgeschrieben, freuen wir uns jederzeit auf deine Spontanbewerbung an [jobs@corporatesoftware.ch](mailto:jobs@corporatesoftware.ch "Spontanbewerbung")
