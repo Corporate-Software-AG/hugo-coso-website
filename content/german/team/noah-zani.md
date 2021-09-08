@@ -1,5 +1,5 @@
 +++
-categories = ["Power Platform", "SharePoint", "MCT", "Microsoft 365"]
+categories = ["Power Platform", "MCT", "Microsoft 365"]
 date = ""
 description = ""
 image = "/uploads/noah.png"
