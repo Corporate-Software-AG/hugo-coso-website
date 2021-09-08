@@ -72,4 +72,6 @@ CoSo begeistert als Schweizer Unternehmen seit 2011 Kund:innen mit nachhaltigen 
 
 Was wir gemeinsam haben, ist das Interesse an der stetigen Verbesserung von Technik, Wirtschaft und uns selbst. Wir gehen voran, um den nächsten Schritt zu ermöglichen.
 
-Aktuell sind wir 10-facher Microsoft Gold Partner und haben die neue Microsoft Advanced Specialization "Calling for Microsoft Teams" erlangt.
+Aktuell sind wir 10-facher Microsoft Gold Partner und wurden von Microsoft mit der neuen Microsoft Advanced Specialization "Calling for Microsoft Teams" ausgezeichnet.
+
+![](/uploads/ms-partner-10gold.png)
