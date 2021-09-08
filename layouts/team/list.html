@@ -42,8 +42,8 @@
     </div>
     <div id="masonry" class="row team-members">
       {{ range shuffle (where .Site.Pages "Section" "team") }}
-      {{ if .Params.name }}
-      <div class="masonry-item team-item col-lg-3 col-sm-6 col-md-4 mt-4" data-groups="[{{ $len := (len .Params.categories) }}{{ range $i, $e := .Params.categories }}&quot;{{ . | urlize }}&quot;{{ if ne (add $i 1) $len }},{{ end }}{{ end }}]">
+      {{ if and (ne .Params.draft "true") (.Params.name) }}
+      <div class="masonry-item team-item col-lg-3 col-sm-6 col-md-4 mt-4" data-groups="{{ if .Params.categories }}[{{ $len := (len .Params.categories) }}{{ range $i, $e := .Params.categories }}&quot;{{ . | urlize }}&quot;{{ if ne (add $i 1) $len }},{{ end }}{{ end }}]{{ end }}">
         <div class="text-center mb-30">
           <a href="{{ .Permalink | relURL }}">
             <div class="team-image has-shapes d-inline-block mb-25">
@@ -58,6 +58,7 @@
           </a>
           <h4 class="font-weight-bold mb-10">{{ .Params.title }}</h4>
           <p>{{ .Params.designation }}</p>
+          {{ if .Params.social }}
           <ul class="list-unstyled list-inline mt-2">
             {{ range sort .Params.social "icon" "asc" }}
             <li class="list-inline-item">
@@ -71,6 +72,7 @@
             </li>
             {{ end }}
           </ul>
+          {{ end }}
         </div>
       </div>
       <!-- team item -->

@@ -1,6 +1,7 @@
 ---
 title: Jobs bei Corporate Software
 description: Werde COSOianer!
+image: "uploads/illustration-stellenanzeige-final.png"
 benifits:
   enable: true
   title: Deine Vorteile, wenn du <strong>COSOianer</strong> wirst
