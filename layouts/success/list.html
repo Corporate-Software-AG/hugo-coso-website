@@ -7,6 +7,8 @@
       <div class="row justify-content-center">
         <div class="col-lg-6 col-md-9 text-center mb-40">
           <div class="content">
+            {{ $image := resources.GetMatch .Params.image }}
+            {{ partial "image.html" (dict "Image" $image "Alt" "Success Image" "Class" "img-fluid") }}
             {{ .Content }}
           </div>
         </div>
