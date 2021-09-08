@@ -1,5 +1,5 @@
 +++
-categories = ["Hero", "Data Science", "MCT", "DevOps", "Azure", "IT Automation"]
+categories = ["Data Platform", "MCT", "DevOps", "Azure", "Automation"]
 date = ""
 image = "/uploads/michael.png"
 job_title = "DevOps Consultant"
