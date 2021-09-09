@@ -11,6 +11,8 @@ categories:
 job_title: Cloud Consultant, Trainer (MCT)
 team: Seal Team
 social:
+- icon: ti-headphone-alt
+  link: tel:+41 32 315 03 52
 - icon: ti-email
   link: mailto:thomas.vonmentlen@corporatesoftware.ch
 - icon: teams-icon
