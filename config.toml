@@ -88,8 +88,8 @@ link = "plugins/themify-icons/themify-icons.css"
 link = "plugins/slick/slick.css"
 [[params.plugins.css]]
 link = "plugins/slick/slick-theme.css"
-#[[params.plugins.css]]
-#link = "plugins/aos/aos.css"
+[[params.plugins.css]]
+link = "plugins/aos/aos.css"
 [[params.plugins.js]]
 link = "plugins/jQuery/jquery.min.js"
 [[params.plugins.js]]
@@ -98,8 +98,8 @@ link = "plugins/bootstrap/bootstrap.min.js"
 link = "plugins/slick/slick.min.js"
 [[params.plugins.js]]
 link = "plugins/shuffle/shuffle.min.js"
-#[[params.plugins.js]]
-#link = "plugins/aos/aos.js"
+[[params.plugins.js]]
+link = "plugins/aos/aos.js"
 [params.preloader]
 enable = false
 preloader = "images/logo_cc.png"

@@ -6,35 +6,14 @@ body {
     position: relative;
 }
 
-.preheader {
-    height: calc(100vh - 88px);
-    img {
-        width: 100%; 
-        height: inherit; 
-        object-fit: cover; 
-        object-position: top; 
-        position: fixed; 
-        opacity: .8;
-        height: calc(100vh - 88px); 
-        top:0; 
-    }
-    .welcome-text {
-        h2, h3 {
-            color: white !important;
-        }
-        background-color: $color-primary-milky;
-        padding: 1rem;
-    }
-}
-
 .header-nav {
-    img {
-        max-width: 10rem;
-    }
     .navbar {
         padding-top: 5px;
         padding-bottom: 5px;
     }
+}
+.navbar-brand {
+    max-width: calc(100% - 80px);
 }
 
 .sticky {
@@ -43,8 +22,14 @@ body {
     width: 100%
 }
 
-.sticky + .postheader {
-    padding-top: 88px;
+.logo-small {
+    width: 200px;
+    transition: 0.5s;
+}
+
+.logo-big {
+    width: 300px;
+    transition: 0.5s;
 }
 
 .cc-cp-foot-save,
