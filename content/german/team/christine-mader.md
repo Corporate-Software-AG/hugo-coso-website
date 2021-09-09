@@ -9,7 +9,7 @@ team = "General Team"
 title = "Christine Mäder"
 [[social]]
 icon = "ti-headphone-alt"
-link = "+41 32 315 03 63"
+link = "tel:+41 32 315 03 63"
 [[social]]
 icon = "ti-email"
 link = "mailto:christine.maeder@corporatesoftware.ch"
