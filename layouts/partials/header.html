@@ -2,9 +2,11 @@
 <header class="header-nav position-relative {{ if .IsHome }}bg-white{{ else }}bg-light-gray{{ end }} sticky">
   <div class="container">
     <nav class="navbar navbar-expand-xl navbar-light px-0	">
-      <a class="navbar-brand p-0" href="{{ site.BaseURL }}">
+      <a id="header-img" class="navbar-brand p-0" href="{{ site.BaseURL }}">
         {{ with site.Params.logo }}
-        <img id="header-img" class="" src="{{ . | absURL }}" alt="{{ site.Title }}">
+        <!--<img id="header-img" class="" src="{{ . | absURL }}" alt="{{ site.Title }}">-->
+        {{ $image := resources.GetMatch . }}
+        {{ partial "image.html" (dict "Image" $image "Alt" "Logo Image" "Class" "img-fluid rounded-lg") }}      
         {{ else }}{{ site.Title }}{{ end }}
       </a>
 

@@ -75,7 +75,7 @@ author = "Thomas"
 appinsights_instrumentationkey = "f6f701e5-fd55-4628-9671-2d421f641d74"
 contact_form_action = "#"
 description = "This is meta description"
-logo = "images/logo.png"
+logo = "images/logo.webp"
 main_image = "images/coso/seilschaft-2.png"
 [params.mspartner]
 image = "images/coso/ms-partner-6gold_2000px.png"
