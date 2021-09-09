@@ -24,9 +24,7 @@
                 {{ if ge $image.Width 1366 }}{{- with $large.RelPermalink -}}, {{.}} 1366w{{- end -}}{{ end }}"
             src="{{ $image.RelPermalink }}"
             alt="{{ .Alt }}"
-            class="{{ .Class }}"
-            width="{{ $image.Width }}"
-            height="{{ $image.Height }}">
+            class="{{ .Class }}">
     </picture>
 {{ else }}
     {{ $tiny := ($image.Resize "480x q70") }}
@@ -43,9 +41,7 @@
                 {{ if ge $image.Width 1366 }}{{- with $large.RelPermalink -}}, {{.}} 1366w{{- end -}}{{ end }}"
             src="{{ $image.RelPermalink }}"
             alt="{{ .Alt }}"
-            class="{{ .Class }}"
-            width="{{ $image.Width }}"
-            height="{{ $image.Height }}">
+            class="{{ .Class }}">
     </picture>
 {{ end }}
 
