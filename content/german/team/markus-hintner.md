@@ -1,5 +1,6 @@
 +++
 categories = ["Data Platform", "Azure", "Microsoft 365", "MCT"]
+certifications = ["Microsoft Certified Trainer", "Microsoft Certified Solution Developer", "Microsoft Certified Solution Expert"]
 date = ""
 image = "/uploads/markus.png"
 job_title = "Senior-Consultant, Microsoft Certified Master (MSCM), Trainer (MCT)"

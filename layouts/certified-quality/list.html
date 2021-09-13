@@ -28,7 +28,7 @@
 {{ $mcts := 0 }}
 {{ $associates := 0 }}
 {{ $experts := 0 }}
-{{ $others := 0 }}
+{{ $mvps := 0 }}
 {{ range $teampages }}
   {{ range .Params.certifications }}
     {{ if in . "Microsoft Certified Trainer" }}
@@ -37,8 +37,8 @@
       {{ $experts = add $experts 1 }}
     {{ else if in . "Associate" }}
       {{ $associates = add $associates 1 }}
-    {{ else }}
-      {{ $others = add $others 1 }}
+    {{ else if in . "Most Valuable Professional"}}
+      {{ $mvps = add $mvps 1 }}
     {{ end }}
   {{ end }}
 {{ end }}
@@ -70,12 +70,12 @@
           <h2 class="text-black-200 font-weight-bold">
             <span class="jsCounter-2" data-count="{{ $experts }}">0</span></h2>
         </div>
-        <!-- Others -->
+        <!-- MVP -->
         <div class="col-3 text-center border-md-0 mb-30" data-aos="fade-up">
-          <p class="has-text-color mb-10 text-capitalize">Anderes...</p>
-          <img class="img-fluid" style="padding: 15%;" src="/images/certs/microsoft-certified-specialty-badge.svg" alt="badge">
+          <p class="has-text-color mb-10 text-capitalize">MVP</p>
+          <img class="img-fluid" style="padding: 15%;" src="/images/certs/mvp.png" alt="badge">
           <h2 class="text-black-200 font-weight-bold">
-            <span class="jsCounter-2" data-count="{{ $others }}">0</span></h2>
+            <span class="jsCounter-2" data-count="{{ $mvps }}">0</span></h2>
         </div>
       </div>
     </div>

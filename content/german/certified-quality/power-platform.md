@@ -2,9 +2,9 @@
 title: Power Platform
 certifications: 
 - name: Power Platform Functional Consultant Associate
-  badge: "/images/certs/mct.png"
+  badge: "/images/certs/power-platform-functional-consultant-600x600__1_.png"
 - name: Power Platform App Maker Associate
-  badge: "/images/certs/mct.png"
+  badge: "/images/certs/power-platform-app-maker-600x600.png"
 - name: Power Platform Developer Associate
   badge: "/images/certs/power-platform-developer-600x600.png"
 

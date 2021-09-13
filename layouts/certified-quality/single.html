@@ -8,7 +8,7 @@
         <div class="content">{{.Content}}</div>
       </div>
     </div>
-      {{ if eq .Params.title "MCT" }}
+      {{ if or (eq .Params.title "MCT") (eq .Params.title "MVP") }}
       <div class="row justify-content-center" style="display: none;">
       {{ else }}
       <div class="row justify-content-center">

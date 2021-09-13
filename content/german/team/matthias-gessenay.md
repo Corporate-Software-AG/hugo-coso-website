@@ -1,5 +1,6 @@
 +++
 categories = ["Data Platform", "MCT", "Azure", "Power Platform"]
+certifications = ["Most Valuable Professional", "Microsoft Certified Trainer", "Microsoft Certified Solution Expert", "Microsoft Certified Solution Associate"]
 date = ""
 description = ""
 image = "/uploads/matthias_2.png"

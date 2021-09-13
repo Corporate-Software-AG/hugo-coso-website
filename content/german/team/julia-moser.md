@@ -1,6 +1,6 @@
 +++
 categories = ["Data Platform", "Power Platform", "MCT"]
-certifications = ["Microsoft Certified Trainer", "Azure Data Engineer Associate", "Azure Data Scientist Associate", "Microsoft Certified Solutions Associate (MCSA) in BI Reporting", "Microsoft Professional Program for Data Science"]
+certifications = ["Microsoft Certified Trainer", "Azure Data Engineer Associate", "Azure Data Scientist Associate", "Microsoft Certified Solutions Associate"]
 date = ""
 image = "/uploads/cs-julia-moser-fertig-mit-weiss.png"
 job_title = "Consultant, Trainerin (MCT), Microsoft Professional Programm (MPP) \"Data Science\""
