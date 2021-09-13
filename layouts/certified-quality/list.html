@@ -73,7 +73,9 @@
         <!-- MVP -->
         <div class="col-3 text-center border-md-0 mb-30" data-aos="fade-up">
           <p class="has-text-color mb-10 text-capitalize">MVP</p>
-          <img class="img-fluid" style="padding: 15%;" src="/images/certs/mvp.png" alt="badge">
+          <a href="/certified-quality/mvp/">
+            <img class="img-fluid" style="padding: 15%;" src="/images/certs/mvp.png" alt="badge">
+          </a>
           <h2 class="text-black-200 font-weight-bold">
             <span class="jsCounter-2" data-count="{{ $mvps }}">0</span></h2>
         </div>
@@ -84,7 +86,7 @@
 
 
 {{ range (where .Site.RegularPages "Section" "certified-quality") }}
-{{ if ne .Params.title "MCT" }}
+{{ if and (ne .Params.title "MCT") (ne .Params.title "MVP") }}
 <section class="section-padding pt-0">
   <div class="container">
     {{ .Content }}

@@ -17,7 +17,7 @@
         </div>
         <div class="col-lg-9 col-md-12 mb-60" data-aos="fade-in" data-aos-delay="0">
           <div class="post-category position-relative mb-15">{{ range $i,$p:= .Params.Categories }}{{if ne $i 0}},{{end}}<a
-            href="{{ `categories/` | relLangURL }}{{ . | urlize | lower }}" class="text-black-200 font-weight-600 ml-1">{{ . | humanize }} </a>
+            href="{{ `categories/` | relLangURL }}{{ . | urlize | lower }}" class="text-black-200 font-weight-600 ml-1">{{ . }} </a>
             {{ end }}
           </div>
 
