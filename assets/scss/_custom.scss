@@ -22,14 +22,32 @@ body {
     width: 100%
 }
 
+.logo_cc {
+    max-width: 130px;
+    padding: 15px;
+    display: none;
+}
+
 .logo-small {
-    width: 200px;
+    width: 90px;
     transition: 0.5s;
+    .logo_cc {
+        display: block;
+    }
+    .logo_normal {
+        display: none;
+    }
 }
 
 .logo-big {
-    width: 300px;
+    width: 260px;
     transition: 0.5s;
+    .logo_cc {
+        display: none;
+    }
+    .logo_normal {
+        display: block;
+    }
 }
 
 .cc-cp-foot-save,

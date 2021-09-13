@@ -6,7 +6,12 @@
         {{ with site.Params.logo }}
         <!--<img id="header-img" class="" src="{{ . | absURL }}" alt="{{ site.Title }}">-->
         {{ $image := resources.GetMatch . }}
-        {{ partial "image.html" (dict "Image" $image "Alt" "Logo Image" "Class" "img-fluid rounded-lg") }}      
+        {{ partial "image.html" (dict "Image" $image "Alt" "Logo Image" "Class" "img-fluid logo_normal") }}      
+        {{ else }}{{ site.Title }}{{ end }}
+        {{ with site.Params.logo_cc }}
+        <!--<img id="header-img" class="" src="{{ . | absURL }}" alt="{{ site.Title }}">-->
+        {{ $image := resources.GetMatch . }}
+        {{ partial "image.html" (dict "Image" $image "Alt" "Logo Image" "Class" "img-fluid logo_cc") }}      
         {{ else }}{{ site.Title }}{{ end }}
       </a>
 
