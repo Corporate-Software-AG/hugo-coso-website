@@ -34,16 +34,23 @@ Für die Sicherheit der Datenübertragung im Internet können wir keine Gewähr
 
 Sollten einzelne Regelungen oder Formulierungen dieses Haftungsausschlusses unwirksam sein oder werden, bleiben die übrigen Regelungen in ihrem Inhalt und ihrer Gültigkeit hiervon unberührt.
 
-### Google Analytics
+### Microsoft Application Insights
 
-Diese Website benutzt Google Analytics, einen Webanalysedienst der Google Inc. („Google“). Google Analytics verwendet „Cookies“, Textdateien, die auf Ihrem Computer gespeichert werden und die eine Analyse der Benutzung der Website durch Sie ermöglichen. Die durch Cookies erzeugten Informationen über Ihre Benutzung dieser Website werden in der Regel an einen Server von Google in den USA übertragen und dort gespeichert. Im Falle der Aktivierung der IP-Anonymisierung auf dieser Webseite, wird Ihre IP-Adresse von Google jedoch innerhalb von Mitgliedstaaten der Europäischen Union oder in anderen Vertragsstaaten des Abkommens über den Europäischen Wirtschaftsraum zuvor gekürzt. Nur in Ausnahmefällen wird die volle IP-Adresse an einen Server von Google in den USA übertragen und dort gekürzt. Im Auftrag des Betreibers dieser Website wird Google diese Informationen benutzen, um Ihre Nutzung der Website auszuwerten, um Reports über die Websiteaktivitäten zusammenzustellen und um weitere mit der Websitenutzung und der Internetnutzung verbundene Dienstleistungen gegenüber dem Websitebetreiber zu erbringen.
+Wir setzen auf Grundlage unserer berechtigten Interessen (d.h. Interesse an der Analyse, Optimierung und wirtschaftlichem Betrieb unseres Onlineangebotes im Sinne des Art. 6 Abs. 1 lit. f. DSGVO) Application Insights, einen Webanalysedienst der Microsoft Corporation, One Microsoft Way, Redmond, WA 98052-6399, USA („Microsoft “) ein.
 
-Die im Rahmen von Google Analytics von Ihrem Browser übermittelte IP-Adresse wird nicht mit anderen Daten von Google zusammengeführt. Sie können die Speicherung der Cookies durch eine entsprechende Einstellung Ihrer Browser-Software verhindern; wir weisen Sie jedoch darauf hin, dass Sie in diesem Fall gegebenenfalls nicht sämtliche Funktionen dieser Website vollumfänglich werden nutzen können. Sie können darüber hinaus die Erfassung der durch die Cookies erzeugten und auf Ihre Nutzung der Website bezogenen Daten (inkl. Ihrer IP-Adresse) an Google sowie die Verarbeitung dieser Daten durch Google verhindern:
+Application Insights legt in Ihrem Browser ein Cookie ab, das eine Analyse der Benutzung der Webseite durch Sie ermöglicht. Die durch das Cookie erzeugten Informationen über die Benutzung unserer Webseite werden in der Regel an einen Server von Microsoft in den USA übertragen und dort gespeichert. In unserem Auftrag als Webseitenbetreiber wird Microsoft diese Informationen benutzen, um Ihre Nutzung der Webseite auszuwerten, um Reports über die Webseitenaktivitäten zusammenzustellen und um weitere mit der Webseitennutzung und der Internetnutzung verbundene Dienstleistungen gegenüber uns als Webseitenbetreiber zu erbringen. Sie können das erforderliche Platzieren eines Cookies ablehnen – z.B. durch eine Einstellung in Ihrem Browser, die das automatische Setzen von Cookies generell deaktiviert oder Ihren Browser so einstellen, dass Cookies von Microsoft blockiert werden. In diesem Fall kann es jedoch sein, dass Ihnen nicht sämtliche Funktionen unserer Webseite vollumfänglich zur Verfügung stehen.
 
-**Opt-Out für Google Analytics**
+Durch die Nutzung von Application Insights werden zusätzlich folgende Daten erhoben:
 
-* Google Analytics Bedingungen: <a href="http://www.google.com/analytics/terms/de.html" target="_blank">link</a>
-* Installieren Sie das Plugin unter diesem Link: <a href="http://tools.google.com/dlpage/gaoptout?hl=de" target="_blank">link</a>
+* Betriebssystem
+* Browser + Version
+* Bildschirmauflösung
+* Ungefährer Standort des Benutzers
+* IP-Adresse
+
+Wir haben die Möglichkeit, diese Daten mittels verschiedener Reports auszuwerten. Bei diesen Daten handelt es sich um anonyme statistische Daten. Die Herstellung eines Personenbezugs ist aufgrund dieser Daten nicht möglich. Die Auswertungen dienen sämtlich der Fehlerbehebung und Optimierung der Webseite und der Anwendung.
+
+Weitergehende Informationen von Microsoft zum Thema Datenschutz und Azure finden Sie unter: [http://azure.microsoft.com/de-de/support/trust-center/privacy/](http://azure.microsoft.com/de-de/support/trust-center/privacy/) sowie für Application Insights unter [https://docs.microsoft.com/de-de/azure/application-insights/app-insights-data-retention-privacy](https://docs.microsoft.com/de-de/azure/application-insights/app-insights-data-retention-privacy)
 
 ### Verwendung von Cookies
 
