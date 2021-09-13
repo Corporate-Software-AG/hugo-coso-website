@@ -7,6 +7,9 @@ name = "Patrick Sommer"
 team = "General Circle"
 title = "Patrick Sommer"
 [[social]]
+icon = "ti-headphone-alt"
+link = "tel:+41 32 315 03 50"
+[[social]]
 icon = "ti-email"
 link = "mailto:patrick.sommer@corporatesoftware.ch"
 [[social]]
