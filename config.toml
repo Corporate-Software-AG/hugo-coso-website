@@ -77,7 +77,7 @@ contact_form_action = "#"
 description = "This is meta description"
 logo = "images/logo.png"
 [params.mspartner]
-image = "images/coso/ms-partner-6gold_2000px.png"
+image = "uploads/ms-partner-10gold.webp"
 link = "https://partnercenter.microsoft.com/de-de/pcv/solution-providers/corporate-software-ag_2bbd7e41-02c9-4b4e-8168-339f900c4319/03808051-21e7-4f9a-b24c-52f17fa5d0f7"
 [[params.plugins.css]]
 link = "plugins/bootstrap/bootstrap.min.css"
