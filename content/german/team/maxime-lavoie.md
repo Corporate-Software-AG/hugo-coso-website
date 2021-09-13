@@ -8,6 +8,9 @@ name = "Maxime Lavoie"
 team = "S.H.I.E.L.D"
 title = "Maxim Lavoie"
 [[social]]
+icon = "ti-headphone-alt"
+link = "tel:+41 32 315 03 65"
+[[social]]
 icon = "ti-email"
 link = "mailto:maxim.lavoie@corporatesoftware.ch"
 [[social]]
