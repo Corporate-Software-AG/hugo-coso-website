@@ -28,9 +28,11 @@
             {{ $link := .Permalink}}
             {{ range .Params.certifications }}
               {{ if in $certifications .name }}
-                <a style="max-width: 50%;" href="{{ $link }}">
+              <div class="col-3 col-sm-4 col-lg-6">
+                <a href="{{ $link }}">
                   <img class="img-fluid" style="padding: 5px;" src="{{ .badge }}" alt="badge">
                 </a>
+              </div>
               {{ end }}
             {{ end }}
           {{ end }}
