@@ -5,79 +5,69 @@ paginate = "6"
 summaryLength = "10"
 theme = "hugo-theme-copper"
 title = "CoSo - Preview Homepage"
-
 [Languages.de]
 contentDir = "content/german"
 languageCode = "de-ch"
 languageName = "De"
-
 [[Languages.de.menu.main]]
 hasChildren = true
 name = "Services"
 weight = 1
-  [[Languages.de.menu.main]]
-  parent = "Services"
-  name = "Data & AI"
-  URL = "services/data-ai"
-
-  [[Languages.de.menu.main]]
-  parent = "Services"
-  name = "Automation"
-  URL = "services/automation"
-
-  [[Languages.de.menu.main]]
-  parent = "Services"
-  name = "Collaboration"
-  URL = "services/collaboration"
-
+[[Languages.de.menu.main]]
+URL = "services/data-ai"
+name = "Data & AI"
+parent = "Services"
+[[Languages.de.menu.main]]
+URL = "services/automation"
+name = "Automation"
+parent = "Services"
+[[Languages.de.menu.main]]
+URL = "services/collaboration"
+name = "Collaboration"
+parent = "Services"
 [[Languages.de.menu.main]]
 URL = "success"
 name = "Erfolge"
 weight = 2
-
 [[Languages.de.menu.main]]
+hasChildren = true
 name = "COSOverse"
 weight = 3
-hasChildren = true
-  [[Languages.de.menu.main]]
-  URL = "team"
-  name = "Team"
-  parent = "COSOverse"
-  weight = 2
-  [[Languages.de.menu.main]]
-  URL = "jobs"
-  name = "Jobs"
-  parent = "COSOverse"
-  weight = 3
-  [[Languages.de.menu.main]]
-  URL = "about"
-  name = "Über uns"
-  parent = "COSOverse"
-  weight = 1
-
+[[Languages.de.menu.main]]
+URL = "team"
+name = "Team"
+parent = "COSOverse"
+weight = 2
+[[Languages.de.menu.main]]
+URL = "jobs"
+name = "Jobs"
+parent = "COSOverse"
+weight = 3
+[[Languages.de.menu.main]]
+URL = "about"
+name = "Über uns"
+parent = "COSOverse"
+weight = 1
 [[Languages.de.menu.main]]
 URL = "blog"
 name = "Blog"
 weight = 5
-
 [[Languages.de.menu.main]]
 URL = "contact"
 name = "Kontakt"
 weight = 6
-
-
 [markup.goldmark.renderer]
 unsafe = true
 [outputs]
 home = ["HTML", "RSS"]
 [params]
-author = "Thomas"
 appinsights_instrumentationkey = "f6f701e5-fd55-4628-9671-2d421f641d74"
+author = "Thomas"
 contact_form_action = "#"
 description = "This is meta description"
 logo = "images/logo.png"
 [params.mspartner]
-image = "uploads/ms-partner-10gold.webp"
+image = "/uploads/ms-gold-partner-10-animiert.gif"
 link = "https://partnercenter.microsoft.com/de-de/pcv/solution-providers/corporate-software-ag_2bbd7e41-02c9-4b4e-8168-339f900c4319/03808051-21e7-4f9a-b24c-52f17fa5d0f7"
 [[params.plugins.css]]
 link = "plugins/bootstrap/bootstrap.min.css"
