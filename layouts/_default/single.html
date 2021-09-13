@@ -11,7 +11,7 @@
   <section class="section-padding pt-50">
     <div class="container">
       <div class="row justify-content-center">
-        <div class="col-lg-10 col-md-12 mb-30 text-center" data-aos="fade-in">
+        <div class="col-lg-10 col-md-12 mb-30 text-center">
           {{ $image := resources.GetMatch .Params.image }}
           {{ partial "image.html" (dict "Image" $image "Alt" "blog Image" "Class" "img-fluid rounded img-limitted") }}      
         </div>
