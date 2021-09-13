@@ -22,6 +22,8 @@ Handelsreg.-Nr.: CHE-367.021.020
 
 Das Copyright für sämtliche Inhalte dieser Website liegt bei der Corporate Software AG.
 
+
+&nbsp;
 **Haftungsausschluss**
 
 Alle Texte und Links sind sorgfältig geprüft und werden immer laufend aktualisiert. Wir sind stets bemüht, richtige und vollständige Informationen auf dieser Website bereitzustellen. Wir übernehmen aber keinerlei Verantwortung, Garantien oder Haftung dafür, dass die durch diese Website bereitgestellten Informationen, richtig, vollständig oder aktuell sind. Wir behalten uns das Recht vor, jederzeit und ohne Vorankündigung die Informationen auf dieser Website zu ändern und verpflichten uns auch nicht, die enthaltenen Informationen zu aktualisieren.
@@ -36,6 +38,8 @@ Für die Sicherheit der Datenübertragung im Internet können wir keine Gewähr
 
 Sollten einzelne Regelungen oder Formulierungen dieses Haftungsausschlusses unwirksam sein oder werden, bleiben die übrigen Regelungen in ihrem Inhalt und ihrer Gültigkeit hiervon unberührt.
 
+
+&nbsp;
 **Microsoft Application Insights**
 
 Wir setzen auf unserer Website Application Insights, einen Webanalysedienst der Microsoft Corporation, One Microsoft Way, Redmond, WA 98052-6399, USA („Microsoft “), ein.
@@ -48,10 +52,14 @@ Wir haben die Möglichkeit, diese Daten mittels verschiedener Reports auszuwerte
 
 Weitergehende Informationen von Microsoft zum Thema Datenschutz und Azure finden Sie unter: [http://azure.microsoft.com/de-de/support/trust-center/privacy/](http://azure.microsoft.com/de-de/support/trust-center/privacy/) sowie für Application Insights unter [https://docs.microsoft.com/de-de/azure/application-insights/app-insights-data-retention-privacy](https://docs.microsoft.com/de-de/azure/application-insights/app-insights-data-retention-privacy)
 
+
+&nbsp;
 **Verwendung von Cookies**
 
 Unsere Webseite verwendet Cookies. Bei Cookies handelt es sich um Textdateien, die im Internetbrowser bzw. vom Internetbrowser auf dem Computersystem des Nutzers gespeichert werden. Ruft ein Nutzer eine Website auf, so kann ein Cookie auf dem Betriebssystem des Nutzers gespeichert werden. Dieser Cookie enthält eine charakteristische Zeichenfolge, die eine eindeutige Identifizierung des Browsers beim erneuten Aufrufen der Website ermöglicht.
 
+
+&nbsp;
 **Kontaktformular und E-Mail-Kontakt**
 
 Auf unserer Internetseite ist ein Kontaktformular vorhanden, welches für die elektronische Kontaktaufnahme genutzt werden kann. Nimmt ein Nutzer diese Möglichkeit wahr, so werden die in der Eingabemaske eingegeben Daten an uns übermittelt und gespeichert. Diese Daten sind: Vollständiger Name, E-Mail-Adresse, Kommentar.
