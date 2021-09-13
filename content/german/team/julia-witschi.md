@@ -7,6 +7,9 @@ name = "Julia Witschi"
 team = "Seal Team"
 title = "Julia Witschi"
 [[social]]
+icon = "ti-headphone-alt"
+link = "tel:+41 32 315 03 46"
+[[social]]
 icon = "ti-email"
 link = "mailto:julia.witschi@corporatesoftware.ch"
 [[social]]
