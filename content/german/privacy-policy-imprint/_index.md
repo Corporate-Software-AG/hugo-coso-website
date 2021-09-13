@@ -16,6 +16,8 @@ Fon: +41 32 322 67 05
 MwSt.- Nr.: CHE-367.021.020 MwSt.  
 Handelsreg.-Nr.: CHE-367.021.020
 
+
+&nbsp;
 **Copyright**
 
 Das Copyright für sämtliche Inhalte dieser Website liegt bei der Corporate Software AG.
@@ -36,17 +38,11 @@ Sollten einzelne Regelungen oder Formulierungen dieses Haftungsausschlusses unwi
 
 **Microsoft Application Insights**
 
-Wir setzen auf Grundlage unserer berechtigten Interessen (d.h. Interesse an der Analyse, Optimierung und wirtschaftlichem Betrieb unseres Onlineangebotes im Sinne des Art. 6 Abs. 1 lit. f. DSGVO) Application Insights, einen Webanalysedienst der Microsoft Corporation, One Microsoft Way, Redmond, WA 98052-6399, USA („Microsoft “) ein.
+Wir setzen auf unserer Website Application Insights, einen Webanalysedienst der Microsoft Corporation, One Microsoft Way, Redmond, WA 98052-6399, USA („Microsoft “), ein.
 
-Application Insights legt in Ihrem Browser ein Cookie ab, das eine Analyse der Benutzung der Webseite durch Sie ermöglicht. Die durch das Cookie erzeugten Informationen über die Benutzung unserer Webseite werden in der Regel an einen Server von Microsoft in den USA übertragen und dort gespeichert. In unserem Auftrag als Webseitenbetreiber wird Microsoft diese Informationen benutzen, um Ihre Nutzung der Webseite auszuwerten, um Reports über die Webseitenaktivitäten zusammenzustellen und um weitere mit der Webseitennutzung und der Internetnutzung verbundene Dienstleistungen gegenüber uns als Webseitenbetreiber zu erbringen. Sie können das erforderliche Platzieren eines Cookies ablehnen – z.B. durch eine Einstellung in Ihrem Browser, die das automatische Setzen von Cookies generell deaktiviert oder Ihren Browser so einstellen, dass Cookies von Microsoft blockiert werden. In diesem Fall kann es jedoch sein, dass Ihnen nicht sämtliche Funktionen unserer Webseite vollumfänglich zur Verfügung stehen.
+Application Insights legt in Ihrem Browser ein Cookie ab, das eine Analyse der Benutzung der Webseite durch Sie ermöglicht. Die durch das Cookie erzeugten Informationen über die Benutzung unserer Webseite werden in der Regel an einen Server von Microsoft in den USA übertragen und dort gespeichert. In unserem Auftrag als Websitebetreiber wird Microsoft diese Informationen benutzen, um Ihre Nutzung der Webseite auszuwerten, um Reports über die Websiteaktivitäten zusammenzustellen und um weitere mit der Websitenutzung und der Internetnutzung verbundene Dienstleistungen gegenüber uns als Websitebetreiber zu erbringen. Sie können das erforderliche Platzieren eines Cookies ablehnen – z.B. durch eine Einstellung in Ihrem Browser, die das automatische Setzen von Cookies generell deaktiviert oder Ihren Browser so einstellen, dass Cookies von Microsoft blockiert werden. In diesem Fall kann es jedoch sein, dass Ihnen nicht sämtliche Funktionen unserer Webseite vollumfänglich zur Verfügung stehen.
 
-Durch die Nutzung von Application Insights werden zusätzlich folgende Daten erhoben:
-
-* Betriebssystem
-* Browser + Version
-* Bildschirmauflösung
-* Ungefährer Standort des Benutzers
-* IP-Adresse
+Durch die Nutzung von Application Insights werden zusätzlich folgende Daten erhoben: Betriebssystem, Browser und Version, Bildschirmauflösung, ungefährer Standort des Benutzers, IP-Adresse.
 
 Wir haben die Möglichkeit, diese Daten mittels verschiedener Reports auszuwerten. Bei diesen Daten handelt es sich um anonyme statistische Daten. Die Herstellung eines Personenbezugs ist aufgrund dieser Daten nicht möglich. Die Auswertungen dienen sämtlich der Fehlerbehebung und Optimierung der Webseite und der Anwendung.
 
@@ -58,12 +54,8 @@ Unsere Webseite verwendet Cookies. Bei Cookies handelt es sich um Textdateien, d
 
 **Kontaktformular und E-Mail-Kontakt**
 
-Auf unserer Internetseite ist ein Kontaktformular vorhanden, welches für die elektronische Kontaktaufnahme genutzt werden kann. Nimmt ein Nutzer diese Möglichkeit wahr, so werden die in der Eingabemaske eingegeben Daten an uns übermittelt und gespeichert. Diese Daten sind:
-
-* Vollständiger Name
-* Email-Adresse
-* Kommentar
+Auf unserer Internetseite ist ein Kontaktformular vorhanden, welches für die elektronische Kontaktaufnahme genutzt werden kann. Nimmt ein Nutzer diese Möglichkeit wahr, so werden die in der Eingabemaske eingegeben Daten an uns übermittelt und gespeichert. Diese Daten sind: Vollständiger Name, E-Mail-Adresse, Kommentar.
 
 Alternativ ist eine Kontaktaufnahme über die bereitgestellte E-Mail-Adresse möglich. In diesem Fall werden die mit der E-Mail übermittelten personenbezogenen Daten des Nutzers gespeichert.
 
-Es erfolgt in diesem Zusammenhang keine Weitergabe der Daten an Dritte. Die Daten werden ausschließlich für die Verarbeitung der Konversation verwendet.
+Es erfolgt in diesem Zusammenhang keine Weitergabe der Daten an Dritte. Die Daten werden ausschliesslich für die Verarbeitung der Konversation verwendet.

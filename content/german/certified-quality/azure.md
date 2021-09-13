@@ -1,6 +1,6 @@
 ---
 title: Azure
-certifications: 
+certifications:
 - name: Azure Administrator Associate
   badge: "/images/certs/azure-administrator-associate-600x600.png"
 - name: Azure Developer Associate
@@ -17,7 +17,8 @@ certifications:
   badge: "/images/certs/mct.png"
 - name: Azure Data Engineer Associate
   badge: "/images/certs/mct.png"
----
-## Azure
 
-In Azure besitzen unsere Mitarbeitenden folgende Zertifikate: 
+---
+## Azure: Zertifiziert in die Cloud
+
+In Azure besitzen unsere Mitarbeiter:innen folgende Zertifikate:

@@ -40,7 +40,7 @@ parent = "COSOverse"
 weight = 2
 [[Languages.de.menu.main]]
 URL = "certified-quality"
-name = "Zertifikatsübersicht"
+name = "Zertifizierte Qualität"
 parent = "COSOverse"
 weight = 4
 [[Languages.de.menu.main]]
@@ -69,7 +69,7 @@ home = ["HTML", "RSS"]
 appinsights_instrumentationkey = "f6f701e5-fd55-4628-9671-2d421f641d74"
 author = "Thomas"
 contact_form_action = "#"
-description = "This is meta description"
+description = "CoSo begeistert als Schweizer Unternehmen seit 2011 Kund:innen mit nachhaltigen Lösungskonzepten an der Schnittstelle zwischen Business und IT. Wir arbeiten in und mit der Microsoft Cloud."
 logo = "images/logo.png"
 logo_cc = "images/logo_cc.png"
 [params.mspartner]

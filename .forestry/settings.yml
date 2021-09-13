@@ -67,9 +67,10 @@ sections:
   exclude: _index.md
   templates:
   - teammitglied
-- type: document
+- type: directory
   path: content/german/certified-quality
   label: Zertifikatsseiten
+  create: documents
   match: "**/*"
 - type: document
   path: content/german/contact/_index.md

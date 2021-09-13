@@ -1,5 +1,5 @@
 ---
-title: Microsoft365
+title: Microsoft 365
 certifications: 
 - name: "Microsoft 365 Certified: Developer Associate"
   badge: "/images/certs/CERT-Associate-Microsoft365-Developer.png"
@@ -15,6 +15,6 @@ certifications:
   badge: "/images/certs/mct.png"
 
 ---
-## Microsoft365
+## Microsoft 365 Zertifizierungen
 
-In Microsoft365 besitzen unsere Mitarbeitenden folgende Zertifikate: 
+In Microsoft 365 besitzen unsere Mitarbeiter:innen folgende Zertifikate:

@@ -1,10 +1,10 @@
 ---
 title: MCT
-certifications: 
+certifications:
 - name: Microsoft Certified Trainer
   badge: "/images/certs/mct.png"
 
 ---
 ## Microsoft Certified Trainer
 
-Dies sind unsere zertifizierten Trainer
+Lernen von den Besten. Das sind unsere zertifizierten Trainer:innen:

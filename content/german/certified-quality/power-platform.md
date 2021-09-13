@@ -9,6 +9,6 @@ certifications:
   badge: "/images/certs/power-platform-developer-600x600.png"
 
 ---
-## Power Platform
+## Zertifizierte Kraft auf der Power Platform 
 
-Bei der Power Platform besitzen unsere Mitarbeitenden folgende Zertifikate: 
+Im Bereich Power Platform besitzen unsere Mitarbeiter:innen folgende Zertifikate:
