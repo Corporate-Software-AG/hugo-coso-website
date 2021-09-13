@@ -8,6 +8,9 @@ name = "Raphael Bösch"
 team = "Seal Team"
 title = "Raphael Bösch"
 [[social]]
+icon = "ti-headphone-alt"
+link = "tel:+41 32 315 03 41"
+[[social]]
 icon = "ti-email"
 link = "mailto:raphael.boesch@corporatesoftware.ch"
 [[social]]
