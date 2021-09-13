@@ -5,6 +5,6 @@ certifications:
   badge: "/images/certs/mct.png"
 
 ---
-## Unsere MCTs Zertis
+## Microsoft Certified Trainer
 
-Lorem Ipsum
+Dies sind unsere zertifizierten Trainer

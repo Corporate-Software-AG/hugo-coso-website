@@ -5,6 +5,6 @@ certifications:
   badge: "/images/certs/power-platform-developer-600x600.png"
 
 ---
-## Unsere Power Platform Zertis
+## Power Platform
 
-Lorem Ipsum
+Bei der Power Platform besitzen unsere Mitarbeitenden folgende Zertifikate: 

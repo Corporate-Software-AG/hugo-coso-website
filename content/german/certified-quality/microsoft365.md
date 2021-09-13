@@ -6,6 +6,6 @@ certifications:
 - name: Microsoft365 Teams Administrator Associate
   badge: "/images/certs/CERT-Associate-Microsoft365-Teams-Administrator.png"
 ---
-## Unsere Microsoft365 Zertis
+## Microsoft365
 
-Lorem Ipsum
+In Microsoft365 besitzen unsere Mitarbeitenden folgende Zertifikate: 

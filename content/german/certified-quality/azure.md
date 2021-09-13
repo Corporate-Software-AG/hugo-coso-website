@@ -12,6 +12,6 @@ certifications:
 - name: Azure DevOps Engineer Expert
   badge: "/images/certs/CERT-Expert-DevOps-Engineer-600x600.png"
 ---
-## Unsere Azure Zertis
+## Azure
 
-Lorem Ipsum
+In Azure besitzen unsere Mitarbeitenden folgende Zertifikate: 
