@@ -8,6 +8,9 @@ name = "Matthias Gesseny – unser Azure-Alchimist"
 team = "General Team"
 title = "Matthias Gessenay"
 [[social]]
+icon = "ti-headphone-alt"
+link = "tel:+41 32 315 03 60"
+[[social]]
 icon = "ti-email"
 link = "mailto:matthias.gessenay@corporatesoftware.ch"
 [[social]]
