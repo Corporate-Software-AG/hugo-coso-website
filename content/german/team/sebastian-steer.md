@@ -7,6 +7,9 @@ name = "Sebastian Steer"
 team = "S.H.I.E.L.D"
 title = "Sebastian Steer"
 [[social]]
+icon = "ti-headphone-alt"
+link = "tel:+41 32 315 03 51"
+[[social]]
 icon = "ti-email"
 link = "mailto:sebastian.steer@corporatesoftware.ch"
 [[social]]
