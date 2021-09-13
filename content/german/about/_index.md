@@ -74,16 +74,25 @@ Was wir gemeinsam haben, ist das Interesse an der stetigen Verbesserung von Te
 
 **Aktuell sind wir 10-facher Microsoft Gold Partner:**
 
-* Gold Cloud Platform
-* Gold Cloud Productivity
-* Gold Data Analytics
-* Gold DevOps
-* Gold Collaboration and Content
-* Gold Project and Portfolio Management
-* Gold Data Platform
-* Gold Datacenter
-* Gold Application Integration
-* Gold Application Development
+Gold Cloud Platform
+
+Gold Cloud Productivity
+
+Gold Data Analytics
+
+Gold DevOps
+
+Gold Collaboration and Content
+
+Gold Project and Portfolio Management
+
+Gold Data Platform
+
+Gold Datacenter
+
+Gold Application Integration
+
+Gold Application Development
 
 Zudem wurden wir von Microsoft mit den neuen Advanced Specializations "Adoption und Change Management" und “Calling for Microsoft Teams” ausgezeichnet.
 

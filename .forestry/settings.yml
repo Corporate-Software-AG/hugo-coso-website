@@ -68,6 +68,10 @@ sections:
   templates:
   - teammitglied
 - type: document
+  path: content/german/certified-quality
+  label: Zertifikatsseiten
+  match: "**/*"
+- type: document
   path: content/german/contact/_index.md
   label: Kontakt
 - type: document

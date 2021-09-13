@@ -1,5 +1,6 @@
 +++
 categories = ["MCT", "DevOps", "Azure", "Microsoft 365", "Automation"]
+certifications = ["Microsoft Certified Trainer", "Azure Administrator Associate"]
 date = ""
 description = ""
 image = "/uploads/hekruan.png"
