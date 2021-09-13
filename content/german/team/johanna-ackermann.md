@@ -8,6 +8,9 @@ name = "Johanna Ackermann"
 team = "Seal Team"
 title = "Johanna Ackermann"
 [[social]]
+icon = "ti-headphone-alt"
+link = "tel:+41 32 315 03 62"
+[[social]]
 icon = "ti-email"
 link = "mailto:johanna.ackermann@corporatesoftware.ch"
 [[social]]

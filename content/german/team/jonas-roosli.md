@@ -7,6 +7,9 @@ name = "Jonas Röösli"
 team = "Seal Team"
 title = "Jonas Röösli"
 [[social]]
+icon = "ti-headphone-alt"
+link = "tel:+41 32 315 03 44"
+[[social]]
 icon = "ti-email"
 link = "mailto:jonas.roeoesli@corporatesoftware.ch"
 [[social]]

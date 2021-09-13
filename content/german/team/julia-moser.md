@@ -7,6 +7,9 @@ name = "Julia Moser"
 team = "S.H.I.E.L.D"
 title = "Julia Moser"
 [[social]]
+icon = "ti-headphone-alt"
+link = "tel:+41 32 315 03 45"
+[[social]]
 icon = "ti-email"
 link = "mailto:julia.moser@corporatesoftware.ch"
 [[social]]

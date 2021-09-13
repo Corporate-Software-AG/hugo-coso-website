@@ -8,6 +8,9 @@ name = "Hekuran Mulaki"
 team = "S.H.I.E.L.D"
 title = "Hekuran Mulaki"
 [[social]]
+icon = "ti-headphone-alt"
+link = "tel:+41 32 315 03 54"
+[[social]]
 icon = "ti-email"
 link = "mailto:hekuran.mulaki@corporatesoftware.ch"
 [[social]]
