@@ -7,6 +7,9 @@ name = "Markus Hintner"
 team = "General Circle"
 title = "Markus Hintner"
 [[social]]
+icon = "ti-headphone-alt"
+link = "tel:+41 32 315 03 58"
+[[social]]
 icon = "ti-email"
 link = "mailto:markus.hintner@corporatesoftware.ch"
 [[social]]
