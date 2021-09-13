@@ -11,23 +11,17 @@
   <section class="section-padding pt-50">
     <div class="container">
       <div class="row justify-content-center">
-        <div class="col-lg-10 col-md-12 mb-30 text-center" data-aos="fade-in">
+        <div class="col-lg-10 col-md-12 mb-30 text-center">
           {{ $image := resources.GetMatch .Params.image }}
           {{ partial "image.html" (dict "Image" $image "Alt" "blog Image" "Class" "img-fluid rounded img-limitted") }}      
         </div>
-        <div class="col-lg-9 col-md-12 mb-60" data-aos="fade-in" data-aos-delay="50">
+        <div class="col-lg-9 col-md-12 mb-60">
           <div class="post-category position-relative mb-15">{{ range $i,$p:= .Params.Categories }}{{if ne $i 0}},{{end}}<a
             href="{{ `categories/` | relLangURL }}{{ . | urlize | lower }}" class="text-black-200 font-weight-600 ml-1">{{ . | humanize }} </a>
             {{ end }}
           </div>
           <div class="content">{{.Content}}</div>
         </div>
-          
-        {{ if .Site.DisqusShortname }}
-        <div class="col-lg-9 col-md-12" data-aos="fade-in">
-          {{ template "_internal/disqus.html" . }}
-        </div>
-        {{ end }}
       </div>
     </div>
   </section>
