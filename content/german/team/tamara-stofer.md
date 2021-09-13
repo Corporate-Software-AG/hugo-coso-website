@@ -7,6 +7,9 @@ name = "Tamara Stofer"
 team = "Seal Team"
 title = "Tamara Stofer"
 [[social]]
+icon = "ti-headphone-alt"
+link = "tel:+41 32 315 03 61"
+[[social]]
 icon = "ti-email"
 link = "mailto:tamara.stofer@corporatesoftware.ch"
 [[social]]

@@ -8,6 +8,9 @@ name = "Waltraud Ossig"
 team = "General Team"
 title = "Waltraud Ossig"
 [[social]]
+icon = "ti-headphone-alt"
+link = "tel:+41 32 315 03 64"
+[[social]]
 icon = "ti-email"
 link = "mailto:waltraud.ossig@corporatesoftware.ch"
 [[social]]

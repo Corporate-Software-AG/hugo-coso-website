@@ -74,4 +74,4 @@ Was wir gemeinsam haben, ist das Interesse an der stetigen Verbesserung von Te
 
 Aktuell sind wir 10-facher Microsoft Gold Partner und wurden von Microsoft mit der neuen Advanced Specialization “Calling for Microsoft Teams” ausgezeichnet.
 
-![](/uploads/ms-partner-10gold.png)
+![](/uploads/ms-partner-10gold.webp)
