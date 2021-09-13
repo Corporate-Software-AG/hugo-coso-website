@@ -7,4 +7,4 @@ certifications:
 ---
 ## Microsoft Certified Trainer
 
-Das sind unsere zertifizierten Trainer:innen:
+Lernen von den Besten. Das sind unsere zertifizierten Trainer:innen:

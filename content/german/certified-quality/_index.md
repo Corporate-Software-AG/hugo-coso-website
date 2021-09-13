@@ -6,18 +6,7 @@ Wir gehen voran, um den nächsten Schritt zu ermöglichen. Als CoSo entwickeln w
 
 ## Microsoft Gold Partner
 
-Aktuell sind wir 10-facher Microsoft Gold Partner:
-
-* Gold Cloud Platform
-* Gold Cloud Productivity
-* Gold Data Analytics
-* Gold DevOps
-* Gold Collaboration and Content
-* Gold Project and Portfolio Management
-* Gold Data Platform
-* Gold Datacenter
-* Gold Application Integration
-* Gold Application Development
+Aktuell sind wir 10-facher Microsoft Gold Partner: Gold Cloud Platform, Gold Cloud Productivity, Gold Data Analytics, Gold DevOps, Gold Collaboration and Content, Gold Project and Portfolio Management, Gold Data Platform, Gold Datacenter, Gold Application Integration, Gold Application Development.
 
 Zudem wurden wir von Microsoft mit den neuen Advanced Specializations “Adoption und Change Management” und “Calling for Microsoft Teams” ausgezeichnet.
 

@@ -13,6 +13,6 @@ certifications:
   badge: "/images/certs/CERT-Expert-DevOps-Engineer-600x600.png"
 
 ---
-## Azure certified
+## Azure: Zertifiziert in die Cloud
 
 In Azure besitzen unsere Mitarbeiter:innen folgende Zertifikate:

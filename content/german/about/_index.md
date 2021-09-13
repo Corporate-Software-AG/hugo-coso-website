@@ -72,28 +72,6 @@ CoSo begeistert als Schweizer Unternehmen seit 2011 Kund:innen mit nachhaltigen 
 
 Was wir gemeinsam haben, ist das Interesse an der stetigen Verbesserung von Technik, Wirtschaft und uns selbst. Wir gehen voran, um den nächsten Schritt zu ermöglichen.
 
-**Aktuell sind wir 10-facher Microsoft Gold Partner:**
-
-Gold Cloud Platform
-
-Gold Cloud Productivity
-
-Gold Data Analytics
-
-Gold DevOps
-
-Gold Collaboration and Content
-
-Gold Project and Portfolio Management
-
-Gold Data Platform
-
-Gold Datacenter
-
-Gold Application Integration
-
-Gold Application Development
-
-Zudem wurden wir von Microsoft mit den neuen Advanced Specializations "Adoption und Change Management" und “Calling for Microsoft Teams” ausgezeichnet.
+Aktuell sind wir 10-facher Microsoft Gold Partner. Zudem wurden wir von Microsoft mit den neuen Advanced Specializations "Adoption und Change Management" und “Calling for Microsoft Teams” ausgezeichnet. [Mehr Infos zu unserer zertifizierten Qualität.](/certified-quality)
 
 ![](/uploads/ms-partner-animiert.gif)

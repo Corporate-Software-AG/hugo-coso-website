@@ -16,6 +16,8 @@ Fon: +41 32 322 67 05
 MwSt.- Nr.: CHE-367.021.020 MwSt.  
 Handelsreg.-Nr.: CHE-367.021.020
 
+
+&nbsp;
 **Copyright**
 
 Das Copyright für sämtliche Inhalte dieser Website liegt bei der Corporate Software AG.
