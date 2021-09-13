@@ -7,6 +7,9 @@ name = "Michael Zuberbühler – unser Vernetzungskünstler"
 team = "S.H.I.E.L.D"
 title = "Michael Zuberbühler"
 [[social]]
+icon = "ti-headphone-alt"
+link = "tel:+41 32 315 03 48"
+[[social]]
 icon = "ti-email"
 link = "mailto:michael.zuberbuehler@corporatesoftware.ch"
 [[social]]
