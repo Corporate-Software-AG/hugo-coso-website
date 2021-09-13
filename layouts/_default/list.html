@@ -23,7 +23,7 @@
           </a>
           <div class="p-25 pb-0">
             <div class="post-category position-relative mb-15">{{ range $i,$p:= .Params.Categories }}{{if ne $i 0}},{{end}}<a
-              href="{{ `categories/` | relLangURL }}{{ . | urlize | lower }}" class="text-black-200 font-weight-600 ml-1">{{ . | humanize }} </a>
+              href="{{ `categories/` | relLangURL }}{{ . | urlize | lower }}" class="text-black-200 font-weight-600 ml-1">{{ . }} </a>
               {{ end }}
             </div>
             <a class="h4 font-weight-bold d-block mb-15" href="{{.Permalink}}">{{ .Title }}</a>

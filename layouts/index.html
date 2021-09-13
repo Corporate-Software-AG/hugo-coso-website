@@ -173,7 +173,7 @@ style="background-image: url('{{`images/brushes/section-top.svg` | absURL}}'), u
 <!-- end section -->
 
 <!-- Blog section -->
-{{ $mysection := ($.Site.GetPage "blog" .Section).Pages }}
+{{ $mysection := ($.Site.GetPage "blog" .Section).Pages.ByPublishDate }}
 {{ range last 1 $mysection }}
 <section class="section-padding">
   <div class="container">
