@@ -7,6 +7,9 @@ name = "Jason Browne"
 team = "S.H.I.E.L.D"
 title = "Jason Browne"
 [[social]]
+icon = "ti-headphone-alt"
+link = "tel:+41 32 315 03 57"
+[[social]]
 icon = "ti-email"
 link = "mailto:jason.browne@corporatesoftware.ch"
 [[social]]
