@@ -8,6 +8,9 @@ name = "Noah Zani"
 team = "Seal Team"
 title = "Noah Zani"
 [[social]]
+icon = "ti-headphone-alt"
+link = "tel:+41 32 315 03 43"
+[[social]]
 icon = "ti-email"
 link = "mailto:noah.zani@corporatesoftware.ch"
 [[social]]
