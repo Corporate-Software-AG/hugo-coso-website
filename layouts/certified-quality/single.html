@@ -1,17 +1,18 @@
 {{ define "main" }}
 
-<!-- start of team-section -->
+<!-- strat of team-details -->
+<section class="section-padding pt-50">
   <div class="container">
     <div class="row justify-content-center">
-      <div class="col-lg-8 col-md-8 text-center mb-40">
-        {{ $image := resources.GetMatch .Params.teamimage }}
-        {{ partial "image.html" (dict "Image" $image "Alt" "Team Image" "Class" "img-fluid") }}
-      </div>
-      <div class="col-lg-6 col-md-9 text-center mb-40">
-        <div class="content">{{ .Content }}</div>
+      <div class="col-lg-9 col-md-12 mb-60">
+        <div class="content">{{.Content}}</div>
       </div>
     </div>
-    <div class="row justify-content-center">
+      {{ if eq .Params.title "MCT" }}
+      <div class="row justify-content-center" style="display: none;">
+      {{ else }}
+      <div class="row justify-content-center">
+      {{ end }}
       <div class="col-md-12 mb-25">
         <div class="team-filters text-uppercase text-center w-100" data-toggle="buttons">
           <label class="btn active mb-3">
@@ -19,18 +20,13 @@
             {{ i18n "all_together"}}
           </label>
 
-          {{ $data := index .Site.Data .Site.Language.Lang }}
 
-					{{ $group := slice }}
-          {{ range $i, $e:= where .Site.Pages "Section" "team" }}
-          {{ if .Params.categories }}
-            {{ range .Params.categories }}
-              {{ $group = $group | append . }}
-            {{ end }}
-          {{ end }}
+		  {{ $group := slice }}
+          {{ range .Params.certifications }}
+              {{ $group = $group | append .name }}
           {{ end }}
           
-					{{ range ( $group | uniq ) }}
+		  {{ range ( $group | uniq ) }}
           <label class="btn mb-3">
             <input class="d-none" type="radio" name="shuffle-filter" value="{{ . |urlize}}">
             {{ . }}
@@ -39,10 +35,18 @@
         </div>
       </div>
     </div>
+    {{ $data := index .Site.Data .Site.Language.Lang }}
     <div id="masonry" class="row team-members">
       {{ range shuffle (where .Site.RegularPages "Section" "team") }}
-      {{ if ne .Params.draft true }}
-      <div class="masonry-item team-item col-lg-3 col-sm-6 col-md-4 mt-4" data-groups="[{{ if .Params.categories }}{{ $len := (len .Params.categories) }}{{ range $i, $e := .Params.categories }}&quot;{{ . | urlize }}&quot;{{ if ne (add $i 1) $len }},{{ end }}{{ end }}{{ end }}]">
+      {{ $certified := false }}
+      {{ $certifications := .Params.certifications }}
+      {{ range $group }}
+        {{ if in $certifications . }}
+            {{ $certified = true }} 
+        {{ end }}
+      {{ end }}
+      {{ if and (ne .Params.draft true) $certified }}
+      <div class="masonry-item team-item col-lg-3 col-sm-6 col-md-4 mt-4" data-groups="[{{ if .Params.certifications }}{{ $len := (len .Params.certifications) }}{{ range $i, $e := .Params.certifications }}&quot;{{ . | urlize }}&quot;{{ if ne (add $i 1) $len }},{{ end }}{{ end }}{{ end }}]">
         <div class="text-center mb-30">
           <a href="{{ .Permalink | relURL }}">
             <div class="team-image has-shapes d-inline-block mb-25">
@@ -77,8 +81,8 @@
       <!-- team item -->
       {{ end }}
       {{ end }}
-    </div>
   </div>
 </section>
-<!-- end of team-section -->
+<!-- end of blog-details -->
+
 {{ end }}

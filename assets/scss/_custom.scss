@@ -50,6 +50,10 @@ body {
     }
 }
 
+.brand-item {
+    height: unset !important;
+}
+
 .cc-cp-foot-save,
 .cc-nb-okagree {
     background-color: $color-primary !important;

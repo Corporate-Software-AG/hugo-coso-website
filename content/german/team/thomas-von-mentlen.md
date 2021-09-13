@@ -8,6 +8,16 @@ categories:
 - Microsoft 365
 - Azure
 - DevOps
+certifications:
+- Microsoft Certified Trainer
+- Azure Administrator Associate
+- Azure Developer Associate
+- Azure AI Engineer Associate
+- Azure Solution Architect Expert
+- Azure DevOps Engineer Expert
+- Microsoft365 Developer Associate
+- Microsoft365 Teams Administrator Associate
+- Power Platform Developer Associate
 job_title: Cloud Consultant, Trainer (MCT)
 team: Seal Team
 social:

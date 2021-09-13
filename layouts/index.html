@@ -2,6 +2,31 @@
 
 {{ $data := index .Site.Data .Site.Language.Lang }}
 
+<!-- start of brand-carousel -->
+
+<section class="section-padding overflow-hidden">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-12" data-aos="fade-left">
+        <div class="brand-carousel">
+          {{ range (where .Site.RegularPages "Section" "certified-quality") }}
+            {{ $link := .Permalink}}
+            {{ range .Params.certifications }}
+            <a href="{{ $link }}">          
+              <div class="brand-item d-flex align-items-center justify-content-center">
+                <img class="img-fluid" src="{{ .badge }}" alt="badge">
+              </div>
+            </a>
+            {{ end }}
+          {{ end }}        
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- end of brand-carousel -->
+
 <!-- start of Services tab -->
 <section id="first-section" class="section-padding how-it-works-tab pt-50 overflow-hidden">
   <div class="container">

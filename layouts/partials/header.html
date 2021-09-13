@@ -79,5 +79,7 @@
     </nav>
   </div>
 </header>
-<div style="height: 160px;" class="{{ if .IsHome }}bg-white{{ else }}bg-light-gray{{ end }}"></div>
+{{ if not .IsHome }}
+<div style="height: 160px;" class="bg-light-gray"></div>
+{{ end }}
 {{ "<!-- /navigation -->" | safeHTML }}

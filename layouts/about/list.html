@@ -104,8 +104,9 @@
   <div class="container">
     <div class="shadow px-4 pt-30">
       <div class="has-colored-text row no-gutters overflow-hidden">
-        {{ range .funfacts_item }}
-        <div class="col-lg-3 col-sm-6 text-center border-right border-md-0 mb-30" data-aos="fade-up">
+        {{ $len := (len (.funfacts_item)) }}
+        {{ range $index, $element := .funfacts_item }}
+        <div class="col-lg-3 col-sm-6 text-center border-md-0 mb-30 {{ if ne (add $index 1) $len }}border-right{{ end }}" data-aos="fade-up">
           <p class="has-text-color mb-10 text-capitalize">{{ .name }}</p>
           <h2 class="text-black-200 font-weight-bold">
             <span class="jsCounter-2" data-count="{{ .count }}">0</span>{{.extension}}</h2>

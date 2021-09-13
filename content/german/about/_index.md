@@ -37,7 +37,7 @@ funfacts:
     count: "10"
     extension: "-fach"
   - name: Unsere Microsoft Advanced Specializations
-    count: "1"
+    count: "2"
     extension: ''
 philo:
   enable: true

@@ -39,6 +39,11 @@ name = "Team"
 parent = "COSOverse"
 weight = 2
 [[Languages.de.menu.main]]
+URL = "certified-quality"
+name = "Zertifikatsübersicht"
+parent = "COSOverse"
+weight = 4
+[[Languages.de.menu.main]]
 URL = "jobs"
 name = "Jobs"
 parent = "COSOverse"

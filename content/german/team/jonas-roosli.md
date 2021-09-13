@@ -6,6 +6,7 @@ job_title = "Consultant, Trainer (MCT)"
 name = "Jonas Röösli"
 team = "Seal Team"
 title = "Jonas Röösli"
+certifications = ["Microsoft365 Teams Administrator Associate", "Microsoft Certified Trainer"]
 [[social]]
 icon = "ti-headphone-alt"
 link = "tel:+41 32 315 03 44"
