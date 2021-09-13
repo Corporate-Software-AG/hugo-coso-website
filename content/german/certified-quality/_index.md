@@ -1,10 +1,10 @@
 ---
-title: CoSo get's certified
+title: Zertifizierte CoSo-Qualität
 
 ---
 Wir gehen voran, um den nächsten Schritt zu ermöglichen. Als CoSo entwickeln wir uns ständig weiter und bleiben nicht nur technologisch auf dem neusten Stand. Als lernende Organisation passen wir uns laufend den neusten Entwicklungen an. Und unseren Mitarbeiter:innen ist es ein Anliegen, sich selbstständig weiterzuentwickeln und ihr Wissen zu zertifizieren. Nur so ist es uns möglich, für unsere Kund:innen topaktuelles Wissen in die Projekte einzubringen.
 
-### Microsoft Gold Partner
+## Microsoft Gold Partner
 
 Aktuell sind wir 10-facher Microsoft Gold Partner:
 
@@ -21,6 +21,6 @@ Aktuell sind wir 10-facher Microsoft Gold Partner:
 
 Zudem wurden wir von Microsoft mit den neuen Advanced Specializations “Adoption und Change Management” und “Calling for Microsoft Teams” ausgezeichnet.
 
-### Microsoft certified
+## Zertifizierte Microsoft-Qualität
 
 Unsere Microsoft-Zertifizierungen zeigen, dass wir mit den technischen Aufgaben und Anforderungen von heute Schritt halten.

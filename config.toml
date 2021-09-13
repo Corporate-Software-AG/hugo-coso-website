@@ -40,7 +40,7 @@ parent = "COSOverse"
 weight = 2
 [[Languages.de.menu.main]]
 URL = "certified-quality"
-name = "Zertifikatsübersicht"
+name = "Zertifizierte Qualität"
 parent = "COSOverse"
 weight = 4
 [[Languages.de.menu.main]]

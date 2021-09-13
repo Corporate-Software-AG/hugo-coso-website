@@ -1,10 +1,10 @@
 ---
 title: Power Platform
-certifications: 
+certifications:
 - name: Power Platform Developer Associate
   badge: "/images/certs/power-platform-developer-600x600.png"
 
 ---
-## Power Platform
+## Power Platform certified
 
-Bei der Power Platform besitzen unsere Mitarbeitenden folgende Zertifikate: 
+Im Bereich Power Platform besitzen unsere Mitarbeiter:innen folgende Zertifikate:
