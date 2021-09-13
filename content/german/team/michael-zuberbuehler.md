@@ -1,5 +1,6 @@
 +++
 categories = ["Data Platform", "MCT", "DevOps", "Azure", "Automation"]
+certifications = ["Microsoft Certified Trainer", "Azure Administrator Associate", "Microsoft Certified: Data Analyst Associate", "Microsoft Professional Program for Data Science"]
 date = ""
 image = "/uploads/michael.png"
 job_title = "DevOps Consultant"

@@ -1,5 +1,6 @@
 +++
 categories = ["Data Platform", "Power Platform", "MCT", "Microsoft 365"]
+certifications = ["Microsoft Certified Trainer", "Power Platform App Maker Associate"]
 date = ""
 image = "/uploads/sebastiansteer.png"
 job_title = "Junior Consultant, Trainer (MCT)"

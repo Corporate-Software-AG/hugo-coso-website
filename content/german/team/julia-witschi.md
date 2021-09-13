@@ -1,5 +1,6 @@
 +++
 categories = ["Microsoft 365", "Power Platform", "MCT"]
+certifications = ["Microsoft Certified Trainer", "Power Platform Functional Consultant Associate", "Power Platform App Maker Associate", "Microsoft 365 Certified: Teams Administrator Associate"]
 date = ""
 image = "/uploads/julia-1-fertig.png"
 job_title = "Junior Consultant"

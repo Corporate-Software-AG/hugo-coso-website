@@ -9,6 +9,11 @@ certifications:
   badge: "/images/certs/mct.png"
 - name: "Microsoft Certified: Deploying Microsoft 365 Teamwork"
   badge: "/images/certs/mct.png"
+- name: "Microsoft 365 Certified: Enterprise Administrator Expert"
+  badge: "/images/certs/mct.png"
+- name: "Microsoft Certified: Data Analyst Associate"
+  badge: "/images/certs/mct.png"
+
 ---
 ## Microsoft365
 

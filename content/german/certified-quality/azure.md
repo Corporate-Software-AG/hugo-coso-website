@@ -11,6 +11,12 @@ certifications:
   badge: "/images/certs/azure-solutions-architect-expert-600x600.png"
 - name: Azure DevOps Engineer Expert
   badge: "/images/certs/CERT-Expert-DevOps-Engineer-600x600.png"
+- name: Azure Data Engineer Associate
+  badge: "/images/certs/mct.png"
+- name: Azure Data Scientist Associate
+  badge: "/images/certs/mct.png"
+- name: Azure Data Engineer Associate
+  badge: "/images/certs/mct.png"
 ---
 ## Azure
 

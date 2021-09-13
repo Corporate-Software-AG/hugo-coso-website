@@ -1,5 +1,6 @@
 +++
 categories = ["Power Platform", "MCT", "Microsoft 365"]
+certifications = ["Microsoft Certified Trainer", "Microsoft 365 Certified: Teams Administrator Associate"]
 date = ""
 description = ""
 image = "/uploads/noah.png"
