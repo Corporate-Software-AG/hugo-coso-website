@@ -12,7 +12,7 @@
           {{ range (where .Site.RegularPages "Section" "certified-quality") }}
             {{ $link := .Permalink}}
             {{ range .Params.certifications }}
-            <a href="{{ $link }}">          
+            <a href="/certified-quality/">          
               <div class="brand-item d-flex align-items-center justify-content-center">
                 <img class="img-fluid" src="{{ .badge }}" alt="badge">
               </div>
