@@ -1,4 +1,4 @@
-baseURL = "https://coso.azureedge.net"
+baseURL = "https://www.corporatesoftware.ch"
 defaultContentLanguage = "de"
 disableLanguages = ["fr", "en"]
 paginate = "6"
