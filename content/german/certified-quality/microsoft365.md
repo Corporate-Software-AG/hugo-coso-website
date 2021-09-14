@@ -9,8 +9,6 @@ certifications:
   badge: "/images/certs/microsoft365-security-administrator-associate-600x600.png"
 - name: "Microsoft Certified: Deploying Microsoft 365 Teamwork"
   badge: "/images/certs/microsoft365-teamwork-administrator-associate-600x600.png"
-- name: "Microsoft Certified: Data Analyst Associate"
-  badge: "/images/certs/CERT-Associate-Data-Analyst-600x600.png"
 - name: "Microsoft 365 Certified: Enterprise Administrator Expert"
   badge: "/images/certs/microsoft365-enterprise-adminstrator-expert-600x600.png"
 
