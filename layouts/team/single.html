@@ -13,7 +13,7 @@
           <li class="list-inline-item">
             <a target="_blank" href="{{ .link | safeURL }}" class="text-black-200 p-2 d-inline-block">
               {{ if eq .icon "teams-icon" }}
-              <span class="{{ .icon }}"><img style="width: 20px; margin-top: -3px;" src="/images/microsoft_teams_icon_137398.png" alt=""></span>
+              <span class="{{ .icon }}"><img style="width: 20px; margin-top: -3px;" src="/images/microsoft_teams_icon_137398.png" alt="team icon"></span>
               {{ else }}
               <span class="{{ .icon }}"></span>
               {{ end }}
@@ -21,6 +21,7 @@
           </li>
           {{ end }}
         </ul>
+        <br />
 
         {{ $certifications := .Params.certifications }}
         <div class="row justify-content-center">
