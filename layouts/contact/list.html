@@ -12,25 +12,29 @@
     </div>
     <div class="row justify-content-center">
       <div class="col-xl-6 col-lg-7">
-        <form method="POST" class="rounded shadow p-30" action="{{site.Params.contact_form_action}}">
+        <form class="rounded shadow p-30" id="contact-form">
           <div class="form-group mb-30">
             <label class="text-black-200 h5 font-weight-600 mb-2" for="fname">{{ i18n "name"}}</label>
-            <input class="form-control shadow-none" type="text" placeholder="Hans Muster" id="fname" required>
+            <input class="form-control shadow-none" type="text" placeholder="Hans Muster" id="fname" name="fname" required>
           </div>
           <div class="form-group mb-30">
             <label class="text-black-200 h5 font-weight-600 mb-2" for="email">{{i18n "mail"}}</label>
-            <input class="form-control shadow-none" type="email" placeholder="yourname@somethingcool.com" id="email" required>
-          </div>
-          <div class="form-group mb-30">
-            <label class="text-black-200 h5 font-weight-600 mb-2" for="website">{{i18n "website"}}</label>
-            <input class="form-control shadow-none" type="url" placeholder="Website">
+            <input class="form-control shadow-none" type="email" placeholder="yourname@somethingcool.com" id="email" name="email" required>
           </div>
           <div class="form-group mb-30">
             <label class="text-black-200 h5 font-weight-600 mb-2" for="message">{{ i18n "message"}}</label>
-            <textarea class="form-control shadow-none" name="comment" rows="5" id="message" required></textarea>
+            <textarea class="form-control shadow-none" rows="5" id="message" name="message" required></textarea>
           </div>
           <button class="btn btn-primary w-100" type="submit">{{ i18n "submit"}}</button>
         </form>
+        <div id="success-message" style="display: none">
+          <h3>Vielen Dank!</h3>
+          <p>Wir werden uns asap bei Ihnen melden.</p>
+        </div>
+        <div id="error-message" style="display: none">
+          <h3 style="color: darkred;">Fehler!</h3>
+          <p style="color: darkred;">Leider hat etwas nicht geklappt... melden Sie sich bitte direkt bei <a href="mailto:info@corporatesoftware.ch">info@corporatesoftware.ch</a></p>
+        </div>
       </div>
       <div class="col-xl-4 col-lg-5 mt-5 mt-lg-0">
         <div class="rounded shadow p-30 mb-30">

@@ -17,3 +17,33 @@ function scrollFunction() {
     document.getElementById("header-img").classList.remove("logo-small");
   }
 }
+
+var successMessage = document.getElementById("success-message");
+var errorMessage = document.getElementById("error-message");
+
+var contactForm = document.getElementById("contact-form");
+if (contactForm) {
+  contactForm.onsubmit = function(event) {
+    event.preventDefault(); // Don't let the browser submit the form.
+    var payload = {};
+
+    // Build JSON key-value pairs using the form fields.
+    contactForm.querySelectorAll("input, textarea").forEach(field => {
+        payload[field.name] = field.value;
+    });
+
+    // Post the payload to the contact endpoint.
+    fetch("https://coso-web.azurewebsites.net/api/WebFormTrigger", {
+        method: 'post',
+        body: JSON.stringify(payload)
+    }).then(resp => {
+        if (!resp.ok) {
+            console.error(resp);
+            return;
+        }
+        // Display success message.
+        successMessage.style.display = "block";
+        contactForm.style.display = "none";
+    });
+  }
+}
