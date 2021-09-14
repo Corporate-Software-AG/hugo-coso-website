@@ -34,5 +34,6 @@ jobs:
         run: |
           python script/translate.py
         env:
-          key: jondoe
-
+          key: ${{ secrets.COGSERV_KEY }} 
+          location: switzerlandnorth
+          name: coso-web-translator
