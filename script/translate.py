@@ -14,7 +14,7 @@ constructed_url = endpoint + path
 
 print(constructed_url)
 
-{
+payload = {
     "inputs": [
         {
             "source": {
