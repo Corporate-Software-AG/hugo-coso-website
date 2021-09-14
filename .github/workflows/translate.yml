@@ -30,7 +30,13 @@ jobs:
         with:
           python-version: 3.8 #install the python needed
 
-      - name: execute py script # run the run.py to get the latest data
+      - name: Pip Installer
+        uses: BSFishy/pip-action@v1
+        with:
+          packages: |
+            requests
+
+      - name: Execute Python Script # run the run.py to get the latest data
         run: |
           python script/translate.py
         env:
