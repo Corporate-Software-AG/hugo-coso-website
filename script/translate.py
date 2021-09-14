@@ -18,11 +18,11 @@ payload = {
     "inputs": [
         {
             "source": {
-                "sourceUrl": "https://cosoweb.blob.core.windows.net/translation/de/"
+                "sourceUrl": "https://cosoweb.blob.core.windows.net/translation/de?sv=2020-08-04&ss=b&srt=sco&sp=rwdlacx&se=2021-09-14T19:57:34Z&st=2021-09-14T11:57:34Z&spr=https&sig=hw%2FEDxJoKgTdxlKrbikov%2BinXlzk6Lc6%2BNGz360540Y%3D"
             },
             "targets": [
                 {
-                    "targetUrl": "https://cosoweb.blob.core.windows.net/translation/en",
+                    "targetUrl": "https://cosoweb.blob.core.windows.net/translation/en?sv=2020-08-04&ss=b&srt=sco&sp=rwdlacx&se=2021-09-14T19:57:34Z&st=2021-09-14T11:57:34Z&spr=https&sig=hw%2FEDxJoKgTdxlKrbikov%2BinXlzk6Lc6%2BNGz360540Y%3D",
                     "language": "en"
                 }
             ]
