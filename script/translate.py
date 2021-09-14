@@ -18,11 +18,11 @@ payload = {
     "inputs": [
         {
             "source": {
-                "sourceUrl": "data/de"
+                "sourceUrl": "https://cosoweb.blob.core.windows.net/translation/de/"
             },
             "targets": [
                 {
-                    "targetUrl": "data/en",
+                    "targetUrl": "https://cosoweb.blob.core.windows.net/translation/en",
                     "language": "en"
                 }
             ]
