@@ -1,17 +1,28 @@
 {{ $image := .Image }}
 
-{{ $tiny := ($image.Resize "480x q70") }}
-{{ $small := ($image.Resize "768x q70") }}
-{{ $medium := ($image.Resize "1024x q70") }}
-{{ $large := ($image.Resize "1366x q70") }}
+{{ $isSVG := eq (path.Ext .Image) ".svg" }}
+{{ if not $isSVG }}
+        {{ $tiny := ($image.Resize "480x q70") }}
+        {{ $small := ($image.Resize "768x q70") }}
+        {{ $medium := ($image.Resize "1024x q70") }}
+        {{ $large := ($image.Resize "1366x q70") }}
+        <picture>
+                <source srcset="{{ if ge $image.Width 480 }}{{- with $tiny.RelPermalink -}}{{.}} 480w{{- end -}}{{ end }}, 
+                        {{ if ge $image.Width 768 }}{{- with $small.RelPermalink -}}{{.}} 768w{{- end -}}{{ end }}, 
+                        {{ if ge $image.Width 1024 }}{{- with $medium.RelPermalink -}}{{.}} 1024w{{- end -}}{{ end }}, 
+                        {{ if ge $image.Width 1366 }}{{- with $large.RelPermalink -}}{{.}} 1366w{{- end -}}{{ end }}">
+                <img
+                        src="{{ $image.RelPermalink }}"
+                        alt="{{ .Alt }}"
+                        class="{{ .Class }}">
+        </picture>
+{{ else }}
 <picture>
-    <source srcset="{{ if ge $image.Width 480 }}{{- with $tiny.RelPermalink -}}{{.}} 480w{{- end -}}{{ end }}, 
-            {{ if ge $image.Width 768 }}{{- with $small.RelPermalink -}}{{.}} 768w{{- end -}}{{ end }}, 
-            {{ if ge $image.Width 1024 }}{{- with $medium.RelPermalink -}}{{.}} 1024w{{- end -}}{{ end }}, 
-            {{ if ge $image.Width 1366 }}{{- with $large.RelPermalink -}}{{.}} 1366w{{- end -}}{{ end }}">
-    <img
-        src="{{ $image.RelPermalink }}"
-        alt="{{ .Alt }}"
-        class="{{ .Class }}">
+        <source srcset="{{ $image.RelPermalink }}">
+        <img
+                src="{{ $image.RelPermalink }}"
+                alt="{{ .Alt }}"
+                class="{{ .Class }}">
 </picture>
+{{ end }}
 

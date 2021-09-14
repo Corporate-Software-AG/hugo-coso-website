@@ -51,7 +51,8 @@
           <div class="col-3 text-center border-md-0 mb-30 border-right" data-aos="fade-up">
             <p class="has-text-color mb-10 text-capitalize">MCTs</p>
             <a href="/certified-quality/mct/">
-              <img class="img-fluid" style="padding: 15%;" src="/images/certs/mct.png" alt="badge">        
+              {{ $image := resources.GetMatch "/images/certs/mct.png" }}
+              {{ partial "image.html" (dict "Image" $image "Alt" "badge" "Class" "img-fluid cert-badge") }}  
             </a>
             <h2 class="text-black-200 font-weight-bold">
               <span class="jsCounter-2" data-count="{{ $mcts }}">0</span></h2>
@@ -59,14 +60,16 @@
         <!-- Associates -->
         <div class="col-3 text-center border-md-0 mb-30 border-right" data-aos="fade-up">
           <p class="has-text-color mb-10 text-capitalize">Associates</p>
-          <img class="img-fluid" style="padding: 15%;" src="/images/certs/microsoft-certified-associate-badge.svg" alt="badge">
+          {{ $image := resources.GetMatch "/images/certs/microsoft-certified-associate-badge.svg" }}
+          {{ partial "image.html" (dict "Image" $image "Alt" "badge" "Class" "img-fluid cert-badge") }}
           <h2 class="text-black-200 font-weight-bold">
             <span class="jsCounter-2" data-count="{{ $associates }}">0</span></h2>
         </div>
         <!-- Experts -->
         <div class="col-3 text-center border-md-0 mb-30 border-right" data-aos="fade-up">
           <p class="has-text-color mb-10 text-capitalize">Experts</p>
-          <img class="img-fluid" style="padding: 15%;" src="/images/certs/microsoft-certified-expert-badge.svg" alt="badge">
+          {{ $image := resources.GetMatch "/images/certs/microsoft-certified-expert-badge.svg" }}
+          {{ partial "image.html" (dict "Image" $image "Alt" "badge" "Class" "img-fluid cert-badge") }}
           <h2 class="text-black-200 font-weight-bold">
             <span class="jsCounter-2" data-count="{{ $experts }}">0</span></h2>
         </div>
@@ -74,7 +77,8 @@
         <div class="col-3 text-center border-md-0 mb-30" data-aos="fade-up">
           <p class="has-text-color mb-10 text-capitalize">MVP</p>
           <a href="/certified-quality/mvp/">
-            <img class="img-fluid" style="padding: 15%;" src="/images/certs/mvp.png" alt="badge">
+            {{ $image := resources.GetMatch "/images/certs/mvp.png" }}
+            {{ partial "image.html" (dict "Image" $image "Alt" "badge" "Class" "img-fluid cert-badge") }}
           </a>
           <h2 class="text-black-200 font-weight-bold">
             <span class="jsCounter-2" data-count="{{ $mvps }}">0</span></h2>
@@ -105,7 +109,8 @@
           {{ end }}
           <div class="col-md-2 col-3 text-center border-md-0 mb-30 border-right" data-aos="fade-up">
             <a href="{{ $link }}">
-              <img class="img-fluid" style="padding: 15%;" src="{{ .badge }}" alt="badge">
+              {{ $image := resources.GetMatch .badge }}
+            {{ partial "image.html" (dict "Image" $image "Alt" "badge" "Class" "img-fluid cert-badge") }}
             </a>
             <h2 class="text-black-200 font-weight-bold">
               <span class="jsCounter-2" data-count="{{ $counter }}">0</span></h2>

@@ -4,7 +4,7 @@
 <section class="section-padding pt-50">
   <div class="container">
     <div class="row justify-content-center">
-      <div class="col-lg-3 col-md-5 col-sm-9 text-center">
+      <div class="col-lg-3 col-md-3 col-sm-9 text-center">
         {{ $image := resources.GetMatch .Params.image }}
         {{ partial "image.html" (dict "Image" $image "Alt" "Team Image" "Class" "img-fluid rounded") }}
         
@@ -28,9 +28,10 @@
             {{ $link := .Permalink}}
             {{ range .Params.certifications }}
               {{ if in $certifications .name }}
-              <div class="col-3 col-sm-4 col-lg-6">
+              <div class="col-3 col-sm-4 col-md-6 col-lg-6">
                 <a href="{{ $link }}">
-                  <img class="img-fluid" style="padding: 5px;" src="{{ .badge }}" alt="badge">
+                  {{ $image := resources.GetMatch .badge }}
+                  {{ partial "image.html" (dict "Image" $image "Alt" "badge" "Class" "img-fluid") }}  
                 </a>
               </div>
               {{ end }}
@@ -38,7 +39,7 @@
           {{ end }}
         </div> 
       </div>
-      <div class="col-lg-9 col-md-12 mb-60" data-aos="fade-in" data-aos-delay="50">
+      <div class="col-lg-9 col-md-9 mb-60" data-aos="fade-in" data-aos-delay="50">
         <div class="post-category position-relative mb-15">{{ range $i,$p:= .Params.Categories }}{{if ne $i 0}}-{{end}}<span
           class="text-black-200 font-weight-600 ml-1">{{ . }}</span>
           {{ end }}
