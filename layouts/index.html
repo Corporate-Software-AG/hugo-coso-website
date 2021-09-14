@@ -14,7 +14,8 @@
             {{ range .Params.certifications }}
             <a href="/certified-quality/">          
               <div class="brand-item d-flex align-items-center justify-content-center">
-                <img class="img-fluid" src="{{ .badge }}" alt="badge">
+                {{ $image := resources.GetMatch .badge }}
+                {{ partial "image.html" (dict "Image" $image "Alt" "badge" "Class" "img-fluid") }}
               </div>
             </a>
             {{ end }}

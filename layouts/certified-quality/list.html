@@ -110,7 +110,7 @@
           <div class="col-md-2 col-3 text-center border-md-0 mb-30 border-right" data-aos="fade-up">
             <a href="{{ $link }}">
               {{ $image := resources.GetMatch .badge }}
-            {{ partial "image.html" (dict "Image" $image "Alt" "badge" "Class" "img-fluid cert-badge") }}
+              {{ partial "image.html" (dict "Image" $image "Alt" "badge" "Class" "img-fluid cert-badge") }}
             </a>
             <h2 class="text-black-200 font-weight-bold">
               <span class="jsCounter-2" data-count="{{ $counter }}">0</span></h2>
