@@ -4,7 +4,7 @@ disableLanguages = ["fr", "en"]
 paginate = "6"
 summaryLength = "10"
 theme = "hugo-theme-copper"
-title = "CoSo - Preview Homepage"
+title = "Corporate Software AG - Wir gehen voran, um den nächsten Schritt zu ermöglichen."
 [Languages.de]
 contentDir = "content/german"
 languageCode = "de-ch"
