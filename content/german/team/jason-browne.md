@@ -21,8 +21,8 @@ icon = "ti-linkedin"
 link = "https://www.linkedin.com/in/jason-browne-35b93a192/"
 
 +++
-In seiner ersten Karriere war Jason Captain der U21 des FC Aarau. Dort hat er gelernt, die Balance zwischen Wettbewerb und geschlossener Einheit zu leben. Er interessiert sich sehr für das Zusammenspiel zwischen Technik und Mensch.
+In seiner ersten Karriere war Jason Captain der U21 des FC Aarau. Dort hat er gelernt, die Balance zwischen Wettbewerb und geschlossener Einheit zu leben. Er interessiert sich sehr für das Zusammenspiel zwischen Technik und dem witschaftlichen Aspekt.  
 
-Jason ist bei CoSo im Bereich Collaboration mit Fokus auf Teams und SharePoint tätig. Bei der Konzeption und Umsetzung von Lösungen nutzt er seine Kenntnisse von Microsoft Azure. Zurzeit macht er seine Ausbildung zum Microsoft Certified Trainer.
+Als Microsoft Certified Trainer und Consultant bei der Corporate Software besteht das Ziel von Jason darin, intelligente Cloud IT-Lösungen zu designen und zu implementieren, welche einen optimalen Business-Nutzen bieten. 
 
-> Einfach machen! Im schlimmsten Fall wird es eine Erfahrung.
+> Perfection is not attainable, but if we chase perfection we can catch excellence. - Vince Lombardi

@@ -4,7 +4,7 @@ date = ""
 description = ""
 image = "/uploads/maximlavoie.png"
 job_title = "Junior Cloud Consultant"
-name = "Maxime Lavoie"
+name = "Maxim Lavoie"
 team = "S.H.I.E.L.D"
 title = "Maxim Lavoie"
 [[social]]
