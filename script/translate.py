@@ -66,7 +66,7 @@ blob_service_client = BlobServiceClient.from_connection_string(storage_connectio
 """
 
 print("Start Translation")
-response, id = translate(subscription_key, service_name, source_url, target_url)
+response, id= translate(subscription_key, service_name, source_url, target_url)
 
 status = get_status(id, subscription_key, service_name)
 print("Status: " + status)

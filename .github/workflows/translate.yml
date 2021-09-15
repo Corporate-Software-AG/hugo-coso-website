@@ -29,7 +29,7 @@ jobs:
         uses: kheiakiyama/install-azcopy-action@v1.0.3
 
       - name: Copy Files to Azure Storage
-        run: azcopy cp "content/german" ${{ secrets.STORAGE_GERMAN_CONNECTION_STRING }} --recursive 
+        run: azcopy copy "content/german" "${{ secrets.STORAGE_GERMAN_CONNECTION_STRING }}" --recursive=true
 
 
       - name: Setup Python  
