@@ -3,6 +3,7 @@ import requests
 import http.client
 from azure.storage.blob import BlobServiceClient, BlobClient, ContainerClient
 
+print("Start Scrip")
 
 storage_key = os.environ['storage_key']
 service_key = os.environ['service_key']
@@ -11,20 +12,20 @@ german_url = os.environ['cs_german']
 english_url = os.environ['cs_english']
 french_url = os.environ['cs_french']
 
-def get_status(id, subscription_key, service_name):
+def get_status(id, service_key, service_name):
     host = service_name + '.cognitiveservices.azure.com'
     parameters = '//translator/text/batch/v1.0/batches/' + id
     conn = http.client.HTTPSConnection(host)
     payload = ''
     headers = {
-    'Ocp-Apim-Subscription-Key': subscription_key
+    'Ocp-Apim-Subscription-Key': service_key
     }
     conn.request("GET", parameters , payload, headers)
     res = conn.getresponse()
     data = res.read().decode("utf-8")
     return json.loads(data)["status"]
 
-def translate(subscription_key, service_name, source_url, target_url):
+def translate(service_key, service_name, source_url, target_url):
     endpoint = "https://" + service_name + ".cognitiveservices.azure.com/translator/text/batch/v1.0"
     path = '/batches'
     constructed_url = endpoint + path
@@ -42,14 +43,14 @@ def translate(subscription_key, service_name, source_url, target_url):
                         "targetUrl": target_url,
                         "storageSource": "AzureBlob",
                         "category": "general",
-                        "language": "fr"
+                        "language": "en"
                     }
                 ]
             }
         ]
     }
     headers = {
-        'Ocp-Apim-Subscription-Key': subscription_key,
+        'Ocp-Apim-Subscription-Key': service_key,
         'Content-Type': 'application/json'
     }
 
@@ -57,25 +58,16 @@ def translate(subscription_key, service_name, source_url, target_url):
     return response, response.headers['Operation-Location'].split("/")[-1]
 
 
-print("Start Scrip")
-
-storage_connection_string = "DefaultEndpointsProtocol=https;AccountName=cosoweb;AccountKey=" + storage_key + ";EndpointSuffix=core.windows.net"
-blob_service_client = BlobServiceClient.from_connection_string(storage_connection_string)
-
-
-"""
-
 print("Start Translation")
-response, id= translate(subscription_key, service_name, source_url, target_url)
+response, id= translate(service_key, service_name, german_url, english_url)
 
-status = get_status(id, subscription_key, service_name)
+status = get_status(id, service_key, service_name)
 print("Status: " + status)
 while status != "Succeeded" and status != "Failed":
     time.sleep(2)
-    status = get_status(id, subscription_key, service_name)
+    status = get_status(id, service_key, service_name)
     print("Status: " + status)
 
 
-"""
 
 print("Finish Script")

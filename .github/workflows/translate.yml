@@ -54,4 +54,4 @@ jobs:
           cs_english: ${{ secrets.STORAGE_ENGLISH_CONNECTION_STRING }} 
           cs_french: ${{ secrets.STORAGE_FRENCH_CONNECTION_STRING }} 
           location: switzerlandnorth
-          name: cosowebtranslator
+          service_name: cosowebtranslator
