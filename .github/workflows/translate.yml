@@ -38,24 +38,24 @@ jobs:
         with:
           python-version: 3.8 #install the python needed
 
-      - name: Pip Installer
-        uses: BSFishy/pip-action@v1
-        with:
-          packages: |
-            requests
-            azure-storage-blob
+       #- name: Pip Installer
+         #uses: BSFishy/pip-action@v1
+         #with:
+           #packages: |
+             #requests
+             #azure-storage-blob
 
-      - name: Execute Python Script # run the run.py to get the latest data
-        run: |
-          python script/translate.py
-        env:
-          service_key: ${{ secrets.COGSERV_KEY }}
-          storage_key: ${{ secrets.STORAGE_KEY }}
-          cs_german: ${{ secrets.STORAGE_GERMAN_CONNECTION_STRING }} 
-          cs_english: ${{ secrets.STORAGE_ENGLISH_CONNECTION_STRING }} 
-          cs_french: ${{ secrets.STORAGE_FRENCH_CONNECTION_STRING }} 
-          location: switzerlandnorth
-          service_name: cosowebtranslator
+       #- name: Execute Python Script # run the run.py to get the latest data
+        #run: |
+        #  python script/translate.py
+         #env:
+           #service_key: ${{ secrets.COGSERV_KEY }}
+           #storage_key: ${{ secrets.STORAGE_KEY }}
+           #cs_german: ${{ secrets.STORAGE_GERMAN_CONNECTION_STRING }} 
+           #cs_english: ${{ secrets.STORAGE_ENGLISH_CONNECTION_STRING }} 
+           #cs_french: ${{ secrets.STORAGE_FRENCH_CONNECTION_STRING }} 
+           #location: switzerlandnorth
+           #service_name: cosowebtranslator
 
       - name: Download Translations
         run: azcopy copy "${{ secrets.STORAGE_ENGLISH_CONNECTION_STRING }}" "content/" --recursive=true
