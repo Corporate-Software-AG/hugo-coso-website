@@ -40,28 +40,31 @@ Corporate Software bietet mit dem CoSo Voice Service die ideale Lösung, um Mita
 > * Konfiguration produktive SIP Trunk
 > * Rufnummer Zuweisung
 > * Lizenzen-Zuweisung
-> * Call Queue und Auto Attendant Konfiguration
-> * Konfiguration Benutzerprofile
-> * Vor-Ort-Unterstützung beim GoLive (1d)
+>
+> **Dokumentation Call Queue und Auto Attendant Konfiguration**
+>
+> **Koordination und Abklärung zwischen den involvierten Parteien**
 >
 > **Schulung**
 >
 > * Basisschulung Admin (1h)
 > * Enduserschulung (1h)
 >
-> **Support**
+> **QnA-Session nach der Migration**
 >
-> * Support-Service zu Bürozeiten für die Teams-Telefonie
+> Optional: Vor-Ort-Unterstützung beim GoLive
 
+
+&nbsp;
 > **Zusatzservice**
 >
-> * Informationsplattform als PowerApp integriert 
-> * Microsoft 365 Consulting – Wir unterstützen Sie beim Schritt in die Cloud 
+> * Informationsplattform als PowerApp integriert
+> * Microsoft 365 Consulting – Wir unterstützen Sie beim Schritt in die Cloud
 > * Power Platform Consulting – Holen Sie alles aus Ihren Daten und überlassen Sie die repetitiven Aufgaben den Maschinen
 
 #### Moderne Kommunikations- und Kollaborationsfunktionen
 
-CoSo hat den Coso Voice Service entwickelt, um ihren Kund:innen zu helfen, das Beste aus Teams herauszuholen. CoSo Voice Service ist eine Sammlung von Cloud-Lösungen, die als Service bereitgestellt werden und das Standardangebot von Microsoft Teams erweitern. Es ermöglicht Unternehmen, basierend auf Microsoft-365-Cloud Microsoft Teams zu nutzen, um externe Anrufe zu tätigen und zu empfangen, ohne dass Microsoft-Calling-Plan-Lizenzen erforderlich sind. Die Anbindung des Service geschieht über die Sunrise/UPC Business Solutions. MS Teams wird mittels des Business Voice IP PBX Service von Sunrise/UPC an das öffentliche Telefonnetz angeschlossen.
+CoSo hat den Coso Voice Service entwickelt, um ihren Kund:innen zu helfen, noch mehr aus Microsoft Teams herauszuholen. CoSo Voice Service ist ein Managed Cloud Service, bestehend aus mehreren Komponenten, der eine moderne und umfassende Telefonielösung für KMU bietet. Es ermöglicht Unternehmen, basierend auf Microsoft 365 und Microsoft Teams die Funktionen einer Telefonanlage den Mitarbeitern überall und auf fast allen Geräten zur Verfügung zu stellen, inklusive Übernahme und Nutzung der bisherigen Rufnummern sowie Integration ins öffentliche Telefonnetz. Dafür steht eine hochverfügbare geteilte Plattform von Sunrise UPC im Einsatz, die MS Teams das öffentliche Telefonnetz anschliesst.
 
 Wieso Corporate Software? Sie profitieren mit uns als Implementationspartner von einer Einrichtung durch den zertifizierten Experten: Seit August 2021 sind wir offizieller Microsoft Gold Partner mit der Advanced Specialisation in Calling for Microsoft Teams. Während dem Projekt begleiten wir Sie von A bis Z durch die Migration und den Übergang zu einem vollständig verwalteten Support-Service.
 
@@ -84,4 +87,4 @@ Wieso Corporate Software? Sie profitieren mit uns als Implementationspartner von
 6. Damit die Teams-Telefonie-Funktionen vom ersten Tag an produktiv genutzt werden können, schulen wir Ihre Mitarbeiter:innen in den neuen Anwendungen
 7. In stündigen Q&A-Sessions mit allen Mitarbeiter:innen oder mit Ihren Superuser:innen klären wir aktuelle Fragen und Herausforderungen
 
-Haben Sie Fragen zum CoSo Voice Service? [Gehen wir gemeinsam den nächsten Schritt](mailto:info@corporatesoftware.ch)
+Haben Sie Fragen zum CoSo Voice Service? [Lassen Sie uns gemeinsam den nächsten Schritt gehen](mailto:info@corporatesoftware.ch)
