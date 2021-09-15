@@ -60,4 +60,12 @@ jobs:
       - name: Download Translations
         run: azcopy copy "${{ secrets.STORAGE_ENGLISH_CONNECTION_STRING }}" "content/english/" --recursive=true
 
+      - name: Create Pull Request
+        uses: peter-evans/create-pull-request@v3
+        with:
+          commit-message: translated
+          title: Translation Complete
+          body: Translation is complete
+          branch: translated
+
 
