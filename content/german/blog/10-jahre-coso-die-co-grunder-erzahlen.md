@@ -23,7 +23,7 @@ Wir waren beide schon selbstständig und konnten aus einer Fülle heraus schöpf
 
 Während der Zusammenarbeit in dem Projekt wurde mir dann klar: Hier ist Raum und Motivation für mehr. Ich glaube an Begegnungen und bin meinem Impuls gefolgt. Und so war der Boden für die Firma bereitet – modern und von Anfang in der Cloud.
 
-**Was macht den Erfolg von CoSo aus?**
+**Was macht der Erfolg von CoSo aus?**
 
 _Patrick:_ Rückblickend hat unser Erfolg in der Selbstständigkeit damit gestartet, dass man alleine gut, zu zweit aber fantastisch ist. Eins und eins gibt drei. Wir ergänzen uns optimal.
 
@@ -47,7 +47,7 @@ Unbequem ist das neue "normal". Und genau deswegen vertrauen uns die Kunden, obw
 
 Heute beschäftigen wir uns damit, wie wir aus den vielen Daten Antworten fürs Businesss ziehen können. Und so gehen wir immer einen Schritt voraus und nehmen andere mit – technisch und wohl auch menschlich.
 
-**Woher stammt der Name CoSo?**
+### Woher stammt der Name CoSo?
 
 _Patrick:_ Eigentlich war das sehr unromantisch. Doch auch sehr pragmatisch: Unser Business ist schon sehr Software-lastig. Intern hat es sich so ergeben, dass wir uns selbst alle CoSo nennen. Deswegen tragen wir das nun auch nach aussen.
 
