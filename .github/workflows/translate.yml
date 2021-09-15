@@ -29,7 +29,7 @@ jobs:
         uses: kheiakiyama/install-azcopy-action@v1.0.3
 
       - name: Copy Files to Azure Storage
-        run: azcopy cp --source content/german --destination https://cosoweb.blob.core.windows.net/german --dest-key ${{ secrets.STORAGE_KEY }} --recursive --set-content-type
+        run: azcopy cp "content/german" {{ secrets.STORAGE_GERMAN_CONNECTION_STRING }} --recursive 
 
 
       - name: Setup Python  
