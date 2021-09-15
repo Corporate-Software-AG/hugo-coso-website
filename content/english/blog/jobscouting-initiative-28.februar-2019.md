@@ -1,0 +1,11 @@
++++
+categories = ["Events"]
+date = 2019-02-26T23:00:00Z
+description = "Also this year the Jobscouting Initiative will take place for the second time in February – an event of the IT industry for the IT industry, which we would like to support with our participation! "
+image = "/uploads/cs-bewerbungsmappe-philosophie1-241x300.png"
+title = "Jobscouting Initiative - February 28, 2019"
+
++++
+Also this year, the Jobscouting Initiative will take place for the second time in February – an event of the IT industry for the IT industry, which we would like to support with our participation! Since on the one hand there is an absolute shortage of skilled workers and at the same time the unemployment figures of ICT specialists are increasing rapidly, solutions are to be found to counteract this problem. Already in the run-up we had the opportunity to review some dossiers and to invite 15 applicants to a personal interview on 28 February. The aim of the cooperation between Microsoft and the RAV of the Canton of Zurich is to network job seekers and potential employers of the Microsoft Partner Ecosystem.
+
+Qualified employees and their knowledge are regarded as the basis for entrepreneurial success. But where and above all how can this target group be found at all? The problem is no longer new to the IT industry and we are often faced with this question. Within Microsoft's premises, a place has been created where the participants get to know each other personally and – unlike usual – the focus is on people. Thus, job-seeking computer scientists in the fields of ICT planning, development, operation, project management and organization have the great opportunity to introduce themselves directly to potential new employers. If the chemistry suits both sides and good contacts have been made, there is even the possibility to leave the event on the same day with a new job in your pocket. We are looking forward to this new experience and are very excited to meet possible new team members.
