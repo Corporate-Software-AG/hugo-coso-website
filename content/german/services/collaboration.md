@@ -37,7 +37,7 @@ Corporate Software bietet mit dem CoSo Voice Service die ideale Lösung, um Mita
 >
 > **Produktive Teams-Telefonie**
 >
-> * Konfiguration produktive SIP Trunk
+> * Produktive Konfiguration der Teams-Telefonie, inkl. Anbindung ans öffentliche Netz
 > * Rufnummer Zuweisung
 > * Lizenzen-Zuweisung
 >
@@ -52,10 +52,8 @@ Corporate Software bietet mit dem CoSo Voice Service die ideale Lösung, um Mita
 >
 > **QnA-Session nach der Migration**
 >
-> Optional: Vor-Ort-Unterstützung beim GoLive
+> **Optional: Vor-Ort-Unterstützung beim GoLive**
 
-
-&nbsp;
 > **Zusatzservice**
 >
 > * Informationsplattform als PowerApp integriert
