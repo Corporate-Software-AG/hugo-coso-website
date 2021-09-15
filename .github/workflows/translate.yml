@@ -27,10 +27,11 @@ jobs:
 
       - name: Install azcopy
         uses: kheiakiyama/install-azcopy-action@v1.0.3
+        with:
+          version: 'v10'
 
       - name: Copy Files to Azure Storage
         run: azcopy copy "content/german" "${{ secrets.STORAGE_GERMAN_CONNECTION_STRING }}" --recursive=true
-
 
       - name: Setup Python  
         uses: actions/setup-python@v2
@@ -55,3 +56,8 @@ jobs:
           cs_french: ${{ secrets.STORAGE_FRENCH_CONNECTION_STRING }} 
           location: switzerlandnorth
           service_name: cosowebtranslator
+
+      - name: Download Translations
+        run: azcopy copy "${{ secrets.STORAGE_ENGLISH_CONNECTION_STRING }}/german" "content/english" --recursive=true
+
+

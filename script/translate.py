@@ -5,12 +5,11 @@ from azure.storage.blob import BlobServiceClient, BlobClient, ContainerClient
 
 print("Start Scrip")
 
-storage_key = os.environ['storage_key']
 service_key = os.environ['service_key']
 service_name = os.environ['service_name']
 german_url = os.environ['cs_german']
 english_url = os.environ['cs_english']
-french_url = os.environ['cs_french']
+#french_url = os.environ['cs_french']
 
 def get_status(id, service_key, service_name):
     host = service_name + '.cognitiveservices.azure.com'
@@ -18,7 +17,7 @@ def get_status(id, service_key, service_name):
     conn = http.client.HTTPSConnection(host)
     payload = ''
     headers = {
-    'Ocp-Apim-Subscription-Key': service_key
+        'Ocp-Apim-Subscription-Key': service_key
     }
     conn.request("GET", parameters , payload, headers)
     res = conn.getresponse()
@@ -59,6 +58,8 @@ def translate(service_key, service_name, source_url, target_url):
 
 
 print("Start Translation")
+
+"""
 response, id= translate(service_key, service_name, german_url, english_url)
 
 status = get_status(id, service_key, service_name)
@@ -68,6 +69,5 @@ while status != "Succeeded" and status != "Failed":
     status = get_status(id, service_key, service_name)
     print("Status: " + status)
 
-
-
+"""
 print("Finish Script")
