@@ -25,6 +25,13 @@ jobs:
       - name: Checkout Code
         uses: actions/checkout@v2
 
+      - name: Install azcopy
+        uses: kheiakiyama/install-azcopy-action@v1.0.3
+
+      - name: Copy Files to Azure Storage
+        run: azcopy --source content/german --destination https://cosoweb.blob.core.windows.net/french --dest-key ${{ secrets.STORAGE_KEY }} --recursive --set-content-type
+
+
       - name: Setup Python  
         uses: actions/setup-python@v2
         with:
@@ -35,11 +42,16 @@ jobs:
         with:
           packages: |
             requests
+            azure-storage-blob
 
       - name: Execute Python Script # run the run.py to get the latest data
         run: |
           python script/translate.py
         env:
-          key: ${{ secrets.COGSERV_KEY }} 
+          service_key: ${{ secrets.COGSERV_KEY }}
+          storage_key: ${{ secrets.STORAGE_KEY }}
+          cs_german: ${{ secrets.STORAGE_GERMAN_CONNECTION_STRING }} 
+          cs_english: ${{ secrets.STORAGE_ENGLISH_CONNECTION_STRING }} 
+          cs_french: ${{ secrets.STORAGE_FRENCH_CONNECTION_STRING }} 
           location: switzerlandnorth
-          name: coso-web-translator
+          name: cosowebtranslator

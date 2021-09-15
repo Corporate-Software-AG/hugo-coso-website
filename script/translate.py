@@ -1,43 +1,81 @@
-import os
+import os, uuid, json, time
 import requests
-from pprint import pprint
+import http.client
+from azure.storage.blob import BlobServiceClient, BlobClient, ContainerClient
 
-print("Start Translating")
-subscriptionKey =  "f902ada3ba8e41ec8fa3d7445ee01d94"
-serviceName = "cosowebtranslator"
 
-sourceUrl = "https://cosoweb.blob.core.windows.net/source?sv=2020-08-04&st=2021-09-15T09%3A16%3A37Z&se=2021-09-16T09%3A16%3A37Z&sr=c&sp=rl&sig=Nz%2FhCrwRr8V52MUy0N8t%2FVuFitIXsen2XOoy7glxGzw%3D"
-targetUrl = "https://cosoweb.blob.core.windows.net/destination?sv=2020-08-04&st=2021-09-15T09%3A19%3A06Z&se=2021-09-16T09%3A19%3A06Z&sr=c&sp=racwl&sig=D8bsy%2FWcK%2B0JaqW3%2FxUMZnl1brT1AF2DfJE2K08oO54%3D"
+storage_key = os.environ['storage_key']
+service_key = os.environ['service_key']
+service_name = os.environ['service_name']
+german_url = os.environ['cs_german']
+english_url = os.environ['cs_english']
+french_url = os.environ['cs_french']
 
-endpoint = "https://" + serviceName + ".cognitiveservices.azure.com/translator/text/batch/v1.0"
-path = '/batches'
-constructed_url = endpoint + path
+def get_status(id, subscription_key, service_name):
+    host = service_name + '.cognitiveservices.azure.com'
+    parameters = '//translator/text/batch/v1.0/batches/' + id
+    conn = http.client.HTTPSConnection(host)
+    payload = ''
+    headers = {
+    'Ocp-Apim-Subscription-Key': subscription_key
+    }
+    conn.request("GET", parameters , payload, headers)
+    res = conn.getresponse()
+    data = res.read().decode("utf-8")
+    return json.loads(data)["status"]
 
-payload= {
-    "inputs": [
-        {
-            "source": {
-                "sourceUrl": sourceUrl,
-                "storageSource": "AzureBlob",
-                "language": "de"
-            },
-            "targets": [
-                {
-                    "targetUrl": targetUrl,
+def translate(subscription_key, service_name, source_url, target_url):
+    endpoint = "https://" + service_name + ".cognitiveservices.azure.com/translator/text/batch/v1.0"
+    path = '/batches'
+    constructed_url = endpoint + path
+    
+    payload= {
+        "inputs": [
+            {
+                "source": {
+                    "sourceUrl": source_url,
                     "storageSource": "AzureBlob",
-                    "category": "general",
-                    "language": "en"
-                }
-            ]
-        }
-    ]
-}
-headers = {
-  'Ocp-Apim-Subscription-Key': subscriptionKey,
-  'Content-Type': 'application/json'
-}
+                    "language": "de"
+                },
+                "targets": [
+                    {
+                        "targetUrl": target_url,
+                        "storageSource": "AzureBlob",
+                        "category": "general",
+                        "language": "fr"
+                    }
+                ]
+            }
+        ]
+    }
+    headers = {
+        'Ocp-Apim-Subscription-Key': subscription_key,
+        'Content-Type': 'application/json'
+    }
 
-response = requests.post(constructed_url, headers=headers, json=payload)
+    response = requests.post(constructed_url, headers=headers, json=payload)
+    return response, response.headers['Operation-Location'].split("/")[-1]
 
-print(f'response status code: {response.status_code}\nresponse status: {response.reason}\n')
-pprint(response.headers)
+
+print("Start Scrip")
+
+storage_connection_string = "DefaultEndpointsProtocol=https;AccountName=cosoweb;AccountKey=" + storage_key + ";EndpointSuffix=core.windows.net"
+blob_service_client = BlobServiceClient.from_connection_string(storage_connection_string)
+
+
+"""
+
+print("Start Translation")
+response, id = translate(subscription_key, service_name, source_url, target_url)
+
+status = get_status(id, subscription_key, service_name)
+print("Status: " + status)
+while status != "Succeeded" and status != "Failed":
+    time.sleep(2)
+    status = get_status(id, subscription_key, service_name)
+    print("Status: " + status)
+
+
+"""
+
+print("Finish Script")
