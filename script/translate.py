@@ -59,7 +59,6 @@ def translate(service_key, service_name, source_url, target_url):
 
 print("Start Translation")
 
-"""
 response, id= translate(service_key, service_name, german_url, english_url)
 
 status = get_status(id, service_key, service_name)
@@ -69,5 +68,4 @@ while status != "Succeeded" and status != "Failed":
     status = get_status(id, service_key, service_name)
     print("Status: " + status)
 
-"""
 print("Finish Script")

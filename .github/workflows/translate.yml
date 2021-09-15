@@ -58,7 +58,7 @@ jobs:
           service_name: cosowebtranslator
 
       - name: Download Translations
-        run: azcopy copy "${{ secrets.STORAGE_ENGLISH_CONNECTION_STRING }}" "content/english/" --recursive=true
+        run: azcopy copy "${{ secrets.STORAGE_ENGLISH_CONNECTION_STRING }}" "content/" --recursive=true
 
       - name: Create Pull Request
         uses: peter-evans/create-pull-request@v3
