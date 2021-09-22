@@ -2,7 +2,6 @@
 categories = ["CoSo"]
 date = 2021-08-31T22:00:00Z
 description = "CoSo feiert 2021 seinen 10-jährigen Geburtstag. Wo nahm die Erfolgsgeschichte seinen Anfang? Und wie sehen die nächsten 10 Jahre in der Cloud aus? Das sagen Patrick Sommer, Co-Gründer, und Matthias Gessenay, Co-Gründer und CEO, dazu."
-draft = true
 image = "/uploads/cs-kalender-cover-gross-fertig-mit-andreas.jpg"
 title = "10 Jahre CoSo – die Co-Gründer erzählen"
 
@@ -67,4 +66,4 @@ _Matthias:_ Ich glaube, Erfolg kann nur von innen nach aussen wachsen. Wenn man 
 
 _Patrick:_ Als innovatives und nachhaltiges Team mit einer Startup-Kultur werden wir von unseren Kunden als Trusted Advisor geschätzt. In dieser Rolle ermöglichen wir für Kunden mit unseren Projekten neue Wege, um Business-Anforderungen mit IT-Lösungen zu unterstützen.
 
-Matthias:
+_Matthias:_ Wir arbeiten dezentral und sind bekannt für unsere hohe Kompetenz.
