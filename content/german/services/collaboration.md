@@ -24,7 +24,8 @@ Telefonieren mit Teams? Unbedingt und unkompliziert. Besonders die letzten Monat
 
 Corporate Software bietet mit dem CoSo Voice Service die ideale Lösung, um Mitarbeiter:innen die Remote-/Hybridarbeit zu ermöglichen, die lokale Hardware an mehreren Standorten abzuschaffen und die Telefonsystemlösung zu modernisieren, um neue Funktionen zu integrieren.
 
-#### Attraktives Starterpaket
+#### Attraktives Starterpaket:  
+Einführung Teams-Telefonie für CHF 1900.–
 
 > **Kick Off Call**
 >
