@@ -1,8 +1,15 @@
 {{ define "main" }}
 
-<section>
-    <div class="content">
-        <p><strong style="color: lightcoral;">404:</strong> Das haben wir leider nicht gefunden.<a href="{{ '/' | relURL }}">Go Home</a></p>
+<section class="section-padding">
+    <div class="container" style="text-align: center;">
+        <p style="font-size: 2.5rem;"><strong style="color: lightcoral;">404:</strong> Das haben wir leider nicht gefunden.</p>
+        <a href="{{ site.BaseURL }}" class="btn btn-primary has-icon">Zurück zur Startseite
+            <span class="icon"><svg width="32" height="32" viewBox="0 0 32 32" fill="none"
+                xmlns="http://www.w3.org/2000/svg">
+                <path
+                  d="M12.5522 6.66669L20.5522 14.6667C21.0329 15.1473 21.0699 15.9036 20.6632 16.4267L20.5522 16.5523L12.5522 24.5523L10.6666 22.6667L17.7228 15.6095L10.6666 8.55231L12.5522 6.66669Z"
+                  fill="currentColor" /></svg></span>
+          </a>
     </div>
 </section>
 
