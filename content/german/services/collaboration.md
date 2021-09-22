@@ -24,24 +24,17 @@ Telefonieren mit Teams? Unbedingt und unkompliziert. Besonders die letzten Monat
 
 Corporate Software bietet mit dem CoSo Voice Service die ideale Lösung, um Mitarbeiter:innen die Remote-/Hybridarbeit zu ermöglichen, die lokale Hardware an mehreren Standorten abzuschaffen und die Telefonsystemlösung zu modernisieren, um neue Funktionen zu integrieren.
 
-#### Starterpaket
+#### Attraktives Starterpaket
 
 > **Kick Off Call**
->
-> **Proof of Concept**
->
-> * Anbindung Microsoft Teams an SIP Trunk
-> * Rufnummer Zuweisung (max. 8 Benutzer)
-> * Testlizenzen-Zuweisung
-> * 1x Call Queue und 1x Auto Attendant Konfiguration
 >
 > **Produktive Teams-Telefonie**
 >
 > * Produktive Konfiguration der Teams-Telefonie, inkl. Anbindung ans öffentliche Netz
-> * Rufnummer Zuweisung
+> * Rufnummer-Zuweisung
 > * Lizenzen-Zuweisung
->
-> **Dokumentation Call Queue und Auto Attendant Konfiguration**
+> * Call-Queue- und Auto-Attendant-Konfiguration
+> * Konfiguration der Benutzerprofile
 >
 > **Koordination und Abklärung zwischen den involvierten Parteien**
 >
@@ -51,8 +44,12 @@ Corporate Software bietet mit dem CoSo Voice Service die ideale Lösung, um Mita
 > * Enduserschulung (1h)
 >
 > **QnA-Session nach der Migration**
+
+> **Optionen**
 >
-> **Optional: Vor-Ort-Unterstützung beim GoLive**
+> * Proof of Concept
+> * Weiterführende Dokumentation für die Konfiguration
+> * Vor-Ort-Unterstützung beim GoLive
 
 > **Zusatzservice**
 >
