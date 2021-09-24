@@ -66,21 +66,27 @@ Wieso Corporate Software? Sie profitieren mit uns als Implementationspartner von
 
 #### Ihre Vorteile auf einen Blick
 
-* Eine Anwendung für alles: Vereinfachen Sie die Zusammenarbeit im Team dank Telefonie, Chat, Bildschirmfreigabe und Dokumentenablage in einem Tool.
-* Modern Management: Sie profitieren von granularen Policies, flexibler Lizenzierung und Call Analytics.
-* Geringer Aufwand beim Wechsel: Sie benötigen keinen eigenen SBC und keine Hardware. Ihre bisherigen Rufnummern übertragen und nutzen Sie ganz einfach weiter.
-* Von unterwegs nutzen: Die Telefoniefunktionen können überall und auf jedem Gerät mit Microsoft Teams genutzt werden
-* Hohe Sprachqualität: Die robuste und leistungsfähige Anbindung an die Microsoft Cloud gewährleistet eine hohe Sprachqualität
-* Sicherheit: Die Kommunikation zwischen MS Teams und UPC Business ist verschlüsselt und entsprechend sicher
+* Eine Anwendung für alles
+  * Vereinfachen Sie die Zusammenarbeit im Team dank Telefonie, Chat, Bildschirmfreigabe und Dokumentenablage in einem Tool.
+* Modern Management
+  * Sie profitieren von granularen Policies und flexibler Lizenzierung.
+* Geringer Aufwand beim Wechsel
+  * Sie benötigen keinen eigenen SBC und keine Hardware. Ihre bisherigen Rufnummern übertragen und nutzen Sie ganz einfach weiter.
+* Von unterwegs nutzen
+  * Die Telefoniefunktionen können überall und auf jedem Gerät mit Microsoft Teams genutzt werden.
+* Hohe Sprachqualität
+  * Die robuste und leistungsfähige Anbindung an die Microsoft Cloud gewährleistet eine hohe Sprachqualität.
+* Sicherheit
+  * Die Kommunikation zwischen MS Teams und UPC Business ist verschlüsselt und entsprechend sicher.
 
 #### Wie läuft die Implementierung ab?
 
-1. In einem Initialworkshop stellen wir Ihnen Microsoft 365 and die MS Power Platform vor und erläutern Möglichkeiten und Grenzen von Teams Direct Routing, der Telefonanlage und dem Telefonie-Teil des Teams-Clients
-2. In einer Requirements-Analyse eruieren wir gemeinsam Ihre Business-Anforderungen
-3. Unser Lösungsdesign enthält neben den Telefonie- auch Power-Platform-Funktionalitäten, sodass wir sämtliche spezifischen Bedürfnisse Ihres Unternehmens abdecken können. Gemeinsam definieren wir die Konfiguration und das Migrationsvorgehen
-4. Mit Hilfe eines Proof of Concepts mit Live-Integration in Ihrem Tenant erleben Sie, wie viel Mehrwert die Lösung für Ihre Umgebung generiert. Wir konfigurieren im Zuge des PoC den Tenant, die Telefonanlage, die Hauptnummer mit Auto Attendant und eine Call Queue
-5. Schliesslich folgt die Konfiguration der produktiven Teams-Telefonie
-6. Damit die Teams-Telefonie-Funktionen vom ersten Tag an produktiv genutzt werden können, schulen wir Ihre Mitarbeiter:innen in den neuen Anwendungen
-7. In stündigen Q&A-Sessions mit allen Mitarbeiter:innen oder mit Ihren Superuser:innen klären wir aktuelle Fragen und Herausforderungen
+* In einem Initialworkshop erläutern wir Ihnen die Möglichkeiten und Grenzen von Teams Direct Routing, der Telefonieanlage und dem Telefonie-Teil des Teams-Clients und stellen Ihnen, falls gewünscht, die Informationsplattform näher.
+* In einer Requirements-Analyse eruieren wir gemeinsam Ihre Business-Anforderungen.
+* Unser Lösungsdesign enthält neben den Telefonie- auch Power-Platform-Funktionalitäten, sodass wir sämtliche spezifischen Bedürfnisse Ihres Unternehmens abdecken können. Gemeinsam definieren wir die Konfiguration und das Migrationsvorgehen.
+* Mit Hilfe eines Proof of Concepts mit Live-Integration in Ihrem Tenant erleben Sie, wie viel Mehrwert die Lösung für Ihre Umgebung generiert. Wir konfigurieren im Zuge des PoC den Tenant, die Telefonanlage, die Hauptnummer mit einer Auto Attendant und einer Call Queue.
+* Schliesslich folgt die Konfiguration der produktiven Teams-Telefonie.
+* Damit die Teams-Telefonie-Funktionen vom ersten Tag an produktiv genutzt werden können, schulen wir Ihre Mitarbeiter:innen in den neuen Anwendungen.
+* In stündigen Q&A-Sessions mit allen Mitarbeiter:innen oder Superuser:innen klären wir aktuelle Fragen und allfällige Probleme.
 
-Haben Sie Fragen zum CoSo Voice Service? [Lassen Sie uns gemeinsam den nächsten Schritt gehen](mailto:info@corporatesoftware.ch)
+Haben Sie Fragen zum CoSo Voice Service? [Lassen Sie uns gemeinsam den nächsten Schritt gehen.](mailto:info@corporatesoftware.ch)
