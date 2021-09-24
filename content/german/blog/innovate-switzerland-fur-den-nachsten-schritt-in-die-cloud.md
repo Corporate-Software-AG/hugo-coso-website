@@ -2,7 +2,7 @@
 categories = []
 date = 2019-08-08T22:00:00Z
 description = "2019 eröffnet Microsoft zwei Rechenzentren in der Schweiz und legt damit einen neuen Grundstein für das Schweizer Cloud Computing. Unsere Azure Alchimisten und Change Agents machen Sie am 29. August in Biel für die Schweizer Cloud startklar!"
-image = ""
+image = "/uploads/admin-ajax.webp"
 title = "\"Innovate Switzerland\" - für den nächsten Schritt in die Cloud"
 
 +++
