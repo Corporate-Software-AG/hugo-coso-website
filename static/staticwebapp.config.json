@@ -1,0 +1,19 @@
+{
+  "routes": [
+    {
+      "route": "/de",
+      "redirect": "/"
+    },{
+      "route": "/en",
+      "redirect": "/"
+    },{
+      "route": "/fr",
+      "redirect": "/"
+    }
+  ],
+  "responseOverrides": {
+    "404": {
+      "rewrite": "/404.html"
+    }
+  }
+}
