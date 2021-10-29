@@ -49,3 +49,13 @@
 .wave-group {
   zoom: 1;
 }
+
+.banner-img-container {
+	padding: 10em 1em 2em 1em;
+	background-color: $primary-color;
+}
+
+.banner-img {
+    object-fit: contain;
+	width: 100%;
+}

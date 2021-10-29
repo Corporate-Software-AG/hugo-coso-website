@@ -7,6 +7,9 @@ banner:
     enable: true
     label: Machen Sie mit uns den nächsten Schritt
     link: contact
+  promoted_image: true
+  promoted_image_url: "/images/jubilaeum.png"
+
 services:
   enable: true
   title: Services
