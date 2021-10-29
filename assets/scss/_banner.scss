@@ -51,13 +51,11 @@
 }
 
 .banner-img-container {
-	height: calc(100vh);
 	overflow-x: unset;
 	padding: 11em 0 1em 0;
 	background-color: $color-primary;
 	text-align: center;
 	img {
-		object-fit: cover;
 		max-width: 1100px;
 	}
 }
