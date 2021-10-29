@@ -5,6 +5,8 @@ paginate = "6"
 summaryLength = "10"
 theme = "hugo-theme-copper"
 title = "Corporate Software AG - Wir gehen voran, um den nächsten Schritt zu ermöglichen."
+googleAnalytics = "UA-127897200-1" # example : UA-123-45
+
 [Languages.de]
 contentDir = "content/german"
 languageCode = "de-ch"
