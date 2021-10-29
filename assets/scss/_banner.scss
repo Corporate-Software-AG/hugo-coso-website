@@ -51,11 +51,10 @@
 }
 
 .banner-img-container {
-	padding: 10em 1em 2em 1em;
-	background-color: $primary-color;
-}
-
-.banner-img {
-    object-fit: contain;
-	width: 100%;
+	padding: 11em 0 2em 0;
+	background-color: $color-primary;
+	text-align: center;
+	img {
+		max-width: 1100px;
+	}
 }
