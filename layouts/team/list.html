@@ -1,84 +1,86 @@
 {{ define "main" }}
 
 <!-- start of team-section -->
-  <div class="container">
-    <div class="row justify-content-center">
-      <div class="col-lg-8 col-md-8 text-center mb-40">
-        {{ $image := resources.GetMatch .Params.teamimage }}
-        {{ partial "image.html" (dict "Image" $image "Alt" "Team Image" "Class" "img-fluid") }}
-      </div>
-      <div class="col-lg-6 col-md-9 text-center mb-40">
-        <div class="content">{{ .Content }}</div>
-      </div>
+<div class="container">
+  <div class="row justify-content-center">
+    <div class="col-lg-8 col-md-8 text-center mb-40">
+      {{ $image := resources.GetMatch .Params.teamimage }}
+      {{ partial "image.html" (dict "Image" $image "Alt" "Team Image" "Class" "img-fluid") }}
     </div>
-    <div class="row justify-content-center">
-      <div class="col-md-12 mb-25">
-        <div class="team-filters text-uppercase text-center w-100" data-toggle="buttons">
-          <label class="btn active mb-3">
-            <input class="d-none" type="radio" name="shuffle-filter" value="all" checked="checked">
-            {{ i18n "all_together"}}
-          </label>
-
-          {{ $data := index .Site.Data .Site.Language.Lang }}
-
-					{{ $group := slice }}
-          {{ range $i, $e:= where .Site.Pages "Section" "team" }}
-          {{ if .Params.categories }}
-            {{ range .Params.categories }}
-              {{ $group = $group | append . }}
-            {{ end }}
-          {{ end }}
-          {{ end }}
-          
-					{{ range ( $group | uniq ) }}
-          <label class="btn mb-3">
-            <input class="d-none" type="radio" name="shuffle-filter" value="{{ . |urlize}}">
-            {{ . }}
-          </label>
-          {{ end }}
-        </div>
-      </div>
-    </div>
-    <div id="masonry" class="row team-members">
-      {{ range shuffle (where .Site.RegularPages "Section" "team") }}
-      {{ if ne .Params.draft true }}
-      <div class="masonry-item team-item col-lg-3 col-sm-6 col-md-4 mt-4" data-groups="[{{ if .Params.categories }}{{ $len := (len .Params.categories) }}{{ range $i, $e := .Params.categories }}&quot;{{ . | urlize }}&quot;{{ if ne (add $i 1) $len }},{{ end }}{{ end }}{{ end }}]">
-        <div class="text-center mb-30">
-          <a href="{{ .Permalink | relURL }}">
-            <div class="team-image has-shapes d-inline-block mb-25">
-              {{ $image := resources.GetMatch .Params.image }}
-              {{ partial "image.html" (dict "Image" $image "Alt" "Teammember Image" "Class" "img-fluid rounded-circle team-img") }}      
-              <div class="team-shapes">
-                <div class="shape-1 shape-xs bg-secondary rounded-circle"></div>
-                <div class="shape-2 shape-sm bg-primary rounded-circle"></div>
-                <div class="shape-3 shape-sm-2 bg-tertiary rounded-circle"></div>
-              </div>
-            </div>
-          </a>
-          <h4 class="font-weight-bold mb-10">{{ .Params.title }}</h4>
-          <p>{{ .Params.designation }}</p>
-          {{ if .Params.social }}
-          <ul class="list-unstyled list-inline mt-2">
-            {{ range sort .Params.social "icon" "asc" }}
-            <li class="list-inline-item">
-              <a target="_blank" href="{{ .link | safeURL }}" class="text-black-200 p-2 d-inline-block">
-                {{ if eq .icon "teams-icon" }}
-                <span class="{{ .icon }}"><img style="width: 20px; margin-top: -3px;" src="/images/microsoft_teams_icon_137398.png" alt=""></span>
-                {{ else }}
-                <span class="{{ .icon }}"></span>
-                {{ end }}
-              </a>
-            </li>
-            {{ end }}
-          </ul>
-          {{ end }}
-        </div>
-      </div>
-      <!-- team item -->
-      {{ end }}
-      {{ end }}
+    <div class="col-lg-6 col-md-9 text-center mb-40">
+      <div class="content">{{ .Content }}</div>
     </div>
   </div>
+  <div class="row justify-content-center">
+    <div class="col-md-12 mb-25">
+      <div class="team-filters text-uppercase text-center w-100" data-toggle="buttons">
+        <label class="btn active mb-3">
+          <input class="d-none" type="radio" name="shuffle-filter" value="all" checked="checked">
+          {{ i18n "all_together"}}
+        </label>
+
+        {{ $data := index .Site.Data .Site.Language.Lang }}
+
+        {{ $group := slice }}
+        {{ range $i, $e:= where .Site.Pages "Section" "team" }}
+        {{ if .Params.categories }}
+        {{ range .Params.categories }}
+        {{ $group = $group | append . }}
+        {{ end }}
+        {{ end }}
+        {{ end }}
+
+        {{ range ( $group | uniq ) }}
+        <label class="btn mb-3">
+          <input class="d-none" type="radio" name="shuffle-filter" value="{{ . |urlize}}">
+          {{ . }}
+        </label>
+        {{ end }}
+      </div>
+    </div>
+  </div>
+  <div id="masonry" class="row team-members">
+    {{ range shuffle (where .Site.RegularPages "Section" "team") }}
+    {{ if ne .Params.draft true }}
+    <div class="masonry-item team-item col-lg-3 col-6 col-md-4 mt-4"
+      data-groups="[{{ if .Params.categories }}{{ $len := (len .Params.categories) }}{{ range $i, $e := .Params.categories }}&quot;{{ . | urlize }}&quot;{{ if ne (add $i 1) $len }},{{ end }}{{ end }}{{ end }}]">
+      <div class="text-center mb-30">
+        <a href="{{ .Permalink | relURL }}">
+          <div class="team-image has-shapes d-inline-block mb-25">
+            {{ $image := resources.GetMatch .Params.image }}
+            {{ partial "image.html" (dict "Image" $image "Alt" "Teammember Image" "Class" "img-fluid rounded-circle team-img") }}
+            <div class="team-shapes">
+              <div class="shape-1 shape-xs bg-secondary rounded-circle"></div>
+              <div class="shape-2 shape-sm bg-primary rounded-circle"></div>
+              <div class="shape-3 shape-sm-2 bg-tertiary rounded-circle"></div>
+            </div>
+          </div>
+        </a>
+        <h4 class="font-weight-bold mb-10">{{ .Params.title }}</h4>
+        <p>{{ .Params.designation }}</p>
+        {{ if .Params.social }}
+        <ul class="list-unstyled list-inline mt-2">
+          {{ range sort .Params.social "icon" "asc" }}
+          <li class="list-inline-item">
+            <a target="_blank" href="{{ .link | safeURL }}" class="text-black-200 p-2 d-inline-block">
+              {{ if eq .icon "teams-icon" }}
+              <span class="{{ .icon }}"><img style="width: 20px; margin-top: -3px;"
+                  src="/images/microsoft_teams_icon_137398.png" alt=""></span>
+              {{ else }}
+              <span class="{{ .icon }}"></span>
+              {{ end }}
+            </a>
+          </li>
+          {{ end }}
+        </ul>
+        {{ end }}
+      </div>
+    </div>
+    <!-- team item -->
+    {{ end }}
+    {{ end }}
+  </div>
+</div>
 </section>
 <!-- end of team-section -->
 {{ end }}
