@@ -2,7 +2,7 @@
 categories = []
 date = 2021-10-05T22:00:00Z
 description = "Tataa! Zum 10-jährigen Jubiläum haben wir uns eine neue Website geschenkt. Wir freuen uns über Feedback & Anregungen!"
-image = "/uploads/bildschirmfoto-2021-10-06-um-15-04-32.png"
+image = "/uploads/screenshot-2021-11-02-at-15-20-29.png"
 title = "Die neue CoSo-Website ist online"
 
 +++
