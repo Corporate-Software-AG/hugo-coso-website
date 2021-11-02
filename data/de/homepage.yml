@@ -9,6 +9,7 @@ banner:
     link: contact
   promoted_image: true
   promoted_image_url: "/images/jubilaeum.png"
+  promoted_image_url_big: "/images/jubilaeum-big.png"
 
 services:
   enable: true

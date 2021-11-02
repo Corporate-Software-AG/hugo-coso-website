@@ -8,6 +8,10 @@
     {{ $image := resources.GetMatch .promoted_image_url }}
     {{ partial "image.html" (dict "Image" $image "Alt" "promoted image" "Class" "banner-img") }}
 </section>
+<section class="banner-img-container-big">
+    {{ $image := resources.GetMatch .promoted_image_url_big }}
+    {{ partial "image.html" (dict "Image" $image "Alt" "promoted image" "Class" "banner-img") }}
+</section>
 {{ else }}
 <section class="banner">
 

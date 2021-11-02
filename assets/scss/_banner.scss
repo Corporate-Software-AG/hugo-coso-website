@@ -50,6 +50,15 @@
   zoom: 1;
 }
 
+
+@media screen and (max-width: 1100px) {
+	.banner-img-container-big { display: none !important;}
+}
+
+@media screen and (min-width: 1100px) {
+	.banner-img-container { display: none !important;}
+}
+
 .banner-img-container {
 	overflow-x: unset;
 	padding: 11em 0 1em 0;
@@ -58,4 +67,10 @@
 	img {
 		max-width: 1100px;
 	}
+}
+
+.banner-img-container-big {
+	overflow-x: unset;
+	background-color: $color-primary;
+	text-align: center;
 }
