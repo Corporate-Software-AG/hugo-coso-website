@@ -1,7 +1,6 @@
 +++
 category = ["PowerBI", "Azure"]
 date = 2021-11-03T00:00:00Z
-draft = true
 image = "/uploads/dashboard-ubersicht-lage.png"
 title = "Mit Cloud-Daten gegen Covid – eine Case Study zu moderner Landesverteidigung"
 
