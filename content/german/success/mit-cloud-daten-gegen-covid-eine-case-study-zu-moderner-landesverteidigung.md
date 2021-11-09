@@ -37,7 +37,7 @@ Ein wichtiges Element bezüglich Datenspeicherung und -verarbeitung besteht dari
 
 Für Patrick Sommer, Projektleiter und Co-Gründer von Corporate Software, zeigte sich die Stärke des agilen Ansatzes im Umgang mit den verschiedenen Anforderungen der diversen Teams: "Ein derartiges Multi Stakeholder-Projekt benötigt Agilität und eine entsprechende Projektmethodik, eine klassische Wasserfallplanung bildet die Komplexität und Bedürfnisse einer kooperativen Entwicklung ungenügend ab." Allein bei Corporate Software intern haben Fachpersonen aus sechs, sieben verschiedenen Disziplinen wie Architektur, Plattform, Development, Data Science, Power BI in einem Team zusammengearbeitet, um den Herausforderungen gerecht zu werden. Jeden Tag haben sich die Produktentwickler abgestimmt und in Sprints kontinuierlich zusätzliche User Stories erledigt und ausgeliefert. "Trotz der traurigen Ausgangslage war dieses Projekt ein Musterbeispiel an moderner Kollaboration," zieht Patrick Sommer sein persönliches Resümee.
 
-![](/uploads/architktur-moderne-informationsplattform.png)
+![](/uploads/architktur-moderne-informationsplattform.jpg)
 
 _Bild 2: Architektur moderne Informationsplattform_
 
