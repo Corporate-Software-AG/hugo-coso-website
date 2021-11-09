@@ -39,7 +39,7 @@ Für Patrick Sommer, Projektleiter und Co-Gründer von Corporate Software, zeigt
 
 ![](/uploads/architktur-moderne-informationsplattform.png)
 
-_Bild 2: Architektur moderne Informationsplatform_
+_Bild 2: Architektur moderne Informationsplattform_
 
 ### Daten im Kampf gegen Viren – wie geht es weiter?
 
