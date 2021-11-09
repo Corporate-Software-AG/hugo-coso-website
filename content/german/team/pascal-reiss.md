@@ -1,7 +1,6 @@
 +++
 categories = []
 certifications = []
-draft = true
 image = "/uploads/pascalreiss.png"
 job_title = "Junior Consultant"
 social = []
