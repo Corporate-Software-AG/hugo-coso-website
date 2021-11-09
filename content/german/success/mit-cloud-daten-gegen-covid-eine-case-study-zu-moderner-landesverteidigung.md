@@ -5,8 +5,6 @@ image = "/uploads/dashboard-ubersicht-lage.png"
 title = "Mit Cloud-Daten gegen die Pandemie – eine Case Study zu moderner Landesverteidigung"
 
 +++
-# Mit Cloud-Daten gegen Covid – eine Case Study zu moderner Landesverteidigung
-
 **Akkurate und verfügbare Daten sind ein wichtiges Element in der Covid-Bekämpfung – sie helfen Entwicklungen und die aktuelle Lage besser einschätzen zu können.**
 
 Ob es in einem Spital freie Intensivbetten, wirksame Medikamente, passendes Fachpersonal und genügend Sauerstoff für die Schweizer Bevölkerung hat, weiss die Interdepartementale Arbeitsgruppe IDAG unter Leitung des Beauftragten des Bundesrates für den Koordinierten Sanitätsdienst seit letztem Herbst ganz genau. "Nach der ersten Welle war für uns klar: Wir wollen schneller und genauer wissen, wie wir Corona-Erkrankten die bestmögliche Versorgung zukommen lassen und wo wir unsere Ressourcen am effektivsten einsetzen können," so Mario Kaufmann, Stv. Chef Geschäftsstelle Koordinierter Sanitätsdienst und Projektmanager KSD.
