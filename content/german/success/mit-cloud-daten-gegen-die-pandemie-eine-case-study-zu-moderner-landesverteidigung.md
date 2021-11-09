@@ -1,7 +1,6 @@
 +++
 category = ["PowerBI", "Azure"]
-date = ""
-draft = true
+date = 2021-11-03T00:00:00Z
 image = "/uploads/istockphoto-1289963489-170667a.jpeg"
 title = "Mit Cloud-Daten gegen die Pandemie – eine Case Study zu moderner Landesverteidigung"
 
