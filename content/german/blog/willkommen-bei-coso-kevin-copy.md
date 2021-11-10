@@ -2,8 +2,9 @@
 categories = ["CoSo"]
 date = 2021-11-09T23:00:00Z
 description = "Kevin Ayiramala unterstützt CoSo als Junior Cloud Consultant"
+draft = true
 image = "/uploads/welcome-kevin.png"
-title = "Willkommen bei CoSo, Kevin!"
+title = "Willkommen bei CoSo, Kevin!-(copy)"
 
 +++
 Seit September 2021 dürfen wir auf die tatkräftige Unterstützung von Kevin Ayiramala zählen. Als angehender Wirtschaftsinformatik-Master unterstützt er unser Team als Junior Cloud Consultant. 
