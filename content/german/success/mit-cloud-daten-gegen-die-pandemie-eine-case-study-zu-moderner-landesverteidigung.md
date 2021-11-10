@@ -13,7 +13,7 @@ Ob es in einem Spital freie Intensivbetten, wirksame Medikamente, passendes Fach
 
 Im September 2020 folgte der Startschuss zum dringlichen Projekt, das die unterschiedlichen Datenströme automatisch aggregiert und für schnelle Auswertungen verfügbar macht. In nur 45 Tagen – so der ambitionierte Plan – sollte geschafft werden, was auf regulärem Weg ein bis zehn Jahre dauern kann. Jean-Paul Costa, Projektleiter bei armasuisse, gesteht: "Alle – sogar ich selbst – haben gesagt: Das ist unmöglich! Ich bin stolz auf das ganze Team – KSD, Microsoft, armasuisse und ganz besonders Corporate Software als Lösungs- und Implementationspartner, dass wir das neue Dashboard in der geforderten Qualität in dieser Rekordzeit zur Verfügung gestellt haben.
 
-![Dashboard](/uploads/dashboard-ubersicht-lage.png)
+![Dashboard](/uploads/dashboard-ubersicht-lage.png "Dashboard Lage-Übersicht")
 _Bild 1: Dashboard Übersicht Lage_
 
 Beim KSD und bei Mario Kaufmann liefen die Daten zusammen. "Das war auch schon so vor Corona, nur haben wir die Daten manuell aufbereitet. Aufgrund der Dringlichkeit und der schnellen Entwicklung bei Covid-19 ein zu langsamer Prozess", erklärt uns Mario Kaufmann seine Ausgangslage im September. "Jetzt kann ich per Knopfdruck und immer aktuell auf die brennendsten Fragen Auskunft geben."
@@ -36,7 +36,7 @@ Ein wichtiges Element bezüglich Datenspeicherung und -verarbeitung besteht dari
 
 Für Patrick Sommer, Projektleiter und Co-Gründer von Corporate Software, zeigte sich die Stärke des agilen Ansatzes im Umgang mit den verschiedenen Anforderungen der diversen Teams: "Ein derartiges Multi Stakeholder-Projekt benötigt Agilität und eine entsprechende Projektmethodik, eine klassische Wasserfallplanung bildet die Komplexität und Bedürfnisse einer kooperativen Entwicklung ungenügend ab." Allein bei Corporate Software intern haben Fachpersonen aus sechs, sieben verschiedenen Disziplinen wie Architektur, Plattform, Development, Data Science, Power BI in einem Team zusammengearbeitet, um den Herausforderungen gerecht zu werden. Jeden Tag haben sich die Produktentwickler abgestimmt und in Sprints kontinuierlich zusätzliche User Stories erledigt und ausgeliefert. "Trotz der traurigen Ausgangslage war dieses Projekt ein Musterbeispiel an moderner Kollaboration," zieht Patrick Sommer sein persönliches Resümee.
 
-![Ansicht einer Informationsplattform-Architektur](/uploads/architktur-moderne-informationsplattform.jpg)
+![Ansicht einer Informationsplattform-Architektur](/uploads/architktur-moderne-informationsplattform.jpg "Architektur der Informationsplattform")
 _Bild 2: Architektur moderne Informationsplattform_
 
 ### Daten im Kampf gegen Viren – wie geht es weiter?
