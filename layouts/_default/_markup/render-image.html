@@ -1,0 +1,4 @@
+{{ $image := resources.GetMatch .Destination }}
+{{ $alt := .Text }}
+{{ $title := .Title }}
+{{ partial "image.html" (dict "Image" $image "Alt" $alt "Class" "post-img" "Title" $title) }}
