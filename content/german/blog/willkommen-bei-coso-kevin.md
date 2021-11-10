@@ -2,7 +2,7 @@
 categories = ["CoSo"]
 date = 2021-11-09T23:00:00Z
 description = "Kevin Ayiramala unterstützt CoSo als Junior Cloud Consultant"
-image = "/uploads/kevinayiramala.png"
+image = "/uploads/welcome-kevin.png"
 title = "Willkommen bei CoSo, Kevin!"
 
 +++
