@@ -1,6 +1,6 @@
 ---
 title: Erfolge
-description: this is meta description
+description: ''
 image: "/uploads/cs-kalender-cover-gross-fertig-mit-andreas.jpg"
 
 ---
