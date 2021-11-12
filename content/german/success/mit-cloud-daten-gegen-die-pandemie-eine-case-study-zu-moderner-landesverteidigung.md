@@ -19,7 +19,7 @@ _Bild 1: Dashboard Übersicht Lage_
 
 Beim KSD und bei Mario Kaufmann liefen die Daten zusammen. "Das war auch schon so vor Corona, nur haben wir die Daten manuell aufbereitet. Aufgrund der Dringlichkeit und der schnellen Entwicklung bei Covid-19 ein zu langsamer Prozess", erklärt uns Mario Kaufmann seine Ausgangslage im September. "Jetzt kann ich per Knopfdruck und immer aktuell auf die brennendsten Fragen Auskunft geben."
 
-> Steht auch Ihr nächstes Projekt an? 
+> **Steht auch Ihr nächstes Projekt an?** 
 >
 > Kontaktieren Sie jetzt Patrick Sommer, Projektleiter & Co-Gründer von Corporate Software, für ein persönliches Gespräch.
 >
