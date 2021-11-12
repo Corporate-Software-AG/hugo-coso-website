@@ -19,6 +19,8 @@ _Bild 1: Dashboard Übersicht Lage_
 
 Beim KSD und bei Mario Kaufmann liefen die Daten zusammen. "Das war auch schon so vor Corona, nur haben wir die Daten manuell aufbereitet. Aufgrund der Dringlichkeit und der schnellen Entwicklung bei Covid-19 ein zu langsamer Prozess", erklärt uns Mario Kaufmann seine Ausgangslage im September. "Jetzt kann ich per Knopfdruck und immer aktuell auf die brennendsten Fragen Auskunft geben."
 
+> Steht auch Ihr nächstes Projekt an? Kontaktieren Sie jetzt Patrick Sommer, Projektleiter & Co-Gründer von Corporate Software, für ein persönliches Gespräch. [patrick.sommer@corporatesoftware.ch](mailto:patrick.sommer@corporatesoftware.ch "E-Mail Patrick Sommer"), [Teams](https://teams.microsoft.com/l/chat/0/0?users=patrick.sommer@corporatesoftware.ch "Teams Patrick Sommer")
+
 ### Eine Teamleistung von Akteuren aus verschiedenen Gebieten
 
 Mit den eintreffenden Daten koordiniert der KSD die verfügbaren Ressourcen wie Material, freie Spitalbetten, Fachpersonen und Militärdienstleistende. Beispielsweise konnten die Zusammenhänge zwischen Fallzahlen und Spitalbelegung besser dargestellt werden. Eine geographische Darstellung des Pandemieverlaufs und somit der regionalen Belastung war vor der Implementierung des Dashboards kaum möglich. Bei dieser zeitkritischen Koordination von verfügbaren Ressourcen ist das Zusammenspiel von vielen Beteiligten als Team sehr wichtig. "Diese Koordination war eine unserer grössten Herausforderungen", erklärt Mario Kaufmann.
@@ -46,3 +48,5 @@ _Bild 2: Architektur moderne Informationsplattform_
 Das System ist aus der Dringlichkeit geboren und wird im Rahmen der ausserordentlichen Lage Ende Jahr – soweit es Corona zulässt – abgeschlossen.
 
 Was bleibt, ist die neu gewonnene Erfahrung im Umgang mit Agilität und der Cloud für die Bewältigung von Krisensituationen. Dieser für den Bund unübliche Ansatz kann gemäss Jean-Paul Costa in Zukunft in kleinen Projekten weiter verfeinert und exploriert werden: "Das nächste Virus kommt leider bestimmt. Dieses Projekt hat uns gezeigt, wie wir schnell und agil auf Krisen reagieren können. Wir haben enorm viel über uns selbst gelernt und wissen nun, wie wir unsere Daten für die Verteidigung auch gegen unsichtbare Feinde noch besser nutzen können."
+
+> Steht auch Ihr nächstes Projekt an? Kontaktieren Sie jetzt Patrick Sommer, Projektleiter & Co-Gründer von Corporate Software, für ein persönliches Gespräch. [patrick.sommer@corporatesoftware.ch](mailto:patrick.sommer@corporatesoftware.ch "E-Mail Patrick Sommer"), [Teams](https://teams.microsoft.com/l/chat/0/0?users=patrick.sommer@corporatesoftware.ch "Teams Patrick Sommer")
