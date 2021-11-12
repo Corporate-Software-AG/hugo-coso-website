@@ -21,9 +21,9 @@ Beim KSD und bei Mario Kaufmann liefen die Daten zusammen. "Das war auch schon s
 
 > **Steht auch Ihr nächstes Projekt an?** 
 >
-> Kontaktieren Sie jetzt Patrick Sommer, Projektleiter & Co-Gründer von Corporate Software, für ein persönliches Gespräch.
+> Buchen Sie jetzt Ihr persönliches Gespräch mit Patrick Sommer, Projektleiter & Co-Gründer von Corporate Software: [Zur 30-Minuten-Besprechung](https://calendly.com/patricksommer/30min)
 >
-> [patrick.sommer@corporatesoftware.ch](mailto:patrick.sommer@corporatesoftware.ch "E-Mail Patrick Sommer"), [Teams](https://teams.microsoft.com/l/chat/0/0?users=patrick.sommer@corporatesoftware.ch "Teams Patrick Sommer")
+> Oder kontaktieren Sie ihn unter [patrick.sommer@corporatesoftware.ch](mailto:patrick.sommer@corporatesoftware.ch "E-Mail Patrick Sommer"), [Teams](https://teams.microsoft.com/l/chat/0/0?users=patrick.sommer@corporatesoftware.ch "Teams Patrick Sommer")
 
 ### Eine Teamleistung von Akteuren aus verschiedenen Gebieten
 
@@ -55,6 +55,6 @@ Was bleibt, ist die neu gewonnene Erfahrung im Umgang mit Agilität und der Clou
 
 > **Steht auch Ihr nächstes Projekt an?** 
 >
-> Kontaktieren Sie jetzt Patrick Sommer, Projektleiter & Co-Gründer von Corporate Software, für ein persönliches Gespräch.
+> Buchen Sie jetzt Ihr persönliches Gespräch mit Patrick Sommer, Projektleiter & Co-Gründer von Corporate Software: [Zur 30-Minuten-Besprechung](https://calendly.com/patricksommer/30min)
 >
-> [patrick.sommer@corporatesoftware.ch](mailto:patrick.sommer@corporatesoftware.ch "E-Mail Patrick Sommer"), [Teams](https://teams.microsoft.com/l/chat/0/0?users=patrick.sommer@corporatesoftware.ch "Teams Patrick Sommer")
+> Oder kontaktieren Sie ihn unter [patrick.sommer@corporatesoftware.ch](mailto:patrick.sommer@corporatesoftware.ch "E-Mail Patrick Sommer"), [Teams](https://teams.microsoft.com/l/chat/0/0?users=patrick.sommer@corporatesoftware.ch "Teams Patrick Sommer")
