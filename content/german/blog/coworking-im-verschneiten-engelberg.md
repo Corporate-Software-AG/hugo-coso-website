@@ -2,7 +2,6 @@
 categories = ["CoSo", "Microsoft"]
 date = 2021-11-16T23:00:00Z
 description = "In der ersten November-Woche 2021 hiess es: Co-Worken, Microsoft Ignite Sessions schauen und das Ignite Book of News lesen im bereits verschneiten Engelberg in Obwalden."
-draft = true
 image = "/uploads/microsoftteams-image-3.png"
 title = "CoWorking im verschneiten Engelberg"
 
