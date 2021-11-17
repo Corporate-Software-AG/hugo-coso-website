@@ -6,7 +6,7 @@ image = "/uploads/jubilaum-cs-korrigiert.jpg"
 title = "10 Jahre bei CoSo – Noah & Raphi erzählen"
 
 +++
-CoSo feiert dieses Jahr seinen 10. Geburtstag. Die Co-Gründer Matthias & Patrick [lernten sich vor 10 Jahren in einem gemeinsamen Projekt kennen](https://www.corporatesoftware.ch/blog/10-jahre-coso-die-co-grunder-erzahlen/) und merkten schnell, dass sie die Vision von modernem Arbeiten teilen. So wurde Corporate Software geboren. Sie waren alleine gut, zu zweit fantastisch. Dann kamen die ersten Cosoianer an Bord und die Erfolgsgeschichte nahm ihren Lauf. Wir haben mit [Raphael Fäh](https://www.corporatesoftware.ch/team/raphael-fah/ "Raphael Fäh") und [Noah Zani](https://www.corporatesoftware.ch/team/noah-zani/ "Noah Zani") gesprochen, die fast seit Anfang an dabei sind.
+CoSo feiert dieses Jahr seinen 10. Geburtstag. Die Co-Gründer Matthias & Patrick [_lernten sich vor 10 Jahren in einem gemeinsamen Projekt kennen_](https://www.corporatesoftware.ch/blog/10-jahre-coso-die-co-grunder-erzahlen/) und merkten schnell, dass sie die Vision von modernem Arbeiten teilen. So wurde Corporate Software geboren. Sie waren alleine gut, zu zweit fantastisch. Dann kamen die ersten Cosoianer an Bord und die Erfolgsgeschichte nahm ihren Lauf. Wir haben mit [_Raphael Fäh_](https://www.corporatesoftware.ch/team/raphael-fah/ "Raphael Fäh") und [_Noah Zani_](https://www.corporatesoftware.ch/team/noah-zani/ "Noah Zani") gesprochen, die fast seit Anfang an dabei sind.
 
 **Raphael, du bist seit August 2012 bei Corporate Software mit dabei und du Noah arbeitest seit Juni 2013 bei CoSo. Wie hat für euch die Erfolgsgeschichte von CoSo angefangen?**
 
