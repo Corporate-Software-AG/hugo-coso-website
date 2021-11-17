@@ -6,6 +6,8 @@ image = "/uploads/microsoftteams-image-3.png"
 title = "CoWorking im verschneiten Engelberg"
 
 +++
+**In der ersten November-Woche 2021 hiess es: Co-Worken, Microsoft Ignite Sessions schauen und das Ignite Book of News lesen im bereits verschneiten Engelberg in Obwalden.**
+
 Die Ignite hat bei CoSo Tradition. Während wir 2018 noch nach Orlando flogen, haben wir uns dieses Jahr für die virtuell veranstalteter Microsoft Ignite (2.-4.11.) in Engelberg getroffen und eine Woche lang zusammen gelebt und gearbeitet.
 
 Erfreut über die neu [angekündigten Services und Funktionen](https://news.microsoft.com/ignite-november-2021-book-of-news/) entstanden bereits interessante Gespräche und Diskussionen. Wir freuen uns darauf, die Neuerungen bei unseren Kund*innen vorzustellen und zu implementieren.
