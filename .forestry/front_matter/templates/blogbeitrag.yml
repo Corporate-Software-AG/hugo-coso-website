@@ -18,6 +18,7 @@ fields:
   name: categories
   label: categories
 pages:
+- content/german/blog/10-jahre-bei-coso-noah-raphi-erzahlen.md
 - content/german/blog/10-jahre-coso-die-co-grunder-erzahlen.md
 - content/german/blog/4x-gold-1x-silver-unsere-neuen-microsoft-partner-zertifizierungen-sind-da.md
 - content/german/blog/bereit-fur-das-neue-jahr.md
