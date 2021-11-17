@@ -21,7 +21,7 @@ Beim KSD und bei Mario Kaufmann liefen die Daten zusammen. "Das war auch schon s
 
 > **Erfahren Sie live mehr über das Projekt.** Am Cloud Chapter Special Event am 19.1.22 in Bern
 >
-> [Hier geht's zur Event-Registrierung](https://forms.office.com/Pages/ResponsePage.aspx?id=QX69K8kCTkuBaDOfkAxDGbQqOeDm_PlKpHscAjk1UeJUMVU3T1VMR0tBVUNCM1RKMTRXWDZJQTNTMyQlQCN0PWcu "Event-Registrierung")
+> [Hier geht's zur Event-Registrierung](https://forms.office.com/Pages/ResponsePage.aspx?id=QX69K8kCTkuBaDOfkAxDGbQqOeDm_PlKpHscAjk1UeJUMktVWDRBQzhZRjJSTVNOTzNWRVhVS1lLWCQlQCN0PWcu "Event-Registrierung")
 >
 > **Steht auch Ihr nächstes Projekt an?**
 >
@@ -59,7 +59,7 @@ Was bleibt, ist die neu gewonnene Erfahrung im Umgang mit Agilität und der Clou
 
 > **Erfahren Sie live mehr über das Projekt.** Am Cloud Chapter Special Event am 19.1.22 in Bern
 >
-> [Hier geht's zur Event-Registrierung](https://forms.office.com/Pages/ResponsePage.aspx?id=QX69K8kCTkuBaDOfkAxDGbQqOeDm_PlKpHscAjk1UeJUMVU3T1VMR0tBVUNCM1RKMTRXWDZJQTNTMyQlQCN0PWcu "Zur Event-Registrierung")
+> [Hier geht's zur Event-Registrierung](https://forms.office.com/Pages/ResponsePage.aspx?id=QX69K8kCTkuBaDOfkAxDGbQqOeDm_PlKpHscAjk1UeJUMktVWDRBQzhZRjJSTVNOTzNWRVhVS1lLWCQlQCN0PWcu "Zur Event-Registrierung")
 >
 > **Steht auch Ihr nächstes Projekt an?**
 >
