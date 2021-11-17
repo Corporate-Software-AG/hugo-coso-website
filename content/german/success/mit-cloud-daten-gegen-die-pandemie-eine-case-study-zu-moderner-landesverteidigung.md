@@ -19,7 +19,7 @@ _Bild 1: Dashboard Übersicht Lage_
 
 Beim KSD und bei Mario Kaufmann liefen die Daten zusammen. "Das war auch schon so vor Corona, nur haben wir die Daten manuell aufbereitet. Aufgrund der Dringlichkeit und der schnellen Entwicklung bei Covid-19 ein zu langsamer Prozess", erklärt uns Mario Kaufmann seine Ausgangslage im September. "Jetzt kann ich per Knopfdruck und immer aktuell auf die brennendsten Fragen Auskunft geben."
 
-> **Erfahren Sie live mehr über das Projekt.** Am 19.1.22 in Bern
+> **Erfahren Sie live mehr über das Projekt.** Am Cloud Chapter Special Event am 19.1.22 in Bern
 >
 > [Hier geht's zur Event-Registrierung](https://forms.office.com/Pages/ResponsePage.aspx?id=QX69K8kCTkuBaDOfkAxDGbQqOeDm_PlKpHscAjk1UeJUMVU3T1VMR0tBVUNCM1RKMTRXWDZJQTNTMyQlQCN0PWcu "Event-Registrierung")
 >
@@ -57,7 +57,7 @@ Das System ist aus der Dringlichkeit geboren und wird im Rahmen der ausserordent
 
 Was bleibt, ist die neu gewonnene Erfahrung im Umgang mit Agilität und der Cloud für die Bewältigung von Krisensituationen. Dieser für den Bund unübliche Ansatz kann gemäss Jean-Paul Costa in Zukunft in kleinen Projekten weiter verfeinert und exploriert werden: "Das nächste Virus kommt leider bestimmt. Dieses Projekt hat uns gezeigt, wie wir schnell und agil auf Krisen reagieren können. Wir haben enorm viel über uns selbst gelernt und wissen nun, wie wir unsere Daten für die Verteidigung auch gegen unsichtbare Feinde noch besser nutzen können."
 
-> **Erfahren Sie live mehr über das Projekt.** Am 19.1.22 in Bern
+> **Erfahren Sie live mehr über das Projekt.** Am Cloud Chapter Special Event am 19.1.22 in Bern
 >
 > [Hier geht's zur Event-Registrierung](https://forms.office.com/Pages/ResponsePage.aspx?id=QX69K8kCTkuBaDOfkAxDGbQqOeDm_PlKpHscAjk1UeJUMVU3T1VMR0tBVUNCM1RKMTRXWDZJQTNTMyQlQCN0PWcu "Zur Event-Registrierung")
 >
