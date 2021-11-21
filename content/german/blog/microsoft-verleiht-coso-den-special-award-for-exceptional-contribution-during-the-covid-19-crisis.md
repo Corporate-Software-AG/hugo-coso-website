@@ -1,5 +1,5 @@
 +++
-categories = ["Projekte", "Microsoft", "CoSo"]
+categories = ["Erfolgsgeschichte", "Microsoft", "CoSo"]
 date = 2021-11-21T23:00:00Z
 description = "Den Award haben wir für unser BI-Projekt beim Bundesamt für Rüstung armasuisse erhalten. Im Herbst 2020 haben wir in nur 45 Tagen die verfügbaren Datenquellen zusammengeschlossen und damit ein BI-Dashboard für die effektive Ressourcenplanung erstellt."
 image = "/uploads/ms-special-award_2021.png"
