@@ -42,7 +42,7 @@ Corporate Software spielt im Projekt die Rolle des Single-Point-of-Contact. "Wir
 
 Ausser der von Corporate Software entwickelten PowerApp "Informationsplattform" bedient sich die technische Lösung an Standard-Komponenten. Microsoft Teams wird mittels des Business Voice IP PBX Service von Sunrise UPC an das öffentliche Telefonnetz PSNT angeschlossen. Bei Mehrfachstandorten wird pro Standort ein Business Voice Service erfasst, damit das Notfallrouting sichergestellt werden kann.
 
-![Anbindung Teams an das öffentliche Telefonnetz](/uploads/anbindung.png)
+![Abbildung verschiedener Komponenten der technischen Lösung](/uploads/microsoftteams-image.png "Abbildung der technischen Lösung")
 
 Ein dezidierter SIP Trunk garantiert die Skalierbarkeit. Weitere Channels lassen sich einfach und schnell hinzufügen. Das Verhältnis von Nummern zu gleichzeitig aktiven Channels unterscheidet sich, ob es sich um Schulverwaltung oder um Lehrkörper handelt. So kann EDUBERN je nach Bedarf einen sehr kosteneffektiven Service anbieten.
 
