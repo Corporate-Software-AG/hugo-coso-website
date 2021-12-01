@@ -5,6 +5,13 @@ button:
   text: Sehen Sie sich mehr an!
   url: success
 testimonial_items:
+- name: Claudio Marguth
+  image: "/uploads/kantonbern.jpg"
+  designation: ICT Projektleiter / ICT Change- & Release Manager, Bildungs- und Kulturdirektion
+    des Kantons Bern
+  content: Auch bei Telefonie geht es um Zusammenarbeit, um Beziehungen. Nutzer, Daten
+    und Anwendungen sind immer mehr miteinander verbunden. Unsere User wollen von
+    einem Ort aus alles bedienen können.
 - name: Jean-Paul Costa
   image: "/uploads/armasuisse.jpg"
   designation: Projektleiter armasuisse
