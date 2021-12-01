@@ -55,5 +55,3 @@ Ein dezidierter SIP Trunk garantiert die Skalierbarkeit. Weitere Channels lassen
 "Das Angebot spricht sich bereits herum. Neben zwei Schulen, die wir aufgrund der Einstellung des bestehenden Telefonieservice noch in diesem Jahr umstellen, haben sich bereits 2 weitere Schulen dafür entschieden und 2 weitere dafür interessiert. Eine Schule hat zwar eine eigene Telefonie-Anlage im Einsatz, ist aber von unserer Vision der Zusammenarbeit und der in Microsoft Teams integrierten Lösung so überzeugt, dass sie freiwillig wechseln will," freut sich Claudio Marguth über die Marktakzeptanz des neuen Service. "Und für nächstes Jahr haben wir bereits weitere Projekte in Planung."
 
 Der neue Teams-Telefonieservice wird im Katalog 2022 als Standard angeboten. Die Informationsplattform baut Corporate Software parallel dazu weiter aus. EDUBERN übernimmt die Projektführung gegenüber den Kunden und setzt die Vorarbeiten sowie die Umstellung um. Als Know-how-Support, Troubleshooter und Weiterentwickler der Lösung ist Corporate Software voll mit im Boot.
-
-[_Zur Case Study als PDF_]()
