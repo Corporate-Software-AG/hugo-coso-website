@@ -1,5 +1,8 @@
 ---
 partner:
+- name: Fast Lane
+  logo: "/uploads/fast-lane-ch_.png"
+  link: https://www.flane.ch/
 - name: Microsoft
   logo: "/uploads/microsoft.png"
   link: https://www.microsoft.com/de-ch/
