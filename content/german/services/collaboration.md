@@ -18,13 +18,16 @@ Ihre Vorteile:
 * Flexible und effiziente Zusammenarbeit mit mehr Agilität
 * Zusammenarbeit und ihren Wert gemeinsam auf ein nächstes Level bringen
 
+> [Case Study: Berns EDUBERN Schulen telefonieren mit MS Teams > Mehr erfahren](https://www.corporatesoftware.ch/success/berns-edubern-schulen-telefonieren-mit-ms-teams/ "Case Study EDUBERN")
+
 ### CoSo Voice Service – Teams-Telefonie aus einer Hand
 
 Telefonieren mit Teams? Unbedingt und unkompliziert. Besonders die letzten Monate stellten viele Unternehmen kommunikationstechnisch vor eine Herausforderung. Viele müssen von zu Hause aus arbeiten und benötigen trotzdem sämtliche technischen Möglichkeiten analog zum Büro, da die Hauptaufgaben den telefonischen Kontakt mit den Kunden erfordern.
 
 Corporate Software bietet mit dem CoSo Voice Service die ideale Lösung, um Mitarbeiter:innen die Remote-/Hybridarbeit zu ermöglichen, die lokale Hardware an mehreren Standorten abzuschaffen und die Telefonsystemlösung zu modernisieren, um neue Funktionen zu integrieren.
 
-#### Attraktives Starterpaket:  
+#### Attraktives Starterpaket:
+
 Einführung Teams-Telefonie für CHF 1900.–
 
 > **Kick Off Call**
