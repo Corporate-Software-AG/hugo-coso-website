@@ -1,5 +1,8 @@
 ---
 partner:
+- name: Scheuss & Partner
+  logo: "/uploads/logo-scheuss-und-partner.png"
+  link: https://www.scheuss-partner.ch/
 - name: SPIE
   logo: "/uploads/spie-logo.png"
   link: https://www.spie.ch/de/
