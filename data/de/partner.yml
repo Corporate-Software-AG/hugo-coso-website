@@ -21,33 +21,15 @@ partner:
 - name: ShareGate
   link: https://en.share-gate.com/
   logo: "/uploads/sharegate.png"
-- name: Collabion
-  logo: "/uploads/collabion-logo.png"
-  link: http://www.collabion.com/
 - name: Audiocodes
   logo: "/uploads/audiocodes.png"
   link: https://www.audiocodes.com/
-- name: Pentalogic
-  logo: "/uploads/pentalogic_small.png"
-  link: http://www.pentalogic.net/
-- name: SysKit
-  logo: "/uploads/syskit.png"
-  link: https://www.syskit.com/
-- name: cloudm
-  logo: "/uploads/cloudm.png"
-  link: https://cloudm.co/
-- name: bamboo solutions
-  logo: "/uploads/bam.png"
-  link: http://store.bamboosolutions.com/
 - name: TechData
   logo: "/uploads/techdata.png"
   link: https://ch.techdata.com/Intouch/MVC/Microsite/Public?corpregionid=11&categorypageid=978&msmenuid=3070
 - name: Diventis
   logo: "/uploads/diventis.png"
   link: http://www.diventis.ch/
-- name: Ingram
-  logo: "/uploads/ingram.png"
-  link: https://ch.ingrammicro.com/
 - link: https://www.clockodo.com/de/
   name: clockodo
   logo: "/uploads/logo-clockodo.jpeg"
