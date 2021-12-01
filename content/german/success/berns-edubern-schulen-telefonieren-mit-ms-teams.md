@@ -26,11 +26,11 @@ Neben Konzept und PoC hat Corporate Software eine eigene Informationsplattform i
 Jason Browne und Raphael Fäh, Consultants bei Corporate Software und verantwortlich für die Informationsplattform, sehen darin einen grossen Vorteil der neuen Lösung. "Auf die Informationsplattform bin ich besonders stolz. Mit dieser PowerApp können Benutzer innerhalb der Schule eigenständig Veränderungen an einer Telefonzentrale oder einem Ringruf vornehmen. Die Nutzer haben sofort begonnen, die App für sich zu entdecken und zu nutzen. Wir entwickeln die Informationsplattform nun aufgrund von Kundenwünschen und Use Cases agil weiter," so Jason Browne.
 
 ![Ansicht einer App](/uploads/microsoftteams-image.png "Einstiegsseite der CoSo-Informationsplattform für EDUBERN")  
-Einstiegsseite der CoSo-Informationsplattform für EDUBERN
+Abb. Einstiegsseite der CoSo-Informationsplattform für EDUBERN
 
 ![Ansicht einer Konfigurationsseite der App](/uploads/microsoftteams-image-1.png "Konfigurationsseite der CoSo-Informationsplattform für EDUBERBN")
 
-Konfigurationsseite der CoSo-Informationsplattform für EDUBERN
+Abb. Konfigurationsseite der CoSo-Informationsplattform für EDUBERN
 
 ### Beziehungen pflegen
 
