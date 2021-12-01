@@ -1,8 +1,8 @@
 ---
 partner:
-- name: Fast Lane
-  logo: "/uploads/fast-lane-ch_.png"
-  link: https://www.flane.ch/
+- name: SPIE
+  logo: "/uploads/spie-logo.png"
+  link: https://www.spie.ch/de/
 - name: Microsoft
   logo: "/uploads/microsoft.png"
   link: https://www.microsoft.com/de-ch/
@@ -12,6 +12,9 @@ partner:
 - name: K2
   logo: "/uploads/k2.png"
   link: https://www.k2europe.net/
+- name: Fast Lane
+  logo: "/uploads/fast-lane-ch_.png"
+  link: https://www.flane.ch/
 - name: Wizdom
   logo: "/uploads/wizdom.png"
   link: https://www.wizdom-intranet.com/
