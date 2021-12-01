@@ -1,5 +1,8 @@
 ---
 partner:
+- name: Nintex
+  logo: "/uploads/nintex-logo.png"
+  link: https://www.nintex.com/
 - name: Scheuss & Partner
   logo: "/uploads/logo-scheuss-und-partner.png"
   link: https://www.scheuss-partner.ch/
