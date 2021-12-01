@@ -1,5 +1,8 @@
 ---
 partner:
+- name: Post CH AG
+  logo: "/uploads/post-logo-1.png"
+  link: https://www.post.ch/de
 - name: Terra Informatik
   logo: "/uploads/logo-terrainformatik.png"
   link: https://terra-informatik.ch/
