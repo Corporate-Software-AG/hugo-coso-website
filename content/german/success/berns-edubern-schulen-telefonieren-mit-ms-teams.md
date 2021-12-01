@@ -44,6 +44,8 @@ Ausser der von Corporate Software entwickelten PowerApp "Informationsplattform" 
 
 ![Abbildung verschiedener Komponenten der technischen Lösung](/uploads/abbildung-der-technischen-losung.png "Abbildung der technischen Lösung")
 
+Abbildung der technischen Lösung
+
 Ein dezidierter SIP Trunk garantiert die Skalierbarkeit. Weitere Channels lassen sich einfach und schnell hinzufügen. Das Verhältnis von Nummern zu gleichzeitig aktiven Channels unterscheidet sich, ob es sich um Schulverwaltung oder um Lehrkörper handelt. So kann EDUBERN je nach Bedarf einen sehr kosteneffektiven Service anbieten.
 
 "Der Aufbau eines neuen Service mit neuster Technologie, die wir bei EDUBERN vorher nicht in unserem Portfolio hatten, war sehr aufregend. Das Team war hochmotiviert. In der Zusammenarbeit mit Corporate Software konnten wir viel lernen, sodass wir nun 'Teams-Telefonie' im Katalog 2022 als Standard-Service ausschreiben können", resümiert Claudio Marguth.
