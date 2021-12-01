@@ -1,5 +1,14 @@
 ---
 partner:
+- name: Microsoft
+  logo: "/uploads/microsoft.png"
+  link: https://www.microsoft.com/de-ch/
+- name: Digicomp
+  logo: "/uploads/digicomp_logo_rgb_750x420ai.png"
+  link: https://www.digicomp.ch
+- name: Fast Lane
+  logo: "/uploads/fast-lane-ch_.png"
+  link: https://www.flane.ch/
 - name: Post CH AG
   logo: "/uploads/post-logo-1.png"
   link: https://www.post.ch/de
@@ -15,18 +24,9 @@ partner:
 - name: SPIE
   logo: "/uploads/spie-logo.png"
   link: https://www.spie.ch/de/
-- name: Microsoft
-  logo: "/uploads/microsoft.png"
-  link: https://www.microsoft.com/de-ch/
-- name: Digicomp
-  logo: "/uploads/digicomp_logo_rgb_750x420ai.png"
-  link: https://www.digicomp.ch
 - name: K2
   logo: "/uploads/k2.png"
   link: https://www.k2europe.net/
-- name: Fast Lane
-  logo: "/uploads/fast-lane-ch_.png"
-  link: https://www.flane.ch/
 - name: Wizdom
   logo: "/uploads/wizdom.png"
   link: https://www.wizdom-intranet.com/
