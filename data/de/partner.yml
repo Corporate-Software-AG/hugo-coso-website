@@ -1,5 +1,8 @@
 ---
 partner:
+- name: Terra Informatik
+  logo: "/uploads/logo-terrainformatik.png"
+  link: https://terra-informatik.ch/
 - name: Nintex
   logo: "/uploads/nintex-logo.png"
   link: https://www.nintex.com/
