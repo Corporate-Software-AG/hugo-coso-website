@@ -1,7 +1,7 @@
 +++
 category = ["Teams"]
 date = 2021-11-30T00:00:00Z
-image = "/uploads/kanton-bern.png"
+image = "/uploads/kanton-bern-edubern.png"
 title = "Berns EDUBERN Schulen telefonieren mit MS Teams"
 
 +++
