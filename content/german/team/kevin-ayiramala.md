@@ -1,6 +1,6 @@
 +++
 categories = ["Power Platform"]
-certifications = []
+certifications = ["Power Platform Fundamentals"]
 date = ""
 description = ""
 image = "/uploads/kevinayiramala.png"
