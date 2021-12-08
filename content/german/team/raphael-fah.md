@@ -1,6 +1,6 @@
 +++
 categories = ["Microsoft 365", "MCT", "Automation", "Azure"]
-certifications = ["Microsoft Certified Trainer"]
+certifications = ["Microsoft Certified Trainer", "Microsoft Certified Solutions Expert", "Microsoft Certified Solutions Associate"]
 date = ""
 description = ""
 image = "/uploads/raphael-neu-fertig.png"
@@ -24,6 +24,6 @@ link = "https://www.linkedin.com/in/raphaelfaeh/"
 +++
 Raphael liest gerne Fantasy- und Science-Fiction-Romane und in der IT hat er den Ort gefunden, an dem er seine eigne Welt entwickeln kann. Seine Mission ist es, anderen Menschen den Spass an der IT so schmackhaft zu machen, dass sie Lust bekommen, Neues auszuprobieren. Raphael ist Co-Owner und Spezialist für Automation, Azure und Cloud Computing. Die Teilbereiche PowerShell, Serverless Computing und SharePoint gehören zu seinen Fachgebieten. Neben der Betreuung verschiedener Kundenprojekte schult er als Microsoft Certified Trainer IT Professionals und Architects.
 
-> **Lernen ist wie Rudern gegen den Strom. Hört man damit auf, treibt man zurück. (Laozi)**
+> “It's still magic even if you know how it's done.” – Terry Pratchett, A Hat Full of Sky
 
 Aktivitäten: IT-Automation mit PowerShell, SharePoint Architecture & Operations, Azure & Office 365 Architecture & Implementation, System Center Operation Manager, Service Management, Orchestrator Architecture, Implementation, Automation & Troubleshooting, Trainer bei Digicomp, Code Ninja
