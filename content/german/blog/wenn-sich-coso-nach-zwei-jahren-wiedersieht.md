@@ -36,6 +36,6 @@ Jede Gruppe hat ihre Ergebnisse präsentiert und die Punkte auf der Metaplanwand
 
 Den erfüllenden Tag mit vielen neuen Impulsen, dem Austausch und den wertvollen “echten” Gesprächen und dem wieder neu spürbaren CoSo-Spirit haben wir gemeinsam in einer wunderschönen Location direkt am See bei gutem Essen ausklingen lassen.
 
-![](/uploads/apero2.jpg)
+![Gruppe junger Menschen beim Apéro am See](/uploads/apero2.jpg)
 
 Der Weg ist noch nicht zu Ende. Wir sind gespannt, worauf sich die Teams noch einlassen werden und freuen uns, euch auch künftig daran teilhaben zu lassen.
