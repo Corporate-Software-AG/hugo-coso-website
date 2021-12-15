@@ -2,7 +2,6 @@
 categories = ["CoSo"]
 date = ""
 description = "Seit Mai 2021 gibt es bei CoSo die Team Consultants, angelehnt an den Chief Happiness Officer. Wie wir diese Aufgabe greifen und mit welchen Massnahmen wir unsere Remote-Teams wieder näher zusammenbringen wollen, lest ihr in diesem Beitrag."
-draft = true
 image = "/uploads/aussenansicht.jpg"
 title = "Mit Team-Workshops aus dem Corona-Blues: wenn sich CoSo nach zwei Jahren wiedersieht"
 
