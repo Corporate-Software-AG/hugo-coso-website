@@ -6,7 +6,7 @@ image = "/uploads/we-partner-pledge-badge_transparent.png"
 title = "CoSo unterzeichnet das Microsoft-Partnerversprechen"
 
 +++
-Microsoft ist begeistert von den Möglichkeiten transformativer Technologien und deren Vorteile für uns alle. Gleichzeitig ist sich der Tech-Riese auch der Tragweite des damit verbundenen industriellen Wandels bewusst. Es gilt, die Technologien konsequent und verantwortungsvoll einzusetzen und sicherzustellen, dass alle Menschen die richtigen Qualifikationen und Chancen erhalten, um das Beste aus den Möglichkeiten der Zukunft zu machen.
+Microsoft zeichnet mit Begeisterung die Möglichkeiten transformativer Technologien und deren Vorteile für uns alle auf. Gleichzeitig ist sich der Tech-Riese auch der Tragweite des damit verbundenen industriellen Wandels bewusst. Es gilt, die Technologien konsequent und verantwortungsvoll einzusetzen und sicherzustellen, dass alle Menschen die richtigen Qualifikationen und Chancen erhalten, um das Beste aus den Möglichkeiten der Zukunft zu machen.
 
 Dafür setzt sich Microsoft ein, aber nicht allein. Seit Kurzem gibt es das [**Microsoft Partnerversprechen**](https://partner.microsoft.com/de-ch/connect/local/ch-partner/partner-pledge "Mehr Infos zum Microsoft-Partnerversprechen")**.**
 
