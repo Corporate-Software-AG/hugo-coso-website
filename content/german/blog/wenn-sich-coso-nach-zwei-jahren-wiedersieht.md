@@ -3,7 +3,7 @@ categories = ["CoSo"]
 date = ""
 description = "Seit Mai 2021 gibt es bei CoSo die Team Consultants, angelehnt an den Chief Happiness Officer. Wie wir diese Aufgabe greifen und mit welchen Massnahmen wir unsere Remote-Teams wieder näher zusammenbringen wollen, lest ihr in diesem Beitrag."
 draft = true
-image = "/uploads/apero2.jpg"
+image = "/uploads/aussenansicht.jpg"
 title = "Mit Team-Workshops aus dem Corona-Blues: wenn sich CoSo nach zwei Jahren wiedersieht"
 
 +++
@@ -21,15 +21,14 @@ Wir waren gerührt ob der Offenheit und dem Vertrauen, das wir in den Gespräche
 
 ### Das grosse Wiedersehen
 
-Ende September kam der grosse Moment. Wir trafen uns nach monate-, teilweise jahrelanger “Abstinenz” fast komplett zum gemeinsamen Austausch im Rahmen eines Workshops. Das P15 by La Werkstadt gleich beim Bahnhof in Biel bot für uns den richtigen Rahmen, um wieder im gemeinsamen Miteinander anzukommen, einmal zurück- und ganz besonders nach vorne zu blicken. Wir haben dem Team erzählt, welche Themen und Anliegen durch unsere CoSo-Gespräche sichtbar geworden sind. Und wir konnten die Gelegenheit vor Ort gleich dazu nutzen, zusammen die nächste Station auf unserer gemeinsamen Lernreise anzupeilen: Wovon brauchen wir mehr? Woran sollen wir als Nächstes gemeinsam arbeiten? Was ist am dringendsten? 
+Ende September kam der grosse Moment. Wir trafen uns nach monate-, teilweise jahrelanger “Abstinenz” fast komplett zum gemeinsamen Austausch im Rahmen eines Workshops. Das P15 by La Werkstadt gleich beim Bahnhof in Biel bot für uns den richtigen Rahmen, um wieder im gemeinsamen Miteinander anzukommen, einmal zurück- und ganz besonders nach vorne zu blicken. Wir haben dem Team erzählt, welche Themen und Anliegen durch unsere CoSo-Gespräche sichtbar geworden sind. Und wir konnten die Gelegenheit vor Ort gleich dazu nutzen, zusammen die nächste Station auf unserer gemeinsamen Lernreise anzupeilen: Wovon brauchen wir mehr? Woran sollen wir als Nächstes gemeinsam arbeiten? Was ist am dringendsten?
 
-Nicht wenige, die in den letzten zwei Jahren zu CoSo gestossen sind, sahen ihre Teamgspönli zum ersten Mal live. Und einige der “alten Hasen” stellten mit Blick in die Runde fest: die Hälfte hier hab ich noch nie gesehen! Umso erstaunlicher war es, dass aus lauter Individuen sofort eine Gruppe entstanden ist, ein bunter Haufen interessierter Menschen, die aufeinander zugingen, zusammen lachen und arbeiten konnten. 
+Nicht wenige, die in den letzten zwei Jahren zu CoSo gestossen sind, sahen ihre Teamgspönli zum ersten Mal live. Und einige der “alten Hasen” stellten mit Blick in die Runde fest: die Hälfte hier hab ich noch nie gesehen! Umso erstaunlicher war es, dass aus lauter Individuen sofort eine Gruppe entstanden ist, ein bunter Haufen interessierter Menschen, die aufeinander zugingen, zusammen lachen und arbeiten konnten.
 
 ![Gruppe von jungen Menschen vor einem Whiteboard](/uploads/gruppe-in-action-2.jpg "Die Cosoianer in Action")
 
-In Rollen-gemischten Gruppen erarbeiteten die Teams aufgrund der gesammelten Themen konkrete To Do’s. Wie kommen wir zum Zielbild? Was soll erarbeitet werden? Was sind eure Erwartungen und Wünsche an die verschiedenen Rollen in den Teams? Wie können wir als Team Consultants unterstützen? 
+In Rollen-gemischten Gruppen erarbeiteten die Teams aufgrund der gesammelten Themen konkrete To Do’s. Wie kommen wir zum Zielbild? Was soll erarbeitet werden? Was sind eure Erwartungen und Wünsche an die verschiedenen Rollen in den Teams? Wie können wir als Team Consultants unterstützen?
 
-  
 ![Gruppe Menschen vor einem Kaffee](/uploads/gruppe-in-action-3.jpg "Eine Gruppe beim gemeinsamen Arbeiten") ![Gruppe Menschen auf einer Treppe im Freien](/uploads/gruppe-in-action-4.jpg "Gruppe 2 beim Arbeiten")
 
 Jede Gruppe hat ihre Ergebnisse präsentiert und die Punkte auf der Metaplanwand festgehalten. Somit ist es konkret möglich, die Themen gemeinsam zu priorisieren und im nächsten Schritt die Ideen aus den Teams anzuschauen und umzusetzen. Darunter gibt es auch ganz simple Vorschläge, wie zum Beispiel beim virtuellen Meeting die Kamera einzuschalten, aber auch das Thema Reorg der Teamstrukturen, was nochmals eine Runde brauchen wird.
@@ -37,5 +36,7 @@ Jede Gruppe hat ihre Ergebnisse präsentiert und die Punkte auf der Metaplanwand
 ![Post-its auf Wand](/uploads/resultate-gruppe-3.jpg "Resultate aus einer Arbeitsgruppe")![Post-its auf Flipchart](/uploads/resultate-gruppe-1.jpg "Resultate aus der zweiten Gruppe")![Post-its an Wand](/uploads/resultate-gruppe-2.jpg "Resultate aus der Gruppe 3")
 
 Den erfüllenden Tag mit vielen neuen Impulsen, dem Austausch und den wertvollen “echten” Gesprächen und dem wieder neu spürbaren CoSo-Spirit haben wir gemeinsam in einer wunderschönen Location direkt am See bei gutem Essen ausklingen lassen.
+
+![](/uploads/apero2.jpg)
 
 Der Weg ist noch nicht zu Ende. Wir sind gespannt, worauf sich die Teams noch einlassen werden und freuen uns, euch auch künftig daran teilhaben zu lassen.
