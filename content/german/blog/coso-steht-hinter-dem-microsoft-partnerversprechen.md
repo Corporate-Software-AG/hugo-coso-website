@@ -1,7 +1,7 @@
 +++
-categories = []
-date = ""
-description = ""
+categories = ["Microsoft"]
+date = 2021-12-14T23:00:00Z
+description = "Microsoft hat das Partnerversprechen ins Leben gerufen, um gemeinsam dafür zu sorgen, dass Technologien ethisch korrekt und verantwortungsvoll eingesetzt werden."
 draft = true
 image = "/uploads/we-partner-pledge-badge_transparent.png"
 title = "CoSo steht hinter dem Microsoft-Partnerversprechen"
