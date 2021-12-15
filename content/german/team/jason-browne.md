@@ -1,6 +1,6 @@
 +++
 categories = ["Data Platform", "Azure", "MCT", "Microsoft 365"]
-certifications = ["Microsoft Certified Trainer", "Microsoft 365 Certified: Security Administrator Associate", "Microsoft 365 Certified: Teams Administrator Associate", "Microsoft 365 Certified: Teamwork Administrator Associate"]
+certifications = ["Microsoft Certified Trainer", "Microsoft 365 Certified: Security Administrator Associate", "Microsoft 365 Certified: Teams Administrator Associate", "Microsoft 365 Certified: Teamwork Administrator Associate", "Microsoft Certified: Azure Fundamentals", "Microsoft 365 Certified: Fundamentals"]
 date = ""
 image = "/uploads/jason-fertig.png"
 job_title = "Consultant"
