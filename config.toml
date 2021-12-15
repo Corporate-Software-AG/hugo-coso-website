@@ -1,12 +1,11 @@
 baseURL = "https://www.corporatesoftware.ch"
 defaultContentLanguage = "de"
 disableLanguages = ["fr", "en"]
+googleAnalytics = "UA-127897200-1"
 paginate = "6"
 summaryLength = "10"
 theme = "hugo-theme-copper"
-title = "Corporate Software AG - Wir gehen voran, um den nächsten Schritt zu ermöglichen."
-googleAnalytics = "UA-127897200-1" # example : UA-123-45
-
+title = "Corporate Software AG – Cloud-IT-Lösungen für Unternehmen"
 [Languages.de]
 contentDir = "content/german"
 languageCode = "de-ch"
