@@ -5,7 +5,7 @@ description: Erleben Sie selbst, wie Ihre Arbeitsprozesse verbessert und unterst
 image: "/uploads/bereich_it_automation.png"
 
 ---
-# Sparen Sie Zeit & verbessern Sie die Qualität dank Automation
+# Sparen Sie Zeit & erhöhen Sie die Qualität dank Automation
 
 Überlassen Sie die repetitiven Aufgaben der Maschine. Wir entwickeln individuelle Automation-Lösungen für Ihre Bedürfnisse. Intelligente Workflows durch Robotic Process Automation (RPA) oder Sie unterstützen Ihre Kunden mit einem Chat-Bot auf Ihrer Webseite oder Applikation.
 
