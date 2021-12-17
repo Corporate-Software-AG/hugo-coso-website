@@ -2,7 +2,7 @@
 title: Datenschutz und Impressum
 
 ---
-### **Verantwortlich für den Inhalt der Seiten**
+### Verantwortlich für den Inhalt der Seiten**
 
 Patrick Sommer  
 Corporate Software AG  
