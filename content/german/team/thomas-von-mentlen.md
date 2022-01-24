@@ -15,9 +15,10 @@ certifications:
 - Azure AI Engineer Associate
 - Azure Solution Architect Expert
 - Azure DevOps Engineer Expert
-- "Microsoft 365 Certified: Developer Associate"
-- "Microsoft 365 Certified: Teams Administrator Associate"
+- 'Microsoft 365 Certified: Developer Associate'
+- 'Microsoft 365 Certified: Teams Administrator Associate'
 - Power Platform Developer Associate
+- 'Microsoft 365 Certified: Security Administrator Associate'
 job_title: Cloud Consultant, Trainer (MCT)
 team: Seal Team
 social:
