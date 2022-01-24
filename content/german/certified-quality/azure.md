@@ -1,12 +1,12 @@
 ---
 title: Azure
 certifications:
-- name: Azure Fundamentals
-  badge: "/uploads/microsoft-azure-fundamentals-badge.png"
 - name: Azure Administrator Associate
   badge: "/images/certs/azure-administrator-associate-600x600.png"
 - name: Azure Developer Associate
   badge: "/images/certs/azure-developer-associate-600x600.png"
+- name: Azure Security Engineer Associate
+  badge: "/images/certs/microsoft-certified-azure-security-engineer-associate.png"
 - name: Azure AI Engineer Associate
   badge: "/images/certs/azure-ai-engineer-600x600.png"
 - name: Azure Data Engineer Associate

@@ -1,6 +1,6 @@
 +++
 categories = ["MCT", "Automation", "Microsoft 365"]
-certifications = ["Microsoft Certified Trainer", "Microsoft 365 Certified: Teams Administrator Associate"]
+certifications = ["Microsoft Certified Trainer", "Microsoft 365 Certified: Teams Administrator Associate", 'Microsoft 365 Certified: Security Administrator Associate']
 date = ""
 image = "/uploads/tamarastofer.png"
 job_title = "Consultant und Trainerin"

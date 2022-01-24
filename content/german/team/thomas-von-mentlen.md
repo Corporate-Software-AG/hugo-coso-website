@@ -12,6 +12,7 @@ certifications:
 - Microsoft Certified Trainer
 - Azure Administrator Associate
 - Azure Developer Associate
+- Azure Security Engineer Associate
 - Azure AI Engineer Associate
 - Azure Solution Architect Expert
 - Azure DevOps Engineer Expert
