@@ -1,6 +1,5 @@
 +++
-description = ""
-draft = true
+description = "Werde Teil des Teams als gesuchter Cloud Consultant"
 title = "Cloud Consultant"
 
 +++
