@@ -4,7 +4,7 @@ certifications = []
 date = ""
 image = "/uploads/marlonloretz.jpg"
 job_title = "Junior Consultant"
-name = "Jason Browne"
+name = "Marlon Loretz"
 team = "Seal"
 title = "Marlon Loretz"
 [[social]]

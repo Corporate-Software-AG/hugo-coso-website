@@ -5,7 +5,7 @@ date = ""
 draft = true
 image = ""
 job_title = "Junior Consultant"
-name = "Thomas von Mentlen"
+name = "Christian Filliger"
 team = "Seal Team"
 title = "Christian Filliger"
 [[social]]

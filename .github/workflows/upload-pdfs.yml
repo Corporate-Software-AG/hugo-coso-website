@@ -31,4 +31,4 @@ jobs:
           version: 'v10'
 
       - name: Copy Files to Azure Storage
-        run: azcopy copy "assets/uploads/*.pdf" "${{ secrets.STORAGE_FILE_ACCESS }}" --recursive=true
+        run: azcopy copy "assets/uploads/*.pdf" "${{ secrets.STORAGE_FILE_ACCESS }}"
