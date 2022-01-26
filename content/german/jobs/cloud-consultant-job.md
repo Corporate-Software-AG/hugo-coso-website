@@ -37,3 +37,5 @@ Zeichnest du dich aus durch Selbstständigkeit, Flexibilität, Wissbegierde, Mot
 * Mindestens Niveau B1/B2 in Deutsch und Englisch
 
 > **Hast du Fragen? Wir sind gerne für dich da unter** [**jobs@corporatesoftware.ch**](mailto:jobs@corporatesoftware.ch "jobs@corporatesoftware.ch")
+>
+> Alle Infos findest du auch im [Cloud Consultant (PDF)](https://cosoweb.blob.core.windows.net/files/cloud-consultant-jobanzeige.pdf "Cloud Consultant Jobangebot (PDF)")
