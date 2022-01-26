@@ -13,8 +13,6 @@ Zeichnest du dich aus durch Selbstständigkeit, Flexibilität, Wissbegierde, Mot
 * Agile Arbeitskultur in einem jungen, dynamischen und motivierten Team mit kurzen Entscheidungswegen
 * Professioneller Einsatz von Leading-Edge-Technologien
 * Grosses Netzwerk namhafter, internationaler Partner und Kunden
-
-
 * Möglichkeit der selbstständigen Planung und Durchführung von schweizweiten/internationalen Projekten
 
 **Wir bieten dir**
@@ -22,8 +20,6 @@ Zeichnest du dich aus durch Selbstständigkeit, Flexibilität, Wissbegierde, Mot
 * Work-Life-Integration: Plane deine Arbeitszeiten selbst und arbeite im Homeoffice
 * Grosses Aus- und Weiterbildungsangebot (z.B. Microsoft Certified Trainer:in MCT/MPP)
 * Individueller und nachhaltiger Karriereweg in einem Unternehmen mit Start-Up-Kultur, zahlreichen Teamevents und Goodies
-
-
 * Rasche Übernahme von Verantwortung in eigenen Projekten
 * Möglichkeit der jährlichen Teilnahme an der Ignite (USA) und europaweiten Events
 
@@ -31,15 +27,11 @@ Zeichnest du dich aus durch Selbstständigkeit, Flexibilität, Wissbegierde, Mot
 
 * Abgeschlossenes Studium im Bereich der Informatik oder Wirtschaftsinformatik (BA/MA) oder abgeschlossene Lehre als Informatiker:in EFZ
 * Erfahrung mit Microsoft-Technologien wie Azure, Windows Server und Microsoft 365 (SharePoint, PowerApps, PowerBI)
-
-
 * Kenntnisse von Netzwerkarchitekturen und Konfiguration
 * Erfahrung mit Scripting im Bereich Automatisierung (Batch und Powershell)
 * Bereitschaft für lebenslanges Lernen und Weitervermittlung deines Wissens als Trainer:in
 * Ein hohes Mass an Selbstständigkeit, Flexibilität und Kontaktfreudigkeit
 * Qualitätsbewusstsein, Ziel- und Kundenorientierung
-
-
 * Freude an Sales und Begeisterung für nachhaltige IT-Lösungskonzepte
 * Freude daran, schweizweit und über die Grenzen hinaus Kunden zu beraten und betreuen
 * Mindestens Niveau B1/B2 in Deutsch und Englisch
