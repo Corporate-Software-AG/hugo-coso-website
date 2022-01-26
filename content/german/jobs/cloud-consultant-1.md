@@ -35,3 +35,5 @@ Zeichnest du dich aus durch Selbstständigkeit, Flexibilität, Wissbegierde, Mot
 * Freude an Sales und Begeisterung für nachhaltige IT-Lösungskonzepte
 * Freude daran, schweizweit und über die Grenzen hinaus Kunden zu beraten und betreuen
 * Mindestens Niveau B1/B2 in Deutsch und Englisch
+
+> **Hast du Fragen? Wir sind gerne für dich da unter jobs@corporatesoftware.ch**
