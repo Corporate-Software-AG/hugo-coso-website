@@ -5,7 +5,7 @@ draft = true
 image = ""
 job_title = "Junior Consultant"
 social = []
-team = "A-Team"
-title = "Manuel Gloor"
+team = "Seal Team"
+title = "Christian Filliger"
 
 +++
