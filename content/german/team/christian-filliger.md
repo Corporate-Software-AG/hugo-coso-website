@@ -1,7 +1,7 @@
 +++
 categories = []
 certifications = []
-date = nil
+date = ""
 draft = true
 image = ""
 job_title = "Junior Consultant"
