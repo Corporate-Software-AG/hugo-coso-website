@@ -1,6 +1,7 @@
 +++
 categories = []
 certifications = []
+name = "Jashna Karthigesu"
 image = "/uploads/jashnakarthigesu.png"
 job_title = "HR & Finance Support"
 team = "General Circle"
