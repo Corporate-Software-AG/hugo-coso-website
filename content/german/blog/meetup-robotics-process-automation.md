@@ -1,6 +1,6 @@
 +++
 categories = ["Events"]
-date = ""
+date = 2022-01-25T23:00:00Z
 description = "Mit Power Automate lassen sich Arbeitsprozesse optimieren, digitalisieren und automatisieren. Robotic Process Automation im Speziellen ist eine echt coole Möglichkeit für Unternehmen, noch agiler zu werden."
 image = "/uploads/robotic-process-automation-in-a-day.png"
 title = "Meetup Robotics Process Automation"
