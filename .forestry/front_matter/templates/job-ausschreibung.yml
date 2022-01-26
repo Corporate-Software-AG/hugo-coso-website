@@ -17,6 +17,7 @@ fields:
       format: markdown
   label: Beschreibung
 pages:
+- content/german/jobs/cloud-consultant-1.md
 - content/german/jobs/coso-academy.md
 - content/german/jobs/finance-hr-support-20-40.md
 - content/german/jobs/junior-power-platform-architect-20-60.md
