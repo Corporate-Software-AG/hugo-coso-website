@@ -21,3 +21,5 @@ fields:
   config:
     maxSize: 64
   label: Bild
+pages:
+- content/german/services/trainings-fur-ihr-unternehmen.md
