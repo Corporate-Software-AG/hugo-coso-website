@@ -1,16 +1,12 @@
 +++
-categories = []
+categories = ["Azure"]
 certifications = []
 date = ""
-draft = true
 image = "/uploads/marlonloretz.jpg"
 job_title = "Junior Consultant"
 name = "Jason Browne"
 team = "Seal"
 title = "Marlon Loretz"
-[[social]]
-icon = "ti-headphone-alt"
-link = "tel:+41 32 315 "
 [[social]]
 icon = "ti-email"
 link = "mailto:marlon.loretz@corporatesoftware.ch"
@@ -22,3 +18,6 @@ icon = "ti-linkedin"
 link = "https://www.linkedin.com/in/marlon-loretz-4356b0229/"
 
 +++
+Wer hat Lust auf eine Runde Schach? Marlon wäre sofort dabei. Der Wirtschaftsinformatik-Student ist leidenschaftlicher Schachspieler, lässt aber auch gerne die Bälle tanzen beim Fussball oder im Tennis. Ursprünglich wollte Marlon in die Applikationsentwicklung. Um seiner Neugierde genügend Futter zu bieten und laufend neue Bereiche erkunden zu können, hat er dann aber zum Data Consulting gewechselt. Wir freuen uns, denn nun ist er Teil des CoSo-Teams als Junior Consultant.
+
+> Yesterday ist history, tomorrow is a mistery, but today is a gift. That's why it's called present.
