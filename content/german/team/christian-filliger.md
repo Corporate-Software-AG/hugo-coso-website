@@ -19,3 +19,4 @@ icon = "ti-linkedin"
 link = "https://www.linkedin.com/in/christian-filliger-16361a14b/"
 
 +++
+Christian ist von Haus aus Elektroniker, hat aber schon bald gemerkt, dass ihm die Software-Seite eigentlich viel mehr liegt. Aktuell studiert er Informatik an der ZHAW. Dort hat er sein Interesse entdeckt für alles, was mit Daten und Automation zu tun hat, besonders der Bereich Data Engineering hat es ihm angetan. Christian hat allgemein grosses Interesse daran, Neues zu lernen – aus allen möglichen Themengebieten. Space Nerds aufgepasst, es gibt einen neuen im Club! Und auch das lässt sein Herz höherschlagen: Gaming, Bike-Touren und Hunde.
