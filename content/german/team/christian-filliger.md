@@ -1,5 +1,5 @@
 +++
-categories = []
+categories = ["Power Platform", "Data Platform", "Automation"]
 certifications = []
 date = ""
 draft = true
