@@ -1,8 +1,7 @@
 +++
 categories = ["CoSo"]
-date = 2022-02-15T23:00:00Z
+date = 2022-02-16T23:00:00Z
 description = "Schön, dass du da bist, Marlon!"
-draft = true
 image = "/uploads/welcome-marlon.png"
 title = "Hi Marlon! Wir wünschen dir einen guten Start"
 
