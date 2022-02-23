@@ -2,7 +2,7 @@
 title: Datenschutz und Impressum
 
 ---
-### Verantwortlich für den Inhalt der Seiten**
+### Verantwortlich für den Inhalt der Seiten
 
 Patrick Sommer  
 Corporate Software AG  
@@ -20,7 +20,7 @@ Handelsreg.-Nr.: CHE-367.021.020
 
 Das Copyright für sämtliche Inhalte dieser Website liegt bei der Corporate Software AG.
 
-###  Haftungsausschluss
+### Haftungsausschluss
 
 Alle Texte und Links sind sorgfältig geprüft und werden immer laufend aktualisiert. Wir sind stets bemüht, richtige und vollständige Informationen auf dieser Website bereitzustellen. Wir übernehmen aber keinerlei Verantwortung, Garantien oder Haftung dafür, dass die durch diese Website bereitgestellten Informationen, richtig, vollständig oder aktuell sind. Wir behalten uns das Recht vor, jederzeit und ohne Vorankündigung die Informationen auf dieser Website zu ändern und verpflichten uns auch nicht, die enthaltenen Informationen zu aktualisieren.
 
@@ -44,7 +44,7 @@ Durch die Nutzung von Application Insights werden zusätzlich folgende Daten erh
 
 Wir haben die Möglichkeit, diese Daten mittels verschiedener Reports auszuwerten. Bei diesen Daten handelt es sich um anonyme statistische Daten. Die Herstellung eines Personenbezugs ist aufgrund dieser Daten nicht möglich. Die Auswertungen dienen sämtlich der Fehlerbehebung und Optimierung der Webseite und der Anwendung.
 
-Weitergehende Informationen von Microsoft zum Thema Datenschutz und Azure finden Sie unter: [http://azure.microsoft.com/de-de/support/trust-center/privacy/](http://azure.microsoft.com/de-de/support/trust-center/privacy/) sowie für Application Insights unter [https://docs.microsoft.com/de-de/azure/application-insights/app-insights-data-retention-privacy](https://docs.microsoft.com/de-de/azure/application-insights/app-insights-data-retention-privacy) 
+Weitergehende Informationen von Microsoft zum Thema Datenschutz und Azure finden Sie unter: [http://azure.microsoft.com/de-de/support/trust-center/privacy/](http://azure.microsoft.com/de-de/support/trust-center/privacy/) sowie für Application Insights unter [https://docs.microsoft.com/de-de/azure/application-insights/app-insights-data-retention-privacy](https://docs.microsoft.com/de-de/azure/application-insights/app-insights-data-retention-privacy)
 
 ### Google Analytics
 
