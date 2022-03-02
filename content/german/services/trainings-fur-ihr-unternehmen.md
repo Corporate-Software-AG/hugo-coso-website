@@ -1,6 +1,5 @@
 +++
 description = "Digitale Transformation endet nicht mit dem Gang in die Cloud. Wir begleiten Sie auch mit dem nächsten Schritt."
-draft = true
 image = "/uploads/training.png"
 title = "Trainings"
 
@@ -9,7 +8,7 @@ CoSo begleitet seine Kund:innen bei der Entdeckung von neuen Gebieten und befäh
 
 Bei CoSo profitieren Sie von mehr als zehn Microsoft Certified Trainers – allesamt führende technische und didaktische Expert:innen für Microsoft-Technologien. Alle unsere Microsoft Certified Trainer verfügen über die entsprechenden Microsoft-Zertifizierungen, die ihre Erfahrungen und Kenntnisse im Umgang mit Microsoft-Produkten und -Lösungen für die durchgeführten Kurse bestätigt.
 
-Haben Sie ein neues Tool oder System eingeführt oder testen Sie neue Methoden in Ihrem Team? 
+Haben Sie ein neues Tool oder System eingeführt oder testen Sie neue Methoden in Ihrem Team und benötigen Sie Unterstützung von unseren Expert:innen? 
 
 Nehmen Sie mit uns Kontakt auf. Gerne schnüren wir das für Ihr Unternehmen passende Trainingspaket.
 
