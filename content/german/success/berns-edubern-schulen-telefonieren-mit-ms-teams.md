@@ -11,9 +11,15 @@ Claudio Marguth ist seit mehr als 25 Jahren in der IT tätig. Er kennt sein Hand
 
 Im September 2020 bekam Patrick Sommer, Co-Gründer von Corporate Software, den Auftrag, einen ausführlichen Proof of Concept (PoC) zu erstellen. Das Pilotprojekt mit 2 fiktiven Schulen umfasste 20 Nutzer und über 40 Use Cases. Die Anbindung lief über die Sunrise UPC Business Solutions. Die Resultate des PoC waren sehr positiv.
 
+> **Steht auch Ihr nächstes Projekt an?**
+>
+> Buchen Sie jetzt Ihr persönliches Gespräch mit Patrick Sommer, Projektleiter & Co-Gründer von Corporate Software: [Zur 30-Minuten-Besprechung](https://calendly.com/patricksommer/30min)
+>
+> Oder kontaktieren Sie ihn unter [patrick.sommer@corporatesoftware.ch](mailto:patrick.sommer@corporatesoftware.ch "E-Mail Patrick Sommer") oder via [Teams](https://teams.microsoft.com/l/chat/0/0?users=patrick.sommer@corporatesoftware.ch "Teams Patrick Sommer")
+
 ### Vision "Zusammenarbeit"
 
-Das Bildungszentrum Emme wurde als erste Schule im August 2021 umgestellt; dort tätigen neu 280 Schulangestellte und Lehrer Telefonanrufe direkt aus Microsoft Teams heraus. Inzwischen sind auch das Gymnasium Biel, die BFF und seit Mitte Februar 2022 das Gymnasium Burgdorf migriert. 
+Das Bildungszentrum Emme wurde als erste Schule im August 2021 umgestellt; dort tätigen neu 280 Schulangestellte und Lehrer Telefonanrufe direkt aus Microsoft Teams heraus. Inzwischen sind auch das Gymnasium Biel, die BFF und seit Mitte Februar 2022 das Gymnasium Burgdorf migriert.
 
 Die Teams-Telefonie lässt sich auf fast allen Geräten einbinden. Die Lehrer freut’s: Sie verfügen nun auf ihrem Mobiltelefon über zwei Nummern – die private Mobile-Nummer und die geschäftliche Teams-Nummer. So können sie privat und Arbeit einfach trennen.
 
@@ -57,3 +63,9 @@ Ein dezidierter SIP Trunk garantiert die Skalierbarkeit. Weitere Channels lassen
 "Das Angebot spricht sich bereits herum. Neben den Schulen, die wir aufgrund der Einstellung des bestehenden Telefonieservice bereits 2021 umgestellt haben, haben sich bereits 2 weitere Schulen dafür entschieden und 2 weitere dafür interessiert. Eine Schule hat zwar eine eigene Telefonie-Anlage im Einsatz, ist aber von unserer Vision der Zusammenarbeit und der in Microsoft Teams integrierten Lösung so überzeugt, dass sie freiwillig wechseln will," freut sich Claudio Marguth über die Marktakzeptanz des neuen Service. "Und für nächstes Jahr haben wir bereits weitere Projekte in Planung."
 
 Der neue Teams-Telefonieservice wird im Katalog 2022 als Standard angeboten. Die Informationsplattform baut Corporate Software parallel dazu weiter aus. EDUBERN übernimmt die Projektführung gegenüber den Kunden und setzt die Vorarbeiten sowie die Umstellung um. Als Know-how-Support, Troubleshooter und Weiterentwickler der Lösung ist Corporate Software voll mit im Boot.
+
+> **Steht auch Ihr nächstes Projekt an?**
+>
+> Buchen Sie jetzt Ihr persönliches Gespräch mit Patrick Sommer, Projektleiter & Co-Gründer von Corporate Software: [Zur 30-Minuten-Besprechung](https://calendly.com/patricksommer/30min)
+>
+> Oder kontaktieren Sie ihn unter [patrick.sommer@corporatesoftware.ch](mailto:patrick.sommer@corporatesoftware.ch "E-Mail Patrick Sommer") oder via [Teams](https://teams.microsoft.com/l/chat/0/0?users=patrick.sommer@corporatesoftware.ch "Teams Patrick Sommer")
