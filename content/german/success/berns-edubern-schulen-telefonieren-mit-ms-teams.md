@@ -1,7 +1,7 @@
 +++
 category = ["Teams"]
 date = 2022-02-21T00:00:00Z
-image = "/uploads/kanton-bern-edubern.png"
+image = "/uploads/quino-al-8gweaaxjjti-unsplash.jpg"
 title = "Berns EDUBERN Schulen telefonieren mit MS Teams"
 
 +++
@@ -16,6 +16,8 @@ Im September 2020 bekam Patrick Sommer, Co-Gründer von Corporate Software, den 
 > Buchen Sie jetzt Ihr persönliches Gespräch mit Patrick Sommer, Projektleiter & Co-Gründer von Corporate Software: [Zur 30-Minuten-Besprechung](https://calendly.com/patricksommer/30min)
 >
 > Oder kontaktieren Sie ihn unter [patrick.sommer@corporatesoftware.ch](mailto:patrick.sommer@corporatesoftware.ch "E-Mail Patrick Sommer") oder via [Teams](https://teams.microsoft.com/l/chat/0/0?users=patrick.sommer@corporatesoftware.ch "Teams Patrick Sommer")
+
+![](/uploads/kanton-bern-edubern.png)
 
 ### Vision "Zusammenarbeit"
 
