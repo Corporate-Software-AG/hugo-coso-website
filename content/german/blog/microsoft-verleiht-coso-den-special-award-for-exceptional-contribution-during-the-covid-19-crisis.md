@@ -15,5 +15,3 @@ Wir sind wahnsinnig stolz auf das ganze Team, das dieses tolle Projekt möglich 
 > "Alle haben gesagt, sogar ich selbst: Das ist unmöglich! Ich bin stolz auf das ganze Team – KSD, Microsoft, armasuisse und ganz besonders Corporate Software als Implementationspartner, dass wir das neue Dashboard in der geforderten Qualität in dieser Rekordzeit zur Verfügung gestellt haben.” Jean-Paul Costa, Projektleiter armasuisse
 
 **Alle Infos zum Projekt gibt's in unserer Case Study:** [> Link zur Erfolgsgeschichte](https://www.corporatesoftware.ch/success/mit-cloud-daten-gegen-die-pandemie-eine-case-study-zu-moderner-landesverteidigung/ "Link zur Case Study")
-
-**Mehr Infos gibt's am Live-Event am 19. Januar:** [> Link zur Event-Registrierung](https://forms.office.com/Pages/ResponsePage.aspx?id=QX69K8kCTkuBaDOfkAxDGbQqOeDm_PlKpHscAjk1UeJUMktVWDRBQzhZRjJSTVNOTzNWRVhVS1lLWCQlQCN0PWcu "Link zum Live-Event ")
