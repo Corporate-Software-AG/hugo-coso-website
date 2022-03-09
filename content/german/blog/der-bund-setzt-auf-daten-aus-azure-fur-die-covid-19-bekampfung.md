@@ -15,5 +15,3 @@ In einem lediglich 45 Tage dauernden, agilen Projekt in verschiedenen Sprints ha
 > "Alle haben gesagt, sogar ich selbst: Das ist unmöglich! Ich bin stolz auf das ganze Team – KSD, Microsoft, armasuisse und ganz besonders Corporate Software als Implementationspartner, dass wir das neue Dashboard in der geforderten Qualität in dieser Rekordzeit zur Verfügung gestellt haben." Jean-Paul Costa, Projektleiter armasuisse
 
 **Alle Infos zum Projekt:** [> Link zur vollständigen Case Study gehts hier lang](https://www.corporatesoftware.ch/success/mit-cloud-daten-gegen-die-pandemie-eine-case-study-zu-moderner-landesverteidigung/ "Link zur Case Study")
-
-**Erfahren Sie am Live-Event mehr über das Projekt am 19. Januar in Bern:** [> Link zur Event-Registrierung](https://forms.office.com/Pages/ResponsePage.aspx?id=QX69K8kCTkuBaDOfkAxDGSlhY0cMwVRMuX4fTKcdUNhUMktVWDRBQzhZRjJSTVNOTzNWRVhVS1lLWC4u "Event-Registrierung")
