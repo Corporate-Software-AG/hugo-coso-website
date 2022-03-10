@@ -14,9 +14,7 @@ Im Praxis-Workshop nutzen wir den Bot Framework Composer, externe Webdienste und
 
 **Reserviert euren Platz noch heute. Ihr habt zweimal die Gelegenheit dazu:**
 
-15. März 2022, 18–19.30 Uhr – [Event-Link auf Meetup](https://www.meetup.com/de-DE/AI-and-Intelligent-Cloud/events/283340793 "Global AI Bootcamp: Bot Framework Composer")
-
-
-17. März 2022, 18–19.30 Uhr – [Event-Link auf Meetup](https://www.meetup.com/de-DE/Azure-Basel-User-Group/events/283354252 "Jetzt Platz sichern am Bot-Event")
+* 15. März 2022, 18–19.30 Uhr – [Event-Link auf Meetup](https://www.meetup.com/de-DE/AI-and-Intelligent-Cloud/events/283340793 "Global AI Bootcamp: Bot Framework Composer")
+* 17. März 2022, 18–19.30 Uhr – [Event-Link auf Meetup](https://www.meetup.com/de-DE/Azure-Basel-User-Group/events/283354252 "Jetzt Platz sichern am Bot-Event")
 
 Wir freuen uns, euch bei unseren Events begrüssen zu dürfen.
