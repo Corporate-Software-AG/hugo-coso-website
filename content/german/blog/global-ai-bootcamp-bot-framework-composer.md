@@ -2,7 +2,7 @@
 categories = ["Event"]
 date = 2022-03-08T23:00:00Z
 description = "Mitte März habt ihr die Gelegenheit, in unseren Meetup-Events den Bot Framework Composer kennenzulernen. "
-image = "/uploads/global-ai-bootcamp-bot-framework-composer.png"
+image = "/uploads/global-ai-bootcamp-bot-framework-composer_neu.png"
 title = "Global AI Bootcamp: Bot Framework Composer"
 
 +++
