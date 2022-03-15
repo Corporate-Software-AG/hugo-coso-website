@@ -3,7 +3,7 @@ categories = ["Events"]
 date = 2022-03-14T23:00:00Z
 description = "Sichert euch einen Platz an unserer Session zur Success Story \"Mit der Power Platform gegen die Pandemie\" am 25.4., 18–20 Uhr. Wir freuen uns auf euch!"
 image = "/uploads/cloudweek2022_digicomp.svg"
-title = "CoSo an der Digicomp CloudWeek"
+title = "CoSo an der Microsoft Cloud Week bei Digicomp"
 
 +++
 **Sichert euch einen Platz an unserer Session zur Success Story "Mit der Power Platform gegen die Pandemie" am 25.4., 18–20 Uhr. Wir freuen uns auf euch!**
