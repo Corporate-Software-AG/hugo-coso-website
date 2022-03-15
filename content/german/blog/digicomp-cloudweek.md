@@ -6,9 +6,11 @@ image = "/uploads/cloudweek2022_digicomp.svg"
 title = "CoSo an der Digicomp CloudWeek"
 
 +++
+**Sichert euch einen Platz an unserer Session zur Success Story "Mit der Power Platform gegen die Pandemie" am 25.4., 18–20 Uhr. Wir freuen uns auf euch!**
+
 Mit der Power Platform gelang es in lediglich 45 Tagen, Dashboards zu entwickeln, die es dem Koordinierten Sanitätsdienst (KSD) und dem Bundesamt für Rüstung armasuisse ermöglichten, schnell gut informierte Entscheidungen bezüglich Ressourcen-Verteilung während der Pandemie zu treffen.
 
-Im Rahmen der Microsoft Cloud Week bei Digicomp geben wir Einblick in diese wunderbare Erfolgsgeschichte.
+An der Microsoft Cloud Week bei Digicomp geben wir Einblick in diese wunderbare Erfolgsgeschichte.
 
 > [Success Story: Mit der Power Platform gegen die Pandemie](https://www.digicomp.ch/cloudweek/topicatnight-success-story-mit-der-power-platform-gegen-die-pandemie "Event bei Digicomp") – 25. April 2022, 18–20 Uhr
 >
