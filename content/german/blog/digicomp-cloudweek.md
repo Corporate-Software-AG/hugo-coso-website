@@ -1,9 +1,9 @@
 +++
 categories = ["Events"]
-date = ""
+date = 2022-03-14T23:00:00Z
 description = "Sichert euch einen Platz an unserer Session zur Success Story \"Mit der Power Platform gegen die Pandemie\" am 25.4., 18–20 Uhr. Wir freuen uns auf euch!"
 image = "/uploads/cloudweek2022_digicomp.svg"
-title = "CoSo mit dabei an der Digicomp CloudWeek"
+title = "CoSo an der Digicomp CloudWeek"
 
 +++
 Mit der Power Platform gelang es in lediglich 45 Tagen, Dashboards zu entwickeln, die es dem Koordinierten Sanitätsdienst (KSD) und dem Bundesamt für Rüstung armasuisse ermöglichten, schnell gut informierte Entscheidungen bezüglich Ressourcen-Verteilung während der Pandemie zu treffen.
