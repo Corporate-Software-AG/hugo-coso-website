@@ -1,4 +1,4 @@
-baseURL = "https://www.corporatesoftware.ch"
+baseURL = "/"
 defaultContentLanguage = "de"
 disableLanguages = ["fr", "en"]
 googleAnalytics = "UA-127897200-1"
@@ -25,6 +25,10 @@ parent = "Services"
 [[Languages.de.menu.main]]
 URL = "services/collaboration"
 name = "Collaboration"
+parent = "Services"
+[[Languages.de.menu.main]]
+URL = "services/trainings-fur-ihr-unternehmen"
+name = "Training"
 parent = "Services"
 [[Languages.de.menu.main]]
 URL = "success"
