@@ -97,3 +97,8 @@ section {
     height: 48px;
     width: 48px;
 }
+
+.content a {
+    color: $color-primary;
+    text-decoration: underline;
+}
