@@ -12,6 +12,12 @@ title = "Schlüsseldaten Schweizer Gefängnisse  – Power Platform im Justizvol
 
 Um unter anderem die verfügbaren Plätze, die Belegung und die Einweisungsgründe der kantonalen Justizvollzugseinrichtungen schweizweit zu erfassen, beauftragte das SKJV Corporate Software vor diesem Hintergrund mit dem Projekt «Monitoring Justizvollzug» (MJV). «Die Lösung beruht hauptsächlich auf Power Apps für die Datenerfassung, Power Automate für die Automatisierungen und Power BI für Dashboard und Reporting. All das wird sicher und datenschutzkonform in den Schweizer Rechenzentren von Microsoft zur Verfügung gestellt», erklärt Sebastian Steer, Teil-Projektleiter bei Corporate Software. Durch dieses Projekt werden die Daten von den kantonalen Justizvollzugseinrichtungen neu schweizweit auf die gleiche Art und Weise erfasst.
 
+> **Steht auch Ihr nächstes Projekt an?**
+>
+> Buchen Sie jetzt Ihr persönliches Gespräch mit Patrick Sommer, Projektleiter & Co-Gründer von Corporate Software: [Zur 30-Minuten-Besprechung](https://calendly.com/patricksommer/30min)
+>
+> Oder kontaktieren Sie ihn unter [patrick.sommer@corporatesoftware.ch](mailto:patrick.sommer@corporatesoftware.ch "E-Mail Patrick Sommer") oder via [Teams](https://teams.microsoft.com/l/chat/0/0?users=patrick.sommer@corporatesoftware.ch "Teams Patrick Sommer")
+
 ### **Daten aus 26 Kantonen partizipativ standardisiert**
 
 Der Justizvollzug in der Schweiz ist kantonal geregelt. Neben den Justizvollzugseinrichtungen kommen vollzugsexterne Institutionen hinzu, die nicht dem Justizvollzug unterstellt sind, wie psychiatrische Kliniken und forensische Wohnheime. Insgesamt sind am Projekt «MJV» aktuell 90 Justizvollzugseinrichtungen, 26 kantonale Vollzugs- und Bewährungsdienste und die jeweiligen Amtsleitungen als Datenlieferanten beteiligt.
@@ -30,12 +36,11 @@ Die Lizenzen waren dank dem bereits genutzten Microsoft 365 weitgehend vorhanden
 
 Das SKJV und alle Anspruchsgruppen können jetzt auf stabile Daten zugreifen, auf deren Basis die Amtsleitungen, die Konkordate und der Bund monatlich, quartalsweise oder jährlich Schlüsse ziehen und ihre Arbeiten koordinieren. Das gemeinsame Verständnis über die zu erfassenden Daten hilft der interkantonalen und regionalen Vergleichbarkeit und setzt das Fundament für die Validität von zeitlichen Trends und Veränderungen.
 
-  
 ![Grafik mit Text](/uploads/bildschirmfoto-2022-03-09-um-16-07-21.png "Abb. Einweisungsgründe Januar 2022")
 
 _Abb. Einweisungsgründe Januar 2022_
 
-Die Nutzer der neuen Plattform erfassen und sehen nun allesamt die gleichen Daten, u.a.: 
+Die Nutzer der neuen Plattform erfassen und sehen nun allesamt die gleichen Daten, u.a.:
 
 * Verzeichnis der kantonalen Justizvollzugseinrichtungen (welche Einrichtungen sind aktuell in Betrieb);
 * Kapazitäten und Belegung der kantonalen Justizvollzugseinrichtungen;
@@ -59,3 +64,9 @@ Laura von Mandach ist gespannt, wie sich das MJV weiterentwickelt: «Auf einen B
 > Ein gemeinsames Vorgehen im Sinne der Qualitätsverbesserung setzt voraus, dass sich Expertinnen und Experten verschiedener Disziplinen auf nationaler Ebene austauschen und praktische Beispiele sowie innovative Lösungen, die sich bereits bewährt haben, vorstellen und diskutieren.
 >
 > Gemäss dem Leistungsauftrag der Konferenz der Kantonalen Justiz- und Polizeidirektorinnen und -direktoren (KKJPD) verfolgt das SKJV den Zweck, die Harmonisierung der Tätigkeitsfelder im Justizvollzug auf nationaler Ebene zu fördern. In der Schweiz gibt es 90 Einrichtungen des Straf- und Massnahmenvollzugs, der Untersuchungshaft und der ausländerrechtlichen Haft für Erwachsene.
+
+> **Steht auch Ihr nächstes Projekt an?**
+>
+> Buchen Sie jetzt Ihr persönliches Gespräch mit Patrick Sommer, Projektleiter & Co-Gründer von Corporate Software: [Zur 30-Minuten-Besprechung](https://calendly.com/patricksommer/30min "30-Minuten-Besprechung mit Patrick Sommer")
+>
+> Oder kontaktieren Sie ihn unter [patrick.sommer@corporatesoftware.ch](mailto:patrick.sommer@corporatesoftware.ch "E-Mail Patrick Sommer") oder via [Teams](https://teams.microsoft.com/l/chat/0/0?users=patrick.sommer@corporatesoftware.ch "Teams Patrick Sommer")
