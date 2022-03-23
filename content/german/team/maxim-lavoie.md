@@ -1,11 +1,12 @@
 +++
 categories = ["Power Platform"]
+certifications = ["Power Platform Fundamentals"]
 date = ""
 description = ""
 image = "/uploads/maximlavoie.png"
 job_title = "Junior Cloud Consultant"
 name = "Maxim Lavoie"
-team = "S.H.I.E.L.D"
+team = "A-Team"
 title = "Maxim Lavoie"
 [[social]]
 icon = "ti-headphone-alt"
