@@ -1,6 +1,6 @@
 +++
 category = ["PowerBI", "PowerAutomate", "Power Platform", "PowerApps"]
-date = 2022-03-21T00:00:00Z
+date = 2022-03-20T00:00:00Z
 image = "/uploads/bereich_datascience.webp"
 title = "Schlüsseldaten Schweizer Gefängnisse  – Power Platform im Justizvollzug"
 
@@ -21,7 +21,7 @@ Der Justizvollzug in der Schweiz ist kantonal geregelt. Neben den Justizvollzugs
 
 ![Grafik mit Beschriftung](/uploads/bildschirmfoto-2022-03-09-um-16-05-06.png "Abb. Kapazitäten und Belegung Januar 2022")
 
-_Abb. Kapazitäten und Belegung Januar 2022_
+_Abb. Kapazitäten und Belegung Januar 2022 (Quelle:_ [_SKJV-Website_](https://www.skjv.ch/de/unsere-dienstleistungen/monitoring-justizvollzug "Bildquelle SKJV")_)_
 
 > **Steht auch Ihr nächstes Projekt an?**
 >
@@ -43,7 +43,7 @@ Das SKJV und alle Anspruchsgruppen können jetzt auf stabile Daten zugreifen, au
 
 ![Grafik mit Text](/uploads/bildschirmfoto-2022-03-09-um-16-07-21.png "Abb. Einweisungsgründe Januar 2022")
 
-_Abb. Einweisungsgründe Januar 2022_
+_Abb. Einweisungsgründe Januar 2022 (Quelle:_ [_SKJV-Website_](https://www.skjv.ch/de/unsere-dienstleistungen/monitoring-justizvollzug "Bildquelle SKJ V")_)_
 
 Die Nutzer der neuen Plattform erfassen und sehen nun allesamt die gleichen Daten, u.a.:
 
@@ -80,4 +80,4 @@ Sie hat bereits erste positive Reaktionen zum neuen Standard der Datenerfassung 
 
 ### Case Study als PDF
 
-Laden Sie sich die Case Study «Schlüsseldaten Schweizer Gefängnisse  – Power Platform im Justizvollzug» als PDF herunter. [Zum PDF-Download](/uploads/skjv_coso_case-study.pdf 'PDF "Case Study: Schlüsseldaten Schweizer Gefängnisse – Power Platform im Justizvollzug"')
+Laden Sie sich die Case Study «Schlüsseldaten Schweizer Gefängnisse  – Power Platform im Justizvollzug» als PDF herunter. [Zum PDF-Download](https://cosoweb.blob.core.windows.net/files/skjv_coso_case-study.pdf "Case Study als PDF")
