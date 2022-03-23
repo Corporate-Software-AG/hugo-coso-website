@@ -1,6 +1,6 @@
 +++
 category = ["PowerBI", "PowerAutomate", "Power Platform", "PowerApps"]
-date = 2022-03-20T00:00:00Z
+date = 2022-03-23T00:00:00Z
 image = "/uploads/bereich_datascience.webp"
 title = "Schlüsseldaten Schweizer Gefängnisse  – Power Platform im Justizvollzug"
 
