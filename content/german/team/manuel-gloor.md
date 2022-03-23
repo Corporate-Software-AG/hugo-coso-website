@@ -1,9 +1,8 @@
 +++
 categories = ["Power Platform"]
-certifications = []
+certifications = ["Power Platform Fundamentals"]
 date = ""
-draft = true
-image = ""
+image = "/uploads/manuelgloor.png"
 job_title = "Junior Consultant"
 name = "Thomas von Mentlen"
 team = "A-Team"
