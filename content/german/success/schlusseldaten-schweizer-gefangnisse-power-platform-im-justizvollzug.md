@@ -78,3 +78,7 @@ Sie hat bereits erste positive Reaktionen zum neuen Standard der Datenerfassung 
 > Ein gemeinsames Vorgehen im Sinne der Qualitätsverbesserung setzt voraus, dass sich Expertinnen und Experten verschiedener Disziplinen auf nationaler Ebene austauschen und praktische Beispiele sowie innovative Lösungen, die sich bereits bewährt haben, vorstellen und diskutieren.
 >
 > Gemäss dem Leistungsauftrag der Konferenz der Kantonalen Justiz- und Polizeidirektorinnen und -direktoren (KKJPD) verfolgt das SKJV den Zweck, die Harmonisierung der Tätigkeitsfelder im Justizvollzug auf nationaler Ebene zu fördern. In der Schweiz gibt es 90 Einrichtungen des Straf- und Massnahmenvollzugs, der Untersuchungshaft und der ausländerrechtlichen Haft für Erwachsene.
+
+### Case Study als PDF
+
+Laden Sie sich die Case Study «Schlüsseldaten Schweizer Gefängnisse  – Power Platform im Justizvollzug» als PDF herunter. [Zum PDF-Download](/uploads/skjv_coso_case-study.pdf 'PDF "Case Study: Schlüsseldaten Schweizer Gefängnisse – Power Platform im Justizvollzug"')
