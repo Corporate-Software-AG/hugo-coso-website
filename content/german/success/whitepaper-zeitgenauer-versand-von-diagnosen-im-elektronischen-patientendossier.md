@@ -1,6 +1,6 @@
 +++
-category = []
-date = ""
+category = ["Azure", "Power Apps"]
+date = 2022-03-29T00:00:00Z
 draft = true
 image = "/uploads/kantonsspital-graub-nden_8f347d63baa334722e474503bdd33fb7.jpeg"
 title = "Whitepaper: Zeitgenauer Versand von Diagnosen im elektronischen Patientendossier"
@@ -14,13 +14,18 @@ Was, wenn eine Diagnose nicht unmittelbar im Dossier landen soll?
 
 Martin Pfund, Co-Departementsleiter und Mitglied der Geschäftsleitung des Kantonsspitals Graubünden nennt beispielsweise einen Krebs-Befund oder kritische Umstände einer Schwangerschaft: «Die Patientin sollte nicht über das EPD erfahren, dass sie mit Komplikationen bei der Geburt rechnen muss, wir möchten, dass sie dies von ihrer Ärztin oder von ihrem Arzt persönlich erfährt. Solche Diagnosen können niederschmetternd sein und unsere Fachkräfte sind auf solche psychischen Extremsituationen geschult.»
 
+![](/uploads/national-cancer-institute-bxxgtqew1m4-unsplash.jpg)
+
+_Bildquelle: Unsplash_
+
 Dieser Anwendungsfall ist im bestehenden EPD-System bisher nicht abgebildet.
 
 Erfahren Sie in diesem Whitepaper, wie Corporate Software mit möglichst tiefen Betriebskosten eine Benachrichtigungsschlaufe auf Basis von Microsoft Azure Cloud, der Microsoft Power Platform und mittels der FHIR-Schnittstelle in bestehende EPD-Workflows einbindet.
 
 > ### Download Whitepaper
 >
-> Whitepaper zum konkreten Anwendungsfall beim Kantonsspital Graubünden und über die technische Umsetzung auf Basis der Microsoft Azure Cloud, FHIR und Power Apps
+> Whitepaper zum konkreten Anwendungsfall beim Kantonsspital Graubünden und über die technische Umsetzung auf Basis der Microsoft Azure Cloud, FHIR und Power Apps.  
+> _Klicken Sie hier, um das PDF herunterzuladen._
 
 > **Steht auch Ihr nächstes Projekt an?**
 >
