@@ -18,6 +18,14 @@ function scrollFunction() {
   }
 }
 
+// Set target to _blank in all external links.
+let links = document.getElementsByTagName("a");
+for (let l of links) {
+    if (l.href.startsWith("http") && !l.href.startsWith("https://www.corporatesoftware.ch")) {
+        l.target = "_blank"
+    }
+}
+
 var successMessage = document.getElementById("success-message");
 var errorMessage = document.getElementById("error-message");
 
