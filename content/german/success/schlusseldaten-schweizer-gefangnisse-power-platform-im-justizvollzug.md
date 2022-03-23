@@ -2,7 +2,7 @@
 category = ["PowerBI", "PowerAutomate", "Power Platform", "PowerApps"]
 date = 2022-03-21T00:00:00Z
 draft = true
-image = "/uploads/bildschirmfoto-2022-03-09-um-16-05-06.png"
+image = ""
 title = "Schlüsseldaten Schweizer Gefängnisse  – Power Platform im Justizvollzug"
 
 +++
@@ -10,9 +10,9 @@ title = "Schlüsseldaten Schweizer Gefängnisse  – Power Platform im Justizvol
 
 «Der Freiheitsentzug ist die gesetzlich vorgesehene und angemessene Strafe», beginnt Laura von Mandach, Leiterin Fachwissen & Analyse beim SKJV, als sie den Auftrag des Justizvollzugs in der Schweiz erläutert. «Ziel ist die positive Spezialprävention: Man setzt alles daran, die Gleise neu auszurichten, sodass die Person, die aus dem Gefängnis entlassen wird, ein deliktfreies Leben führen kann. Um diesen anspruchsvollen gesetzlichen Auftrag zu erfüllen, braucht es Planungsgrundlagen, Informationen und Daten, damit die einzelne Einweisung im Endeffekt bedarfsorientiert erfolgen kann.»
 
-Um unter anderem die verfügbaren Plätze, die Belegung und die Einweisungsgründe der kantonalen Justizvollzugseinrichtungen schweizweit zu erfassen, beauftragte das SKJV Corporate Software vor diesem Hintergrund mit dem Projekt «Monitoring Justizvollzug» (MJV). 
+Um unter anderem die verfügbaren Plätze, die Belegung und die Einweisungsgründe der kantonalen Justizvollzugseinrichtungen schweizweit zu erfassen, beauftragte das SKJV Corporate Software vor diesem Hintergrund mit dem Projekt «Monitoring Justizvollzug» (MJV).
 
-> «Die Lösung beruht hauptsächlich auf Power Apps für die Datenerfassung, Power Automate für die Automatisierungen und Power BI für Dashboard und Reporting. All das wird sicher und datenschutzkonform in den Schweizer Rechenzentren von Microsoft zur Verfügung gestellt», erklärt Sebastian Steer, Teil-Projektleiter bei Corporate Software. 
+> «Die Lösung beruht hauptsächlich auf Power Apps für die Datenerfassung, Power Automate für die Automatisierungen und Power BI für Dashboard und Reporting. All das wird sicher und datenschutzkonform in den Schweizer Rechenzentren von Microsoft zur Verfügung gestellt», erklärt Sebastian Steer, Teil-Projektleiter bei Corporate Software.
 
 Durch dieses Projekt werden die Daten von den kantonalen Justizvollzugseinrichtungen neu schweizweit auf die gleiche Art und Weise erfasst.
 
@@ -36,7 +36,7 @@ Die Herausforderungen im Projekt bestanden darin, gleichzeitig eine technische w
 
 ### Die Lösung – kosteneffizient und anpassungsfähig
 
-Die Lizenzen waren dank dem bereits genutzten Microsoft 365 weitgehend vorhanden, ebenso konnte das Projektteam dank der modularen Power Platform auf viele bestehende Komponenten zugreifen. 
+Die Lizenzen waren dank dem bereits genutzten Microsoft 365 weitgehend vorhanden, ebenso konnte das Projektteam dank der modularen Power Platform auf viele bestehende Komponenten zugreifen.
 
 > «Die Low-Code-Lösung von Microsoft ermöglicht es uns, die Nutzer-Feedbacks umgehend umzusetzen und den Benutzern rasch wieder zur Verfügung zu stellen. Die Anpassungsfähigkeit und die Schnelligkeit waren der Schlüssel für den Erfolg des Projekts», führt Patrick Sommer von Corporate Software aus.
 
@@ -71,6 +71,8 @@ Sie hat bereits erste positive Reaktionen zum neuen Standard der Datenerfassung 
 
 > Laura von Mandach ist gespannt, wie sich das MJV weiterentwickelt: «Auf einen Blick bildet das Monitoring Justizvollzug die Vielfalt der Gefängnislandschaft der Schweiz ab, gleichzeitig ist die Vergleichbarkeit mit einheitlichen Kennzahlen garantiert.»
 
+> **![](/uploads/skjv.svg)**
+>
 > **Das** [**Schweizerische Kompetenzzentrum für den Justizvollzug SKJV**](https://www.skjv.ch/de/unsere-dienstleistungen/monitoring-justizvollzug "Link SKJV Website") **ist eine Stiftung des Bundes und der Kantone.**
 >
 > Ein gemeinsames Vorgehen im Sinne der Qualitätsverbesserung setzt voraus, dass sich Expertinnen und Experten verschiedener Disziplinen auf nationaler Ebene austauschen und praktische Beispiele sowie innovative Lösungen, die sich bereits bewährt haben, vorstellen und diskutieren.
