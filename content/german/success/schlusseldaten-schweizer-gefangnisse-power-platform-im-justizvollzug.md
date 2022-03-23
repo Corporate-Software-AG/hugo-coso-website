@@ -61,6 +61,12 @@ Power BI im Selfservice erlaubt es den Kantonen, die Daten interaktiv in der von
 
 Die aktuelle Lösung «MJV» ist ein Zwischenschritt auf dem Weg zu einer geplanten automatisierten Datenerfassung für den gesamten Justizvollzug. «Das übergeordnete Projekt Informationssystem Justizvollzug – der ‹Schnellzug› – wird kommen, allerdings erst in 2 oder 3 Jahren. Bis dahin weiterhin mit Excel-Tabellen zu arbeiten, war für uns keine Option», führt Laura von Mandach weiter aus. «Deswegen hat uns Corporate Software einen ausbaufähigen ‹Regionalzug› gebaut. Die partizipative Standardisierung und die Einsichten, die wir bis dahin gewinnen, fliessen in das grosse Projekt mit ein.»
 
+> **Steht auch Ihr nächstes Projekt an?**
+>
+> Buchen Sie jetzt Ihr persönliches Gespräch mit Patrick Sommer, Projektleiter & Co-Gründer von Corporate Software: [Zur 30-Minuten-Besprechung](https://calendly.com/patricksommer/30min "30-Minuten-Besprechung mit Patrick Sommer")
+>
+> Oder kontaktieren Sie ihn unter [patrick.sommer@corporatesoftware.ch](mailto:patrick.sommer@corporatesoftware.ch "E-Mail Patrick Sommer") oder via [Teams](https://teams.microsoft.com/l/chat/0/0?users=patrick.sommer@corporatesoftware.ch "Teams Patrick Sommer")
+
 Sie hat bereits erste positive Reaktionen zum neuen Standard der Datenerfassung und der Visualisierung der Daten mit Power BI erhalten. Im Februar wurden alle Amtsleiterinnen und -leiter in die Datenauswertung eingeführt. Die Kennzahlen des MJV sind seit dem 28. Februar 2022 auch auf der [Website des SKJV](https://www.skjv.ch/de/unsere-dienstleistungen/monitoring-justizvollzug "Link SKJV Website") abrufbar. «Das Projekt hat uns viel gelehrt und wir fühlen uns privilegiert, dabei zu sein», zeigen sich Laura von Mandach und Sebastian Steer angetan über die persönliche Entwicklung während des Projekts. «Nicht nur wir bei Corporate Software haben einmal mehr dazugelernt, um neue Anforderungen auf agile, partizipative Weise umzusetzen. Marc Chatton, Statistiker und wissenschaftlicher Mitarbeiter beim SKJV, ist beispielsweise neu der SKJV PowerApp Crack, der nun selbst kleine Applikationen auf der Low-Code-Plattform von Microsoft erstellt. Solche Projekte führen auch zu neuen Fähigkeiten und neuen Rollen innerhalb der Organisation», fügt Sebastian Steer an.
 
 > Laura von Mandach ist gespannt, wie sich das MJV weiterentwickelt: «Auf einen Blick bildet das Monitoring Justizvollzug die Vielfalt der Gefängnislandschaft der Schweiz ab, gleichzeitig ist die Vergleichbarkeit mit einheitlichen Kennzahlen garantiert.»
@@ -70,9 +76,3 @@ Sie hat bereits erste positive Reaktionen zum neuen Standard der Datenerfassung 
 > Ein gemeinsames Vorgehen im Sinne der Qualitätsverbesserung setzt voraus, dass sich Expertinnen und Experten verschiedener Disziplinen auf nationaler Ebene austauschen und praktische Beispiele sowie innovative Lösungen, die sich bereits bewährt haben, vorstellen und diskutieren.
 >
 > Gemäss dem Leistungsauftrag der Konferenz der Kantonalen Justiz- und Polizeidirektorinnen und -direktoren (KKJPD) verfolgt das SKJV den Zweck, die Harmonisierung der Tätigkeitsfelder im Justizvollzug auf nationaler Ebene zu fördern. In der Schweiz gibt es 90 Einrichtungen des Straf- und Massnahmenvollzugs, der Untersuchungshaft und der ausländerrechtlichen Haft für Erwachsene.
-
-> **Steht auch Ihr nächstes Projekt an?**
->
-> Buchen Sie jetzt Ihr persönliches Gespräch mit Patrick Sommer, Projektleiter & Co-Gründer von Corporate Software: [Zur 30-Minuten-Besprechung](https://calendly.com/patricksommer/30min "30-Minuten-Besprechung mit Patrick Sommer")
->
-> Oder kontaktieren Sie ihn unter [patrick.sommer@corporatesoftware.ch](mailto:patrick.sommer@corporatesoftware.ch "E-Mail Patrick Sommer") oder via [Teams](https://teams.microsoft.com/l/chat/0/0?users=patrick.sommer@corporatesoftware.ch "Teams Patrick Sommer")
