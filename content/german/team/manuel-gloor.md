@@ -8,6 +8,9 @@ name = "Thomas von Mentlen"
 team = "A-Team"
 title = "Manuel Gloor"
 [[social]]
+icon = "ti-headphone-alt"
+link = "tel:+41 32 315 03 66"
+[[social]]
 icon = "ti-email"
 link = "mailto:manuel.gloor@corporatesoftware.ch"
 [[social]]
