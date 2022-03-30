@@ -1,8 +1,6 @@
 ---
 title: Azure
 certifications:
-- name: Azure IoT Developer Specialty
-  badge: "/uploads/specialty-azure-iot-developer-600x600-1.png"
 - name: Azure Administrator Associate
   badge: "/images/certs/azure-administrator-associate-600x600.png"
 - name: Azure Developer Associate
