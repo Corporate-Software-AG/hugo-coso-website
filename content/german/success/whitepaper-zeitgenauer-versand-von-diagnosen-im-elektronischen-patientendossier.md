@@ -1,6 +1,6 @@
 +++
 category = ["Azure", "Power Apps"]
-date = 2022-03-29T00:00:00Z
+date = 2022-03-31T00:00:00Z
 draft = true
 image = "/uploads/kantonsspital-graub-nden_8f347d63baa334722e474503bdd33fb7.jpeg"
 title = "Whitepaper: Zeitgenauer Versand von Diagnosen im elektronischen Patientendossier"
@@ -24,11 +24,9 @@ Erfahren Sie in diesem Whitepaper, wie Corporate Software mit möglichst tiefen 
 
 > ### Download Whitepaper
 >
-> Whitepaper zum konkreten Anwendungsfall beim Kantonsspital Graubünden und über die technische Umsetzung auf Basis der Microsoft Azure Cloud, FHIR und Power Apps.  
+> Whitepaper zum konkreten Anwendungsfall beim Kantonsspital Graubünden und die technische Umsetzung auf Basis von Microsoft Azure, FHIR und Power Apps.  
 > _Klicken Sie hier, um das PDF herunterzuladen_
 
 > **Steht auch Ihr nächstes Projekt an?**
 >
-> Buchen Sie jetzt Ihr persönliches Gespräch mit Matthias Gessenay, CEO von Corporate Software und Projektleiter: [Zur 30-Minuten-Besprechung](https://calendly.com/patricksommer/30min)
->
-> Oder kontaktieren Sie ihn unter matthias.gessenay@corporatesoftware.ch [matthias.gessenay@corporatesoftware.ch](matthias.gessenay@corporatesoftware.ch "Matthias Gessenay") oder via [Teams](https://teams.microsoft.com/l/chat/0/0?users=matthias.gessenay@corporatesoftware.ch "Teams Matthias Gessenay")
+> Kontaktieren Sie jetzt Matthias Gessenay, CEO von Corporate Software und Projektleiter unter [matthias.gessenay@corporatesoftware.ch](matthias.gessenay@corporatesoftware.ch "Matthias Gessenay") oder via [Teams](https://teams.microsoft.com/l/chat/0/0?users=matthias.gessenay@corporatesoftware.ch "Teams Matthias Gessenay")
