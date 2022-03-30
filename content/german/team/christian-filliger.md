@@ -8,6 +8,9 @@ name = "Christian Filliger"
 team = "Seal Team"
 title = "Christian Filliger"
 [[social]]
+icon = "ti-headphone-alt"
+link = "tel:+41 32 315 03 46"
+[[social]]
 icon = "ti-email"
 link = "mailto:christian.filliger@corporatesoftware.ch"
 [[social]]
