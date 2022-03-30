@@ -4,7 +4,7 @@ certifications = ["Power Platform Fundamentals"]
 date = ""
 image = "/uploads/manuelgloor.png"
 job_title = "Junior Consultant"
-name = "Thomas von Mentlen"
+name = "Manuel Gloor"
 team = "A-Team"
 title = "Manuel Gloor"
 [[social]]
