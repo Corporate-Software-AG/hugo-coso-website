@@ -1,8 +1,7 @@
 +++
 category = ["Azure", "Power Apps"]
 date = 2022-03-31T00:00:00Z
-draft = true
-image = "/uploads/kantonsspital-graub-nden_8f347d63baa334722e474503bdd33fb7.jpeg"
+image = "/uploads/national-cancer-institute-nfvdkihxylu-unsplash.jpg"
 title = "Whitepaper: Zeitgenauer Versand von Diagnosen im elektronischen Patientendossier"
 
 +++
@@ -24,8 +23,7 @@ Erfahren Sie in diesem Whitepaper, wie Corporate Software mit möglichst tiefen 
 
 > ### Download Whitepaper
 >
-> Whitepaper zum konkreten Anwendungsfall beim Kantonsspital Graubünden und die technische Umsetzung auf Basis von Microsoft Azure, FHIR und Power Apps.  
-> _Klicken Sie hier, um das PDF herunterzuladen_
+> Whitepaper zum konkreten Anwendungsfall beim Kantonsspital Graubünden und die technische Umsetzung auf Basis von Microsoft Azure, Power Platform und FHIR.
 
 > **Steht auch Ihr nächstes Projekt an?**
 >
