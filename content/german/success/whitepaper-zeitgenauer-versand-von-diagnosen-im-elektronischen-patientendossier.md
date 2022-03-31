@@ -1,5 +1,5 @@
 +++
-category = ["Azure", "Power Apps"]
+category = ["Azure", "Power Platform"]
 date = 2022-03-31T00:00:00Z
 image = "/uploads/national-cancer-institute-nfvdkihxylu-unsplash.jpg"
 title = "Whitepaper: Zeitgenauer Versand von Diagnosen im elektronischen Patientendossier"
@@ -11,7 +11,9 @@ Erstgespräch, Befund, Anamnese, Austritt – sobald Patienten über ein elektro
 
 Was, wenn eine Diagnose nicht unmittelbar im Dossier landen soll?
 
-Martin Pfund, Co-Departementsleiter und Mitglied der Geschäftsleitung des Kantonsspitals Graubünden nennt beispielsweise einen Krebs-Befund oder kritische Umstände einer Schwangerschaft: «Die Patientin sollte nicht über das EPD erfahren, dass sie mit Komplikationen bei der Geburt rechnen muss, wir möchten, dass sie dies von ihrer Ärztin oder von ihrem Arzt persönlich erfährt. Solche Diagnosen können niederschmetternd sein und unsere Fachkräfte sind auf solche psychischen Extremsituationen geschult.»
+Martin Pfund, Co-Departementsleiter und Mitglied der Geschäftsleitung des Kantonsspitals Graubünden nennt beispielsweise einen Krebs-Befund oder kritische Umstände einer Schwangerschaft: 
+
+> «Die Patientin sollte nicht über das EPD erfahren, dass sie mit Komplikationen bei der Geburt rechnen muss, wir möchten, dass sie dies von ihrer Ärztin oder von ihrem Arzt persönlich erfährt. Solche Diagnosen können niederschmetternd sein und unsere Fachkräfte sind auf solche psychischen Extremsituationen geschult.»
 
 Dieser Anwendungsfall ist im bestehenden EPD-System bisher nicht abgebildet.
 
