@@ -39,4 +39,4 @@ Thomas war Leiter bei der Jungwacht und konnte dort viele Trainer-Skills erlerne
 
 Er ist Spezialist im Bereich Azure Solutions, Integration von Artificial Intelligence und M365-/Power-Platform-Erweiterungen mit JavaScript. Neben der Betreuung von Kundenprojekten schult er als Microsoft Certified Trainer IT Developer und Power User. Nicht zuletzt verdanken wir Thomas unsere CoSo-Website.
 
-> **A man's got to do what a man's got to do.**
+> **Don't forget: beautiful sunsets need cloudy skies.**
