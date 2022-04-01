@@ -45,7 +45,7 @@
             {{ $link := .Permalink}}
             {{ range .Params.certifications }}
               {{ if in $certifications .name }}
-              <div class="col-2" style="min-width: 12em;">
+              <div class="col-lg-2 cert-badge-detailed">
                 <a href="{{ $link }}">
                   {{ $image := resources.GetMatch .badge }}
                   {{ partial "image.html" (dict "Image" $image "Alt" "badge" "Class" "img-fluid") }}  
