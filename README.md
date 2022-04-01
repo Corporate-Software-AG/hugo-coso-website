@@ -1,2 +1,1 @@
 # hugo-coso-website
-test
