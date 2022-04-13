@@ -1,14 +1,13 @@
 +++
 categories = ["CoSo"]
-date = 2022-04-03T22:00:00Z
-description = "Christian ist als Junior Consultant zu CoSo gestossen. Herzlich willkommen!"
-draft = true
-image = "/uploads/welcome-christian.png"
+date = 2022-04-10T22:00:00Z
+description = "Manuel ist bei CoSo als Junior Consultant unterwegs. Schön, dass du da bist!"
+image = "/uploads/welcome-manuel.png"
 title = "Willkommen bei CoSo, Manuel"
 
 +++
-Christian ist ein richtiger Techniker. Von Haus aus Elektroniker, hat er eigentlich schon bald gemerkt, dass ihm die Software-Seite mehr liegt. Bei CoSo ist er in den Themen Power Platform, Data Platform und Automation zu Hause. 
+Manuel studiert Wirtschaftsinformatik und kann das Erlernte nun bei CoSo praxisnah umsetzen. Als Junior Consultant ist er bei uns in den Themen der Power Platform unterwegs und kann sich dort hautnah mit Automatisierung und Digitalisierung auseinandersetzen.
 
-Herzlich willkommen Christian, wir freuen uns, dass du ein Teil von CoSo bist!
+Sein Motto: Go hard or go home! Ihr werdet also sicher noch viel von Manuel hören :-) Herzlich willkommen bei uns, Manuel!
 
-Mehr erfahren über Christian: [https://www.corporatesoftware.ch/team/christian-filliger/](https://www.corporatesoftware.ch/team/christian-filliger/ "https://www.corporatesoftware.ch/team/christian-filliger/")
+Mehr erfahren über Manuel: [https://www.corporatesoftware.ch/team/manuel-gloor/](https://www.corporatesoftware.ch/team/manuel-gloor/ "https://www.corporatesoftware.ch/team/manuel-gloor/")
