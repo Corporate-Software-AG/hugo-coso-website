@@ -1,9 +1,10 @@
 +++
 categories = ["Dynamics 365", "Power Platform"]
+certifications = []
 date = ""
 description = ""
 image = "/uploads/johannaackermann.png"
-job_title = "Junior Cloud Consultant"
+job_title = "Cloud Consultant"
 name = "Johanna Ackermann"
 team = "Seal Team"
 title = "Johanna Ackermann"
