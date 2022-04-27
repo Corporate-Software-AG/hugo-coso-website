@@ -1,9 +1,10 @@
 +++
 categories = ["Dynamics 365"]
+certifications = []
 date = ""
 description = ""
 image = "/uploads/waltraudossig.png"
-job_title = "Buchhaltung & Controlling, Gute Seele"
+job_title = "Buchhaltung, Controlling & Team Consultant"
 name = "Waltraud Ossig"
 team = "General Team"
 title = "Waltraud Ossig"
