@@ -1,5 +1,5 @@
 +++
-categories = ["Power Platform"]
+categories = ["Dynamics 365", "Power Platform"]
 certifications = ["Power Platform Fundamentals"]
 date = ""
 description = ""
