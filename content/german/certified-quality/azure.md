@@ -1,6 +1,8 @@
 ---
 title: Azure
 certifications:
+- name: 'Microsoft Certified: Azure Fundamentals'
+  badge: "/uploads/microsoft-azure-fundamentals-badge.png"
 - name: Azure Administrator Associate
   badge: "/images/certs/azure-administrator-associate-600x600.png"
 - name: Azure Developer Associate
