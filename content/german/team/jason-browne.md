@@ -21,7 +21,7 @@ icon = "ti-linkedin"
 link = "https://www.linkedin.com/in/jason-browne-35b93a192/"
 
 +++
-In seiner ersten Karriere war Jason Captain der U21 des FC Aarau. Dort hat er gelernt, die Balance zwischen Wettbewerb und geschlossener Einheit zu leben. Er interessiert sich sehr für das Zusammenspiel zwischen Technik und dem witschaftlichen Aspekt.
+In seiner ersten Karriere war Jason Captain der U21 des FC Aarau. Dort hat er gelernt, die Balance zwischen Wettbewerb und geschlossener Einheit zu leben. Er interessiert sich sehr für das Zusammenspiel zwischen Technik und dem wirtschaftlichen Aspekt.
 
 Als Consultant und Microsoft Certified Trainer bei Corporate Software besteht das Ziel von Jason darin, intelligente Cloud IT-Lösungen zu designen und zu implementieren, welche einen optimalen Business-Nutzen bieten.
 
