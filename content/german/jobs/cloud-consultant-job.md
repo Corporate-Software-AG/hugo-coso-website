@@ -1,5 +1,6 @@
 +++
 description = "Werde Teil des Teams als gesuchter Cloud Consultant"
+draft = true
 title = "Cloud Consultant"
 
 +++
