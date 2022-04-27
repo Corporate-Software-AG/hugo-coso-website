@@ -22,8 +22,12 @@ icon = "ti-linkedin"
 link = "https://www.linkedin.com/in/raphaelfaeh/"
 
 +++
-Raphael liest gerne Fantasy- und Science-Fiction-Romane und in der IT hat er den Ort gefunden, an dem er seine eigne Welt entwickeln kann. Seine Mission ist es, anderen Menschen den Spass an der IT so schmackhaft zu machen, dass sie Lust bekommen, Neues auszuprobieren. Raphael ist Co-Owner und Spezialist für Automation, Azure und Cloud Computing. Die Teilbereiche PowerShell, Serverless Computing und SharePoint gehören zu seinen Fachgebieten. Neben der Betreuung verschiedener Kundenprojekte schult er als Microsoft Certified Trainer IT Professionals und Architects.
+Raphael ist Co-Owner und Spezialist für Automation, Azure und Cloud Computing. Die Teilbereiche PowerShell, Serverless Computing und SharePoint gehören zu seinen Fachgebieten. Neben der Betreuung verschiedener Kundenprojekte schult er als Microsoft Certified Trainer IT Professionals und Architects.
 
-> “It's still magic even if you know how it's done.” – Terry Pratchett, A Hat Full of Sky
+Raphael liest gerne Fantasy- und Science-Fiction-Romane und in der IT hat er den Ort gefunden, an dem er seine eigene Welt entwickeln kann. Seine Mission ist es, mit Hilfe von Code Menschen dabei zu helfen, repetitive Arbeiten zu automatisieren und damit mehr Zeit für die wirklich wichtigen Dinge zu haben.
 
-Aktivitäten: IT-Automation mit PowerShell, SharePoint Architecture & Operations, Azure & Office 365 Architecture & Implementation, System Center Operation Manager, Service Management, Orchestrator Architecture, Implementation, Automation & Troubleshooting, Trainer bei Digicomp, Code Ninja
+> "It's still magic even if you know how it's done." – Terry Pratchett, A Hat Full of Sky
+>
+> "Coding is the closest thing we have to a superpower." – Drew Houston, Founder of Dropbox
+
+Aktivitäten: IT-Automation mit PowerShell & Serverless, SharePoint Architecture & Engineering, Azure & Office 365 Architecture & Implementation, Trainer bei Digicomp, PowerShell-Ninja
