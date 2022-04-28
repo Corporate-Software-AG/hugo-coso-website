@@ -1,6 +1,6 @@
 +++
 categories = ["Power Platform"]
-certifications = ["Power Platform Fundamentals"]
+certifications = ["Power Platform Fundamentals", "Power Platform Functional Consultant Associate", "Microsoft 365 Certified: Fundamentals"]
 date = ""
 description = ""
 image = "/uploads/maximlavoie.png"
