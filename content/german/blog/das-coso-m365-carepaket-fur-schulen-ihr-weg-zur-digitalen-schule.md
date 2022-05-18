@@ -2,12 +2,13 @@
 categories = ["Services"]
 date = 2022-05-17T22:00:00Z
 description = "Machen Sie den nächsten Schritt – mit CoSo in die Cloud"
-draft = true
 image = "/uploads/training.png"
 title = "Das CoSo-M365-Carepaket für Schulen: Ihr Weg zur digitalen Schule"
 
 +++
-Die Digitalisierung macht auch vor Bildungseinrichtungen nicht Halt. Schulen werden mit WLAN ausgerüstet, Lehrer:innen erhalten persönliche Notebooks und auch die Schüler:innen nutzen vermehrt digitale Hilfsmittel und Werkzeuge im und rund um den Unterricht. Während die technischen Fragen oft rasch(er) geklärt sind, gestaltet sich der kulturelle Umstieg und die Nutzung der neuen Tools oft nicht ganz ohne Herausforderungen. Steigen Sie mit dem CoSo-Carepaket für Schulen in die Digitalisierung ein.
+Die Digitalisierung macht auch vor Bildungseinrichtungen nicht Halt. Schulen werden mit WLAN ausgerüstet, Lehrer:innen erhalten persönliche Notebooks und auch die Schüler:innen nutzen vermehrt digitale Hilfsmittel und Werkzeuge im und rund um den Unterricht. 
+
+Während die technischen Fragen oft rasch(er) geklärt sind, gestaltet sich der kulturelle Umstieg und die Nutzung der neuen Tools oft nicht ganz ohne Herausforderungen. Steigen Sie mit dem CoSo-Carepaket für Schulen in die Digitalisierung ein.
 
 ### Starterpaket: Unser Carepaket für Schulen hilft löschen
 
