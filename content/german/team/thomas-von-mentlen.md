@@ -20,8 +20,9 @@ certifications:
 - 'Microsoft 365 Certified: Teams Administrator Associate'
 - Power Platform Developer Associate
 - 'Microsoft 365 Certified: Security Administrator Associate'
-- 'Microsoft Certified: Azure IoT Developer Specialty'
 - 'Microsoft Certified: Identity and Access Administrator Associate'
+- 'Microsoft Certified: Azure IoT Developer Specialty'
+- 'Microsoft Certified: Azure Cosmos DB Developer Specialty'
 job_title: Cloud Consultant, Trainer (MCT)
 team: Seal Team
 social:
