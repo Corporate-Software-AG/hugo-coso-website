@@ -23,6 +23,8 @@ certifications:
   badge: "/images/certs/CERT-Expert-DevOps-Engineer-600x600.png"
 - name: 'Microsoft Certified: Azure IoT Developer Specialty'
   badge: "/images/certs/microsoft-certified-azure-iot-developer-specialty-600x600.png"
+- name: 'Microsoft Certified: Azure Cosmos DB Developer Specialty'
+  badge: "/images/certs/microsoft-certified-azure-cosmos-db-developer-specialty.png"
 
 ---
 ## Azure: Zertifiziert in die Cloud
