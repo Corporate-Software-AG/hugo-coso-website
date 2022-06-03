@@ -27,7 +27,7 @@ Am 2. Juni startete die erste Schweizer Meisterschaft in Power BI – organisier
 * Marlon Loretz
 * Manuel Gloor
 
-![](/uploads/microsoftteams-image-3.png)
+![](/uploads/powerbi-championship.png)
 
 Unser Team kann nun aus bereitgestellten Datensets eines auswählen, das es nach Gusto verwenden kann, um sein Power-BI-Feature-Know-how zu beweisen.
 
