@@ -1,7 +1,7 @@
 +++
-categories = []
+categories = ["CoSo Academy"]
 date = 2022-06-05T22:00:00Z
-description = ""
+description = "Im Rahmen der CoSo Academy fordern wir unsere Talents regelmässig mit Challenges. Für die Juni-Challenge bietet sich eine ganz besondere Gelegenheit."
 image = "/uploads/bildschirmfoto-2022-05-25-um-16-18-29.png"
 title = "Power BI Championship Switzerland – Corporate Software ist dabei!"
 
