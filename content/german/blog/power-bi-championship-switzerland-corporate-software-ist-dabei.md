@@ -45,4 +45,4 @@ Wir sind schon sehr gespannt darauf, wie sich unser Team schlägt und wünschen 
 
 ### CoSo Academy
 
-Einer unserer Eckpfeiler ist das Finden und Fördern von Talenten. Sei es als Mitarbeiter:innen, in der Zusammenarbeit oder mit Kund:innen. Hierfür investieren wir gezielt in Zeit, Coaching und Training. [Mehr Informationen](https://www.corporatesoftware.ch/jobs/coso-academy/ "Mehr Infos zur CoSo Academy")
+Einer unserer Eckpfeiler ist das Finden und Fördern von Talenten. Sei es als Mitarbeiter:innen, in der Zusammenarbeit oder mit Kund:innen. Hierfür investieren wir gezielt in Coaching und Training. [Mehr Informationen](https://www.corporatesoftware.ch/jobs/coso-academy/ "Mehr Infos zur CoSo Academy")
