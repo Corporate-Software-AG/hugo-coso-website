@@ -15,9 +15,9 @@ Da wir remote bzw. direkt in Projektteams bei Kund:innen arbeiten, ist die Zeit,
 
 ![](/uploads/20220603_143458.jpg)
 
-Dieses Mal waren Spannungen ein Thema. Nicht unbedingt im negativen Sinne, sondern verstanden als fliessende Energie zwischen zwei Polen, wie etwas ist und wie es sein könnte. 
+Dieses Mal waren Spannungen ein Thema. Nicht unbedingt im negativen Sinne, sondern verstanden als fliessende Energie zwischen zwei Polen, wie etwas ist und wie es sein könnte.
 
-> Wer mehr über die Arbeit mit Spannungen erfahren möchte, führt sich den Beitrag "Wie Spannungen dazu beitragen, dass sich etwas verändert" von [Neue Narrative ](https://www.neuenarrative.de/magazin/spannungsbasiertes-arbeiten-wie-spannungen-dazu-beitragen-dass-sich-etwas-verandert/ "Spannungen bei Neue Narrative")zu Gemüte. 
+> Wer mehr über die Arbeit mit Spannungen erfahren möchte, führt sich den Beitrag "Wie Spannungen dazu beitragen, dass sich etwas verändert" von [Neue Narrative ](https://www.neuenarrative.de/magazin/spannungsbasiertes-arbeiten-wie-spannungen-dazu-beitragen-dass-sich-etwas-verandert/ "Spannungen bei Neue Narrative")zu Gemüte.
 
 ### Welche Spannungen gibt es?
 
@@ -25,17 +25,19 @@ Wir haben also gefragt, was für Spannungen aktuell das Team beschäftigen. Ausl
 
 Um das mal sichtbar zu machen, stellten sich die Leute zwischen zwei Polen auf: die duftende Rose (aus dem eigenen Garten) auf der einen Seite. Was läuft richtig gut, wo fühlst du dich toll, was schätzt du an deiner Rolle? Und der Gegenpol: der stinkende Kackhaufen (natürlich nicht in echt, keine Sorge). Was läuft richtig besch* in deiner Rolle? Was würdest du gerne ändern, was abgeben?
 
-((BILD der Rose oder so?))
-
 ### Diskutierend an die frische Luft
 
 In den anschliessenden Dialogue Walks draussen an der Luft hatte das Team Gelegenheit, zu Zweit Lösungen und Erwartungen zu diskutieren. Was brauchen wir, um die Spannungen zu lösen? Was erwarten wir von den Rollen, wie können wir diese besser bearbeiten und ausfüllen?
 
 Die Ideen und Vorschläge stellten wir einander vor eindrücklicher Kulisse auf der Bundesterrasse vor.
 
+![](/uploads/img_4189.jpg)
+
 ![](/uploads/20220603_102531.jpg)
 
 ![](/uploads/20220603_104204.jpg)
+
+![](/uploads/img_4193.jpg)
 
 ![](/uploads/20220603_104149.jpg)
 
