@@ -34,11 +34,7 @@ Die Ideen und Vorschläge stellten wir einander vor eindrücklicher Kulisse auf 
 
 ![](/uploads/20220603_102531.jpg)
 
-![](/uploads/20220603_104204.jpg)
-
 ![](/uploads/img_4193.jpg)
-
-![](/uploads/20220603_104149.jpg)
 
 ### Was trage ich persönlich dazu bei?
 
