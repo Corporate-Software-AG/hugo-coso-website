@@ -2,7 +2,6 @@
 categories = ["CoSo"]
 date = 2022-06-08T22:00:00Z
 description = "Am 3. Juni traf sich das CoSo-Team zum CoWorking. Dieses Mal im Effinger in Bern. "
-draft = true
 image = "/uploads/20220603_085034.jpg"
 title = "CoWorking im gemütlichen Effinger in Bern"
 
