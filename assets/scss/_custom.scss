@@ -5,7 +5,7 @@ html, body {
 body {
     position: relative;
 }
-a {
+a:not(.nav-link, .dropdown-item, .btn) {
     text-decoration: underline !important;
 }
 .header-nav {
