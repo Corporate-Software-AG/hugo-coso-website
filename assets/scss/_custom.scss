@@ -5,7 +5,9 @@ html, body {
 body {
     position: relative;
 }
-
+a {
+    text-decoration: underline !important;
+}
 .header-nav {
     .navbar {
         padding-top: 5px;
