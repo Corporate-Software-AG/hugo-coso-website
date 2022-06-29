@@ -28,6 +28,13 @@ Wenn BWL- und BWO-Mitarbeitende nun Informationen zu den von der WEKO zur Verfü
 
 ![Grafik mit Aufzeigen der Berechtigungsvergabe](/uploads/berechtigungskonzept.png "Konzept der Berechtigungsvergabe")
 
+> **Steht auch Ihr nächstes Projekt an?**
+>
+> Buchen Sie jetzt Ihr persönliches Gespräch mit Patrick Sommer, Projektleiter & Co-Gründer von Corporate Software: [Zur 30-Minuten-Besprechung](https://calendly.com/patricksommer/30min "30-Minuten-Besprechung mit Patrick Sommer")
+>
+> Oder kontaktieren Sie ihn unter [patrick.sommer@corporatesoftware.ch](mailto:patrick.sommer@corporatesoftware.ch "E-Mail Patrick Sommer") oder via [Teams](https://teams.microsoft.com/l/chat/0/0?users=patrick.sommer@corporatesoftware.ch "Teams Patrick Sommer")
+
+
 ### Grund- und Meilenstein
 
 Dieses Berechtigungskonzept, zentrale Verwaltung, Benutzerfreundlichkeit, Volltext-Suche, Mehrsprachigkeit – für die WEKO Meilensteine im Vergleich zu der früheren Intranetseite. "Wir sparen nicht nur viel Zeit. Die ersten Feedbacks haben gezeigt, dass die Benutzer:innen die neue Seite viel ansprechender und einfacher empfinden", hebt Mai Nguyen die unmittelbaren Erfolge der neuen Lösung hervor. "Wir haben dafür beim Going-Live am 1. April 2022 auch mit Schoggistängeli und Factsheet gute Werbung für unser "Baby" gemacht."
