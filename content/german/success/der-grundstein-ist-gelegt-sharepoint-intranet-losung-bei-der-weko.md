@@ -1,7 +1,6 @@
 +++
 category = ["SharePoint"]
 date = 2022-06-29T00:00:00Z
-draft = true
 image = "/uploads/20220603_102531.jpg"
 title = "Der Grundstein ist gelegt – SharePoint-Intranet-Lösung bei der WEKO"
 
