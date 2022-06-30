@@ -2,7 +2,6 @@
 categories = ["Erfolgsgeschichte"]
 date = ""
 description = "Die Wettbewerbskommission WEKO hat ein neues Intranet. Die gemeinsam mit Corporate Software entwickelte SharePoint-Lösung liefert zentral Informationen für drei Bundesämter."
-draft = true
 image = "/uploads/img_4189.jpg"
 title = "SharePoint Intranet – ämterübergreifende Berechtigungen"
 
@@ -17,4 +16,4 @@ Die Benutzerfreundlichkeit sowohl in der Verwaltung der Inhalte wie auch für Be
 >
 > Mai Nguyen, Projektleiterin WEKO
 
-**Hier klicken, um mehr zu erfahren über die Erfolgsgeschichte**
+[**Hier klicken, um mehr zu erfahren über die Erfolgsgeschichte**](https://www.corporatesoftware.ch/success/der-grundstein-ist-gelegt-sharepoint-intranet-losung-bei-der-weko/ "Die ganze Case Study lesen")
