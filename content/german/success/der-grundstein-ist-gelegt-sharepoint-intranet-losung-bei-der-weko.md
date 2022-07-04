@@ -9,7 +9,7 @@ _Die Wettbewerbskommission WEKO hat ein neues Intranet. Die gemeinsam mit Corpor
 
 "Die WEKO leistet die Ressourcen-Administration auch für das Bundesamt für wirtschaftliche Landesversorgung (BWL) und für das Bundesamt für Wohnungswesen (BWO)", erklärt Mai Nguyen, Projektleiterin Intranet bei WEKO, die Ausgangslage. "Die bisherige Aktualisierung der drei unterschiedlichen Systeme war zeitaufwändig."
 
-Zudem war die alte Lösung für Nicht-Programmierer nicht bedienbar. 
+Zudem war die alte Lösung für Nicht-Programmierer nicht bedienbar.
 
 > "Das alte Intranet war sozusagen ein File-Server, auf dem die WEKO mit HTML-Code die Aktualisierungen einpflegte", beschreibt Patrick Sommer, Projektleiter von Corporate Software, weitere Herausforderungen.
 
@@ -32,7 +32,6 @@ Wenn BWL- und BWO-Mitarbeitende nun Informationen zu den von der WEKO zur Verfü
 > Buchen Sie jetzt Ihr persönliches Gespräch mit Patrick Sommer, Projektleiter & Co-Gründer von Corporate Software: [Zur 30-Minuten-Besprechung](https://calendly.com/patricksommer/30min "30-Minuten-Besprechung mit Patrick Sommer")
 >
 > Oder kontaktieren Sie ihn unter [patrick.sommer@corporatesoftware.ch](mailto:patrick.sommer@corporatesoftware.ch "E-Mail Patrick Sommer") oder via [Teams](https://teams.microsoft.com/l/chat/0/0?users=patrick.sommer@corporatesoftware.ch "Teams Patrick Sommer")
-
 
 ### Grund- und Meilenstein
 
