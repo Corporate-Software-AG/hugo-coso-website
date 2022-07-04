@@ -13,7 +13,7 @@ Zudem war die alte Lösung für Nicht-Programmierer nicht bedienbar.
 
 > "Das alte Intranet war sozusagen ein File-Server, auf dem die WEKO mit HTML-Code die Aktualisierungen einpflegte", beschreibt Patrick Sommer, Projektleiter von Corporate Software, weitere Herausforderungen.
 
-![Zwei Grafiken zum Intranet-Prozess einander gegenübergestellt](/uploads/ausgangslage-ziel-projekt.png "Ausgangslage und Ziel des Intranet-Projekts")
+![Zwei Grafiken zum Intranet-Prozess einander gegenübergestellt](/uploads/ausgangslage-ziel-projekt_k.png "Ausgangslage und Ziel des Intranet-Projekts")
 
 ### Ämterübergreifende Berechtigungen
 
@@ -21,11 +21,11 @@ Die Abteilung "Ressourcen" bei der WEKO besteht aus HR, Finanzen, IT und Logisti
 
 Wenn BWL- und BWO-Mitarbeitende nun Informationen zu den von der WEKO zur Verfügung gestellten Ressourcen aufsuchen, finden sie automatisch nur die für sie relevanten und zugelassenen Dokumente auf den jeweiligen Intranets ihrer Ämter. "Bei diesem Projekt konnte ich hundertprozentig von den Synergien meiner externen Rolle beim BIT und meiner Projektleitung für die WEKO für das neue Intranet profitieren. Ich wusste genau, wie wir die Berechtigungskonzepte und die vorgefertigten Elemente der BIT-CMS-SharePoint-Lösung hier nutzen können", erläutert Raphael Fäh die Vorzüge seiner Doppelrolle.
 
-![Screenshot des neuen Intranets](/uploads/berechtigungsvergabe.png "Individuelle Rollen- und Berechtigungsvergabe")
+![Screenshot des neuen Intranets](/uploads/berechtigungsvergabe_k.png "Individuelle Rollen- und Berechtigungsvergabe")
 
 > Mai Nguyen: "Mit der neuen Lösung läuft alles zentral, die User- und Dokumentberechtigungen sind in SharePoint hinterlegt. Wir laden die Aktualisierungen im richtigen Bereich hoch und alles ist erledigt. Das ist für uns ein riesiger Produktivitätsgewinn. Das primäre Ziel des Projekts haben wir zu 100% erreicht."
 
-![Grafik mit Aufzeigen der Berechtigungsvergabe](/uploads/berechtigungskonzept.png "Konzept der Berechtigungsvergabe")
+![Grafik mit Aufzeigen der Berechtigungsvergabe](/uploads/berechtigungskonzept_k.png "Konzept der Berechtigungsvergabe")
 
 > **Steht auch Ihr nächstes Projekt an?**
 >
