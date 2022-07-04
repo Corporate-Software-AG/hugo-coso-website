@@ -1,6 +1,6 @@
 +++
 categories = ["Erfolgsgeschichte"]
-date = ""
+date = 2022-07-03T22:00:00Z
 description = "Die Wettbewerbskommission WEKO hat ein neues Intranet. Die gemeinsam mit Corporate Software entwickelte SharePoint-Lösung liefert zentral Informationen für drei Bundesämter."
 image = "/uploads/img_4189.jpg"
 title = "SharePoint Intranet – ämterübergreifende Berechtigungen"
