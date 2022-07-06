@@ -10,6 +10,6 @@ Sebastian Steer oder "Basti" ist unser neuer Hero unter den Cosoianern und damit
 
 Er ist seit November 2018 bei CoSo als Consultant unterwegs. Seine Fachgebiete sind Business Automation und Collaboration. Er betreut Projekte rund um die Power Platform mit Power Apps, Power Automate und Power BI und hilft bei der Prozessoptimierung und Collaboration auf der Basis von Office 365 und Azure.
 
-Mit der neuen Rolle ist Sebastian mitverantwortlich für die Unternehmensführung.
+Mit der neuen Rolle ist Sebastian seit 1. Juli 2022 mitverantwortlich für die Unternehmensführung.
 
 Wir freuen uns auf dich und den frischen Flieger-Wind, den du mitbringst (das auf dem Foto ist übrigens Basti in Action!). Herzliche Gratulation!
