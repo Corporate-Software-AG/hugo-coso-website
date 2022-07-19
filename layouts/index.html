@@ -2,34 +2,47 @@
 
 {{ $data := index .Site.Data .Site.Language.Lang }}
 
-<!-- start of brand-carousel -->
 
-<section  id="first-section" class="section-padding overflow-hidden">
+
+
+<!-- Blog section -->
+{{ $mysection := ($.Site.GetPage "blog" .Section).Pages.ByPublishDate }}
+{{ range last 1 $mysection }}
+<section class="section-padding">
   <div class="container">
-    <div class="row">
-      <div class="col-md-12">
-        <div class="brand-carousel">
-          {{ range (where .Site.RegularPages "Section" "certified-quality") }}
-            {{ $link := .Permalink}}
-            {{ range .Params.certifications }}
-            <a href="/certified-quality/">          
-              <div class="brand-item d-flex align-items-center justify-content-center">
-                {{ $image := resources.GetMatch .badge }}
-                {{ partial "image.html" (dict "Image" $image "Alt" "badge" "Class" "img-fluid") }}
-              </div>
-            </a>
-            {{ end }}
-          {{ end }}        
+    <div class="row align-items-center justify-content-around">
+      <div class="col-lg-5 col-md-8 col-sm-10 mb-5">
+        <h2 class="section-title">{{ .Params.title | markdownify }}</h2>
+        <p class="pb-20 mb-20">{{ .Params.Description | markdownify }}</p>
+        <a href="{{ .Permalink | absLangURL }}" class="btn btn-primary has-icon">{{ i18n "view_job"}}
+          <span class="icon"><svg width="32" height="32" viewBox="0 0 32 32" fill="none"
+              xmlns="http://www.w3.org/2000/svg">
+              <path
+                d="M12.5522 6.66669L20.5522 14.6667C21.0329 15.1473 21.0699 15.9036 20.6632 16.4267L20.5522 16.5523L12.5522 24.5523L10.6666 22.6667L17.7228 15.6095L10.6666 8.55231L12.5522 6.66669Z"
+                fill="currentColor" /></svg></span>
+        </a>
+        
+      </div>
+      <div class="col-lg-5 col-md-8 col-sm-10">
+        <div class="d-inline-block has-shadow shadow-right has-shapes">
+          {{ $image := resources.GetMatch .Params.image }}
+          {{ partial "image.html" (dict "Image" $image "Alt" "Blog image" "Class" "img-fluid rounded-sm") }}
+          <div class="shape-1 shape-md bg-secondary rounded-circle"></div>
+          <div class="shape-2 shape-xl bg-tertiary rounded-circle"></div>
+          <div class="shape-3 shape-lg bg-primary rounded-circle"></div>
         </div>
       </div>
     </div>
   </div>
 </section>
+{{ end }}
+<!-- end blog section -->
 
-<!-- end of brand-carousel -->
+
 
 <!-- start of Services tab -->
-<section class="section-padding how-it-works-tab pt-50 overflow-hidden">
+<section class="section-padding how-it-works-tab pt-50 overflow-hidden bg-light-gray has-bg-brash bg-brash-y"
+style="background-image: url('{{`images/brushes/section-top.svg` | absURL}}'), url('{{`images/brushes/section-bottom.svg` | absURL}}');">
   <div class="container">
     <div class="row justify-content-center">
       <div class="col-lg-6 col-md-9 text-center mb-40">
@@ -82,192 +95,32 @@
 </section>
 <!-- end of Services tab -->
 
-<!-- Team section -->
-{{ with .Site.GetPage "/team" }}
-<section class="pt-120 pb-120 image-info-section has-shapes bg-light-gray has-bg-brash bg-brash-y overflow-hidden"
-  style="background-image: url('{{`images/brushes/section-top.svg` | absURL}}'), url('{{`images/brushes/section-bottom.svg` | absURL}}');">
+<!-- start of brand-carousel -->
+
+<section  id="first-section" class="section-padding overflow-hidden">
   <div class="container">
-    <div class="row align-items-center justify-content-around">
-      <div class="col-lg-5 col-md-8 col-sm-10">
-        <div class="d-inline-block has-shadow shadow-left has-shapes">
-          {{ $image := resources.GetMatch .Params.teamimage }}
-          {{ partial "image.html" (dict "Image" $image "Alt" "Team image" "Class" "img-fluid rounded-sm") }}
-
-          <div class="shape-1 shape-md bg-secondary rounded-circle"></div>
-          <div class="shape-2 shape-xl bg-tertiary rounded-circle"></div>
-          <div class="shape-3 shape-lg bg-primary rounded-circle"></div>
-        </div>
-      </div>
-      <div class="col-lg-5 col-md-8 col-sm-10 mt-5 mt-lg-0">
-        <h2 class="section-title">{{ .Params.title | markdownify }}</h2>
-        <p class="pb-20">{{ .Content | markdownify }}</p>
-        <a href="{{ .Permalink | absLangURL }}" class="btn btn-primary has-icon">{{ .Params.title }}
-          <span class="icon"><svg width="32" height="32" viewBox="0 0 32 32" fill="none"
-              xmlns="http://www.w3.org/2000/svg">
-              <path
-                d="M12.5522 6.66669L20.5522 14.6667C21.0329 15.1473 21.0699 15.9036 20.6632 16.4267L20.5522 16.5523L12.5522 24.5523L10.6666 22.6667L17.7228 15.6095L10.6666 8.55231L12.5522 6.66669Z"
-                fill="currentColor" /></svg></span>
-        </a>
-      </div>
-    </div>
-  </div>
-
-  <div class="shape-3 shape-xs-2 bg-secondary rounded-circle"></div>
-  <div class="shape-4 shape-sm-2 bg-tertiary rounded-circle"></div>
-  <div class="shape-5 shape-sm bg-primary rounded-circle"></div>
-  <div class="shape-6 shape-xs bg-secondary rounded-circle"></div>
-  <div class="shape-7 shape-xs-2 bg-tertiary rounded-circle"></div>
-</section>
-{{ end }}
-<!-- end Team section -->
-
-<!-- About Us section -->
-{{ with .Site.GetPage "/about" }}
-<section class="section-padding">
-  <div class="container">
-    <div class="row align-items-center justify-content-around">
-      <div class="col-lg-5 col-md-8 col-sm-10 mb-5">
-        <h2 class="section-title">{{ .Params.title | markdownify }}</h2>
-        <p class="pb-20 mb-20">{{ .Params.Description | markdownify }}</p>
-        <a href="{{ .Permalink | absLangURL }}" class="btn btn-primary has-icon">{{ i18n "view_job"}}
-          <span class="icon"><svg width="32" height="32" viewBox="0 0 32 32" fill="none"
-              xmlns="http://www.w3.org/2000/svg">
-              <path
-                d="M12.5522 6.66669L20.5522 14.6667C21.0329 15.1473 21.0699 15.9036 20.6632 16.4267L20.5522 16.5523L12.5522 24.5523L10.6666 22.6667L17.7228 15.6095L10.6666 8.55231L12.5522 6.66669Z"
-                fill="currentColor" /></svg></span>
-        </a>
-        
-      </div>
-      <div class="col-lg-5 col-md-8 col-sm-10">
-        <div class="d-inline-block has-shadow shadow-right has-shapes">
-          {{ $image := resources.GetMatch .Params.image }}
-          {{ partial "image.html" (dict "Image" $image "Alt" "About us image" "Class" "img-fluid rounded-sm") }}
-
-          <div class="shape-1 shape-md bg-secondary rounded-circle"></div>
-          <div class="shape-2 shape-xl bg-tertiary rounded-circle"></div>
-          <div class="shape-3 shape-lg bg-primary rounded-circle"></div>
-        </div>
-      </div>
-    </div>
-  </div>
-</section>
-{{ end }}
-<!-- end about us section -->
-
-{{ with .Site.GetPage "/jobs" }}
-<!-- start Jobs section -->
-<section class="pt-120 pb-120 image-info-section has-shapes bg-light-gray has-bg-brash bg-brash-y overflow-hidden"
-style="background-image: url('{{`images/brushes/section-top.svg` | absURL}}'), url('{{`images/brushes/section-bottom.svg` | absURL}}');">
-  <div class="container">
-    <div class="row align-items-center justify-content-around">
-
-      <div class="col-lg-5 col-md-8 col-sm-10">
-        <div class="d-inline-block has-shadow shadow-right has-shapes">
-          {{ $image := resources.GetMatch .Params.image }}
-          {{ partial "image.html" (dict "Image" $image "Alt" "Jobs Image" "Class" "img-fluid rounded-sm") }}
-          <div class="shape-1 shape-md bg-yellow rounded-circle"></div>
-          <div class="shape-2 shape-xl bg-cyan rounded-circle"></div>
-          <div class="shape-3 shape-lg bg-orange rounded-circle"></div>
-        </div>
-      </div>
-      <div class="col-lg-5 col-md-8 col-sm-10 mb-5">
-        <h2 class="section-title">{{ .Params.title | markdownify }}</h2>
-        <p class="pb-20 border-bottom mb-20">{{ .Params.description | markdownify }}</p>
-        <ul class="check-list list-unstyled">
-          {{ range .Params.benifits.item }}
-          <li class="mb-15">
-            <svg width="16" height="11" viewBox="0 0 18 13" class="text-primary mr-2" fill="none"
-              xmlns="http://www.w3.org/2000/svg">
-              <path d="M2 6.125L6.91892 11L16 2" stroke="currentColor" stroke-width="3" stroke-linecap="round"
-                stroke-linejoin="round" /></svg>
-            {{ .name | markdownify }}
-          </li>
-          {{ end }}
-        </ul>
-        <a href="{{ .Permalink | absLangURL }}" class="btn btn-primary has-icon">{{ .Params.title }}
-          <span class="icon"><svg width="32" height="32" viewBox="0 0 32 32" fill="none"
-              xmlns="http://www.w3.org/2000/svg">
-              <path
-                d="M12.5522 6.66669L20.5522 14.6667C21.0329 15.1473 21.0699 15.9036 20.6632 16.4267L20.5522 16.5523L12.5522 24.5523L10.6666 22.6667L17.7228 15.6095L10.6666 8.55231L12.5522 6.66669Z"
-                fill="currentColor" /></svg></span>
-        </a>
-      </div>
-    </div>
-  </div>
-</section>
-{{ end }}
-<!-- end section -->
-
-<!-- Blog section -->
-{{ $mysection := ($.Site.GetPage "blog" .Section).Pages.ByPublishDate }}
-{{ range last 1 $mysection }}
-<section class="section-padding">
-  <div class="container">
-    <div class="row align-items-center justify-content-around">
-      <div class="col-lg-5 col-md-8 col-sm-10 mb-5">
-        <h2 class="section-title">{{ .Params.title | markdownify }}</h2>
-        <p class="pb-20 mb-20">{{ .Params.Description | markdownify }}</p>
-        <a href="{{ .Permalink | absLangURL }}" class="btn btn-primary has-icon">{{ i18n "view_job"}}
-          <span class="icon"><svg width="32" height="32" viewBox="0 0 32 32" fill="none"
-              xmlns="http://www.w3.org/2000/svg">
-              <path
-                d="M12.5522 6.66669L20.5522 14.6667C21.0329 15.1473 21.0699 15.9036 20.6632 16.4267L20.5522 16.5523L12.5522 24.5523L10.6666 22.6667L17.7228 15.6095L10.6666 8.55231L12.5522 6.66669Z"
-                fill="currentColor" /></svg></span>
-        </a>
-        
-      </div>
-      <div class="col-lg-5 col-md-8 col-sm-10">
-        <div class="d-inline-block has-shadow shadow-right has-shapes">
-          {{ $image := resources.GetMatch .Params.image }}
-          {{ partial "image.html" (dict "Image" $image "Alt" "Blog image" "Class" "img-fluid rounded-sm") }}
-          <div class="shape-1 shape-md bg-secondary rounded-circle"></div>
-          <div class="shape-2 shape-xl bg-tertiary rounded-circle"></div>
-          <div class="shape-3 shape-lg bg-primary rounded-circle"></div>
-        </div>
-      </div>
-    </div>
-  </div>
-</section>
-{{ end }}
-<!-- end blog section -->
-
-<!-- start of Partners -->
-{{ if $data.partner.partner_circle.enable }}
-{{ with $data.partner }}
-<section class="section-padding tools-use-section has-shapes bg-light-gray has-bg-brash bg-brash-y"
-  style="background-image: url('{{`images/brushes/section-top.svg` | absURL}}'), url('{{`images/brushes/section-bottom.svg` | absURL}}');">
-  <div class="container">
-    <div class="row align-items-center justify-content-center">
-      <div class="col-lg-4 mt-4 mt-lg-0">
-        <h2 class="section-title">{{ .partner_circle.title | markdownify }}</h2>
-        <p>{{ .partner_circle.content | markdownify }}</p>
-      </div>
-      <div class="col-lg-6">
-        <ul class="inCircle-tools d-block d-sm-flex align-items-center justify-content-center" id="inCircle-element">
-          {{ range $i, $e:= .partner}}
-          <li
-            class="{{if modBool $i 2}} {{if eq $i 0}} has-centered lg {{else}}sm{{end}}{{else}}md{{end}} d-inline-flex align-items-center justify-content-center bg-white shadow rounded-circle">
-            <a target="_blank" href="{{ .link }}">
-              {{ $image := resources.GetMatch .logo }}
-              {{ partial "image.html" (dict "Image" $image "Alt" "Logo image" "Class" "img-small-padding") }}
+    <div class="row">
+      <div class="col-md-12">
+        <div class="brand-carousel">
+          {{ range (where .Site.RegularPages "Section" "certified-quality") }}
+            {{ $link := .Permalink}}
+            {{ range .Params.certifications }}
+            <a href="/certified-quality/">          
+              <div class="brand-item d-flex align-items-center justify-content-center">
+                {{ $image := resources.GetMatch .badge }}
+                {{ partial "image.html" (dict "Image" $image "Alt" "badge" "Class" "img-fluid") }}
+              </div>
             </a>
-          </li>
-          {{ end }}
-        </ul>
+            {{ end }}
+          {{ end }}        
+        </div>
       </div>
     </div>
   </div>
-
-  <div class="shape-1 shape-xs bg-yellow rounded-circle"></div>
-  <div class="shape-2 shape-sm bg-orange rounded-circle d-none d-md-block"></div>
-  <div class="shape-3 shape-xs-2 bg-orange rounded-circle"></div>
-  <div class="shape-4 shape-xs bg-cyan rounded-circle"></div>
-  <div class="shape-5 shape-xs bg-cyan rounded-circle"></div>
-  <div class="shape-6 shape-md bg-yellow rounded-circle d-none d-md-block"></div>
 </section>
-{{ end }}
-{{ end }}
-<!-- end of tools-use -->
+
+<!-- end of brand-carousel -->
+
 
 <!-- start of testimonials-carousel -->
 {{ with $data.success_short }}
@@ -330,5 +183,161 @@ style="background-image: url('{{`images/brushes/section-top.svg` | absURL}}'), u
 </section>
 {{ end }}
 <!-- end of testimonials-carousel -->
+
+
+<!-- About Us section -->
+{{ with .Site.GetPage "/about" }}
+<section class="section-padding bg-light-gray has-bg-brash bg-brash-y" 
+style="background-image: url('{{`images/brushes/section-top.svg` | absURL}}'), url('{{`images/brushes/section-bottom.svg` | absURL}}');">
+  <div class="container">
+    <div class="row align-items-center justify-content-around">
+      <div class="col-lg-5 col-md-8 col-sm-10 mb-5">
+        <h2 class="section-title">{{ .Params.title | markdownify }}</h2>
+        <p class="pb-20 mb-20">{{ .Params.Description | markdownify }}</p>
+        <a href="{{ .Permalink | absLangURL }}" class="btn btn-primary has-icon">{{ i18n "view_job"}}
+          <span class="icon"><svg width="32" height="32" viewBox="0 0 32 32" fill="none"
+              xmlns="http://www.w3.org/2000/svg">
+              <path
+                d="M12.5522 6.66669L20.5522 14.6667C21.0329 15.1473 21.0699 15.9036 20.6632 16.4267L20.5522 16.5523L12.5522 24.5523L10.6666 22.6667L17.7228 15.6095L10.6666 8.55231L12.5522 6.66669Z"
+                fill="currentColor" /></svg></span>
+        </a>
+        
+      </div>
+      <div class="col-lg-5 col-md-8 col-sm-10">
+        <div class="d-inline-block has-shadow shadow-right has-shapes">
+          {{ $image := resources.GetMatch .Params.image }}
+          {{ partial "image.html" (dict "Image" $image "Alt" "About us image" "Class" "img-fluid rounded-sm") }}
+
+          <div class="shape-1 shape-md bg-secondary rounded-circle"></div>
+          <div class="shape-2 shape-xl bg-tertiary rounded-circle"></div>
+          <div class="shape-3 shape-lg bg-primary rounded-circle"></div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+{{ end }}
+<!-- end about us section -->
+
+
+<!-- Team section -->
+{{ with .Site.GetPage "/team" }}
+<section class="pt-120 pb-120 image-info-section has-shapes  overflow-hidden">
+  <div class="container">
+    <div class="row align-items-center justify-content-around">
+      <div class="col-lg-5 col-md-8 col-sm-10">
+        <div class="d-inline-block has-shadow shadow-left has-shapes">
+          {{ $image := resources.GetMatch .Params.teamimage }}
+          {{ partial "image.html" (dict "Image" $image "Alt" "Team image" "Class" "img-fluid rounded-sm") }}
+
+          <div class="shape-1 shape-md bg-secondary rounded-circle"></div>
+          <div class="shape-2 shape-xl bg-tertiary rounded-circle"></div>
+          <div class="shape-3 shape-lg bg-primary rounded-circle"></div>
+        </div>
+      </div>
+      <div class="col-lg-5 col-md-8 col-sm-10 mt-5 mt-lg-0">
+        <h2 class="section-title">{{ .Params.title | markdownify }}</h2>
+        <p class="pb-20">{{ .Content | markdownify }}</p>
+        <a href="{{ .Permalink | absLangURL }}" class="btn btn-primary has-icon">{{ .Params.title }}
+          <span class="icon"><svg width="32" height="32" viewBox="0 0 32 32" fill="none"
+              xmlns="http://www.w3.org/2000/svg">
+              <path
+                d="M12.5522 6.66669L20.5522 14.6667C21.0329 15.1473 21.0699 15.9036 20.6632 16.4267L20.5522 16.5523L12.5522 24.5523L10.6666 22.6667L17.7228 15.6095L10.6666 8.55231L12.5522 6.66669Z"
+                fill="currentColor" /></svg></span>
+        </a>
+      </div>
+    </div>
+  </div>
+
+  <div class="shape-3 shape-xs-2 bg-secondary rounded-circle"></div>
+  <div class="shape-4 shape-sm-2 bg-tertiary rounded-circle"></div>
+  <div class="shape-5 shape-sm bg-primary rounded-circle"></div>
+  <div class="shape-6 shape-xs bg-secondary rounded-circle"></div>
+  <div class="shape-7 shape-xs-2 bg-tertiary rounded-circle"></div>
+</section>
+{{ end }}
+<!-- end Team section -->
+
+<!-- start of Partners -->
+{{ if $data.partner.partner_circle.enable }}
+{{ with $data.partner }}
+<section class="section-padding tools-use-section has-shapes bg-light-gray has-bg-brash bg-brash-y"
+  style="background-image: url('{{`images/brushes/section-top.svg` | absURL}}'), url('{{`images/brushes/section-bottom.svg` | absURL}}');">
+  <div class="container">
+    <div class="row align-items-center justify-content-center">
+      <div class="col-lg-4 mt-4 mt-lg-0">
+        <h2 class="section-title">{{ .partner_circle.title | markdownify }}</h2>
+        <p>{{ .partner_circle.content | markdownify }}</p>
+      </div>
+      <div class="col-lg-6">
+        <ul class="inCircle-tools d-block d-sm-flex align-items-center justify-content-center" id="inCircle-element">
+          {{ range $i, $e:= .partner}}
+          <li
+            class="{{if modBool $i 2}} {{if eq $i 0}} has-centered lg {{else}}sm{{end}}{{else}}md{{end}} d-inline-flex align-items-center justify-content-center bg-white shadow rounded-circle">
+            <a target="_blank" href="{{ .link }}">
+              {{ $image := resources.GetMatch .logo }}
+              {{ partial "image.html" (dict "Image" $image "Alt" "Logo image" "Class" "img-small-padding") }}
+            </a>
+          </li>
+          {{ end }}
+        </ul>
+      </div>
+    </div>
+  </div>
+
+  <div class="shape-1 shape-xs bg-yellow rounded-circle"></div>
+  <div class="shape-2 shape-sm bg-orange rounded-circle d-none d-md-block"></div>
+  <div class="shape-3 shape-xs-2 bg-orange rounded-circle"></div>
+  <div class="shape-4 shape-xs bg-cyan rounded-circle"></div>
+  <div class="shape-5 shape-xs bg-cyan rounded-circle"></div>
+  <div class="shape-6 shape-md bg-yellow rounded-circle d-none d-md-block"></div>
+</section>
+{{ end }}
+{{ end }}
+<!-- end of tools-use -->
+
+{{ with .Site.GetPage "/jobs" }}
+<!-- start Jobs section -->
+<section class="pt-120 pb-120 image-info-section has-shapes overflow-hidden">
+  <div class="container">
+    <div class="row align-items-center justify-content-around">
+
+      <div class="col-lg-5 col-md-8 col-sm-10">
+        <div class="d-inline-block has-shadow shadow-right has-shapes">
+          {{ $image := resources.GetMatch .Params.image }}
+          {{ partial "image.html" (dict "Image" $image "Alt" "Jobs Image" "Class" "img-fluid rounded-sm") }}
+          <div class="shape-1 shape-md bg-yellow rounded-circle"></div>
+          <div class="shape-2 shape-xl bg-cyan rounded-circle"></div>
+          <div class="shape-3 shape-lg bg-orange rounded-circle"></div>
+        </div>
+      </div>
+      <div class="col-lg-5 col-md-8 col-sm-10 mb-5">
+        <h2 class="section-title">{{ .Params.title | markdownify }}</h2>
+        <p class="pb-20 border-bottom mb-20">{{ .Params.description | markdownify }}</p>
+        <ul class="check-list list-unstyled">
+          {{ range .Params.benifits.item }}
+          <li class="mb-15">
+            <svg width="16" height="11" viewBox="0 0 18 13" class="text-primary mr-2" fill="none"
+              xmlns="http://www.w3.org/2000/svg">
+              <path d="M2 6.125L6.91892 11L16 2" stroke="currentColor" stroke-width="3" stroke-linecap="round"
+                stroke-linejoin="round" /></svg>
+            {{ .name | markdownify }}
+          </li>
+          {{ end }}
+        </ul>
+        <a href="{{ .Permalink | absLangURL }}" class="btn btn-primary has-icon">{{ .Params.title }}
+          <span class="icon"><svg width="32" height="32" viewBox="0 0 32 32" fill="none"
+              xmlns="http://www.w3.org/2000/svg">
+              <path
+                d="M12.5522 6.66669L20.5522 14.6667C21.0329 15.1473 21.0699 15.9036 20.6632 16.4267L20.5522 16.5523L12.5522 24.5523L10.6666 22.6667L17.7228 15.6095L10.6666 8.55231L12.5522 6.66669Z"
+                fill="currentColor" /></svg></span>
+        </a>
+      </div>
+    </div>
+  </div>
+</section>
+{{ end }}
+<!-- end section -->
+
 
 {{ end }}
