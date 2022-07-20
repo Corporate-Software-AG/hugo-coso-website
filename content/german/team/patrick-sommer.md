@@ -1,6 +1,6 @@
 +++
 categories = ["MCT"]
-certifications = ["Microsoft Certified Trainer", "Power Platform App Maker Associate", "Microsoft 365 Certified: Teams Administrator Associate", "Azure Administrator Associate", "Azure Solution Architect Expert"]
+certifications = ["Microsoft Certified Trainer", "Power Platform App Maker Associate", "Microsoft 365 Certified: Teams Administrator Associate", "Azure Administrator Associate", "Azure Solution Architect Expert", "Microsoft 365 Certified: Teams Voice Engineer Expert", "Microsoft 365 Certified: Teams Support Engineer Specialty", "Power Platform Functional Consultant Associate", "Microsoft Certified: Power BI Data Analyst Associate", "Microsoft Certified: Power Platform Fundamentals", "Microsoft Certified: Azure Fundamentals"]
 date = ""
 image = "/uploads/patrick.png"
 job_title = "CO-Gründer, Senior-Consultant, Hermes Advanced, ITIL-Trainer, Trainer (MCT), MPP Data Science und Cloud Admin"
