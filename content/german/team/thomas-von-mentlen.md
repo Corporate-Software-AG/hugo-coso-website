@@ -22,6 +22,7 @@ certifications:
 - 'Microsoft Certified: Azure Solution Architect Expert'
 - 'Microsoft Certified: Azure DevOps Engineer Expert'
 - 'Microsoft Certified: Power Platform Developer Associate'
+- 'Microsoft Certified: Azure Developer Associate'
 job_title: Cloud Consultant, Trainer (MCT)
 team: Seal Team
 social:
