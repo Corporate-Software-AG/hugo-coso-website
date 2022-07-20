@@ -1,7 +1,7 @@
 ---
 title: Power Platform
 certifications:
-- name: Power Platform Fundamentals
+- name: 'Microsoft Certified: Power Platform Fundamentals'
   badge: "/uploads/badge-power-platform-fundamentals.png"
 - name: Power Platform Functional Consultant Associate
   badge: "/images/certs/power-platform-functional-consultant-600x600__1_.png"
