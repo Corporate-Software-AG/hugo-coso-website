@@ -17,7 +17,7 @@ certifications:
   badge: "/images/certs/azure-data-scientist-associate-600x600.png"
 - name: 'Microsoft Certified: Identity and Access Administrator Associate'
   badge: "/images/certs/microsoft-certified-identity-and-access-administrator-associate-600x600.png"
-- name: Azure Solution Architect Expert
+- name: Azure Solutions Architect Expert
   badge: "/images/certs/azure-solutions-architect-expert-600x600.png"
 - name: Azure DevOps Engineer Expert
   badge: "/images/certs/CERT-Expert-DevOps-Engineer-600x600.png"
