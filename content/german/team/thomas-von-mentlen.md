@@ -10,19 +10,18 @@ categories:
 - DevOps
 certifications:
 - Microsoft Certified Trainer
-- Azure Administrator Associate
-- Azure Developer Associate
-- Azure Security Engineer Associate
-- Azure AI Engineer Associate
-- Azure Solution Architect Expert
-- Azure DevOps Engineer Expert
 - 'Microsoft 365 Certified: Developer Associate'
 - 'Microsoft 365 Certified: Teams Administrator Associate'
-- Power Platform Developer Associate
 - 'Microsoft 365 Certified: Security Administrator Associate'
 - 'Microsoft Certified: Identity and Access Administrator Associate'
 - 'Microsoft Certified: Azure IoT Developer Specialty'
 - 'Microsoft Certified: Azure Cosmos DB Developer Specialty'
+- 'Microsoft Certified: Azure Administrator Associate'
+- 'Microsoft Certified: Azure Security Engineer Associate'
+- 'Microsoft Certified: Azure AI Engineer Associate'
+- 'Microsoft Certified: Azure Solution Architect Expert'
+- 'Microsoft Certified: Azure DevOps Engineer Expert'
+- 'Microsoft Certified: Power Platform Developer Associate'
 job_title: Cloud Consultant, Trainer (MCT)
 team: Seal Team
 social:
