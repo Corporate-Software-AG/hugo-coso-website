@@ -1,6 +1,8 @@
 ---
 title: Microsoft 365
 certifications:
+- name: 'Microsoft 365 Certified: Teams Support Engineer Specialty'
+  badge: "/uploads/microsoft-365-certified-teams-support-engineer-specialty.png"
 - name: "Microsoft 365 Certified: Teams Voice Engineer Expert\t"
   badge: "/uploads/microsoft-365-certified-teams-voice-engineer-expert.png"
 - name: 'Microsoft 365 Certified: Fundamentals'
