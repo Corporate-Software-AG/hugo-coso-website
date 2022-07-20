@@ -1,6 +1,6 @@
 +++
 categories = ["Dynamics 365", "Power Platform"]
-certifications = ["Power Platform Fundamentals"]
+certifications = ["Microsoft Certified: Power Platform Fundamentals"]
 date = ""
 description = ""
 image = "/uploads/kevinayiramala.png"
