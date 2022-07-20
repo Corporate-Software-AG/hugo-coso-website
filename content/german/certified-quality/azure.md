@@ -13,8 +13,6 @@ certifications:
   badge: "/images/certs/azure-ai-engineer-600x600.png"
 - name: 'Microsoft Certified: Azure Data Engineer Associate'
   badge: "/images/certs/azure-data-engineer-associate-600x600-1.png"
-- name: 'Microsoft Certified: Azure Data Scientist Associate'
-  badge: "/images/certs/azure-data-scientist-associate-600x600.png"
 - name: 'Microsoft Certified: Identity and Access Administrator Associate'
   badge: "/images/certs/microsoft-certified-identity-and-access-administrator-associate-600x600.png"
 - name: 'Microsoft Certified: Azure Solutions Architect Expert'
