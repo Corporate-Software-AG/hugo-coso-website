@@ -1,6 +1,6 @@
 +++
 categories = ["MCT", "Microsoft 365"]
-certifications = ["Microsoft 365 Certified: Teams Administrator Associate", "Microsoft 365 Certified: Teamwork Administrator Associate", "Microsoft Certified Trainer", "Microsoft 365 Certified: Enterprise Administrator Expert", "Microsoft 365 Certified: Teamwork Administrator Associate", "Microsoft 365 Certified: Security Administrator Associate", "Microsoft Certified: Power Platform Functional Consultant Associate"]
+certifications = ["Microsoft 365 Certified: Teams Administrator Associate", "Microsoft Certified Trainer", "Microsoft 365 Certified: Enterprise Administrator Expert", "Microsoft 365 Certified: Security Administrator Associate", "Microsoft Certified: Power Platform Functional Consultant Associate"]
 date = ""
 image = "/uploads/jonasroosli.png"
 job_title = "Consultant, Trainer (MCT)"
