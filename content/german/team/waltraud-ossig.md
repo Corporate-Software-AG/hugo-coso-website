@@ -1,6 +1,6 @@
 +++
 categories = ["Dynamics 365"]
-certifications = []
+certifications = ["Microsoft Certified: Power Platform App Maker Associate", "Microsoft Certified: Power Platform Functional Consultant Associate", "Microsoft Certified Trainer", "Microsoft 365 Certified: Teams Administrator Associate"]
 date = ""
 description = ""
 image = "/uploads/waltraudossig.png"
