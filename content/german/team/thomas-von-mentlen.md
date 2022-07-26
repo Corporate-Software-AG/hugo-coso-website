@@ -19,7 +19,7 @@ certifications:
 - 'Microsoft Certified: Azure Administrator Associate'
 - 'Microsoft Certified: Azure Security Engineer Associate'
 - 'Microsoft Certified: Azure AI Engineer Associate'
-- 'Microsoft Certified: Azure Solution Architect Expert'
+- 'Microsoft Certified: Azure Solutions Architect Expert'
 - 'Microsoft Certified: Azure DevOps Engineer Expert'
 - 'Microsoft Certified: Power Platform Developer Associate'
 - 'Microsoft Certified: Azure Developer Associate'
