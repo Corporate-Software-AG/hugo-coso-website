@@ -7,13 +7,14 @@
       <div class="col-lg-3 col-md-3 col-sm-9 text-center">
         {{ $image := resources.GetMatch .Params.image }}
         {{ partial "image.html" (dict "Image" $image "Alt" "Team Image" "Class" "img-fluid rounded") }}
-        
+
         <ul class="list-unstyled list-inline mt-2">
           {{ range sort .Params.social "icon" "asc" }}
           <li class="list-inline-item">
             <a target="_blank" href="{{ .link | safeURL }}" class="text-black-200 p-2 d-inline-block">
               {{ if eq .icon "teams-icon" }}
-              <span class="{{ .icon }}"><img style="width: 20px; margin-top: -3px;" src="/images/microsoft_teams_icon_137398.png" alt="team icon"></span>
+              <span class="{{ .icon }}"><img style="width: 20px; margin-top: -3px;"
+                  src="/images/microsoft_teams_icon_137398.png" alt="team icon"></span>
               {{ else }}
               <span class="{{ .icon }}"></span>
               {{ end }}
@@ -23,11 +24,12 @@
         </ul>
         <br />
 
-        
+
       </div>
       <div class="col-lg-9 col-md-9 mb-60" data-aos="fade-in" data-aos-delay="50">
-        <div class="post-category position-relative mb-15">{{ range $i,$p:= .Params.Categories }}{{if ne $i 0}}-{{end}}<span
-          class="text-black-200 font-weight-600 ml-1">{{ . }}</span>
+        <div class="post-category position-relative mb-15">
+          {{ range $i,$p:= .Params.Categories }}{{if ne $i 0}}-{{end}}<span
+            class="text-black-200 font-weight-600 ml-1">{{ . }}</span>
           {{ end }}
         </div>
 
@@ -42,21 +44,21 @@
         {{ $certifications := .Params.certifications }}
         <div class="row justify-content-center">
           {{ range (where .Site.RegularPages "Section" "certified-quality") }}
-            {{ $link := .Permalink}}
-            {{ range .Params.certifications }}
-              {{ if in $certifications .name }}
-              <div class="col-lg-2 cert-badge-detailed">
-                <a href="{{ $link }}">
-                  {{ $image := resources.GetMatch .badge }}
-                  {{ partial "image.html" (dict "Image" $image "Alt" "badge" "Class" "img-fluid") }}  
-                </a>
-              </div>
-              {{ end }}
-            {{ end }}
+          {{ $link := .Permalink}}
+          {{ range .Params.certifications }}
+          {{ if in $certifications .name }}
+          <div class="col-2 cert-badge-detailed">
+            <a href="{{ $link }}">
+              {{ $image := resources.GetMatch .badge }}
+              {{ partial "image.html" (dict "Image" $image "Alt" "badge" "Class" "img-fluid") }}
+            </a>
+          </div>
           {{ end }}
-        </div> 
+          {{ end }}
+          {{ end }}
+        </div>
 
-        
+
       </div>
     </div>
   </div>

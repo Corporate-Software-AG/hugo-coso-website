@@ -1,19 +1,24 @@
 /* SideScroll Fix */
-html, body {
+html,
+body {
     overflow-x: hidden;
 }
+
 body {
     position: relative;
 }
+
 a:not(.nav-link, .dropdown-item, .btn) {
     text-decoration: underline !important;
 }
+
 .header-nav {
     .navbar {
         padding-top: 5px;
         padding-bottom: 5px;
     }
 }
+
 .navbar-brand {
     max-width: calc(100% - 80px);
 }
@@ -33,9 +38,11 @@ a:not(.nav-link, .dropdown-item, .btn) {
 .logo-small {
     width: 90px;
     transition: 0.5s;
+
     .logo_cc {
         display: block;
     }
+
     .logo_normal {
         display: none;
     }
@@ -44,13 +51,16 @@ a:not(.nav-link, .dropdown-item, .btn) {
 .logo-big {
     width: 260px;
     transition: 0.5s;
+
     .logo_cc {
         display: none;
     }
+
     .logo_normal {
         display: block;
     }
 }
+
 .cert-badge {
     padding: 15%;
 }
@@ -61,30 +71,34 @@ a:not(.nav-link, .dropdown-item, .btn) {
 
 .cc-cp-foot-save,
 .cc-nb-okagree {
-    background-color: $color-primary !important;
+    background-color: $color-primary  !important;
 }
 
 .content img {
     max-height: 28rem;
 }
+
 section {
     background-color: white;
     position: relative;
 }
+
 .img-fluid {
     width: 100%;
 }
+
 .img-limitted {
     max-width: 23em;
 }
+
 .img-small-padding {
     padding: 5px;
 }
 
 .team-img {
-    width: 200px; 
-    height: 200px; 
-    object-fit: cover; 
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
     object-position: 50% 10px;
 }
 
@@ -111,5 +125,6 @@ section {
 }
 
 .cert-badge-detailed {
-    min-width: 12em;
+    min-width: 10em;
+    padding-bottom: 1em;
 }

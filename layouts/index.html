@@ -2,9 +2,6 @@
 
 {{ $data := index .Site.Data .Site.Language.Lang }}
 
-
-
-
 <!-- Blog section -->
 {{ $mysection := ($.Site.GetPage "blog" .Section).Pages.ByPublishDate }}
 {{ range last 1 $mysection }}
@@ -19,9 +16,10 @@
               xmlns="http://www.w3.org/2000/svg">
               <path
                 d="M12.5522 6.66669L20.5522 14.6667C21.0329 15.1473 21.0699 15.9036 20.6632 16.4267L20.5522 16.5523L12.5522 24.5523L10.6666 22.6667L17.7228 15.6095L10.6666 8.55231L12.5522 6.66669Z"
-                fill="currentColor" /></svg></span>
+                fill="currentColor" />
+            </svg></span>
         </a>
-        
+
       </div>
       <div class="col-lg-5 col-md-8 col-sm-10">
         <div class="d-inline-block has-shadow shadow-right has-shapes">
@@ -42,7 +40,7 @@
 
 <!-- start of Services tab -->
 <section class="section-padding how-it-works-tab pt-50 overflow-hidden bg-light-gray has-bg-brash bg-brash-y"
-style="background-image: url('{{`images/brushes/section-top.svg` | absURL}}'), url('{{`images/brushes/section-bottom.svg` | absURL}}');">
+  style="background-image: url('{{`images/brushes/section-top.svg` | absURL}}'), url('{{`images/brushes/section-bottom.svg` | absURL}}');">
   <div class="container">
     <div class="row justify-content-center">
       <div class="col-lg-6 col-md-9 text-center mb-40">
@@ -55,7 +53,8 @@ style="background-image: url('{{`images/brushes/section-top.svg` | absURL}}'), u
           {{ if .Params.title }}
           <li class="nav-item mb-20" role="presentation">
             <a class="nav-link {{if eq $i 0}}active{{end}}" id="pill-{{.Params.title| urlize}}" data-toggle="pill"
-              href="#{{.Params.title| urlize}}" role="tab" aria-controls="{{.Params.title| urlize}}" aria-selected="true">
+              href="#{{.Params.title| urlize}}" role="tab" aria-controls="{{.Params.title| urlize}}"
+              aria-selected="true">
               <i class="circle-shape"></i>{{ .Params.title }}
             </a>
           </li>
@@ -70,7 +69,7 @@ style="background-image: url('{{`images/brushes/section-top.svg` | absURL}}'), u
             <div class="row align-items-center">
               <div class="col-lg-8 anim-to-top">
                 {{ $image := resources.GetMatch .Params.image }}
-                {{ partial "image.html" (dict "Image" $image "Alt" "services Image" "Class" "img-fluid rounded-lg") }}      
+                {{ partial "image.html" (dict "Image" $image "Alt" "services Image" "Class" "img-fluid rounded-lg") }}
               </div>
               <div class="col-lg-4 mt-4 mt-lg-0 anim-to-bottom">
                 <h2 class="section-title">{{ .Params.title | markdownify }}</h2>
@@ -97,22 +96,22 @@ style="background-image: url('{{`images/brushes/section-top.svg` | absURL}}'), u
 
 <!-- start of brand-carousel -->
 
-<section  id="first-section" class="section-padding overflow-hidden">
+<section id="first-section" class="section-padding overflow-hidden">
   <div class="container">
     <div class="row">
       <div class="col-md-12">
         <div class="brand-carousel">
           {{ range (where .Site.RegularPages "Section" "certified-quality") }}
-            {{ $link := .Permalink}}
-            {{ range .Params.certifications }}
-            <a href="/certified-quality/">          
-              <div class="brand-item d-flex align-items-center justify-content-center">
-                {{ $image := resources.GetMatch .badge }}
-                {{ partial "image.html" (dict "Image" $image "Alt" "badge" "Class" "img-fluid") }}
-              </div>
-            </a>
-            {{ end }}
-          {{ end }}        
+          {{ $link := .Permalink}}
+          {{ range .Params.certifications }}
+          <a href="/certified-quality/">
+            <div class="brand-item d-flex align-items-center justify-content-center">
+              {{ $image := resources.GetMatch .badge }}
+              {{ partial "image.html" (dict "Image" $image "Alt" "badge" "Class" "img-fluid") }}
+            </div>
+          </a>
+          {{ end }}
+          {{ end }}
         </div>
       </div>
     </div>
@@ -142,13 +141,14 @@ style="background-image: url('{{`images/brushes/section-top.svg` | absURL}}'), u
                 xmlns="http://www.w3.org/2000/svg">
                 <path
                   d="M3.75001 35L13.75 35C15.8203 35 17.5 33.3203 17.5 31.25L17.5 21.25C17.5 19.1797 15.8203 17.5 13.75 17.5L7.50001 17.5L7.50001 12.5C7.50001 9.74219 9.74219 7.5 12.5 7.5L13.125 7.5C14.1641 7.5 15 6.66406 15 5.625L15 1.875C15 0.83594 14.1641 2.25865e-06 13.125 2.34949e-06L12.5 2.40413e-06C5.59375 3.00789e-06 5.05862e-06 5.59375 5.66238e-06 12.5L7.30156e-06 31.25C7.48255e-06 33.3203 1.6797 35 3.75001 35ZM26.25 35L36.25 35C38.3203 35 40 33.3203 40 31.25L40 21.25C40 19.1797 38.3203 17.5 36.25 17.5L30 17.5L30 12.5C30 9.74219 32.2422 7.5 35 7.5L35.625 7.5C36.6641 7.5 37.5 6.66406 37.5 5.625L37.5 1.875C37.5 0.835938 36.6641 2.91637e-07 35.625 3.82475e-07L35 4.37114e-07C28.0937 1.04088e-06 22.5 5.59375 22.5 12.5L22.5 31.25C22.5 33.3203 24.1797 35 26.25 35Z"
-                  fill="currentColor" /></svg>
+                  fill="currentColor" />
+              </svg>
               <p class="h4 text-black-300 font-weight-light">{{ .content | markdownify }}</p>
               <img src="{{`images/arrow.png` | absURL }}" alt="arrow">
             </div>
             <div class="user-info d-flex align-items-center mt-30">
               {{ $image := resources.GetMatch .image }}
-              {{ partial "image.html" (dict "Image" $image "Alt" "carrousel image" "Class" "d-inline mr-3") }}    
+              {{ partial "image.html" (dict "Image" $image "Alt" "carrousel image" "Class" "d-inline mr-3") }}
               <div class="pt-1">
                 <h5 class="font-weight-bold">{{ .name }}</h5>
                 <p>{{ .designation | markdownify }}</p>
@@ -166,7 +166,8 @@ style="background-image: url('{{`images/brushes/section-top.svg` | absURL}}'), u
                 xmlns="http://www.w3.org/2000/svg">
                 <path
                   d="M12.5522 6.66669L20.5522 14.6667C21.0329 15.1473 21.0699 15.9036 20.6632 16.4267L20.5522 16.5523L12.5522 24.5523L10.6666 22.6667L17.7228 15.6095L10.6666 8.55231L12.5522 6.66669Z"
-                  fill="currentColor" /></svg></span>
+                  fill="currentColor" />
+              </svg></span>
           </a>
         </div>
       </div>
@@ -187,8 +188,8 @@ style="background-image: url('{{`images/brushes/section-top.svg` | absURL}}'), u
 
 <!-- About Us section -->
 {{ with .Site.GetPage "/about" }}
-<section class="section-padding bg-light-gray has-bg-brash bg-brash-y" 
-style="background-image: url('{{`images/brushes/section-top.svg` | absURL}}'), url('{{`images/brushes/section-bottom.svg` | absURL}}');">
+<section class="section-padding bg-light-gray has-bg-brash bg-brash-y"
+  style="background-image: url('{{`images/brushes/section-top.svg` | absURL}}'), url('{{`images/brushes/section-bottom.svg` | absURL}}');">
   <div class="container">
     <div class="row align-items-center justify-content-around">
       <div class="col-lg-5 col-md-8 col-sm-10 mb-5">
@@ -199,9 +200,10 @@ style="background-image: url('{{`images/brushes/section-top.svg` | absURL}}'), u
               xmlns="http://www.w3.org/2000/svg">
               <path
                 d="M12.5522 6.66669L20.5522 14.6667C21.0329 15.1473 21.0699 15.9036 20.6632 16.4267L20.5522 16.5523L12.5522 24.5523L10.6666 22.6667L17.7228 15.6095L10.6666 8.55231L12.5522 6.66669Z"
-                fill="currentColor" /></svg></span>
+                fill="currentColor" />
+            </svg></span>
         </a>
-        
+
       </div>
       <div class="col-lg-5 col-md-8 col-sm-10">
         <div class="d-inline-block has-shadow shadow-right has-shapes">
@@ -243,7 +245,8 @@ style="background-image: url('{{`images/brushes/section-top.svg` | absURL}}'), u
               xmlns="http://www.w3.org/2000/svg">
               <path
                 d="M12.5522 6.66669L20.5522 14.6667C21.0329 15.1473 21.0699 15.9036 20.6632 16.4267L20.5522 16.5523L12.5522 24.5523L10.6666 22.6667L17.7228 15.6095L10.6666 8.55231L12.5522 6.66669Z"
-                fill="currentColor" /></svg></span>
+                fill="currentColor" />
+            </svg></span>
         </a>
       </div>
     </div>
@@ -320,7 +323,8 @@ style="background-image: url('{{`images/brushes/section-top.svg` | absURL}}'), u
             <svg width="16" height="11" viewBox="0 0 18 13" class="text-primary mr-2" fill="none"
               xmlns="http://www.w3.org/2000/svg">
               <path d="M2 6.125L6.91892 11L16 2" stroke="currentColor" stroke-width="3" stroke-linecap="round"
-                stroke-linejoin="round" /></svg>
+                stroke-linejoin="round" />
+            </svg>
             {{ .name | markdownify }}
           </li>
           {{ end }}
@@ -330,7 +334,8 @@ style="background-image: url('{{`images/brushes/section-top.svg` | absURL}}'), u
               xmlns="http://www.w3.org/2000/svg">
               <path
                 d="M12.5522 6.66669L20.5522 14.6667C21.0329 15.1473 21.0699 15.9036 20.6632 16.4267L20.5522 16.5523L12.5522 24.5523L10.6666 22.6667L17.7228 15.6095L10.6666 8.55231L12.5522 6.66669Z"
-                fill="currentColor" /></svg></span>
+                fill="currentColor" />
+            </svg></span>
         </a>
       </div>
     </div>

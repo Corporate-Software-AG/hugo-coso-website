@@ -1,6 +1,6 @@
 ---
 title: Erfolge
-description: ''
+description: 'Langer erfolgreich Title'
 image: "/uploads/cs-kalender-cover-gross-fertig-mit-andreas.jpg"
 
 ---
