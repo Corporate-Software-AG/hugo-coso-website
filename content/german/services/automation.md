@@ -1,7 +1,6 @@
 ---
 title: Automation
-description: Erleben Sie selbst, wie Ihre Arbeitsprozesse verbessert und unterstützet
-  werden können.
+description: Mit der Microsoft Power Platform zur Prozessautomatisierung
 image: "/uploads/bereich_it_automation.png"
 
 ---
