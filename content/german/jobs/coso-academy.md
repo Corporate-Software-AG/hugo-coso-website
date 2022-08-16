@@ -1,6 +1,6 @@
 +++
 description = "Bist du Student:in und suchst den Praxisbezug?"
-title = "CoSo-Academy"
+title = "Dank der CoSo-Academy zu neuen Talenten"
 
 +++
 ![](/uploads/training-300x217.png)Wir begleiten unsere Kund:innen bei der Entdeckung neuer Bereiche und treiben innovative Projekte voran. Wir entwickeln uns auch als Unternehmen ständig weiter. Daran lassen wir nicht nur unsere Kund:innen, sondern auch unsere Mitarbeiter:innen teilhaben.

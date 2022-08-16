@@ -1,5 +1,5 @@
 ---
-title: Jobs bei Corporate Software
+title: Lust, bei Corporate Software mitzugestalten?
 description: Werde COSOianer!
 image: uploads/illustration-stellenanzeige-final.png
 benifits:

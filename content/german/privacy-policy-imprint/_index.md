@@ -1,5 +1,5 @@
 ---
-title: Datenschutz und Impressum
+title: Wichtige Informationen rund um Datenschutz & Impressum
 
 ---
 ### Verantwortlich für den Inhalt der Seiten
