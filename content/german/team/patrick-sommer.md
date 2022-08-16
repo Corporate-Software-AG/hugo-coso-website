@@ -6,7 +6,7 @@ image = "/uploads/patrick.png"
 job_title = "CO-Gründer, Senior-Consultant, Hermes Advanced, ITIL-Trainer, Trainer (MCT), MPP Data Science und Cloud Admin"
 name = "Patrick Sommer"
 team = "General Circle"
-title = "Patrick Sommer"
+title = "Lerne unseren Co-Gründer Patrick Sommer kennen"
 [[social]]
 icon = "ti-headphone-alt"
 link = "tel:+41 32 315 03 50"
