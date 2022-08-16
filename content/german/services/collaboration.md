@@ -1,5 +1,5 @@
 ---
-title: Collaboration
+title: Ihr Weg zur vernetzten und effizienten Zusammenarbeit
 description: Nutzen Sie die heutigen Möglichkeiten für vernetzte und effiziente Zusammenarbeit
   für sich.
 image: uploads/collaboration.png
