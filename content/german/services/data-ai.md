@@ -1,10 +1,10 @@
 ---
-title: Data & AI
+title: Mehr Durchblick dank Daten und künstlicher Intelligenz
 description: Nutzen Sie Wettbewerbsvorteile durch Data und künstliche Intelligenz
 image: uploads/bereich_datascience.png
 
 ---
-## Nutzen Sie Wettbewerbsvorteile durch Daten und künstliche Intelligenz
+### Wettbewerbsvorteile durch KI – wir unterstützen sie bei der erfolgreichen Umsetzung
 
 Holen Sie alles aus Ihren Daten. Wir helfen Ihnen bei Reporting und Analytics mit Tools der neusten Generation. Wir zeigen Ihnen das volle Potenzial von Power BI und Azure Synapse. Zudem binden wir individuell gestaltete künstliche Intelligenz und Azure Cognitive Services in Ihre Applikationen ein.
 
