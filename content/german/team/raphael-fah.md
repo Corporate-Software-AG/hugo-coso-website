@@ -7,7 +7,7 @@ image = "/uploads/raphael-neu-fertig.png"
 job_title = "Senior Consultant & Trainer (MCT)"
 name = "Raphael Fäh – unser Automation Mentor"
 team = "S.H.I.E.L.D"
-title = "Raphael Fäh"
+title = "Lerne den Cosoianer Raphael Fäh kennen"
 [[social]]
 icon = "ti-headphone-alt"
 link = "tel:+41 32 315 03 42"

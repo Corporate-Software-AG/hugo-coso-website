@@ -1,5 +1,5 @@
 ---
-title: Thomas von Mentlen
+title: Lerne den Cosoianer Thomas von Mentlen kennen
 image: "/uploads/portrait.png"
 date: 
 name: Thomas von Mentlen

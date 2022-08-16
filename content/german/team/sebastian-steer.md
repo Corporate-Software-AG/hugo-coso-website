@@ -6,7 +6,7 @@ image = "/uploads/sebastiansteer.png"
 job_title = "Consultant & Trainer (MCT)"
 name = "Sebastian Steer"
 team = "S.H.I.E.L.D"
-title = "Sebastian Steer"
+title = "Lerne unseren Hero Sebastian Steer kennen"
 [[social]]
 icon = "ti-headphone-alt"
 link = "tel:+41 32 315 03 51"
