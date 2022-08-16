@@ -7,7 +7,7 @@ image = "/uploads/noah.png"
 job_title = "Co-Owner, Senior Consultant & Trainer (MCT)"
 name = "Noah Zani"
 team = "Seal Team"
-title = "Lerne unseren Hero Noah Zani kennen"
+title = "Lernen Sie unseren Hero Noah Zani kennen"
 [[social]]
 icon = "ti-headphone-alt"
 link = "tel:+41 32 315 03 43"
