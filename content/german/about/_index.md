@@ -1,5 +1,5 @@
 ---
-title: Über uns
+title: Lernen Sie Corporate Software kennen
 description: CoSo begeistert als Schweizer Unternehmen seit 2011 Kund:innen mit nachhaltigen
   Lösungskonzepten an der Schnittstelle zwischen Business und IT.
 image: "/images/logo.png"
