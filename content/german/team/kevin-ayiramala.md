@@ -6,7 +6,7 @@ description = ""
 image = "/uploads/kevinayiramala.png"
 job_title = "Junior Cloud Consultant"
 team = "Seal"
-title = "Kevin Ayiramala"
+title = "Lerne den Cosoianer Kevin Ayiramala kennen"
 [[social]]
 icon = "ti-headphone-alt"
 link = "tel:+41 32 315 03 56"
