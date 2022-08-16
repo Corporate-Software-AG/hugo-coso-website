@@ -1,5 +1,5 @@
 ---
-title: Power Platform
+title: Microsoft Power Platform Zertifizierungen
 certifications:
 - name: 'Microsoft Certified: Dynamics 365 + Power PlatformSolution Architect Expert'
   badge: "/uploads/microsoft-certified-dynamics-365-power-platformsolution-architect-expert.png"

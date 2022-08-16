@@ -1,5 +1,5 @@
 ---
-title: MVP
+title: Microsoft Most Valuable Professional Auszeichnungen
 certifications:
 - name: Most Valuable Professional
   badge: "/images/certs/mvp.png"

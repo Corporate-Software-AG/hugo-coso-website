@@ -1,5 +1,5 @@
 ---
-title: Microsoft 365
+title: Microsoft 365 Zertifizierungen
 certifications:
 - name: 'Microsoft 365 Certified: Teams Support Engineer Specialty'
   badge: "/uploads/microsoft-365-certified-teams-support-engineer-specialty.png"
