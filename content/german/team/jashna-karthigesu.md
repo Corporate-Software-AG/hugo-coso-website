@@ -1,11 +1,11 @@
 +++
 categories = []
 certifications = []
-name = "Jashna Karthigesu"
 image = "/uploads/jashnakarthigesu.png"
 job_title = "HR & Finance Support"
+name = "Jashna Karthigesu"
 team = "General Circle"
-title = "Jashna Karthigesu"
+title = "Lernen die Cosoianerin Jashna Karthigesu kennen"
 [[social]]
 icon = "ti-linkedin"
 link = "https://www.linkedin.com/in/jashna-karthigesu-aa5b66190/"
