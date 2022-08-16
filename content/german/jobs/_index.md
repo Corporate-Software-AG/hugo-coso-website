@@ -11,10 +11,9 @@ benifits:
   item:
   - name: Regelmässige <br>Co-Workings
     icon: ti-face-smile
-    content: Wir arbeiten grösstenteils remote – direkt bei Kund:innen vor Ort oder
-      an einem Arbeitsplatz unserer Wahl. Umso wichtiger ist der regelmässige Austausch
-      von Mensch zu Mensch. Wir organisieren deshalb regelmässige Co-Workings mit
-      gemeinsamen Workshops, um uns wieder zu verbinden.
+    content: Wir arbeiten grösstenteils remote – direkt bei Kund:innen oder an einem
+      Ort unserer Wahl. Umso wichtiger ist der Austausch von Mensch zu Mensch an unseren
+      Co-Workings, um uns wieder zu verbinden.
   - name: Work-Life-<br>Integration
     icon: ti-link
     content: Wie, wann und wo wir etwas tun, möchten wir uns so oft wie möglich selbst
