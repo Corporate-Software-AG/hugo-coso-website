@@ -6,7 +6,7 @@ image = "/uploads/markus.png"
 job_title = "Senior Consultant, Microsoft Certified Master (MSCM), Trainer (MCT)"
 name = "Markus Hintner"
 team = "General Circle"
-title = "Lerne den Cosoianer Markus Hintner kennen"
+title = "Lernen Sie den Cosoianer Markus Hintner kennen"
 [[social]]
 icon = "ti-headphone-alt"
 link = "tel:+41 32 315 03 58"

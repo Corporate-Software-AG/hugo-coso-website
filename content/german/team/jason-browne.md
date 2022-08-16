@@ -6,7 +6,7 @@ image = "/uploads/jason-fertig.png"
 job_title = "Consultant"
 name = "Jason Browne"
 team = "S.H.I.E.L.D"
-title = "Lerne den Cosoianer Jason Browne kennen"
+title = "Lernen Sie den Cosoianer Jason Browne kennen"
 [[social]]
 icon = "ti-headphone-alt"
 link = "tel:+41 32 315 03 57"

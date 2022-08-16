@@ -6,7 +6,7 @@ image = "/uploads/manuelgloor.png"
 job_title = "Junior Consultant"
 name = "Manuel Gloor"
 team = "A-Team"
-title = "Lerne den Cosoianer Manuel Gloor kennen"
+title = "Lernen Sie den Cosoianer Manuel Gloor kennen"
 [[social]]
 icon = "ti-headphone-alt"
 link = "tel:+41 32 315 03 66"
