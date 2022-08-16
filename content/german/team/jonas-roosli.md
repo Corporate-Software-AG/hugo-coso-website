@@ -6,7 +6,7 @@ image = "/uploads/jonasroosli.png"
 job_title = "Consultant, Trainer (MCT)"
 name = "Jonas Röösli"
 team = "Seal Team"
-title = "Lernen den Cosoianer Jonas Röösli kennen"
+title = "Lernen Sie den Cosoianer Jonas Röösli kennen"
 [[social]]
 icon = "ti-headphone-alt"
 link = "tel:+41 32 315 03 44"

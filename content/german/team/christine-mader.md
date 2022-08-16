@@ -6,7 +6,7 @@ image = "/uploads/christine-fertig.png"
 job_title = "Senior Marketing Manager & Team Consultant"
 name = "Christine Mäder"
 team = "General Team"
-title = "Lernen die Cosoianerin Christine Mäder kennen"
+title = "Lernen Sie die Cosoianerin Christine Mäder kennen"
 [[social]]
 icon = "ti-headphone-alt"
 link = "tel:+41 32 315 03 63"
