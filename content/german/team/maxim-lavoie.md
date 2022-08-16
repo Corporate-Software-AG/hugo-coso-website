@@ -3,11 +3,11 @@ categories = ["Power Platform"]
 certifications = ["Microsoft 365 Certified: Fundamentals", "Microsoft Certified: Power Platform Fundamentals", "Microsoft Certified: Power Platform Functional Consultant Associate"]
 date = ""
 description = ""
-image = "/uploads/maximlavoie.png"
+image = "/uploads/maximlavoie_neu.png"
 job_title = "Junior Cloud Consultant"
 name = "Maxim Lavoie"
 team = "A-Team"
-title = "Maxim Lavoie"
+title = "Lerne den Cosoianer Maxim Lavoie kennen"
 [[social]]
 icon = "ti-headphone-alt"
 link = "tel:+41 32 315 03 65"

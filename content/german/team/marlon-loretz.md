@@ -6,7 +6,7 @@ image = "/uploads/marlonloretz.jpg"
 job_title = "Junior Consultant"
 name = "Marlon Loretz"
 team = "Seal"
-title = "Marlon Loretz"
+title = "Lerne den Cosoianer Marlon Loretz kennen"
 [[social]]
 icon = "ti-email"
 link = "mailto:marlon.loretz@corporatesoftware.ch"
