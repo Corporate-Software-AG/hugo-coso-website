@@ -1,5 +1,5 @@
 ---
-title: Spezielle / klassische Zertifizierungen
+title: Klassische und spezielle Microsoft-Zertifizierungen
 certifications:
 - name: Microsoft Certified Solutions Associate
   badge: "/images/certs/mcsa-badge.svg"

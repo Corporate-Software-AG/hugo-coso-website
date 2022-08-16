@@ -1,5 +1,5 @@
 ---
-title: Schön, dass Sie da sind
+title: Wir freuen uns über Ihre Anfrage
 description: Wir freuen uns, gemeinsam mit Ihnen den nächsten Schritt zu gehen.
 
 ---
