@@ -1,5 +1,5 @@
 ---
-title: Blog
+title: Das Neuste gibts bei uns im Blog
 description: Aktuelles und Neuigkeiten gibts im Blog von Corporate Software.
 
 ---
