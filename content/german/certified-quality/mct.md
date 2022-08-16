@@ -1,5 +1,5 @@
 ---
-title: MCT
+title: Microsoft Certified Trainer Zertifizierungen
 certifications:
 - name: Microsoft Certified Trainer
   badge: "/images/certs/mct.png"
