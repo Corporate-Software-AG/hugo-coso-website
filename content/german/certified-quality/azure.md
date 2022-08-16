@@ -1,5 +1,5 @@
 ---
-title: Azure
+title: Microsoft Azure Zertifizierungen
 certifications:
 - name: 'Microsoft Certified: Azure Fundamentals'
   badge: "/uploads/microsoft-azure-fundamentals-badge.png"
