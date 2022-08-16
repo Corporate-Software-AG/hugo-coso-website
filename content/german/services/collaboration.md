@@ -5,8 +5,6 @@ description: Nutzen Sie die heutigen Möglichkeiten für vernetzte und effizient
 image: uploads/collaboration.png
 
 ---
-### Nutzen Sie die heutigen Möglichkeiten für vernetzte und effiziente Zusammenarbeit für sich
-
 Modern Workplace mit den neuesten Funktionen der Office-365-Produktpalette, mit Microsoft Teams und der Prozess-Implementierung via Power Platform. Wir unterstützen Sie beim Schritt in die Cloud, sodass Dokumentenverwaltung und Ihre Kommunikation agil und einfach sind.
 
 Setzen Sie ohne Schwierigkeiten moderne Formen der Zusammenarbeit um und nutzen Sie die Vorteile des agilen Arbeitens effektiv.
