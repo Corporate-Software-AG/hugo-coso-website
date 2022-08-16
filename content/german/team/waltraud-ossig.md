@@ -7,7 +7,7 @@ image = "/uploads/waltraudossig.png"
 job_title = "Buchhaltung, Controlling & Team Consultant"
 name = "Waltraud Ossig"
 team = "General Team"
-title = "Waltraud Ossig"
+title = "Lerne die Cosoianerin Waltraud Ossig kennen"
 [[social]]
 icon = "ti-headphone-alt"
 link = "tel:+41 32 315 03 64"
