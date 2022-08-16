@@ -1,6 +1,7 @@
 ---
-title: Erfolge
-description: 'Langer erfolgreich Title'
+title: Lernen Sie erfolgreiche Kundenprojekte kennen
+description: Gemeinsam bergen wir Schätze. Wir begleiten unsere Kund:innen bei der
+  Entdeckung von neuen Gebieten und treiben innovative Projekte voran.
 image: "/uploads/cs-kalender-cover-gross-fertig-mit-andreas.jpg"
 
 ---
