@@ -7,7 +7,7 @@ image = "/uploads/maximlavoie_neu.png"
 job_title = "Junior Cloud Consultant"
 name = "Maxim Lavoie"
 team = "A-Team"
-title = "Lerne den Cosoianer Maxim Lavoie kennen"
+title = "Lernen Sie den Cosoianer Maxim Lavoie kennen"
 [[social]]
 icon = "ti-headphone-alt"
 link = "tel:+41 32 315 03 65"
