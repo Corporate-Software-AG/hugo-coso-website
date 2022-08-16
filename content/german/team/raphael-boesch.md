@@ -7,7 +7,7 @@ image = "/uploads/raphaelboesch.png"
 job_title = "Consultant"
 name = "Raphael Bösch"
 team = "Seal Team"
-title = "Lerne den Cosoianer Raphael Bösch kennen"
+title = "Lernen Sie den Cosoianer Raphael Bösch kennen"
 [[social]]
 icon = "ti-headphone-alt"
 link = "tel:+41 32 315 03 41"

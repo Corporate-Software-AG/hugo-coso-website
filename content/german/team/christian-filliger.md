@@ -6,7 +6,7 @@ image = "/uploads/christianfilliger.png"
 job_title = "Junior Consultant"
 name = "Christian Filliger"
 team = "Seal Team"
-title = "Lerne den Cosoianer Christian Filliger kennen"
+title = "Lernen Sie den Cosoianer Christian Filliger kennen"
 [[social]]
 icon = "ti-headphone-alt"
 link = "tel:+41 32 315 03 46"

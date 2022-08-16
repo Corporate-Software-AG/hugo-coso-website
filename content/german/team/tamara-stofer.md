@@ -6,7 +6,7 @@ image = "/uploads/tamarastofer.png"
 job_title = "Consultant und Trainerin"
 name = "Tamara Stofer"
 team = "Seal Team"
-title = "Lerne die Cosoianerin Tamara Stofer kennen"
+title = "Lernen Sie die Cosoianerin Tamara Stofer kennen"
 [[social]]
 icon = "ti-headphone-alt"
 link = "tel:+41 32 315 03 61"
