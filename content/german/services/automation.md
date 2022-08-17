@@ -1,6 +1,7 @@
 ---
 title: Sparen Sie Zeit durch Automation
-description: Mit der Microsoft Power Platform zur Prozessautomatisierung
+description: Erleben Sie selbst, wie Ihre Arbeitsprozesse verbessert und unterstützet
+  werden können.
 image: "/uploads/bereich_it_automation.png"
 
 ---

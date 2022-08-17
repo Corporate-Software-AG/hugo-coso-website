@@ -1,6 +1,7 @@
 ---
 title: Mehr Durchblick dank Daten und künstlicher Intelligenz
 description: Nutzen Sie Wettbewerbsvorteile durch Data und künstliche Intelligenz
+  für Ihr Unternehmen.
 image: uploads/bereich_datascience.png
 
 ---
