@@ -1,6 +1,7 @@
 ---
 title: Lust, bei Corporate Software mitzugestalten?
-description: Werde COSOianer!
+description: 'Werde als Cosoianer Teil unseres Teams: Wir freuen uns darauf, dich
+  kennenzulernen!'
 image: uploads/illustration-stellenanzeige-final.png
 benifits:
   enable: true

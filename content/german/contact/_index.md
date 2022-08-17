@@ -1,6 +1,7 @@
 ---
 title: Wir freuen uns über Ihre Nachricht
-description: Wir freuen uns, gemeinsam mit Ihnen den nächsten Schritt zu gehen.
+description: Nehmen Sie Kontakt auf. Wir freuen uns, gemeinsam mit Ihnen den nächsten
+  Schritt zu gehen.
 
 ---
 ## Wie können wir **Sie** unterstützen?
