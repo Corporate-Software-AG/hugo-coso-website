@@ -52,3 +52,7 @@ Durch die offene und flexible Zusammenarbeit konnte das Projekt unter Budget fer
 "Wir sind sehr stolz auf das neue Intranet", so Mai Nguyen, "In erster Linie, weil die Benutzer:innen nun viel einfacher ihre Informationen finden. Um die Benutzerfreundlichkeit hoch zu halten, ist es wichtig, dass die Inhalte jederzeit aktuell sind. Das ist der nächste Schritt: Alle Abteilungen so zu schulen, dass sie ihre Neuigkeiten und Dokumente selber verwalten, aktualisieren, hochladen."
 
 Das BWL und das BWO werden in Zukunft noch mehr Inhalte auf ihren eigenen Intranetseiten finden, die zentral von der WEKO speziell für sie freigegeben sind. Die ämterübergreifende Zusammenarbeit intensiviert sich. Ob die beiden Ämter auch eine eigene Collaboration Site erhalten, wird sich zeigen. Nguyen: "Der Grundstein, um Prozesse in HR, Logistik, Finanzen und IT für drei Ämter digital abzubilden, ist gelegt."
+
+### Case Study als PDF
+
+Laden Sie sich die Case Study «Der Grundstein ist gelegt – SharePoint-Intranet-Lösung bei der WEKO» als PDF herunter. [Zum PDF-Download](https://cosoweb.blob.core.windows.net/files/weko_successstory_coso.pdf "Case Study als PDF")
