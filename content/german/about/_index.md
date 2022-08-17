@@ -1,7 +1,7 @@
 ---
 title: Lernen Sie Corporate Software kennen
-description: CoSo begeistert als Schweizer Unternehmen seit 2011 Kund:innen mit nachhaltigen
-  Lösungskonzepten an der Schnittstelle zwischen Business und IT.
+description: Unser Ziel ist die stetige Verbesserung von Technik, Wirtschaft und uns.
+  Wir gehen voran, um den nächsten Schritt zu ermöglichen.
 image: "/images/logo.png"
 why:
   title: Wofür wir <strong>arbeiten</strong>
