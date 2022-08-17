@@ -1,5 +1,5 @@
 +++
-description = "Bist du Student:in und suchst den Praxisbezug?"
+description = "Bist du Student:in und suchst den Praxisbezug? Werde Teil unserer CoSo Academy"
 title = "Dank der CoSo-Academy zu neuen Talenten"
 
 +++
