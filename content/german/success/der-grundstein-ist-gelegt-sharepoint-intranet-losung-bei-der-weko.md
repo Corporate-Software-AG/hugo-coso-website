@@ -56,3 +56,5 @@ Das BWL und das BWO werden in Zukunft noch mehr Inhalte auf ihren eigenen Intran
 ### Case Study als PDF
 
 Laden Sie sich die Case Study «Der Grundstein ist gelegt – SharePoint-Intranet-Lösung bei der WEKO» als PDF herunter. [Zum PDF-Download](https://cosoweb.blob.core.windows.net/files/weko_successstory_coso.pdf "Case Study als PDF")
+
+Alle Infos auf einen Blick erhalten Sie im One Pager. [Zum PDF-Download](https://cosoweb.blob.core.windows.net/files/weko-onepager_coso.pdf "OnePager der Success Story als PDF herunterladen")
