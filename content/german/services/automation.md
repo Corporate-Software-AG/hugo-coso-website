@@ -4,7 +4,7 @@ description: Mit der Microsoft Power Platform zur Prozessautomatisierung
 image: "/uploads/bereich_it_automation.png"
 
 ---
-## Sparen Sie Zeit & erhöhen Sie die Qualität dank Automation
+## Dank automatisierten Abläufen zu höherer Qualität
 
 Überlassen Sie die repetitiven Aufgaben der Maschine. Wir entwickeln individuelle Automation-Lösungen für Ihre Bedürfnisse. Intelligente Workflows durch Robotic Process Automation (RPA) oder Sie unterstützen Ihre Kunden mit einem Chat-Bot auf Ihrer Webseite oder Applikation.
 

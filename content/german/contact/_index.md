@@ -1,5 +1,5 @@
 ---
-title: Wir freuen uns über Ihre Anfrage
+title: Wir freuen uns über Ihre Nachricht
 description: Wir freuen uns, gemeinsam mit Ihnen den nächsten Schritt zu gehen.
 
 ---
