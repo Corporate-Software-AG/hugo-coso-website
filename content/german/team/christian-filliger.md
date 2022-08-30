@@ -1,6 +1,6 @@
 +++
 categories = ["Power Platform", "Data Platform", "Automation"]
-certifications = ["Microsoft 365 Certified: Fundamentals"]
+certifications = ["Microsoft 365 Certified: Fundamentals", "Microsoft Certified Trainer"]
 date = ""
 image = "/uploads/christianfilliger.png"
 job_title = "Junior Consultant"
