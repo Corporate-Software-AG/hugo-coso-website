@@ -1,6 +1,6 @@
 +++
 categories = ["Azure"]
-certifications = []
+certifications = ["Microsoft Certified Trainer"]
 date = ""
 image = "/uploads/marlonloretz.jpg"
 job_title = "Junior Consultant"
