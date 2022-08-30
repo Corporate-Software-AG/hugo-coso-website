@@ -2,6 +2,7 @@
 categories = ["CoSo Academy"]
 date = 2022-08-29T22:00:00Z
 description = "Seit 26. August 2022 dürfen wir drei neue MCTs in unserer Runde begrüssen. Herzliche Gratulation Manuel, Maxim, Marlon und Christian zur bestandenen Zertifizierung."
+draft = true
 image = "/uploads/bildschirmfoto-2022-08-22-um-09-21-01.png"
 title = "Neue Microsoft Certified Trainer im CoSo-Team"
 
