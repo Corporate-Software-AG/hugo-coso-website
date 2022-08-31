@@ -15,7 +15,7 @@ Zu den lebenswichtigen Gütern gehören beispielsweise Strom, Diesel, gewisse Le
 
 «Wenn ein Engpass droht, dann läutet es bei uns Alarm», führt Isabelle Huber weiter aus. Sie ist in ständiger Verbindung mit Vertretern von Spitälern, Altersheimen, Industrie und Verbänden. Diese liefern ihr die Informationen zur aktuellen Lage bei knapp werdenden Gütern. «Bei der Impfwelle waren dies z.B. Spritzen und Kanülen, deren Verfügbarkeit wir bei den Lieferanten abfragten und entsprechende Massnahmen ergriffen.»
 
-![Formular-Ansicht](/uploads/abfrage-erfassung_lieferfahigkeit.png "Abfrageformular zur Erfassung der Lieferfähigkeit ")
+![Abfrageformular zur Erfassung der Lieferfähigkeit](/uploads/lieferfahigkeit.png "Abfrageformular zur Erfassung der Lieferfähigkeit")
 
 _Abbildung: Abfrageformular zur Erfassung der Lieferfähigkeit_
 
@@ -29,7 +29,7 @@ _Abbildung: Abfrageformular zur Erfassung der Lieferfähigkeit_
 
 Neu werden alle Daten in einer modernen, agilen Cloud-Plattform gesammelt, gespeichert und ausgewertet. Die WL erfasst mittels Power App Lieferanten, hinterlegt die Produkte und startet eine Abfrage zur aktuellen Marktsituation, z.B. zur Verfügbarkeit von Untersuchungshandschuhen. Die Lieferanten erhalten danach automatisch via Power Automate eine Nachricht mit der Aufforderung, ihre Angaben zur aktuellen Versorgungssituation im entsprechenden Formular einzutragen.
 
-![Formular-Ansicht](/uploads/maske_akutumfrage-erstellen.png "Eingabemaske zur Erstellung einer Akutumfrage	")
+![Eingabemaske zur Erstellung einer Akutumfrage](/uploads/akutumfrage.png "Eingabemaske zur Erstellung einer Akutumfrage")
 
 _Abbildung: Eingabemaske zur Erstellung einer Akutumfrage_
 
@@ -39,7 +39,7 @@ _Abbildung: Eingabemaske zur Erstellung einer Akutumfrage_
 
 «Der Aufwand für das Erstellen und Versenden einer Akutumfrage ist mit der nun verfügbaren Lösung wesentlich geringer. Zudem kann auch durch die Automatisierung der E-Mail-Erinnerungen und der Auswertungen viel Zeit eingespart werden. Eine solche Effizienzsteigerung ist an vielen Orten in den Prozessen möglich. Mit den Power Apps können diese Digitalisierungs-Chancen einfach und schnell genutzt werden», so Markus Hintner, der auf Seiten Corporate Software die Businesslogik mit entwickelte.
 
-![Icon-Abbildung der Architektur](/uploads/grobarchitektur_gesamtlosung.png "Grobarchitektur der Gesamtlösung")
+![Grobarchitektur der Gesamtlösung](/uploads/architektur.png "Grobarchitektur der Gesamtlösung")
 
 _Abbildung: Grobarchitektur der Gesamtlösung_
 
