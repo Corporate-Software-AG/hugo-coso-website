@@ -1,7 +1,6 @@
 +++
 category = ["Power Platform"]
-date = 2022-08-30T00:00:00Z
-draft = true
+date = 2022-08-31T00:00:00Z
 image = "/uploads/myriam-zilles-7v95fws2ss4-unsplash.jpg"
 title = "Vom Lebensnotwendigen immer genug auf Vorrat – dank der Microsoft Power Platform"
 
