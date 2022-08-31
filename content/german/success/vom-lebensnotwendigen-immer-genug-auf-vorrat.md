@@ -16,7 +16,9 @@ Zu den lebenswichtigen Gütern gehören beispielsweise Strom, Diesel, gewisse Le
 
 «Wenn ein Engpass droht, dann läutet es bei uns Alarm», führt Isabelle Huber weiter aus. Sie ist in ständiger Verbindung mit Vertretern von Spitälern, Altersheimen, Industrie und Verbänden. Diese liefern ihr die Informationen zur aktuellen Lage bei knapp werdenden Gütern. «Bei der Impfwelle waren dies z.B. Spritzen und Kanülen, deren Verfügbarkeit wir bei den Lieferanten abfragten und entsprechende Massnahmen ergriffen.»
 
-![Formular-Ansicht](/uploads/abfrage-erfassung_lieferfahigkeit.png "Abfrageformular zur Erfassung der Lieferfähigkeit ")Abbildung: _Abfrageformular zur Erfassung der Lieferfähigkeit_
+![Formular-Ansicht](/uploads/abfrage-erfassung_lieferfahigkeit.png "Abfrageformular zur Erfassung der Lieferfähigkeit ")
+
+_Abbildung: Abfrageformular zur Erfassung der Lieferfähigkeit_
 
 ### Plattform für Abfragen zur aktuellen Marktsituation
 
@@ -28,7 +30,9 @@ Zu den lebenswichtigen Gütern gehören beispielsweise Strom, Diesel, gewisse Le
 
 Neu werden alle Daten in einer modernen, agilen Cloud-Plattform gesammelt, gespeichert und ausgewertet. Die WL erfasst mittels Power App Lieferanten, hinterlegt die Produkte und startet eine Abfrage zur aktuellen Marktsituation, z.B. zur Verfügbarkeit von Untersuchungshandschuhen. Die Lieferanten erhalten danach automatisch via Power Automate eine Nachricht mit der Aufforderung, ihre Angaben zur aktuellen Versorgungssituation im entsprechenden Formular einzutragen.
 
-![Formular-Ansicht](/uploads/maske_akutumfrage-erstellen.png "Eingabemaske zur Erstellung einer Akutumfrage	")_Abbildung: Eingabemaske zur Erstellung einer Akutumfrage_
+![Formular-Ansicht](/uploads/maske_akutumfrage-erstellen.png "Eingabemaske zur Erstellung einer Akutumfrage	")
+
+_Abbildung: Eingabemaske zur Erstellung einer Akutumfrage_
 
 «Neben der Automatisierung war Datenschutz eine wesentliche Anforderung in diesem Projekt», so Isabelle Huber, welche bei der WL für die Umsetzung des Projektes zuständig ist. «Die Lieferanten sind gesetzlich verpflichtet, der WL bei einer Anfrage Angaben wie z.B. Absatzzahlen oder Lagerbestände mitzuteilen. Diese firmeninternen Daten sind absolut vertraulich und dürfen keinesfalls an Dritte weitergegeben werden oder für andere Lieferanten einsehbar sein.” Die Analyse der Prozesse legt das gesamte Potenzial frei: Bisher mussten säumige Lieferanten manuell erinnert werden. Das übernimmt nun Power Automate.
 
@@ -36,7 +40,9 @@ Neu werden alle Daten in einer modernen, agilen Cloud-Plattform gesammelt, gespe
 
 «Der Aufwand für das Erstellen und Versenden einer Akutumfrage ist mit der nun verfügbaren Lösung wesentlich geringer. Zudem kann auch durch die Automatisierung der E-Mail-Erinnerungen und der Auswertungen viel Zeit eingespart werden. Eine solche Effizienzsteigerung ist an vielen Orten in den Prozessen möglich. Mit den Power Apps können diese Digitalisierungs-Chancen einfach und schnell genutzt werden», so Markus Hintner, der auf Seiten Corporate Software die Businesslogik mit entwickelte.
 
-![Icon-Abbildung der Architektur](/uploads/grobarchitektur_gesamtlosung.png "Grobarchitektur der Gesamtlösung")Abbildung: _Grobarchitektur der Gesamtlösung_
+![Icon-Abbildung der Architektur](/uploads/grobarchitektur_gesamtlosung.png "Grobarchitektur der Gesamtlösung")
+
+_Abbildung: Grobarchitektur der Gesamtlösung_
 
 Um diese Zeitersparnisse zu erschliessen, benötigt es Wissen aus verschiedenen Disziplinen. Vonseiten Corporate Software z.B. waren Sebastian Steer und Patrick Sommer für Projektmanagement und agile Zusammenarbeit zuständig, Sebastian entwickelte zudem hauptsächlich die Masken und Workflows der Power Apps.
 
