@@ -1,6 +1,6 @@
 +++
 categories = ["Power Platform"]
-certifications = ["Microsoft Certified: Power Platform Fundamentals", "Microsoft Certified Trainer"]
+certifications = ["Microsoft Certified: Power Platform Fundamentals"]
 date = ""
 image = "/uploads/manuelgloor.png"
 job_title = "Junior Consultant"
