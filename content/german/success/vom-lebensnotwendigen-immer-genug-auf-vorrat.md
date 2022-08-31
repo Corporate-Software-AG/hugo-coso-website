@@ -3,7 +3,7 @@ category = ["Power Platform"]
 date = 2022-08-30T00:00:00Z
 draft = true
 image = "/uploads/myriam-zilles-7v95fws2ss4-unsplash.jpg"
-title = "Vom Lebensnotwendigen immer genug auf Vorrat"
+title = "Vom Lebensnotwendigen immer genug auf Vorrat – dank der Microsoft Power Platform"
 
 +++
 ## Die Microsoft Power Platform schafft Überblick bei der wirtschaftlichen Landesversorgung (WL)
@@ -32,6 +32,8 @@ Neu werden alle Daten in einer modernen, agilen Cloud-Plattform gesammelt, gespe
 
 «Neben der Automatisierung war Datenschutz eine wesentliche Anforderung in diesem Projekt», so Isabelle Huber, welche bei der WL für die Umsetzung des Projektes zuständig ist. «Die Lieferanten sind gesetzlich verpflichtet, der WL bei einer Anfrage Angaben wie z.B. Absatzzahlen oder Lagerbestände mitzuteilen. Diese firmeninternen Daten sind absolut vertraulich und dürfen keinesfalls an Dritte weitergegeben werden oder für andere Lieferanten einsehbar sein.” Die Analyse der Prozesse legt das gesamte Potenzial frei: Bisher mussten säumige Lieferanten manuell erinnert werden. Das übernimmt nun Power Automate.
 
+> «Eine solche Effizienzsteigerung ist an vielen Orten in den Prozessen möglich. Mit den Power Apps können diese Digitalisierungs-Chancen einfach und schnell genutzt werden.» – Markus Hintner, Consultant bei Corporate Software
+
 «Der Aufwand für das Erstellen und Versenden einer Akutumfrage ist mit der nun verfügbaren Lösung wesentlich geringer. Zudem kann auch durch die Automatisierung der E-Mail-Erinnerungen und der Auswertungen viel Zeit eingespart werden. Eine solche Effizienzsteigerung ist an vielen Orten in den Prozessen möglich. Mit den Power Apps können diese Digitalisierungs-Chancen einfach und schnell genutzt werden», so Markus Hintner, der auf Seiten Corporate Software die Businesslogik mit entwickelte.
 
 ![Icon-Abbildung der Architektur](/uploads/grobarchitektur_gesamtlosung.png "Grobarchitektur der Gesamtlösung")Abbildung: _Grobarchitektur der Gesamtlösung_
@@ -57,6 +59,8 @@ _Abbildung: Report Versorgungssicherheit medizinische Güter – Prognoseberechn
 Das Projekt entstand aus einer ämterübergreifenden Corona-Initiative (siehe Case Study hier). Die Lage war kritisch, es gab viele Engpässe, es musste schnell gehen. «Wir konnten das Projekt im Rahmen der Covid-Initiative des Koordinierten Sanitätsdienstes auf deren Infrastruktur aufbauen. Corporate Software war auch dort als Dienstleisterin in der Verantwortung, was ein weiterer Gewinn für die Schnelligkeit war», resümiert Isabelle Huber den Beginn der Zusammenarbeit.
 
 In wöchentlichen Treffen haben Isabelle Huber und Sebastian Steer das Projekt agil weiterentwickelt: «Wir haben ganz klein und mit dem absolut Nötigen wie den Erfassungsmasken, dem Datenmodell und dem Dashboard für die Auswertungen begonnen. Die Automatisierungen und die Self-Service-Komponenten haben wir erst später hinzugefügt», beschreibt Sebastian Steer das Vorgehen.
+
+> «Das Verständnis für unsere Abläufe vonseiten Corporate Software und das Interesse, unsere Vorstellungen möglichst effizient umzusetzen, hat zur hohen Qualität der Lösung geführt.» – Isabelle Huber, Wirtschaftliche Landesversorgung 
 
 Wichtig für Isabelle Huber war zudem, dass die Vorstellungen der WL und das IT-Wissen von Sebastian Steer gleichermassen und auf Augenhöhe miteinander ins Projekt einflossen: «Das Verständnis für unsere Abläufe vonseiten Corporate Software und das Interesse, unsere Vorstellungen möglichst effizient umzusetzen, hat zur hohen Qualität der Lösung geführt. Zudem habe ich durch die Zusammenarbeit mit Corporate Software auch gesehen, was aus technischer Sicht zukünftig sonst noch alles möglich wäre. Es wäre sinnvoll, unsere Power App auf dieser Basis weiterzuentwickeln.» Sebastian Steer ergänzt: «Ich möchte einfach nur Danke sagen für die lösungsorientierte und kompetente Zusammenarbeit – an die ganze WL und insbesondere an Isabelle Huber.»
 
