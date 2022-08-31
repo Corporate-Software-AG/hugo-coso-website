@@ -14,7 +14,7 @@ Schon bald dürfen wir auch [Christian Filliger](https://www.corporatesoftware.c
 
 **Herzlichen Glückwunsch!**
 
-Dank Rolf Kirchner können unsere Junior Consultants nun sicher und motiviert als Trainer bei uns durchstarten.
+Dank Rolf Kirchner können unsere Talents nun sicher und motiviert auch als Trainer bei uns durchstarten.
 
 ![](/uploads/training-300x217.webp)
 
