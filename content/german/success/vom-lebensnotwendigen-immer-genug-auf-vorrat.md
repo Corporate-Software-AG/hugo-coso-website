@@ -65,7 +65,7 @@ Das Projekt entstand aus einer ämterübergreifenden Corona-Initiative (siehe Ca
 
 In wöchentlichen Treffen haben Isabelle Huber und Sebastian Steer das Projekt agil weiterentwickelt: «Wir haben ganz klein und mit dem absolut Nötigen wie den Erfassungsmasken, dem Datenmodell und dem Dashboard für die Auswertungen begonnen. Die Automatisierungen und die Self-Service-Komponenten haben wir erst später hinzugefügt», beschreibt Sebastian Steer das Vorgehen.
 
-> «Das Verständnis für unsere Abläufe vonseiten Corporate Software und das Interesse, unsere Vorstellungen möglichst effizient umzusetzen, hat zur hohen Qualität der Lösung geführt.» – Isabelle Huber, Wirtschaftliche Landesversorgung 
+> «Das Verständnis für unsere Abläufe vonseiten Corporate Software und das Interesse, unsere Vorstellungen möglichst effizient umzusetzen, hat zur hohen Qualität der Lösung geführt.» – Isabelle Huber, Wirtschaftliche Landesversorgung
 
 Wichtig für Isabelle Huber war zudem, dass die Vorstellungen der WL und das IT-Wissen von Sebastian Steer gleichermassen und auf Augenhöhe miteinander ins Projekt einflossen: «Das Verständnis für unsere Abläufe vonseiten Corporate Software und das Interesse, unsere Vorstellungen möglichst effizient umzusetzen, hat zur hohen Qualität der Lösung geführt. Zudem habe ich durch die Zusammenarbeit mit Corporate Software auch gesehen, was aus technischer Sicht zukünftig sonst noch alles möglich wäre. Es wäre sinnvoll, unsere Power App auf dieser Basis weiterzuentwickeln.» Sebastian Steer ergänzt: «Ich möchte einfach nur Danke sagen für die lösungsorientierte und kompetente Zusammenarbeit – an die ganze WL und insbesondere an Isabelle Huber.»
 
@@ -91,4 +91,4 @@ Die wirtschaftliche Landesversorgung (WL) ist eine Organisation, die aus rund 25
 
 Laden Sie sich die Case Study «Vom Lebensnotwendigen immer genug auf Vorrat – Die Microsoft Power Platform schafft Überblick bei der wirtschaftlichen Landesversorgung (WL)» als PDF herunter. [Zum PDF-Download](https://cosoweb.blob.core.windows.net/files/wl_successstory_coso.pdf "Case Study als PDF")
 
-Alle Infos auf einen Blick erhalten Sie im One Pager. [Zum PDF-Download](https://cosoweb.blob.core.windows.net/files//uploads/wl_onepager_coso.pdf "OnePager der Success Story als PDF herunterladen")
+Alle Infos auf einen Blick erhalten Sie im One Pager. [Zum PDF-Download](https://cosoweb.blob.core.windows.net/files/wl_onepager_coso.pdf "OnePager der Success Story als PDF herunterladen")
