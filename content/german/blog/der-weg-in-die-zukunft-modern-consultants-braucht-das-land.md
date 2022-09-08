@@ -23,7 +23,7 @@ Wir warten dabei und liessen uns von der unglaublichen Energie mitreissen, die i
 
 ![](/uploads/kick-off-cherez-tschopp.jpg)
 
-[Cherez Tschopp](https://ch.linkedin.com/in/cherez-tschopp), Business Group Lead for Business Applications bei Microsoft
+[_Cherez Tschopp_](https://ch.linkedin.com/in/cherez-tschopp)_, Business Group Lead for Business Applications bei Microsoft_
 
 ![](/uploads/kick-off-teilnehmer.jpg)
 
@@ -37,7 +37,7 @@ Herzliche Gratulation euch beiden!!!
 
 ![](/uploads/20220908_121745-bearbeitet.png)
 
-Waltraud Ossig & Kevin Ayiramala im Circle, dem neuen Hauptsitz von Microsoft Schweiz am Flughafen Zürich
+_Waltraud Ossig & Kevin Ayiramala im Circle, dem neuen Hauptsitz von Microsoft Schweiz am Flughafen Zürich_
 
 ### Programminhalte
 
