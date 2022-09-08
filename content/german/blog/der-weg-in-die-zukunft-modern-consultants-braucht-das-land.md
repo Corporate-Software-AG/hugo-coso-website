@@ -26,6 +26,8 @@ Wir warten dabei und liessen uns von der unglaublichen Energie mitreissen, die i
 
 ![](/uploads/kick-off-teilnehmer.jpg)
 
+_Microsoft Partner & Teilnehmende am Kick-off des Programms_
+
 ### Kompetent in die Zukunft
 
 Die Ausbildung bietet Studienabgänger:innen und Quereinsteiger:innen die ideale Gelegenheit, in einem neuen Bereich Fuss zu fassen. Die Teilnehmer:innen werden darauf vorbereitet, Kundinnen und Kunden bei der digitalen Transformation zu unterstützen. Gleichzeitig entwickeln sie dadurch die eigene Karriere weiter und können ihre Leidenschaft ausleben, komplexe geschäftliche Herausforderungen zu lösen. Die Teilnehmer:innen arbeiten in interdisziplinären Teams und bauen während dem 6-monatigen Programm ein fundiertes Wissen über Geschäftsprozesse auf.
