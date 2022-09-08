@@ -57,10 +57,12 @@ Die Teilnehmer:innen sollen von einem abgerundeten Programm profitieren. Klar, i
 
 Das Programm wird kein Spaziergang. Die Teilnehmer:innen verbringen durchschnittlich acht Stunden pro Woche mit den verschiedenen Streams und nutzen die restliche Zeit fürs Learning by Doing im Rahmen ihrer Rolle in der eigenen Organisation.
 
+### Wir wünschen euch viel Erfolg
+
 Wir sind gespannt auf all die wertvollen Learnings, von denen Waltraud und Kevin profitieren werden, und freuen uns schon jetzt auf den Graduation Event am 6. Februar 2023.
 
 Wir wünschen unseren beiden zukünftigen Modern Biz Apps Consultants frohes Schaffen, viele wertvolle neue Kontakte und eine Menge Spass!
 
 ![](/uploads/20220908_122102.jpg)
 
-Der Start ist geglückt! Kevin und Waltraud vor dem Hauptsitz von Microsoft im Circle
+_Der Start ist geglückt! Kevin und Waltraud vor dem Hauptsitz von Microsoft im Circle_
