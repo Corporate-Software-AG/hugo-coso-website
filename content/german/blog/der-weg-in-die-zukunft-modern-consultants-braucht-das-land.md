@@ -18,7 +18,7 @@ Das hat sich auch Microsoft gedacht und startet deshalb heute bereits die zweite
 
 Heute fand das hybride Kick-off bei Microsoft im Circle am Zürcher Flughafen statt. Bei der ersten Durchführung waren rund 10 Partner mit 20 Teilnehmer:innen dabei. Heute nahmen 24 Partner und fast 70 Programm-Teilnehmer:innen am Kick-off teil. Eindrücklich, oder?
 
-Wir warten dabei und liessen uns von der unglaublichen Energie mitreissen, die in der Luft lag. Das Engagement und der Enthusiasmus, mit dem sich Microsoft diesem Programm widmet, ist bewundernswert.
+Wir waren dabei und liessen uns von der unglaublichen Energie mitreissen, die in der Luft lag. Das Engagement und der Enthusiasmus, mit dem sich Microsoft diesem Programm widmet, ist bewundernswert.
 
 ![](/uploads/kick-off-cherez-tschopp.jpg)
 
