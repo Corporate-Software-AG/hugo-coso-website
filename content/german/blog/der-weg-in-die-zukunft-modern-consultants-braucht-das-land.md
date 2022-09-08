@@ -1,7 +1,7 @@
 +++
-categories = []
-date = ""
-description = ""
+categories = ["CoSo Academy"]
+date = 2022-09-07T22:00:00Z
+description = "Am 8. September startet Cohort 2 des Microsoft Modern Business Applications Consultant im Circle. Corporate Software ist mit dabei!"
 draft = true
 image = "/uploads/20220908_121745-bearbeitet.png"
 title = "Der Weg in die Zukunft: Modern Consultants braucht das Land"
