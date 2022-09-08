@@ -36,7 +36,7 @@ Wir freuen uns sehr, dass mit [Waltraud Ossig](https://www.corporatesoftware.ch/
 
 Herzliche Gratulation euch beiden!!!
 
-![](/uploads/20220908_121745-bearbeitet.png)
+![](/uploads/waltraud-kevin-microsoft.png)
 
 _Waltraud Ossig & Kevin Ayiramala im Circle, dem neuen Hauptsitz von Microsoft Schweiz am Flughafen Zürich_
 
