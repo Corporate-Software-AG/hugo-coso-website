@@ -64,4 +64,8 @@ Wir sind gespannt auf all die wertvollen Learnings, von denen Waltraud und Kevin
 
 Wir wünschen unseren beiden zukünftigen Modern Biz Apps Consultants frohes Schaffen, viele wertvolle neue Kontakte und eine Menge Spass!
 
+![](/uploads/20220908_121627-bearbeitet.png)
+
+_Waltraud und Kevin vor Microsofts Mission "Empower every person and every organization on the planet to achieve more."_
+
 \#ModernConsJourney #Microsoft #BizApps #CosoAcademy #lifelonglearning
