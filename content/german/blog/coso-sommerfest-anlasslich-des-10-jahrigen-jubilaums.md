@@ -1,6 +1,6 @@
 +++
 categories = []
-date = 2022-09-13T22:00:00Z
+date = 2022-09-12T22:00:00Z
 description = "Am 19. August feierte CoSo sein 10-jähriges Bestehen mit einem Wander- und Erlebnistag gemeinsam mit Kundinnen und Kunden."
 image = "/uploads/microsoftteams-image-5.png"
 title = "10 Jahre CoSo: zum Wohl!"
