@@ -3,7 +3,7 @@ categories = ["CoSo"]
 date = 2022-09-12T22:00:00Z
 description = "Am 19. August feierte CoSo sein 10-jähriges Bestehen mit einem Wander- und Erlebnistag gemeinsam mit Kundinnen und Kunden."
 image = "/uploads/microsoftteams-image-5.png"
-title = "10 Jahre CoSo: zum Wohl!"
+title = "10 Jahre CoSo – zum Wohl"
 
 +++
 Dezember 2021. CoSo feiert seinen 10. Geburtstag – es war schon alles geplant, inkl. Degustation, Workshops und tollem Essen im Tropenhaus Frutigen. Schliesslich durchkreuzte die damalige Corona-Lage unsere Pläne und wir mussten die Festivitäten streichen. Oder besser: verschieben! Denn uns war allen klar: Das 10-Jährige wird nachgefeiert, und zwar mit unseren Kundinnen und Kunden. 
