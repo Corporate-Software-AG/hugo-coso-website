@@ -1,5 +1,6 @@
 ---
 title: Sparen Sie Zeit durch Automation
+id: automation
 description: Erleben Sie selbst, wie Ihre Arbeitsprozesse verbessert und unterstützet
   werden können.
 image: "/uploads/bereich_it_automation.png"

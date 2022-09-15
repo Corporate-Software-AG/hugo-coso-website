@@ -1,5 +1,6 @@
 ---
 title: Ihr Weg zur vernetzten und effizienten Zusammenarbeit
+id: collaboration
 description: Nutzen Sie die heutigen Möglichkeiten für vernetzte und effiziente Zusammenarbeit
   für sich.
 image: uploads/collaboration.png

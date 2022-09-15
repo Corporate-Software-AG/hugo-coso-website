@@ -50,11 +50,10 @@
       <div class="col-lg-11">
         <ul class="nav nav-pills justify-content-center mb-20" id="pills-tab" role="tablist">
           {{ range $i, $e:= (where .Site.Pages "Section" "services") }}
-          {{ if .Params.title }}
+          {{ if and .Params.title .Params.id }}
           <li class="nav-item mb-20" role="presentation">
-            <a class="nav-link {{if eq $i 0}}active{{end}}" id="pill-{{.Params.title| urlize}}" data-toggle="pill"
-              href="#{{.Params.title| urlize}}" role="tab" aria-controls="{{.Params.title| urlize}}"
-              aria-selected="true">
+            <a class="nav-link {{if eq $i 0}}active{{end}}" id="pill-{{.Params.id| urlize}}" data-toggle="pill"
+              href="#{{.Params.id| urlize}}" role="tab" aria-controls="{{.Params.id| urlize}}" aria-selected="true">
               <i class="circle-shape"></i>{{ .Params.title }}
             </a>
           </li>
@@ -64,8 +63,8 @@
 
         <div class="tab-content" id="pills-tabContent" data-aos="fade-in">
           {{ range $i, $e:= (where .Site.Pages "Section" "services") }}
-          <div class="tab-pane fade {{if eq $i 0}}show active{{end}}" id="{{.Params.title | urlize}}" role="tabpanel"
-            aria-labelledby="pill-{{.Params.title | urlize}}">
+          <div class="tab-pane fade {{if eq $i 0}}show active{{end}}" id="{{.Params.id | urlize}}" role="tabpanel"
+            aria-labelledby="pill-{{.Params.id | urlize}}">
             <div class="row align-items-center">
               <div class="col-lg-8 anim-to-top">
                 {{ $image := resources.GetMatch .Params.image }}

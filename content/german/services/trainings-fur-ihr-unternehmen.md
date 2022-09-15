@@ -1,5 +1,6 @@
 +++
 description = "Digitale Transformation endet nicht mit dem Gang in die Cloud. Wir begleiten Sie auch mit dem nächsten Schritt."
+id = "trainings"
 image = "/uploads/training.png"
 title = "Trainings für Ihr Unternehmen"
 
