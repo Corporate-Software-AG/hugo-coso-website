@@ -36,4 +36,16 @@ Danke CoSo für diesen schönen gemeinsamen Tag, nun geht es weiter voran – wi
 
 _Herzliche Grüsse von Tamara, Waltraud und dem gesamten CoSo-Fest-OK_
 
-![](/uploads/microsoftteams-image-5.png)![](/uploads/microsoftteams-image-4.png)![](/uploads/microsoftteams-image-6.png)![](/uploads/microsoftteams-image-8.png)
+![](/uploads/2.png)
+
+![](/uploads/1.png)
+
+![](/uploads/microsoftteams-image-4.png)
+
+![](/uploads/3.png)
+
+![](/uploads/4.png)
+
+![](/uploads/microsoftteams-image-8.png)
+
+![](/uploads/6.png)
