@@ -6,11 +6,11 @@ image = "/uploads/microsoftteams-image-5.png"
 title = "10 Jahre CoSo – zum Wohl"
 
 +++
-Dezember 2021. CoSo feiert seinen 10. Geburtstag – es war schon alles geplant, inkl. Degustation, Workshops und tollem Essen im Tropenhaus Frutigen. Schliesslich durchkreuzte die damalige Corona-Lage unsere Pläne und wir mussten die Festivitäten streichen. Oder besser: verschieben! Denn uns war allen klar: Das 10-Jährige wird nachgefeiert, und zwar mit unseren Kundinnen und Kunden. 
+Dezember 2021. CoSo feiert seinen 10. Geburtstag – es war schon alles geplant, inkl. Degustation, Workshops und tollem Essen im Tropenhaus Frutigen. Schliesslich durchkreuzte die damalige Corona-Lage unsere Pläne und wir mussten die Festivitäten streichen. Oder besser: verschieben! Denn uns war allen klar: Das 10-Jährige wird nachgefeiert, und zwar mit unseren Kundinnen und Kunden.
 
 ### Juhu: ein Sommerfest!
 
-Ein kreatives Fest-OK war schnell gefunden. Wir nutzten unser [Co-Working im Juni in Bern](https://www.corporatesoftware.ch/blog/coworking-im-gemutlichen-effinger-in-bern/ "mehr erfahren zu unserem Co-Working in Bern") für die Vorbereitung des CoSo-Fests 2022. Eine gemeinsame Wanderung mit einem spielerischen Auftrag für die Kunden und uns mit anschliessendem BBQ war das Ergebnis der Überlegungen. Der Plan war, mit unseren Kunden gemeinsam zu knobeln und eine Server-Migration in die Cloud durchzuführen. Ob wir das hinbekommen würden? 
+Ein kreatives Fest-OK war schnell gefunden. Wir nutzten unser [Co-Working im Juni in Bern](https://www.corporatesoftware.ch/blog/coworking-im-gemutlichen-effinger-in-bern/ "mehr erfahren zu unserem Co-Working in Bern") für die Vorbereitung des CoSo-Fests 2022. Eine gemeinsame Wanderung mit einem spielerischen Auftrag für die Kunden und uns mit anschliessendem BBQ war das Ergebnis der Überlegungen. Der Plan war, mit unseren Kunden gemeinsam zu knobeln und eine Server-Migration in die Cloud durchzuführen. Ob wir das hinbekommen würden?
 
 Verrückte Ideen geisterten durch den Raum und wir hatten viel Spass bei der Ausarbeitung. Letzen Endes gaben wir die Ausgestaltung der Rätselfragen und ein Kahoot! für nachmittags an Thomas in Auftrag, unseren Partykönig, der schon oft für gute Unterhaltungsmomente bei CoSo gesorgt hat.
 
@@ -28,7 +28,7 @@ Denn kaum am Startpunkt der Wanderung angekommen, versuchte die Cloud uns und de
 
 An der heimeligen Feuerstelle Eigenthal gab es Wurst und Bier zur Stärkung. So konnten wir die Migration des Servers erfolgreich durchführen und unsere Aufgabe war geschafft!
 
-Mit Schwung ging es dann bergab nach Luzern zum Steg 1, unserem Treffpunkt mit weiteren Kunden, für die lustige Überfahrt zum Restaurant Alpenblick in Weggis. Ein gelungener Ausklang bei reichlich Essen mit einem wunderschönen Blick in die bewölkten Alpen gab uns CoSoianern gemeinsam mit unseren Kunden viel Anlass zum Reden, Lachen und bis spät in den Abend das 10-jährige Bestehen von CoSo zu feiern. 
+Mit Schwung ging es dann bergab nach Luzern zum Steg 1, unserem Treffpunkt mit weiteren Kunden, für die lustige Überfahrt zum Restaurant Alpenblick in Weggis. Ein gelungener Ausklang bei reichlich Essen mit einem wunderschönen Blick in die bewölkten Alpen gab uns CoSoianern gemeinsam mit unseren Kunden viel Anlass zum Reden, Lachen und bis spät in den Abend das 10-jährige Bestehen von CoSo zu feiern.
 
 ### Auf weitere 10 Jahre CoSo
 
@@ -36,4 +36,4 @@ Danke CoSo für diesen schönen gemeinsamen Tag, nun geht es weiter voran – wi
 
 _Herzliche Grüsse von Tamara, Waltraud und dem gesamten CoSo-Fest-OK_
 
-![](/uploads/microsoftteams-image-5.png)![](/uploads/microsoftteams-image-4.png)![](/uploads/microsoftteams-image-7.png)![](/uploads/microsoftteams-image-6.png)![](/uploads/microsoftteams-image-8.png)
+![](/uploads/microsoftteams-image-5.png)![](/uploads/microsoftteams-image-4.png)![](/uploads/microsoftteams-image-6.png)![](/uploads/microsoftteams-image-8.png)
