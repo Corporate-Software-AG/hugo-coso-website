@@ -1,8 +1,7 @@
 +++
 categories = ["CoSo Academy"]
 date = 2022-09-20T22:00:00Z
-description = ""
-draft = true
+description = "Am 8. September startete das Microsoft Modern Consultant in Business Applications Programm. Mit dabei ist Kevin Ayiramala, Junior Consultant bei Corporate Software. Wir haben mit ihm gesprochen."
 image = "/uploads/20220908_122102.jpg"
 title = "Kevin, warum hast du dich auf den Weg gemacht, Microsoft Modern Consultant zu werden?"
 
