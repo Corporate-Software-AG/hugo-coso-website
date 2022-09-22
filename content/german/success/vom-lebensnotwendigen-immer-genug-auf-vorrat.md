@@ -61,7 +61,7 @@ _Abbildung: Report Versorgungssicherheit medizinische Güter – Prognoseberechn
 
 ### Agile Zusammenarbeit auf Augenhöhe
 
-Das Projekt entstand aus einer ämterübergreifenden Corona-Initiative (siehe Case Study hier). Die Lage war kritisch, es gab viele Engpässe, es musste schnell gehen. «Wir konnten das Projekt im Rahmen der Covid-Initiative des Koordinierten Sanitätsdienstes auf deren Infrastruktur aufbauen. Corporate Software war auch dort als Dienstleisterin in der Verantwortung, was ein weiterer Gewinn für die Schnelligkeit war», resümiert Isabelle Huber den Beginn der Zusammenarbeit.
+Das Projekt entstand aus einer ämterübergreifenden Corona-Initiative ([siehe Case Study hier)](https://www.corporatesoftware.ch/success/mit-cloud-daten-gegen-die-pandemie-eine-case-study-zu-moderner-landesverteidigung/ "Mit Cloud-Daten gegen die Pandemie – eine Case Study zu moderner Landesverteidigung"). Die Lage war kritisch, es gab viele Engpässe, es musste schnell gehen. «Wir konnten das Projekt im Rahmen der Covid-Initiative des Koordinierten Sanitätsdienstes auf deren Infrastruktur aufbauen. Corporate Software war auch dort als Dienstleisterin in der Verantwortung, was ein weiterer Gewinn für die Schnelligkeit war», resümiert Isabelle Huber den Beginn der Zusammenarbeit.
 
 In wöchentlichen Treffen haben Isabelle Huber und Sebastian Steer das Projekt agil weiterentwickelt: «Wir haben ganz klein und mit dem absolut Nötigen wie den Erfassungsmasken, dem Datenmodell und dem Dashboard für die Auswertungen begonnen. Die Automatisierungen und die Self-Service-Komponenten haben wir erst später hinzugefügt», beschreibt Sebastian Steer das Vorgehen.
 
