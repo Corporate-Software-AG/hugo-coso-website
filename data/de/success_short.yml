@@ -11,7 +11,9 @@ testimonial_items:
   content: 'Ich bin stolz, mit diesem Projekt die Digitalisierung der WL voranzutreiben.
     Es ist ein erster Schritt. Wenn ich sehe, welche Informationen ich nun in dieser
     neuen Geschwindigkeit mittels der Prognoseberechnung sammle und auswerte, dann
-    bin ich überzeugt: Das ist unser Weg!'
+    bin ich überzeugt: Das ist unser Weg!
+
+    '
 - name: Claudio Marguth
   image: "/uploads/kantonbern.jpg"
   designation: ICT Projektleiter / ICT Change- & Release Manager, Bildungs- und Kulturdirektion
