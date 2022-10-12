@@ -19,6 +19,7 @@ Zeichnest du dich aus durch Selbstständigkeit, Flexibilität, Wissbegierde, Mot
 * Professioneller Einsatz von Leading-Edge-Technologien
 * Grosses Netzwerk namhafter, internationaler Partner und Kunden
 * Möglichkeit der selbstständigen Planung und Durchführung von schweizweiten/internationalen Projekten
+* Verantwortung für unser Microsoft Testing Center in Biel
 
 **Wir bieten dir**
 
