@@ -2,7 +2,6 @@
 categories = ["CoSo Academy"]
 date = 2022-10-11T22:00:00Z
 description = "Was treibt die Teilnehmer:innen dazu an, am Programm zum Modern Consultant teilzunehmen? Wir haben mit Waltraud Ossig über die Ausbildung gesprochen."
-draft = true
 image = "/uploads/waltraudossig.webp"
 title = "Waltraud, was ist dein Antrieb, um beim Modern Consultant Programm von Microsoft teilzunehmen?"
 
