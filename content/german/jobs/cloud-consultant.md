@@ -12,8 +12,7 @@ Zeichnest du dich aus durch Selbstständigkeit, Flexibilität, Wissbegierde, Mot
 
 **Das erwartet dich**
 
-* Individueller Entwicklungspfad in die für dich passende Fachrichtung
-* Individuelle Begleitung im Rahmen der CoSo Academy. [Mehr Infos zur CoSo Academy findest du hier.](https://www.corporatesoftware.ch/jobs/coso-academy/ "CoSo Academy kurz erklärt")
+* Individueller Entwicklungspfad in die für dich passende Fachrichtung und Begleitung im Rahmen der CoSo Academy. [Mehr Infos zur CoSo Academy findest du hier](https://www.corporatesoftware.ch/jobs/coso-academy/ "CoSo Academy kurz erklärt")
 * Ganzheitlicher Einstieg in die IT-Unternehmensberatung
 * Spannende Kundenprojekte in den Bereichen Data und AI, Collaboration und Automation
 * Agile Arbeitskultur in einem jungen, dynamischen und motivierten Team mit kurzen Entscheidungswegen
