@@ -29,6 +29,14 @@ Dank der Teilnahme an grossen Veranstaltungen wie der Microsoft Ignite lernst du
 
 An unseren internen Challenges, Hackathons und Teamevents fördern wir das gemeinsame Lernen und den Austausch untereinander.
 
-#### Bewirb dich jetzt fürs unsere CoSo-Academy
+### Der Name ist Programm
+
+Als Talent wirst du während deiner ersten sechs Monate bei CoSo individuell durch die CoSo Academy begleitet. 
+
+Damit du rasch das nötige Know-how aufbauen, Verantwortung übernehmen und gemeinsam mit CoSo für unsere Kund:innen den nächsten Schritt ermöglichen kannst, erhältst du Coaching und erlebst die CoSo-Kultur. Für dich sind Coaches mit entsprechender Erfahrung am Start. 
+
+Als Teil der CoSo Academy bekommst du den individuell notwendigen Rückhalt für deine Entwicklung des fachlichen Schwerpunkts sowie hinsichtlich der Selbstorganisation und Befähigung zur Projektdurchführung bei unseren Kund:innen.
+
+### Bewirb dich jetzt fürs unsere CoSo-Academy
 
 Interessiert? [Hier findest du offenen Junior-Stellen](/jobs "offene Stellen"). Ist aktuell keine Stelle ausgeschrieben, freuen wir uns jederzeit auf deine Spontanbewerbung an [jobs@corporatesoftware.ch](mailto:jobs@corporatesoftware.ch "Spontanbewerbung")
