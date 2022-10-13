@@ -10,6 +10,12 @@ benifits:
     sich engagieren wollen. Deshalb lohnt es sich aus unserer Sicht, Teil des Teams
     zu werden:'
   item:
+  - name: CoSo Academy
+    icon: ''
+    content: Als Talent oder Junior wirst du während deiner ersten sechs Monate bei
+      CoSo individuell durch die CoSo Academy begleitet, damit du rasch das nötige
+      Know-how aufbauen, Verantwortung übernehmen und gemeinsam mit CoSo für unsere
+      Kund:innen den nächsten Schritt ermöglichen kannst.
   - name: Regelmässige <br>Co-Workings
     icon: ti-face-smile
     content: Wir arbeiten grösstenteils remote – direkt bei Kund:innen oder an einem
