@@ -1,6 +1,5 @@
 +++
 description = "Mach dir die Kraft der Power Platform zu eigen"
-draft = true
 title = "Junior Power Platform Consultant"
 
 +++
