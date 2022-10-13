@@ -3,7 +3,9 @@ description = "Bist du Student:in und suchst den Praxisbezug? Werde Teil unserer
 title = "Dank der CoSo-Academy zu neuen Talenten"
 
 +++
-![](/uploads/training-300x217.png)Wir begleiten unsere Kund:innen bei der Entdeckung neuer Bereiche und treiben innovative Projekte voran. Wir entwickeln uns auch als Unternehmen ständig weiter. Daran lassen wir nicht nur unsere Kund:innen, sondern auch unsere Mitarbeiter:innen teilhaben.
+![](/uploads/training-300x217.png)
+
+Wir begleiten unsere Kund:innen bei der Entdeckung neuer Bereiche und treiben innovative Projekte voran. Wir entwickeln uns auch als Unternehmen ständig weiter. Daran lassen wir nicht nur unsere Kund:innen, sondern auch unsere Mitarbeiter:innen teilhaben.
 
 ### Talente gesucht
 
@@ -31,9 +33,9 @@ An unseren internen Challenges, Hackathons und Teamevents fördern wir das gemei
 
 ### Der Name ist Programm
 
-Als Talent wirst du während deiner ersten sechs Monate bei CoSo individuell durch die CoSo Academy begleitet. 
+Als Talent wirst du während deiner ersten sechs Monate bei CoSo individuell durch die CoSo Academy begleitet.
 
-Damit du rasch das nötige Know-how aufbauen, Verantwortung übernehmen und gemeinsam mit CoSo für unsere Kund:innen den nächsten Schritt ermöglichen kannst, erhältst du Coaching und erlebst die CoSo-Kultur. Für dich sind Coaches mit entsprechender Erfahrung am Start. 
+Damit du rasch das nötige Know-how aufbauen, Verantwortung übernehmen und gemeinsam mit CoSo für unsere Kund:innen den nächsten Schritt ermöglichen kannst, erhältst du Coaching und erlebst die CoSo-Kultur. Für dich sind Coaches mit entsprechender Erfahrung am Start.
 
 Als Teil der CoSo Academy bekommst du den individuell notwendigen Rückhalt für deine Entwicklung des fachlichen Schwerpunkts sowie hinsichtlich der Selbstorganisation und Befähigung zur Projektdurchführung bei unseren Kund:innen.
 
