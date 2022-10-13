@@ -1,7 +1,6 @@
 ---
 title: Junior Cloud Consultant
-description: Entwickle dich in die passende Richtung
-draft: true
+description: Unterstütze unsere Kund:innen in der Cloud
 
 ---
 Du bist Student:in und suchst neben dem Studium den Praxisbezug? Bei uns teilst du dir deine Arbeitszeiten selbst ein, damit das Studium nicht zu kurz kommt.
