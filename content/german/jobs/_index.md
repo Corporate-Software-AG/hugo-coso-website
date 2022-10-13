@@ -11,10 +11,9 @@ benifits:
     zu werden:'
   item:
   - name: CoSo Academy
-    icon: ''
-    content: Als Talent oder Junior wirst du während deiner ersten sechs Monate bei
-      CoSo individuell durch die CoSo Academy begleitet, damit du rasch das nötige
-      Know-how aufbauen, Verantwortung übernehmen und gemeinsam mit CoSo für unsere
+    icon: ti-star
+    content: Als Junior wirst du während sechs Monaten individuell begleitet, damit
+      du rasch das nötige Know-how aufbauen, Verantwortung übernehmen und für unsere
       Kund:innen den nächsten Schritt ermöglichen kannst.
   - name: Regelmässige <br>Co-Workings
     icon: ti-face-smile
