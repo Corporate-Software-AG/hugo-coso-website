@@ -7,7 +7,7 @@ Du bist Student:in und suchst neben dem Studium den Praxisbezug? Bei uns teilst 
 
 Zeichnest du dich aus durch Selbstständigkeit, Flexibilität, Wissbegierde, Motivation und Kontaktfreudigkeit und bist eine absoluter Teamplayer:in?
 
-**Werde Teil des Teams als motivierte:r und engagiert:r Junior Cloud Consultant (20–60 %)!**
+**Werde Teil des Teams als motivierte:r und engagiert:r Junior Cloud Consultant (w/m/d) (20–60 %)!**
 
 **Das erwartet dich**
 
