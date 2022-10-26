@@ -7,7 +7,7 @@ Du bist Student:in und suchst neben dem Studium den Praxisbezug? Bei uns teilst 
 
 Zeichnest du dich aus durch Selbstständigkeit, Flexibilität, Wissbegierde, Motivation und Kontaktfreudigkeit und bist eine absoluter Teamplayer:in?
 
-**Werde Teil des Teams als motivierte:r und engagierte:r Junior Data Engineer (w/m/d) (20–60 %)!**
+**Wir suchen ab Februar 2023 eine:n Junior Data Engineer (w/m/d) (20–60 %)!**
 
 **Das erwartet dich**
 
@@ -38,3 +38,9 @@ Zeichnest du dich aus durch Selbstständigkeit, Flexibilität, Wissbegierde, Mot
 * Qualitätsbewusstsein, Ziel- und Kundenorientierung
 * Freude an Sales und Begeisterung für nachhaltige IT-Lösungskonzepte
 * Muttersprache Deutsch
+
+Wir begleiten unsere Kund:innen bei der Entdeckung neuer Bereiche und treiben innovative Projekte voran. Auch als Unternehmen entwickeln wir uns ständig weiter. Daran lassen wir nicht nur unsere Kund:innen, sondern auch unsere Mitarbeiter:innen teilhaben.
+
+Einer unserer Eckpfeiler ist das Finden und Fördern von Talenten. Wir investieren gezielt in Coaching und Training, damit unsere "Talents" rasch das nötige Know-how aufbauen, Verantwortung übernehmen und gemeinsam mit Corporate Software für unsere Kund:innen den nächsten Schritt ermöglichen können.
+
+Schreib uns für ein unverbindliches Kennenlern-Gespräch!
