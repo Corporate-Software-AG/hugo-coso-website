@@ -1,13 +1,13 @@
----
-title: Junior Data Engineer
-description: Starte deine Karriere als gefragter Data Engineer
++++
+description = "Starte deine Karriere als gefragter Data Engineer"
+title = "Junior Data Engineer"
 
----
-Bist du Student:in (Wirtschafts-(Informatik)) und auf der Suche nach einer praxisorientierten Weiterentwicklungsmöglichkeit? Juhu! 
++++
+Bist du Student:in (Wirtschafts-(Informatik)) und auf der Suche nach einer praxisorientierten Weiterentwicklungsmöglichkeit? Juhu!
 
-Wir bei Corporate Software arbeiten remote, im Co-Working oder direkt bei Kund:innen in Projekten. Deine Stunden teilst du dir selbst ein, damit dein Studium nicht zu kurz kommt. 
+Wir bei Corporate Software arbeiten remote, im Co-Working oder direkt bei Kund:innen in Projekten. Deine Stunden teilst du dir selbst ein, damit dein Studium nicht zu kurz kommt.
 
-Gemeinsam bauen wir deinen individuellen Entwicklungspfad in die für dich passende Fachrichtung: Data Engineering, Cloud Consulting, Microsoft Power Platform Consulting und begleiten dich auf deinem Weg in die IT-Unternehmensberatung. 
+Gemeinsam bauen wir deinen individuellen Entwicklungspfad in die für dich passende Fachrichtung: Data Engineering, Cloud Consulting, Microsoft Power Platform Consulting und begleiten dich auf deinem Weg in die IT-Unternehmensberatung.
 
 Und schon bald bist du vollwertige:r Consultant mit spannenden Projekten aus Data & AI, Collaboration und Automation.
 
