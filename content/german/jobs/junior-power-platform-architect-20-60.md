@@ -3,11 +3,15 @@ description = "Mach dir die Kraft der Power Platform zu eigen"
 title = "Junior Power Platform Consultant"
 
 +++
-Du bist Student:in und suchst neben dem Studium den Praxisbezug? Bei uns teilst du dir deine Arbeitszeiten selbst ein, damit das Studium nicht zu kurz kommt.
+Bist du Student:in (Wirtschafts-(Informatik)) und auf der Suche nach einer praxisorientierten Weiterentwicklungsmöglichkeit? Juhu! 
 
-Zeichnest du dich aus durch Selbstständigkeit, Flexibilität, Wissbegierde, Motivation und Kontaktfreudigkeit und bist eine absoluter Teamplayer:in?
+Wir bei Corporate Software arbeiten remote, im Co-Working oder direkt bei Kund:innen in Projekten. Deine Stunden teilst du dir selbst ein, damit dein Studium nicht zu kurz kommt. 
 
-**Wir suchen ab Februar 2023 eine:n Junior Power Platform Consultant (w/m/d) (20–60 %)!**
+Gemeinsam bauen wir deinen individuellen Entwicklungspfad in die für dich passende Fachrichtung: Data Engineering, Cloud Consulting, Microsoft Power Platform Consulting und begleiten dich auf deinem Weg in die IT-Unternehmensberatung. 
+
+Und schon bald bist du vollwertige:r Consultant mit spannenden Projekten aus Data & AI, Collaboration und Automation.
+
+**Komm ab Februar 2023 zu uns als Junior Power Platform Consultant (w/m/d) (20–60 %)!**
 
 **Das erwartet dich**
 
