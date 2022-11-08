@@ -5,6 +5,13 @@ button:
   text: Sehen Sie sich mehr an!
   url: success
 testimonial_items:
+- name: Damian Neuhaus
+  image: "/uploads/ace-logo.webp"
+  designation: Geschäftsführer ACE systems engineering ag
+  content: Nochmals vielen Dank für das in vieler Hinsicht tolle und erfolgreiche
+    ACE EDUCamp 2022. Es ist immer wieder eine Freude, vom enormen Wissen von Matthias
+    Gessenay zu profitieren. Seine tolle Art der Vermittlung macht jedem Teilnehmer
+    Spass und bleibt in guter Erinnerung!
 - name: Isabelle Huber
   image: "/uploads/bwl-logo-web.png"
   designation: Wirtschaftliche Landesversorgung (WL)
