@@ -1,6 +1,7 @@
 ---
 title: Junior Cloud Consultant
 description: Unterstütze unsere Kund:innen in der Cloud
+draft: true
 
 ---
 Bist du Student:in (Wirtschafts-(Informatik)) und auf der Suche nach einer praxisorientierten Weiterentwicklungsmöglichkeit? Juhu! 
