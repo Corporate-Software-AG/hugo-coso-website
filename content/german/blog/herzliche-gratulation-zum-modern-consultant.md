@@ -15,7 +15,7 @@ Nach spannenden sechs Monaten war es am 6. Februar 2023 soweit: Microsoft krönt
 
 Zitat Waltraud
 
-Zitat Kevin
+> Das Microsoft Modern Consultant Programm war eine umfassende Bildungserfahrung. Im Laufe der sechs Monate habe ich ein tiefes Verständnis für die Power Plattform und Consulting-Skills gewonnen. Die Trainer/Mentoren des Programms waren sachkundig und leidenschaftlich bei der Sache und boten während des gesamten Prozesses Unterstützung und Anleitung. Ich würde das Microsoft Modern Consultant Programm jedem empfehlen, der seine Fähigkeiten im Bereich Technologie und Beratung erweitern möchte. – _Kevin Ayiramala, Junior Consultant bei CoSo und Teilnehmer der zweiten Durchführung_
 
 **#ModernConsJourney geht weiter: Die dritte Runde startet am 15. März 2023**
 
