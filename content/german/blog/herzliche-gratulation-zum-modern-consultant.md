@@ -1,15 +1,17 @@
 +++
-categories = []
-date = ""
-description = ""
+categories = ["CoSo Academy"]
+date = 2023-02-08T23:00:00Z
+description = "Herzliche Gratulation Waltraud und Kevin zum Microsoft Modern Consultant"
 draft = true
-image = "/uploads/waltraud-ossig-kevin-ayiramala-zertifikat-1.png"
-title = "Herzliche Gratulation zum Modern Consultant"
+image = "/uploads/waltraud-ossig-kevin-ayiramala-zertifikat-1-bearbeitet.png"
+title = "Qualifizierte Power Platform Spezialist:innen mit dem Modern Consultant Programm"
 
 +++
-Nach spannenden sechs Monaten war es am 6. Februar 2023 soweit: Microsoft krönte im Circle in Zürich 36 neue Modern Consultants aus der Cohort 2. Unsere beiden Teilnehmer:innen Waltraud und Kevin haben das Programm mit Bravour bestanden. Herzliche Gratulation euch beiden!
+Nach spannenden sechs Monaten war es am 6. Februar 2023 soweit: Microsoft krönte im Circle in Zürich 36 neue Modern Consultants aus der zweiten Durchführung von September 2022 bis Februar 2023. Unsere beiden Teilnehmer:innen Waltraud Ossig und Kevin Ayiramala haben das Programm mit Bravour bestanden. Herzliche Gratulation euch beiden zur grossartigen Auszeichnung!
 
-![](/uploads/waltraud-ossig-kevin-ayiramala-zertifikat-2.png)
+![](/uploads/waltraud-ossig-kevin-ayiramala-zertifikat-2-bearbeitet.png)
+
+[https://ambit-group.com/news/qualifizierte-dynamics-spezialisten-microsoft-modern-consultant-programm?utm_campaign=Ambit+October+2022&utm_content=linkedin&utm_jobs=linkedin&utm_medium=social&utm_source=linkedin](https://ambit-group.com/news/qualifizierte-dynamics-spezialisten-microsoft-modern-consultant-programm?utm_campaign=Ambit+October+2022&utm_content=linkedin&utm_jobs=linkedin&utm_medium=social&utm_source=linkedin "https://ambit-group.com/news/qualifizierte-dynamics-spezialisten-microsoft-modern-consultant-programm?utm_campaign=Ambit+October+2022&utm_content=linkedin&utm_jobs=linkedin&utm_medium=social&utm_source=linkedin")
 
 Zitat Waltraud
 
@@ -17,7 +19,7 @@ Zitat Kevin
 
 **#ModernConsJourney geht weiter: Die dritte Runde startet am 15. März 2023**
 
-Und CoSo ist mit dabei. Unsere beiden neuen Talente Lukas (Start im Februar) und Alain (Start im März) werden im Rahmen der CoSo Academy als Erstes das Microsoft-Programm zum Modern Consultant durchlaufen. Wir freuen uns, wieder dabei zu sein! 
+Und CoSo ist mit dabei. Unsere beiden neuen Talente Lukas (Start im Februar) und Alain (Start im März) werden im Rahmen der CoSo Academy als Erstes das Microsoft-Programm zum Modern Consultant durchlaufen. Wir freuen uns, wieder dabei zu sein!
 
 **Über das Modern Consultant Programm**
 
