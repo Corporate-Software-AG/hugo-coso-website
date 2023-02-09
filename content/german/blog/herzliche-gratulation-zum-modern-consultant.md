@@ -2,7 +2,6 @@
 categories = ["CoSo Academy"]
 date = 2023-02-08T23:00:00Z
 description = "Herzliche Gratulation Waltraud und Kevin zum bestandenen Microsoft Modern Consultant"
-draft = true
 image = "/uploads/waltraud-ossig-kevin-ayiramala-zertifikat-1-bearbeitet.png"
 title = "Qualifizierte Power Platform Spezialist:innen dank Modern Consultant Programm"
 
