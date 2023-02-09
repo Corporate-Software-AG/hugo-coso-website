@@ -18,12 +18,14 @@ Microsoft Schweiz hat das Modern Consultant Programm für seine Partner-Unterneh
 
 ### Mut wird belohnt
 
-Waltraud hat es sogar in die vorderen Ränge geschafft mit unglaublich hoher Präsenzzeit und fantastischen zwei abgeschlossenen Microsoft-Zertifizierungen im Rahmen des Programms. Sie ist glückliche neue Besitzerin einer coolen Microsoft-Jacke. Well done, Waltraud! Wir gratulieren und danken dir herzlich für deinen grossen Einsatz.
+Waltraud hat es sogar in die vorderen Ränge geschafft mit unglaublich hoher Präsenzzeit und fantastischen zwei abgeschlossenen Microsoft-Zertifizierungen im Rahmen des Programms. Sie ist glückliche neue Besitzerin einer coolen Microsoft-Jacke. Well done, Waltraud! **Wir gratulieren und danken dir herzlich für deinen grossen Einsatz.**
 
 _![](/uploads/img_20230206_154645281-bearbeitet-1.png)  
 v.l. Julia Ruprecht von Microsoft, Waltraud Ossig_
 
 > Die letzten sechs Monate haben mir wieder einmal mehr gezeigt, dass es im Leben belohnt wird, mutig zu sein und sich auf den Weg zu machen. Das intensive Lernen, neugierig sein und mich ganz hineingeben in das Programm mit all seinen Herausforderungen, der Austausch in der Community und ganz besonders das Mentoring haben mich spürbar nach vorne gebracht und ich fühle mich heute sehr gut aufgestellt mit einem Koffer voller neuer und vertiefter Fähigkeiten. – _Waltraud Ossig, Consultant bei CoSo und Teilnehmerin der zweiten Durchführung des Microsoft Modern Consultant Program_
+
+![](/uploads/modernconsultantprogrammcohort2.jpg)
 
 > Das Microsoft Modern Consultant Programm war eine umfassende Bildungserfahrung. Im Laufe der sechs Monate habe ich ein tiefes Verständnis für die Power Plattform und Consulting-Skills gewonnen. Die Trainer/Mentoren des Programms waren sachkundig und leidenschaftlich bei der Sache und boten während des gesamten Prozesses Unterstützung und Anleitung. Ich würde das Microsoft Modern Consultant Programm jedem empfehlen, der seine Fähigkeiten im Bereich Technologie und Beratung erweitern möchte. – _Kevin Ayiramala, Junior Consultant bei CoSo und Teilnehmer der zweiten Durchführung des Microsoft Modern Consultant Program_
 
