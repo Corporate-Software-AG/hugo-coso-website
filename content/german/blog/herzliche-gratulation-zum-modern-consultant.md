@@ -31,7 +31,7 @@ v.l. Julia Ruprecht von Microsoft, Waltraud Ossig_
 
 ### #ModernConsJourney geht weiter: Die dritte Runde startet am 15. März 2023
 
-Und CoSo ist mit dabei. Unsere beiden neuen Talente Lukas (Start im Februar) und Alain (Start im März) werden im Rahmen der CoSo Academy das Microsoft-Programm zum Modern Consultant durchlaufen. Wir freuen uns, wieder dabei zu sein und weitere zertifizierte Experten an Bord zu haben!
+Und CoSo ist mit dabei. Unsere beiden neuen Talente Lukas und Alain werden im Rahmen der CoSo Academy das Microsoft-Programm zum Modern Consultant durchlaufen. Wir freuen uns, wieder dabei zu sein und weitere zertifizierte Experten an Bord zu haben!
 
 ### Über das Modern Consultant Programm
 
