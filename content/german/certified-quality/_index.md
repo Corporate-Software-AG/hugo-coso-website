@@ -8,7 +8,9 @@ Wir gehen voran, um den nächsten Schritt zu ermöglichen. Als CoSo entwickeln w
 
 Aktuell sind wir 10-facher Microsoft Gold Partner: Gold Cloud Platform, Gold Cloud Productivity, Gold Data Analytics, Gold DevOps, Gold Collaboration and Content, Gold Project and Portfolio Management, Gold Data Platform, Gold Datacenter, Gold Application Integration, Gold Application Development.
 
-Zudem wurden wir von Microsoft mit den neuen Advanced Specializations “Adoption und Change Management” und “Calling for Microsoft Teams” ausgezeichnet.
+![Logo Microsoft Solutions Partner](/uploads/coso-solutions-partner-specs_0223.png "Microsoft Solutions Partner Modern Work")
+
+Zusätzlich sind wir ausgewiesener Microsoft Solutions Partner im Bereich Modern Work und wurden von Microsoft mit den Advanced Specializations "Adoption und Change Management" und "Calling for Microsoft Teams" ausgezeichnet.
 
 ## Zertifizierte Microsoft-Qualität
 
