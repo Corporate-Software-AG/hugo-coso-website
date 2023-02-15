@@ -10,8 +10,6 @@ In den letzten Monaten habe ich in 🗺️ 8 Ländern, auf🏝️ 6 Inseln und i
 
 Mein 2-Wochen-Kitesurf-Trip auf Mauritius endete in einem «Travel and Work Roadtrip». Längere Zeit reisen und ortsunabhängig arbeiten, die Freiheit bei Corporate Software und Cloud-Lösungen haben es mir ermöglicht.
 
-![](/uploads/remoteworkging.png)
-
 Kurz am Morgen einige Tasks erledigen und danach ab an den Strand auf dem Meer Kitesurfen oder Region und Kultur entdecken. Das war mein Lifestyle in den letzten sieben Monaten.
 
 ### Meine «Travel and Work» Vor- und Nachteile
