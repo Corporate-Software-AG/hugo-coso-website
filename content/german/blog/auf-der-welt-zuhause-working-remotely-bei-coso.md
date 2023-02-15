@@ -2,7 +2,6 @@
 categories = []
 date = ""
 description = "In den letzten Monaten hat Tamara in 🗺️ 8 Ländern, auf🏝️ 6 Inseln und in 🕜 5 Zeitzonen gearbeitet. Wie das möglich war, beschreibt sie in diesem Blog."
-draft = true
 image = "/uploads/remoteworkging.png"
 title = "Auf der Welt zuhause: working remotely bei CoSo"
 
