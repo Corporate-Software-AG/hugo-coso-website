@@ -38,4 +38,6 @@ Kurz am Morgen einige Tasks erledigen und danach ab an den Strand auf dem Meer K
 
 Wo auch immer man sich auf dieser weiten Welt befindet, alles, was man zum Arbeiten braucht, ist ein Laptop, ein Arbeitstisch mit Aussicht, Strom und eine starke WLAN-Verbindung.
 
+Liebe Grüsse, eure Tamara
+
 ![](/uploads/tamaraamstrand.png)
