@@ -1,7 +1,6 @@
 +++
 categories = ["Power Platform"]
 certifications = []
-draft = true
 image = "/uploads/marclukaswickihalder.png"
 job_title = "Junior Consultant"
 team = ""
