@@ -1,5 +1,5 @@
 +++
-categories = []
+categories = ["Power Platform"]
 certifications = []
 draft = true
 image = "/uploads/marclukaswickihalder.png"
