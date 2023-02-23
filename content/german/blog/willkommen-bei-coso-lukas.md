@@ -1,9 +1,8 @@
 +++
-categories = []
-date = 2023-02-14T23:00:00Z
+categories = ["CoSo"]
+date = 2023-02-21T23:00:00Z
 description = "Seit 1. Februar ist er bei uns: Marc-Lukas Wickihalder oder kurz Lukas startet bei uns als Junior Consultant im Bereich Power Platform."
-draft = true
-image = ""
+image = "/uploads/welcome-lukas.png"
 title = "Willkommen bei CoSo, Lukas"
 
 +++
