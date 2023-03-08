@@ -4,7 +4,7 @@ certifications = []
 image = "/uploads/marclukaswickihalder.png"
 job_title = "Junior Consultant"
 team = ""
-title = "Marc-Lukas Wickihalder"
+title = "Lernen Sie den Cosoianer Marc-Lukas Wickihalder kennen"
 [[social]]
 icon = "ti-email"
 link = "mailto:marc-lukas.wickihalder@corporatesoftware.ch"
