@@ -2,7 +2,6 @@
 categories = ["Services"]
 date = ""
 description = "Lernt unsere automatisierte Lösung für sicheres Guest User Management mittels der Power Platform auf Azure kennen"
-draft = true
 image = "/uploads/brooke-cagle-g1kr4ozfoac-unsplash.jpg"
 title = "Intelligent Host – Schluss mit Sicherheitslücken bei Guest Usern"
 
@@ -20,14 +19,12 @@ Power Automate regelt die Workflows bezüglich Erstellung, Verlängerung und L
 
 In einem Whitepaper beleuchten wir die unterschiedlichen Perspektiven von Intelligent Host. Technik steht im Vordergrund, wir werfen zudem Licht auf Architektur, Sicherheit, Wirtschaftlichkeit, Benutzerinterface, die administrative Seite und schauen, was Intelligent Host mit «Lernen» zu tun hat.
 
-> **Sind Sie an Intelligent Host für das Management Ihrer Guest User interessiert?**
+> **![](/uploads/kopfe_matthias.png)Sind Sie an Intelligent Host für das Management Ihrer Guest User interessiert?**
 >
 > Kontaktieren Sie jetzt Matthias Gessenay, CEO und CO-Gründer Corporate Software, Senior Consultant und Microsoft Azure MVP für ein persönliches Gespräch unter matthias.gessenay@corporatesoftware.ch oder per Telefon: +41 32 315 03 60
 
-![](/uploads/matthias.png)
-
 ### Whitepaper als PDF
 
-Füllen Sie bei Interesse unser Formular aus. Sie erhalten das PDF anschliessend bequem in Ihre E-Mail-Inbox.
+Möchten Sie mehr über unsere Lösung "Intelligent Host" erfahren? Füllen Sie unser Formular aus. Sie erhalten das PDF anschliessend bequem in Ihre E-Mail-Inbox.
 
 <iframe width="640px" height="480px" src="[https://forms.office.com/Pages/ResponsePage.aspx?id=QX69K8kCTkuBaDOfkAxDGSlhY0cMwVRMuX4fTKcdUNhUOTNDRU4xTlNOS0tQM1hMWEEyOEhZNVJWWC4u&embed=true](https://forms.office.com/Pages/ResponsePage.aspx?id=QX69K8kCTkuBaDOfkAxDGSlhY0cMwVRMuX4fTKcdUNhUOTNDRU4xTlNOS0tQM1hMWEEyOEhZNVJWWC4u&embed=true "https://forms.office.com/Pages/ResponsePage.aspx?id=QX69K8kCTkuBaDOfkAxDGSlhY0cMwVRMuX4fTKcdUNhUOTNDRU4xTlNOS0tQM1hMWEEyOEhZNVJWWC4u&embed=true")" frameborder="0" marginwidth="0" marginheight="0" style="border: none; max-width:100%; max-height:100vh" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen> </iframe>
