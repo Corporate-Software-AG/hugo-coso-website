@@ -25,6 +25,4 @@ In einem Whitepaper beleuchten wir die unterschiedlichen Perspektiven von Intell
 
 ### Whitepaper als PDF
 
-Möchten Sie mehr über unsere Lösung "Intelligent Host" erfahren? Füllen Sie unser Formular aus. Sie erhalten das PDF anschliessend bequem in Ihre E-Mail-Inbox.
-
-<iframe width="640px" height="480px" src="[https://forms.office.com/Pages/ResponsePage.aspx?id=QX69K8kCTkuBaDOfkAxDGSlhY0cMwVRMuX4fTKcdUNhUOTNDRU4xTlNOS0tQM1hMWEEyOEhZNVJWWC4u&embed=true](https://forms.office.com/Pages/ResponsePage.aspx?id=QX69K8kCTkuBaDOfkAxDGSlhY0cMwVRMuX4fTKcdUNhUOTNDRU4xTlNOS0tQM1hMWEEyOEhZNVJWWC4u&embed=true "https://forms.office.com/Pages/ResponsePage.aspx?id=QX69K8kCTkuBaDOfkAxDGSlhY0cMwVRMuX4fTKcdUNhUOTNDRU4xTlNOS0tQM1hMWEEyOEhZNVJWWC4u&embed=true")" frameborder="0" marginwidth="0" marginheight="0" style="border: none; max-width:100%; max-height:100vh" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen> </iframe>
+Möchten Sie mehr über unsere Lösung "Intelligent Host" erfahren? [Füllen Sie unser Formular aus. ](https://forms.office.com/Pages/ResponsePage.aspx?id=QX69K8kCTkuBaDOfkAxDGSlhY0cMwVRMuX4fTKcdUNhUOTNDRU4xTlNOS0tQM1hMWEEyOEhZNVJWWC4u "Formular ausfüllen, Whitepaper herunterladen")Sie erhalten das PDF anschliessend bequem in Ihre E-Mail-Inbox.
