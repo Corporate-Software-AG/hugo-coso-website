@@ -23,6 +23,6 @@ In einem Whitepaper beleuchten wir die unterschiedlichen Perspektiven von Intell
 >
 > Kontaktieren Sie jetzt Matthias Gessenay, CEO und CO-Gründer Corporate Software, Senior Consultant und Microsoft Azure MVP für ein persönliches Gespräch unter matthias.gessenay@corporatesoftware.ch oder per Telefon: +41 32 315 03 60
 
-### Whitepaper als PDF
+### Whitepaper "Intelligent Host" als PDF
 
-Möchten Sie mehr über unsere Lösung "Intelligent Host" erfahren? [Füllen Sie unser Formular aus. ](https://forms.office.com/Pages/ResponsePage.aspx?id=QX69K8kCTkuBaDOfkAxDGSlhY0cMwVRMuX4fTKcdUNhUOTNDRU4xTlNOS0tQM1hMWEEyOEhZNVJWWC4u "Formular ausfüllen, Whitepaper herunterladen")Sie erhalten das PDF anschliessend bequem in Ihre E-Mail-Inbox.
+Möchten Sie mehr über unsere Lösung "Intelligent Host" erfahren? [Füllen Sie unser Formular aus.](https://forms.office.com/Pages/ResponsePage.aspx?id=QX69K8kCTkuBaDOfkAxDGSlhY0cMwVRMuX4fTKcdUNhUOTNDRU4xTlNOS0tQM1hMWEEyOEhZNVJWWC4u "Formular ausfüllen, Whitepaper herunterladen") Wir senden Ihnen anschliessend den Download-Link zum PDF bequem in Ihre E-Mail-Inbox.
