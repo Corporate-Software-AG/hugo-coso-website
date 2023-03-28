@@ -19,7 +19,7 @@ Power Automate regelt die Workflows bezüglich Erstellung, Verlängerung und L
 
 In einem Whitepaper beleuchten wir die unterschiedlichen Perspektiven von Intelligent Host. Technik steht im Vordergrund, wir werfen zudem Licht auf Architektur, Sicherheit, Wirtschaftlichkeit, Benutzerinterface, die administrative Seite und schauen, was Intelligent Host mit «Lernen» zu tun hat.
 
-> **![](/uploads/kopfe_matthias.png)Sind Sie an Intelligent Host für das Management Ihrer Guest User interessiert?**
+> **Sind Sie an Intelligent Host für das Management Ihrer Guest User interessiert?**
 >
 > Kontaktieren Sie jetzt Matthias Gessenay, CEO und CO-Gründer Corporate Software, Senior Consultant und Microsoft Azure MVP für ein persönliches Gespräch unter matthias.gessenay@corporatesoftware.ch oder per Telefon: +41 32 315 03 60
 
