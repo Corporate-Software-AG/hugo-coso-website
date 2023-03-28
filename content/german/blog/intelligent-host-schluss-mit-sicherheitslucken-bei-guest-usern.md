@@ -1,7 +1,7 @@
 +++
 categories = ["Services"]
 date = 2023-03-28T08:00:00Z
-description = "Lernt unsere automatisierte Lösung für sicheres Guest User Management mittels der Power Platform auf Azure kennen"
+description = "Lernen Sie unsere automatisierte Lösung für sicheres Guest User Management mittels der Power Platform auf Azure kennen."
 image = "/uploads/brooke-cagle-g1kr4ozfoac-unsplash.jpg"
 title = "Intelligent Host – Schluss mit Sicherheitslücken bei Guest Usern"
 
