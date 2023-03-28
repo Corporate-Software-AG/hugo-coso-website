@@ -1,5 +1,5 @@
 +++
-categories = []
+categories = ["Power Platform"]
 certifications = []
 image = "/uploads/alainwalther.png"
 job_title = "Junior Consultant"
