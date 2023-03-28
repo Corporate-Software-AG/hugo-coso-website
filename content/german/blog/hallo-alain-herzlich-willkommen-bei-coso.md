@@ -1,6 +1,6 @@
 +++
 categories = ["CoSo"]
-date = 2023-03-27T22:00:00Z
+date = 2023-03-26T22:00:00Z
 description = "Herzlich willkommen im Power Platform Team, Alain!"
 image = "/uploads/welcome-alain.png"
 title = "Hallo Alain – herzlich willkommen bei CoSo"
