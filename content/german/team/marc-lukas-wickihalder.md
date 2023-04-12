@@ -6,6 +6,9 @@ job_title = "Junior Consultant"
 team = ""
 title = "Lernen Sie den Cosoianer Marc-Lukas Wickihalder kennen"
 [[social]]
+icon = "ti-headphone-alt"
+link = "tel:+41 32 315 03 47"
+[[social]]
 icon = "ti-email"
 link = "mailto:marc-lukas.wickihalder@corporatesoftware.ch"
 [[social]]
