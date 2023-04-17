@@ -14,7 +14,7 @@ certifications:
 - name: 'Microsoft Certified: Power BI Data Analyst Associate'
   badge: "/images/certs/CERT-Associate-Data-Analyst-600x600.png"
 - name: 'Microsoft Certified: Power Platform Solution Architect Expert'
-  badge: "/images/certs/power-platform-solutions-architect-expert-600x600"
+  badge: "/images/certs/power-platform-solutions-architect-expert-600x600.png"
 
 ---
 ## Zertifizierte Kraft auf der Power Platform
