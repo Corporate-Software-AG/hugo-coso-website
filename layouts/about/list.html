@@ -21,7 +21,7 @@
       <div class="col-lg-5 col-md-8 col-sm-10">
         <div class="d-inline-block has-shadow shadow-left has-shapes">
           {{ $image := resources.GetMatch .image }}
-          {{ partial "image.html" (dict "Image" $image "Alt" "blog Image" "Class" "img-fluid rounded-sm") }}      
+          {{ partial "image.html" (dict "Image" $image "Alt" "blog Image" "Class" "img-fluid rounded-sm") }}
           <div class="shape-1 shape-md bg-secondary rounded-circle"></div>
           <div class="shape-2 shape-xl bg-tertiary rounded-circle"></div>
           <div class="shape-3 shape-lg bg-primary rounded-circle"></div>
@@ -55,7 +55,7 @@
       <div class="col-lg-5 col-md-8 col-sm-10">
         <div class="d-inline-block has-shadow shadow-right has-shapes">
           {{ $image := resources.GetMatch .image }}
-          {{ partial "image.html" (dict "Image" $image "Alt" "blog Image" "Class" "img-fluid rounded-sm") }}      
+          {{ partial "image.html" (dict "Image" $image "Alt" "blog Image" "Class" "img-fluid rounded-sm") }}
           <div class="shape-1 shape-md bg-secondary rounded-circle"></div>
           <div class="shape-2 shape-xl bg-tertiary rounded-circle"></div>
           <div class="shape-3 shape-lg bg-primary rounded-circle"></div>
@@ -76,7 +76,7 @@
       <div class="col-lg-5 col-md-8 col-sm-10">
         <div class="d-inline-block has-shadow shadow-left has-shapes">
           {{ $image := resources.GetMatch .image }}
-          {{ partial "image.html" (dict "Image" $image "Alt" "blog Image" "Class" "img-fluid rounded-sm") }}      
+          {{ partial "image.html" (dict "Image" $image "Alt" "blog Image" "Class" "img-fluid rounded-sm") }}
           <div class="shape-1 shape-md bg-secondary rounded-circle"></div>
           <div class="shape-2 shape-xl bg-tertiary rounded-circle"></div>
           <div class="shape-3 shape-lg bg-primary rounded-circle"></div>
@@ -106,10 +106,13 @@
       <div class="has-colored-text row no-gutters overflow-hidden">
         {{ $len := (len (.funfacts_item)) }}
         {{ range $index, $element := .funfacts_item }}
-        <div class="col-lg-3 col-sm-6 text-center border-md-0 mb-30 {{ if ne (add $index 1) $len }}border-right{{ end }}" data-aos="fade-up">
+        <div
+          class="col-lg-3 col-sm-6 text-center border-md-0 mb-30 {{ if ne (add $index 1) $len }}border-right{{ end }}"
+          data-aos="fade-up">
           <p class="has-text-color mb-10 text-capitalize">{{ .name }}</p>
           <h2 class="text-black-200 font-weight-bold">
-            <span class="jsCounter-2" data-count="{{ .count }}">0</span>{{.extension}}</h2>
+            <span class="jsCounter-2" data-count="{{ .count }}">0</span>{{.extension}}
+          </h2>
         </div>
         {{ end }}
       </div>
@@ -137,7 +140,7 @@
           <div class="has-text-color h2">
             <i class="{{ .icon }}"></i>
           </div>
-          <h5 class="font-weight-600 mt-20 mb-15 text-capitalize">{{ .name | markdownify }}</h5>
+          <h5 class="font-weight-600 mt-20 mb-15">{{ .name | markdownify }}</h5>
           <p>{{ .content | markdownify }}</p>
         </div>
       </div>
