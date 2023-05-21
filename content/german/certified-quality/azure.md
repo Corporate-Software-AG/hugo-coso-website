@@ -9,6 +9,8 @@ certifications:
   badge: "/images/certs/azure-developer-associate-600x600.png"
 - name: 'Microsoft Certified: Azure Security Engineer Associate'
   badge: "/images/certs/microsoft-certified-azure-security-engineer-associate.png"
+- name: 'Microsoft Certified: Security Operations Analyst'
+  badge: "/images/certs/security-operations-analyst-associate-600x600.png"
 - name: 'Microsoft Certified: Azure AI Engineer Associate'
   badge: "/images/certs/azure-ai-engineer-600x600.png"
 - name: 'Microsoft Certified: Azure Data Engineer Associate'
