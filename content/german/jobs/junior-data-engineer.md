@@ -1,6 +1,6 @@
 +++
 description = "Starte deine Karriere als gefragter Data Engineer"
-draft = true
+draft = false
 title = "Junior Data Engineer"
 
 +++
@@ -12,7 +12,7 @@ Gemeinsam bauen wir deinen individuellen Entwicklungspfad in die für dich passe
 
 Und schon bald bist du vollwertige:r Consultant mit spannenden Projekten aus Data & AI, Collaboration und Automation.
 
-**Komm ab Februar 2023 zu uns als Junior Data Engineer (w/m/d) (20–60 %)!**
+**Komm ab September 2023 zu uns als Junior Data Engineer (w/m/d) (20–60 %)!**
 
 **Das erwartet dich**
 

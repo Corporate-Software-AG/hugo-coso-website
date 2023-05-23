@@ -1,7 +1,7 @@
 ---
 title: Junior Cloud Consultant
 description: Unterstütze unsere Kund:innen in der Cloud
-draft: true
+draft: false
 
 ---
 Bist du Student:in (Wirtschafts-(Informatik)) und auf der Suche nach einer praxisorientierten Weiterentwicklungsmöglichkeit? Juhu! 
@@ -12,7 +12,7 @@ Gemeinsam bauen wir deinen individuellen Entwicklungspfad in die für dich passe
 
 Und schon bald bist du vollwertige:r Consultant mit spannenden Projekten aus Data & AI, Collaboration und Automation.
 
-**Komm ab Februar 2023 zu uns als Junior Cloud Consultant (w/m/d) (20–60 %)!**
+**Komm ab September 2023 zu uns als Junior Cloud Consultant (w/m/d) (20–60 %)!**
 
 **Das erwartet dich**
 
