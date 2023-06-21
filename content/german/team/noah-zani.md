@@ -1,6 +1,6 @@
 +++
 categories = ["Power Platform", "MCT", "Microsoft 365"]
-certifications = ["Microsoft Certified Trainer", "Microsoft Certified: Power BI Data Analyst Associate", "Microsoft Certified Solutions Associate"]
+certifications = ["Microsoft Certified Trainer", "Microsoft Certified: Power BI Data Analyst Associate"]
 date = ""
 description = ""
 image = "/uploads/noah.png"
