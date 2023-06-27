@@ -26,7 +26,7 @@
 
 
       </div>
-      <div class="col-lg-9 col-md-9 mb-60" data-aos="fade-in" data-aos-delay="50">
+      <div class="col-lg-9 col-md-9 mb-60">
         <div class="post-category position-relative mb-15">
           {{ range $i,$p:= .Params.Categories }}{{if ne $i 0}}-{{end}}<span
             class="text-black-200 font-weight-600 ml-1">{{ . }}</span>
@@ -43,7 +43,7 @@
 
         {{ $certifications := .Params.certifications }}
         <div class="row justify-content-center">
-          {{ range (where .Site.RegularPages "Section" "certified-quality") }}
+          {{ range sort (where .Site.RegularPages "Section" "certified-quality") "Params.priority" "asc" }}
           {{ $link := .Permalink}}
           {{ range .Params.certifications }}
           {{ if in $certifications .name }}

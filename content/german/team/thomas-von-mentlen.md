@@ -5,7 +5,7 @@ date:
 name: Thomas von Mentlen
 categories:
 - MCT
-- Microsoft 365
+- Power Platform
 - Azure
 - DevOps
 certifications:
@@ -24,6 +24,8 @@ certifications:
 - 'Microsoft Certified: Azure Solutions Architect Expert'
 - 'Microsoft Certified: Azure DevOps Engineer Expert'
 - 'Microsoft Certified: Cybersecurity Architect Expert'
+- 'Microsoft Certified: Power Platform Solution Architect Expert'
+
 job_title: Cloud Consultant, Trainer (MCT)
 team: Seal Team
 social:
