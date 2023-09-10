@@ -1,0 +1,62 @@
+{{ define "main" }}
+
+<section class="section-padding pb-40">
+    <div class="container">
+        <div class="row">
+            <div class="mb-40">
+                <div class="content">
+                    {{ .Content }}
+                </div>
+
+            </div>
+        </div>
+    </div>
+</section>
+
+<section id="bot">
+    <iframe
+        src="https://web.powerva.microsoft.com/environments/69e0563f-81e6-466c-acb3-3e0675b4c9df/bots/cra88_faqIntern/webchat?__version__=2"
+        frameborder="0" style="width: 100%; height: 100%;"></iframe>
+</section>
+<section style="position: fixed; bottom: 25px; right: 2em; z-index: 1000;">
+    <button class="btn btn-primary" id="btn-bot">
+        Tobomed
+    </button>
+</section>
+
+<script>
+    document.addEventListener('DOMContentLoaded', function () {
+        document.querySelector("#btn-bot").addEventListener('click', function () {
+            var botElement = document.querySelector("#bot");
+
+            if (botElement.classList.contains("display")) {
+                botElement.classList.remove("display");
+            } else {
+                botElement.classList.add("display");
+            }
+        });
+    });
+</script>
+
+<style>
+    #bot {
+        position: fixed;
+        bottom: 100px;
+        right: -100%;
+        z-index: 1000;
+        width: 400px;
+        height: 50vh;
+        border: .3em solid #003f5e;
+        transition: right 0.4s ease;
+    }
+
+    #bot.display {
+        right: 2em;
+    }
+
+    .scroll-to-top-btn {
+        display: none;
+    }
+</style>
+
+{{ end }}
