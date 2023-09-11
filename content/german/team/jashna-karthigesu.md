@@ -2,7 +2,7 @@
 categories = []
 certifications = []
 image = "/uploads/jashnakarthigesu.png"
-job_title = "HR & Finance Support"
+job_title = "Finance & HR Consultant"
 name = "Jashna Karthigesu"
 team = "General Circle"
 title = "Lernen Sie die Cosoianerin Jashna Karthigesu kennen"
