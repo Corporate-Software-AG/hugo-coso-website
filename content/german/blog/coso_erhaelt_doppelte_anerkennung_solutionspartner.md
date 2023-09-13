@@ -1,11 +1,15 @@
-+++
-categories = ["CoSo"]
-date = 2023-09-13T11:00:00Z
-description = "Wir freuen uns, bekanntzugeben, dass wir gleich zweifach mit den begehrten Microsoft-Solutions-Partner-Auszeichnungen ausgezeichnet wurden: für Modern Work und Data & AI."
-image = "/uploads/solutionpartner_dataAI_modernwork.jpg"
-title = "CoSo erhält doppelte Anerkennung als Microsoft Solutions Partner"
+---
 
-+++
+title: CoSo erhält doppelte Anerkennung als Microsoft Solutions Partner
+date: 2023-09-13T11:00:00Z
+image: "/uploads/solutionpartner_dataAI_modernwork.jpg"
+description:
+categories: 
+- CoSo
+- AI
+- Modern Work
+  
+---
 In der Welt der IT ist die Partnerschaft mit einem Giganten wie Microsoft ein Meilenstein. Wir freuen uns daher, bekanntzugeben, dass wir gleich zweifach mit den begehrten Microsoft-Solutions-Partner-Auszeichnungen ausgezeichnet wurden: für Modern Work und Data & AI. 
 
 ![Solutionpartner Data & AI, Modern Work](/uploads/solutionpartner_dataAI_modernwork.jpg)
