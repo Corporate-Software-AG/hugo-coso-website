@@ -32,7 +32,7 @@ Wir möchten uns bei unseren Kund:innen und dem ganzen CoSo-Team bedanken, die u
 
 Als Microsoft Partner im Content AI Program arbeiten wir eng mit Microsoft zusammen, um Lösungen mit Mehrwert für unsere Kund:innen zu entwickeln. Sie profitieren von noch besseren Content-Management-Lösungen im Bereich Microsoft 365, Microsoft Syntex, Microsoft Viva Topics und SharePoint.
 
-![Content AI Partner](/uploads/content_ai_partner.jpg)
+![Content AI Partner](/uploads/Logo Microsoft Content AI Partner Program.png)
 
 Weitere Infos zum Programm:
 https://www.corporatesoftware.ch/blog/corporate-software-ist-content-ai-partner-von-microsoft/ 
