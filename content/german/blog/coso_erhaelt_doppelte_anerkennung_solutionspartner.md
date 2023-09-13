@@ -8,7 +8,7 @@ title = "CoSo erhält doppelte Anerkennung als Microsoft Solutions Partner"
 +++
 In der Welt der IT ist die Partnerschaft mit einem Giganten wie Microsoft ein Meilenstein. Wir freuen uns daher, bekanntzugeben, dass wir gleich zweifach mit den begehrten Microsoft-Solutions-Partner-Auszeichnungen ausgezeichnet wurden: für Modern Work und Data & AI. 
 
-![Solutionpartner Data & AI, Modern Work](/uploads/solutionpartner_dataAI_modernwork.png)
+![Solutionpartner Data & AI, Modern Work](/uploads/solutionpartner_dataAI_modernwork.jpg)
 
 Was genau bedeuten diese Auszeichnungen und welches Konzept steckt dahinter? 
 
@@ -28,7 +28,7 @@ Wir möchten uns bei unseren Kund:innen und dem ganzen CoSo-Team bedanken, die u
 
 Als Microsoft Partner im Content AI Program arbeiten wir eng mit Microsoft zusammen, um Lösungen mit Mehrwert für unsere Kund:innen zu entwickeln. Sie profitieren von noch besseren Content-Management-Lösungen im Bereich Microsoft 365, Microsoft Syntex, Microsoft Viva Topics und SharePoint.
 
-![Content AI Partner](/uploads/content_ai_partner.png)
+![Content AI Partner](/uploads/content_ai_partner.jpg)
 
 Weitere Infos zum Programm:
 https://www.corporatesoftware.ch/blog/corporate-software-ist-content-ai-partner-von-microsoft/ 
