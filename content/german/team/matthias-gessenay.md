@@ -5,7 +5,7 @@ date = ""
 description = ""
 image = "/uploads/matthias_2.png"
 job_title = "CEO und CO-Gründer, Senior Consultant, Microsoft Azure MVP, Fachbereichsleiter Private Cloud Digicomp, ITIL-Trainer, Trainer (MCT)"
-name = "Matthias Gesseny – unser Azure-Alchimist"
+name = "Matthias Gessenay – unser Azure-Alchemist"
 team = "General Team"
 title = "Lernen Sie unseren Co-Gründer Matthias Gessenay kennen"
 [[social]]
