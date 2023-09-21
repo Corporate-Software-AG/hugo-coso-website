@@ -2,7 +2,7 @@
 
 title: CoSo erhält dreifache! Anerkennung als Microsoft Solutions Partner
 date: 2023-09-13T11:00:00Z
-image: "/uploads/Logo_3Solutionspartnerschaften_ModWork-DataAI-DigitalAppInno.png"
+image: "/uploads/SolutionsPartner3-horizontal.png"
 description:
 categories: 
 - CoSo
