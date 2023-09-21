@@ -2,7 +2,7 @@
 
 title: CoSo erhält dreifache! Anerkennung als Microsoft Solutions Partner
 date: 2023-09-13T11:00:00Z
-image: "/uploads/solutionpartner_dataAI_modernwork.jpg"
+image: "/uploads/Logo_3Solutionspartnerschaften_ModWork-DataAI-DigitalAppInno.png"
 description:
 categories: 
 - CoSo
@@ -12,7 +12,7 @@ categories:
 ---
 In der Welt der IT ist die Partnerschaft mit einem Giganten wie Microsoft ein Meilenstein. Wir freuen uns daher, bekanntzugeben, dass wir gleich dreifach mit den begehrten Microsoft-Solutions-Partner-Auszeichnungen ausgezeichnet wurden: für Modern Work, Data & AI und Digital & App Innovation. 
 
-![Solutionpartner Data & AI, Modern Work](/uploads/solutionpartner_dataAI_modernwork.jpg)
+![Solutionpartner Data & AI, Modern Work](/uploads/Logo_3Solutionspartnerschaften_ModWork-DataAI-DigitalAppInno.png)
 
 Was genau bedeuten diese Auszeichnungen und welches Konzept steckt dahinter? 
 
