@@ -1,6 +1,6 @@
 ---
 
-title: CoSo erhält doppelte Anerkennung als Microsoft Solutions Partner
+title: CoSo erhält dreifache! Anerkennung als Microsoft Solutions Partner
 date: 2023-09-13T11:00:00Z
 image: "/uploads/solutionpartner_dataAI_modernwork.jpg"
 description:
@@ -10,7 +10,7 @@ categories:
 - Modern Work
   
 ---
-In der Welt der IT ist die Partnerschaft mit einem Giganten wie Microsoft ein Meilenstein. Wir freuen uns daher, bekanntzugeben, dass wir gleich zweifach mit den begehrten Microsoft-Solutions-Partner-Auszeichnungen ausgezeichnet wurden: für Modern Work und Data & AI. 
+In der Welt der IT ist die Partnerschaft mit einem Giganten wie Microsoft ein Meilenstein. Wir freuen uns daher, bekanntzugeben, dass wir gleich dreifach mit den begehrten Microsoft-Solutions-Partner-Auszeichnungen ausgezeichnet wurden: für Modern Work, Data & AI und Digital & App Innovation. 
 
 ![Solutionpartner Data & AI, Modern Work](/uploads/solutionpartner_dataAI_modernwork.jpg)
 
@@ -24,7 +24,11 @@ Microsoft definiert Modern Work als die Kunst, Kund:innen dabei zu helfen, ihre 
 
 Die Data & AI-Auszeichnung von Microsoft honoriert unsere Fähigkeit, Kund:innen bei der Verwaltung und Governance ihrer Daten über mehrere Systeme hinweg zu unterstützen, um datengesteuerte Analyse- und KI-Lösungen zu entwickeln. Daten sind das Gold des digitalen Zeitalters, und Unternehmen, die sie effektiv nutzen können, sind auf dem besten Weg, ihre Wettbewerbsfähigkeit zu steigern. Als Solutions Partner für Data & AI sind wir bestrebt, Unternehmen dabei zu helfen, ihre Daten zu verstehen, zu organisieren und intelligent einzusetzen, um fundierte Entscheidungen zu treffen und innovative Lösungen zu entwickeln. 
 
-Diese doppelte Auszeichnung als Microsoft Solutions Partner für Modern Work und Data & AI bestätigt unsere umfassenden Fähigkeiten und unser Engagement für Spitzenleistungen. Sie zeigt, dass wir nicht nur die Tools und Technologien von Microsoft beherrschen, sondern auch in der Lage sind, sie auf die einzigartigen Anforderungen unserer Kund:innen zuzuschneiden. 
+**Digital & App Innovation mit Azure**
+
+Die Lösungspartnerschaft für digitale und App-Innovationen (Azure) zeichnet uns für unsere umfassende Fähigkeit aus, unsere Kund:innen bei der Entwicklung, Ausführung und Verwaltung von Anwendungen mit den Tools und Frameworks ihrer Wahl zu unterstützen. Die Partnerschaft eröffnet neue Horizonte für die Entwicklung von innovativen Lösungen auf der Azure-Plattform.  
+
+Diese dreifache Auszeichnung als Microsoft Solutions Partner für Modern Work, Data & AI und Digital & App Innovation bestätigt unsere umfassenden Fähigkeiten und unser Engagement für Spitzenleistungen. Sie zeigt, dass wir nicht nur die Tools und Technologien von Microsoft beherrschen, sondern auch in der Lage sind, sie auf die einzigartigen Anforderungen unserer Kund:innen zuzuschneiden. 
 
 Wir möchten uns bei unseren Kund:innen und dem ganzen CoSo-Team bedanken, die uns auf diesem Weg unterstützt haben. Diese Auszeichnungen sind eine Motivation, weiterhin unser Bestes zu geben und innovative Lösungen zu entwickeln, um die Arbeitswelt von morgen mitzugestalten.
 
