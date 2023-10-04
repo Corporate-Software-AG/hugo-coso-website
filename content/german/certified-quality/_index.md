@@ -14,7 +14,7 @@ Seit Oktober 2022 zeichnet Microsoft herausragende Partner mit den neuen Lösung
 
 **Digital & App Innovation mit Azure** 
 
-![Logo Solutions Partner Corporate Software](/uploads/Logo_3Solutionspartnerschaften_ModWork-DataAI-DigitalAppInno.png "Solutions Partner Corporate Software")
+![Logo Solutions Partner Corporate Software](/uploads/SolutionsPartner3-horizontal.png)
 
 ## Microsoft Gold Partner
 
