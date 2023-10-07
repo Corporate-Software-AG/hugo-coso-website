@@ -1,5 +1,5 @@
 +++
-categories = ["Power Platform", "Azure", "MCT"]
+categories = ["Power Platform", "Azure", "MCT", "Microsoft 365"]
 certifications = ["Microsoft Certified Trainer", "Microsoft Certified: Data Analyst Associate", "Microsoft Certified: Azure Fundamentals", "Microsoft Certified: Azure Administrator Associate", "Microsoft Certified: Power BI Data Analyst Associate"]
 date = ""
 description = ""

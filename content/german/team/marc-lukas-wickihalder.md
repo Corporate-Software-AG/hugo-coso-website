@@ -1,5 +1,5 @@
 +++
-categories = ["Power Platform"]
+categories = ["Power Platform", "Azure"]
 certifications = []
 image = "/uploads/marclukaswickihalder.png"
 job_title = "Junior Consultant"

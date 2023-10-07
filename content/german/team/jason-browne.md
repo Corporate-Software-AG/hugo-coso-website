@@ -1,5 +1,5 @@
 +++
-categories = ["Data Platform", "Azure", "MCT", "Microsoft 365"]
+categories = ["Data Platform", "MCT", "Microsoft 365", "Power Platform"]
 certifications = ["Microsoft Certified Trainer", "Microsoft 365 Certified: Security Administrator Associate", "Microsoft 365 Certified: Teams Administrator Associate", "Microsoft 365 Certified: Teamwork Administrator Associate"]
 date = ""
 image = "/uploads/jason-fertig.png"

@@ -1,5 +1,5 @@
 +++
-categories = ["MCT", "Microsoft 365"]
+categories = ["MCT", "Microsoft 365", "Power Platform"]
 certifications = ["Microsoft 365 Certified: Teams Administrator Associate", "Microsoft Certified Trainer", "Microsoft 365 Certified: Enterprise Administrator Expert", "Microsoft 365 Certified: Security Administrator Associate", "Microsoft Certified: Power Platform Functional Consultant Associate"]
 date = ""
 image = "/uploads/jonasroosli.png"

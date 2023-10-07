@@ -1,6 +1,6 @@
 +++
-categories = ["Microsoft 365", "MCT", "Automation", "Azure"]
-certifications = ["Microsoft Certified Trainer", "Microsoft Certified: Azure Solutions Architect Expert"]
+categories = ["Microsoft 365", "MCT", "Automation", "Azure",  "Data Platform"]
+certifications = ["Microsoft Certified Trainer", "Microsoft Certified: Azure Solutions Architect Expert", "Microsoft Certified: Power Platform Functional Consultant Associate"]
 date = ""
 description = ""
 image = "/uploads/raphael-neu-fertig.png"

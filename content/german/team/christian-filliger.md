@@ -1,5 +1,5 @@
 +++
-categories = ["Power Platform", "Data Platform", "Automation"]
+categories = ["Power Platform", "Data Platform", "Automation", "Azure"]
 certifications = ["Microsoft 365 Certified: Fundamentals"]
 date = ""
 image = "/uploads/christianfilliger.png"

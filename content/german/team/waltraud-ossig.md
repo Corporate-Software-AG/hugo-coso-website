@@ -1,6 +1,8 @@
 ---
 categories:
-- "Dynamics 365"
+- "Power Platform"
+- "Microsoft 365"
+- "MCT"
 certifications:
 - "Microsoft Certified: Power Platform App Maker Associate"
 - "Microsoft Certified: Power Platform Functional Consultant Associate"
@@ -9,7 +11,7 @@ certifications:
 date: ""
 description: ""
 image: "/uploads/waltraudossig.png"
-job_title: "Processmanagerin Finance mit technischem Flair & Team Consultant"
+job_title: "IT Consultant & Projektmanagerin"
 name: "Waltraud Ossig"
 team: "General Team"
 title: "Lernen Sie die Cosoianerin Waltraud Ossig kennen"

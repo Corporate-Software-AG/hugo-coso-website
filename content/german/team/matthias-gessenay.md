@@ -1,5 +1,5 @@
 +++
-categories = ["Data Platform", "MCT", "Azure", "Power Platform"]
+categories = ["Data Platform", "MCT", "Azure", "Power Platform", "Microsoft 365"]
 certifications = ["Most Valuable Professional", "Microsoft Certified Trainer", "Microsoft Certified Solution Expert", "Microsoft Certified Solution Associate", "Microsoft Certified: Azure DevOps Engineer Expert", "Microsoft Certified: Azure Solutions Architect Expert", "Microsoft Certified: Power Platform App Maker Associate", "Microsoft Certified: Power Platform Developer Associate", "Microsoft Certified: Dynamics 365 + Power PlatformSolution Architect Expert", "Microsoft Certified: Power Platform Functional Consultant Associate", "Microsoft Certified: Azure Security Engineer Associate", "Microsoft 365 Certified: Teams Administrator Associate", "Microsoft Certified: Power BI Data Analyst Associate", "Microsoft Certified: Azure Data Engineer Associate", "Microsoft Certified: Azure Administrator Associate"]
 date = ""
 description = ""

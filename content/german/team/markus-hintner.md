@@ -1,5 +1,5 @@
 +++
-categories = ["Data Platform", "Azure", "Microsoft 365", "MCT"]
+categories = ["Data Platform", "Azure", "Microsoft 365", "MCT", "Power Platform"]
 certifications = ["Microsoft Certified Trainer"]
 date = ""
 image = "/uploads/markus.png"
