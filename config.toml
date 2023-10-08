@@ -78,7 +78,7 @@ description = "CoSo begeistert als Schweizer Unternehmen seit 2011 Kund:innen mi
 logo = "images/logo.png"
 logo_cc = "images/logo_cc.png"
 [params.mspartner]
-image = "/uploads/ms-partner-animiert.gif"
+image = "/uploads/Logo_3Solutionspartnerschaften_ModWork-DataAI-DigitalAppInno_trans.png"
 link = "https://partnercenter.microsoft.com/de-de/pcv/solution-providers/corporate-software-ag_2bbd7e41-02c9-4b4e-8168-339f900c4319/03808051-21e7-4f9a-b24c-52f17fa5d0f7"
 [[params.plugins.css]]
 link = "plugins/bootstrap/bootstrap.min.css"
