@@ -1,6 +1,6 @@
 +++
 categories = ["Power Platform", "Azure"]
-certifications = []
+certifications = ["Microsoft Certified: Power Automate RPA Developer Associate"]
 image = "/uploads/marclukaswickihalder.png"
 job_title = "Junior Consultant"
 team = ""
