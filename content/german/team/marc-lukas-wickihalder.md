@@ -2,7 +2,7 @@
 categories = ["Power Platform", "Azure"]
 certifications = ["Microsoft Certified: Power Automate RPA Developer Associate", "Microsoft Certified: Power Platform Functional Consultant Associate", "Microsoft Certified: Power BI Data Analyst Associate"]
 image = "/uploads/marclukaswickihalder.png"
-job_title = "Junior Consultant"
+job_title = "Consultant"
 team = ""
 title = "Lernen Sie den Cosoianer Marc-Lukas Wickihalder kennen"
 [[social]]
