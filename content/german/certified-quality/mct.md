@@ -9,3 +9,5 @@ certifications:
 ## Microsoft Certified Trainer
 
 Lernen von den Besten. Das sind unsere zertifizierten Trainer:innen:
+
+Edit
