@@ -12,7 +12,7 @@ Gemeinsam bauen wir deinen individuellen Entwicklungspfad in die für dich passe
 
 Und schon bald bist du vollwertige:r Consultant mit spannenden Projekten aus Data & AI, Collaboration und Automation.
 
-**Komm ab September 2023 zu uns als Junior Data Engineer (w/m/d) (20–60 %)!**
+**Komm ab Februar 2024 zu uns als Junior Data Engineer (w/m/d) (40–60 %)!**
 
 **Das erwartet dich**
 
