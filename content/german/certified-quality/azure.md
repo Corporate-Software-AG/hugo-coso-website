@@ -12,6 +12,8 @@ certifications:
   badge: "/images/certs/azure-administrator-associate-600x600.png"
 - name: 'Microsoft Certified: Azure Developer Associate'
   badge: "/images/certs/azure-developer-associate-600x600.png"
+- name: 'Microsoft Certified: Azure Network Engineer Associate'
+  badge: "/images/certs/azure-network-engineer-associate-600x600.png"
 - name: 'Microsoft Certified: Azure Security Engineer Associate'
   badge: "/images/certs/microsoft-certified-azure-security-engineer-associate.png"
 - name: 'Microsoft Certified: Security Operations Analyst'

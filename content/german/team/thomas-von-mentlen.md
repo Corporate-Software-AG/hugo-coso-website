@@ -19,6 +19,7 @@ certifications:
 - 'Microsoft Certified: Azure Cosmos DB Developer Specialty'
 - 'Microsoft Certified: Azure Administrator Associate'
 - 'Microsoft Certified: Azure Developer Associate'
+- 'Microsoft Certified: Azure Network Engineer Associate'
 - 'Microsoft Certified: Azure Security Engineer Associate'
 - 'Microsoft Certified: Azure AI Engineer Associate'
 - 'Microsoft Certified: Azure Solutions Architect Expert'
