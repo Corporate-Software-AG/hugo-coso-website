@@ -1,6 +1,5 @@
 +++ 
 categories = ["Power Platform","Data Platform"] 
-certifications = "" 
 date = "" 
 description = "" 
 image = "/uploads/Dimoth.png" 
