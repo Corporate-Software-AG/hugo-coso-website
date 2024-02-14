@@ -30,7 +30,7 @@ Corporate Software ist ein junges, dynamisches Unternehmen, das intelligente Clo
 * Grosses Aus- und Weiterbildungsangebot (z.B. Microsoft Certified Trainer:in MCT/MPP)
 * Individueller und nachhaltiger Karriereweg in einem Unternehmen mit Start-Up-Kultur, zahlreichen Teamevents und Goodies
 * Rasche Übernahme von Verantwortung in eigenen Projekten
-* Möglichkeit der jährlichen Teilnahme an der Ignite (USA) und europaweiten Events 
+* Möglichkeit der jährlichen Teilnahme an der Ignite und europaweiten Events (2024: Power Platform Conference in Brüssel) 
 
 **Du bringst mit** 
 
