@@ -3,6 +3,7 @@ description = "Du bist Microsoft Systems Engineer, idealerweise mit DevOps-Erfah
 title = "Microsoft System Engineer"
 
 +++
+Du bist Microsoft Systems Engineer, idealerweise mit DevOps-Erfahrung, lebst im Raum Zürich und suchst eine neue Herausforderung?  
 
 Zeichnest du dich aus durch Selbstständigkeit, Flexibilität, Wissbegierde, Motivation und Kontaktfreudigkeit und bist ein:e absolute:r Teamplayer:in? Werde Teil des Teams als motivierte:r und engagierte:r Microsoft System Engineer (60–100%)! 
 
