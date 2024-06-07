@@ -19,7 +19,7 @@ icon = "teams-icon"
 link = "https://teams.microsoft.com/l/chat/0/0?users=matthias.gessenay@corporatesoftware.ch"
 [[social]]
 icon = "ti-linkedin"
-link = "https://www.linkedin.com/in/matthias-gessenay/"
+link = "https://www.linkedin.com/in/matthias-falland"
 
 +++
 Von der Bildzeitung zum Theologiestudium, zu den Wirtschaftswissenschaften, zur Pädagogik und von da aus zur Informatik. Die stetige Veränderung kommt Matthias heute als CEO und Co-Gründer zugute. Er lebt vor, was im Cloud-Zeitalter wichtig ist: Vertrauen und Loslassen.
