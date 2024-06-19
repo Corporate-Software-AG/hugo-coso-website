@@ -5,21 +5,21 @@ date = ""
 description = ""
 image = "/uploads/matthias_2.png"
 job_title = "CEO und CO-Gründer, Senior Consultant, Microsoft Azure MVP, Fachbereichsleiter Private Cloud Digicomp, ITIL-Trainer, Trainer (MCT)"
-name = "Matthias Gessenay – unser Azure-Alchemist"
+name = "Matthias Falland – unser Azure-Alchemist"
 team = "General Team"
-title = "Lernen Sie unseren Co-Gründer Matthias Gessenay kennen"
+title = "Lernen Sie unseren Co-Gründer Matthias Falland kennen"
 [[social]]
 icon = "ti-headphone-alt"
 link = "tel:+41 32 315 03 60"
 [[social]]
 icon = "ti-email"
-link = "mailto:matthias.gessenay@corporatesoftware.ch"
+link = "mailto:matthias.falland@corporatesoftware.ch"
 [[social]]
 icon = "teams-icon"
 link = "https://teams.microsoft.com/l/chat/0/0?users=matthias.gessenay@corporatesoftware.ch"
 [[social]]
 icon = "ti-linkedin"
-link = "https://www.linkedin.com/in/matthias-gessenay/"
+link = "https://www.linkedin.com/in/matthias-falland"
 
 +++
 Von der Bildzeitung zum Theologiestudium, zu den Wirtschaftswissenschaften, zur Pädagogik und von da aus zur Informatik. Die stetige Veränderung kommt Matthias heute als CEO und Co-Gründer zugute. Er lebt vor, was im Cloud-Zeitalter wichtig ist: Vertrauen und Loslassen.
