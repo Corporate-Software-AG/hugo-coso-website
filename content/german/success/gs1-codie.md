@@ -9,6 +9,9 @@ title = "Codie – der selbstlernende Chatbot von GS1 Switzerland"
 Der neue Chatbot Codie von GS1 Switzerland beantwortet auf der Webseite von GS1 Switzerland eigenständig Kundenfragen zum Thema Barcodes und berät zur Mitgliedschaft bei GS1 Switzerland. Diese Case Study veranschaulicht, worauf bei der Einführung dieses generativen Chatbots geachtet wird und wann der Fantasie von Codie Grenzen zu setzen sind.
 GS1, die globale Organisation mit 150 Länderniederlassungen, vergibt die sogenannten GTINs, die Global Trade Item Numbers. Mittels dieser 13-stelligen Nummer kann jeder Artikel, jedes Produkt und jede Produktvariante weltweit überschneidungsfrei identifiziert werden. Über die GTIN werden einem Produkt global eindeutige Informationen oder Stammdaten zugewiesen und sie wird von Händlern wie Amazon, Migros oder Coop vorausgesetzt. Barcodes werden täglich weltweit über 10 Mrd. mal gescannt. GS1 Switzerland hat im Rahmen der Erarbeitung des Neukundenprozesses festgestellt, dass viele der Kundenfragen immer wieder dieselben Themen betrafen, insbesondere Barcodes und Mitgliedschaften. Für Petra Merino, Head of Marketing & Communications von GS1 Switzerland, war deshalb klar: „Wir möchten einen Chatbot entwickeln, der diese häufigsten Fragen schnell und effizient beantworten kann, sodass die Kunden einfach und rund um die Uhr zu den gewünschten Antworten und Lösungen kommen.”
 
+Komplette Case Study: [GS1 Case Study](/uploads/Case_Study_GS1_Chatbot_CoSo%201.pdf "GS1 Switzerland Case Study") 
+
+
 ## Codie: Der Chatbot von GS1 Switzerland
 
 Birgit Kretzer, bei GS1 Switzerland für den Webcontent verantwortlich, betont die Wichtigkeit der Kundenorientierung: „Mit Codie wollen wir unser Versprechen für Effizienz, Service und Kundenorientierung auf eine neue, zukunftsweisende Art einlösen.” Petra Merino bringt die Ausgangslage auf den Punkt: „Wir haben Codie Mitte April als MVP (Minimum Viable Product) live geschaltet, um erste Erfahrungen zu sammeln, bevor er weiter ausgebaut wird. Mit der Integration von OpenAI in die Microsoft-Umgebung und mit der Gewöhnung der User an generative Chatbots durch ChatGPT wollen wir mit der neuen Technologie Schritt halten. Und, wir haben jetzt den Grundstein gelegt für die Weiterentwicklung.“
@@ -54,3 +57,6 @@ Sie verdeutlichen damit exemplarisch, wie wichtig es ist, jetzt mit AI loszulege
 ## Unternehmensbeschrieb GS1
 
 GS1 Switzerland ermöglicht Lösungen für effizientere Wertschöpfungsnetzwerke mit Hilfe globaler Standards. Wir unterstützen Unternehmungen bei der Optimierung ihrer Waren-, Informations- und Werteflüsse und vermitteln praxisnahes Wissen. Gemeinsam mit unseren Mitgliedern erarbeiten wir Standards und Prozessempfehlungen und schaffen Nutzen für alle Beteiligten. GS1 Switzerland ist ein neutraler Verein mit Sitz in Bern und Teil der in 150 Ländern tätigen not-for-profit Organisation GS1.
+
+Mehr dazu: [GS1 Case Study](/uploads/Case_Study_GS1_Chatbot_CoSo%201.pdf "GS1 Switzerland Case Study") 
+```
