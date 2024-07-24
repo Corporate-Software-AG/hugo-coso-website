@@ -7,6 +7,7 @@ title = "Codie – der selbstlernende Chatbot von GS1 Switzerland"
 +++
 
 Der neue Chatbot Codie von GS1 Switzerland beantwortet auf der Webseite von GS1 Switzerland eigenständig Kundenfragen zum Thema Barcodes und berät zur Mitgliedschaft bei GS1 Switzerland. Diese Case Study veranschaulicht, worauf bei der Einführung dieses generativen Chatbots geachtet wird und wann der Fantasie von Codie Grenzen zu setzen sind.
+
 GS1, die globale Organisation mit 150 Länderniederlassungen, vergibt die sogenannten GTINs, die Global Trade Item Numbers. Mittels dieser 13-stelligen Nummer kann jeder Artikel, jedes Produkt und jede Produktvariante weltweit überschneidungsfrei identifiziert werden. Über die GTIN werden einem Produkt global eindeutige Informationen oder Stammdaten zugewiesen und sie wird von Händlern wie Amazon, Migros oder Coop vorausgesetzt. Barcodes werden täglich weltweit über 10 Mrd. mal gescannt. GS1 Switzerland hat im Rahmen der Erarbeitung des Neukundenprozesses festgestellt, dass viele der Kundenfragen immer wieder dieselben Themen betrafen, insbesondere Barcodes und Mitgliedschaften. Für Petra Merino, Head of Marketing & Communications von GS1 Switzerland, war deshalb klar: „Wir möchten einen Chatbot entwickeln, der diese häufigsten Fragen schnell und effizient beantworten kann, sodass die Kunden einfach und rund um die Uhr zu den gewünschten Antworten und Lösungen kommen.”
 
 Komplette Case Study: [GS1 Case Study](/uploads/Case_Study_GS1_Chatbot_CoSo%201.pdf "GS1 Switzerland Case Study") 
@@ -26,8 +27,7 @@ Die Regeln für den Chatbot umfassen unter anderem Freundlichkeit und Nützlichk
 ## Schaudiagramm der Codie Architektur
 
 Der Azure Language Service erkennt die Absicht der Frage und liefert entweder vorgefertigte Antworten oder übergibt sie an die generative KI. „Visuelle Informationen wie z.B. Tabellen kann Codie nicht verarbeiten. Daher verweist der Chatbot auf die Webseite, wo diese visuellen Informationen verfügbar sind, wenn eine Anfrage zum Preismodell gestellt wird”, so Christian Filliger zu den Herausforderungen hinter der Triage zwischen vorgefertigter und generativer Antwort.
-Durch die Zusammenarbeit mit Christian Filliger und Matthias Falland, beide von Corporate Software sowie Sophie Hundertmark, Chatbot-Forscherin an der Hochschule Luzern, hat GS1 Switzerland festgestellt, dass Codie mit diesem doppelten Ansatz die qualitativ hochwertigsten Antworten für die Webbesucher generiert. Birgit Kretzer: „Für das
-Kernbedürfnis ‘Wie komme ich zu meinen GTINs’ gibt Codie eine sehr exakte Antwort. Dafür greift er, wie auch für offenere Fragen, auf das Gesamtwissen der GS1-Webseite zum Thema GTIN zu.” 
+Durch die Zusammenarbeit mit Christian Filliger und Matthias Falland, beide von Corporate Software sowie Sophie Hundertmark, Chatbot-Forscherin an der Hochschule Luzern, hat GS1 Switzerland festgestellt, dass Codie mit diesem doppelten Ansatz die qualitativ hochwertigsten Antworten für die Webbesucher generiert. Birgit Kretzer: „Für das Kernbedürfnis ‘Wie komme ich zu meinen GTINs’ gibt Codie eine sehr exakte Antwort. Dafür greift er, wie auch für offenere Fragen, auf das Gesamtwissen der GS1-Webseite zum Thema GTIN zu.” 
 
 ## Herausforderungen bei der Einführung von Codie
 
@@ -39,7 +39,9 @@ Die Vision von Codie besteht darin, dass der Kunde direkt via Chatbot eine Preis
 
 Aufgrund der zur Verfügung gestellten Webseiten und der eingehenden Fragen lernt Codie ständig dazu. Er erhält auf der Webseite von seinen Usern ein Feedback in Form von Daumen hoch oder runter. Das Marketingteam analysiert die Antworten von Codie und greift manuell ein, wenn die Qualität der generativen Antwort nicht den Erwartungen von GS1 Switzerland und ihren Kund:innen entspricht.
 Die Weiterentwicklung von Codie sieht vor, dass er schon bald auf der gesamten Webseite integriert ist, zu allen Themen Auskunft geben kann und auch in englischer und französischer Sprache mit den Kunden kommuniziert.
-Bei diesem Projekt geht es auch um das Erlernen des Umgangs mit AI für interne Abläufe und weitere Kundenprozesse. „AI ist Teil der Zukunft von Organisationen. Wir als GS1 Switzerland stehen für Digitalisierung, darum gehört es für uns dazu, uns mit neuen technologischen Trends auseinanderzusetzen”, erläutert Petra Merino die strategische Bedeutung dieses Pilotprojekts für GS1 Switzerland.
+Bei diesem Projekt geht es auch um das Erlernen des Umgangs mit AI für interne Abläufe und weitere Kundenprozesse.
+
+> «AI ist Teil der Zukunft von Organisationen. Wir als GS1 Switzerland stehen für Digitalisierung, darum gehört es für uns dazu, uns mit neuen technologischen Trends auseinanderzusetzen.» - Petra Merino: Head of Marketing & Communications GS1 Switzerland
 
 ## Fazit und Empfehlungen
 
