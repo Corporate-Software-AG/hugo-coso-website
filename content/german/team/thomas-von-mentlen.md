@@ -26,6 +26,8 @@ certifications:
 - 'Microsoft Certified: Azure DevOps Engineer Expert'
 - 'Microsoft Certified: Cybersecurity Architect Expert'
 - 'Microsoft Certified: Power Platform Solution Architect Expert'
+- 'Certified SAFe® 6 Scrum Master'
+- 'Certified SAFe® 6 Product Owner / Product Manager'
 
 job_title: Cloud Consultant, Trainer (MCT)
 team: Seal Team
