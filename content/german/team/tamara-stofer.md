@@ -7,6 +7,9 @@ certifications:
 - "Microsoft Certified Trainer"
 - "Microsoft 365 Certified: Teams Administrator Associate"
 - "Microsoft 365 Certified: Security Administrator Associate"
+- "Certified SAFe® 6 Scrum Master"
+- "Certified SAFe® 6 Product Owner / Product Manager"
+
 date: ""
 image: "/uploads/tamarastofer.png"
 job_title: "Consultant und Trainerin"

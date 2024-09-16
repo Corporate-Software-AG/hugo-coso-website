@@ -8,6 +8,8 @@ certifications:
 - "Microsoft Certified: Power Platform Functional Consultant Associate"
 - "Microsoft Certified Trainer"
 - "Microsoft 365 Certified: Teams Administrator Associate"
+- "Certified SAFe® 6 Scrum Master"
+- "Certified SAFe® 6 Product Owner / Product Manager"
 date: ""
 description: ""
 image: "/uploads/waltraudossig.png"
