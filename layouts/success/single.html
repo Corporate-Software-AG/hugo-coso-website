@@ -4,8 +4,8 @@
 
 <body id="top" data-spy="scroll" data-target="#navbar-spy" class="position-relative">
   {{- partial "preloader.html" . -}}
-	{{- partial "header.html" . -}}
-	{{- partial "page-header.html" . -}}
+  {{- partial "header.html" . -}}
+  {{- partial "page-header.html" . -}}
 
   <!-- strat of blog-details -->
   <section class="section-padding pt-50">
@@ -13,11 +13,13 @@
       <div class="row justify-content-center">
         <div class="col-lg-10 col-md-12 mb-30 text-center" data-aos="fade-in">
           {{ $image := resources.GetMatch .Params.image }}
-          {{ partial "image.html" (dict "Image" $image "Alt" "Customer Image" "Class" "img-fluid rounded img-limitted") }}
+          {{ partial "image.html" (dict "Image" $image "Alt" "Customer Image" "Class" "img-fluid rounded img-limitted")
+          }}
         </div>
         <div class="col-lg-9 col-md-12 mb-60" data-aos="fade-in" data-aos-delay="50">
-          <div class="post-category position-relative mb-15">{{ range $i,$p:= .Params.Categories }}{{if ne $i 0}},{{end}}<a
-            href="{{ `categories/` | relLangURL }}{{ . | urlize | lower }}" class="text-black-200 font-weight-600 ml-1">{{ . | humanize }} </a>
+          <div class="post-category position-relative mb-15">{{ range $i,$p:= .Params.Categories }}{{if ne $i
+            0}},{{end}}<a href="{{ `categories/` | relLangURL }}{{ . | urlize | lower }}"
+              class="text-black-200 font-weight-600 ml-1">{{ . | humanize }} </a>
             {{ end }}
           </div>
 
@@ -28,8 +30,8 @@
           {{ end }}
           <div class="content">{{.Content}}</div>
         </div>
-          
-        {{ if .Site.DisqusShortname }}
+
+        {{ if .Site.Config.Services.Disqus.Shortname }}
         <div class="col-lg-9 col-md-12" data-aos="fade-in">
           {{ template "_internal/disqus.html" . }}
         </div>

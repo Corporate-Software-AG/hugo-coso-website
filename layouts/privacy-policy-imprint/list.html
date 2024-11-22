@@ -16,7 +16,7 @@
           <div class="content">{{.Content}}</div>
         </div>
 
-        {{ if .Site.DisqusShortname }}
+        {{ if .Site.Config.Services.Disqus.Shortname }}
         <div class="col-lg-9 col-md-12" data-aos="fade-in">
           {{ template "_internal/disqus.html" . }}
         </div>
