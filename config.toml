@@ -31,6 +31,10 @@ URL = "services/trainings-fur-ihr-unternehmen"
 name = "Training"
 parent = "Services"
 [[Languages.de.menu.main]]
+URL = "services/services/coso-academy/"
+name = "CoSo Academy"
+parent = "Services"
+[[Languages.de.menu.main]]
 URL = "success"
 name = "Erfolge"
 weight = 2
