@@ -18,22 +18,27 @@ weight = 1
 URL = "services/data-ai"
 name = "Data & AI"
 parent = "Services"
+weight = 3
 [[Languages.de.menu.main]]
 URL = "services/automation"
 name = "Automation"
 parent = "Services"
+weight = 2
 [[Languages.de.menu.main]]
 URL = "services/collaboration"
 name = "Collaboration"
 parent = "Services"
+weight = 1
 [[Languages.de.menu.main]]
 URL = "services/trainings-fur-ihr-unternehmen"
 name = "Training"
 parent = "Services"
+weight = 4
 [[Languages.de.menu.main]]
-URL = "services/services/coso-academy/"
+URL = "services/coso-academy/"
 name = "CoSo Academy"
 parent = "Services"
+weight = 5
 [[Languages.de.menu.main]]
 URL = "success"
 name = "Erfolge"
